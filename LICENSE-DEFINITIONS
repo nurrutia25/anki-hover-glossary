@@ -1,0 +1,28 @@
+Hover Glossary definitions
+Copyright (c) 2026 Noah Urrutia
+
+The glossary content (data/defs/*.jsonl and the compiled addon/web/glossary_data.js:
+terms, definitions, synonyms and abbreviation lists) is licensed under the
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+You are free to share and adapt it, including commercially, as long as you:
+  - give appropriate credit ("Hover Glossary definitions by Noah Urrutia,
+    https://github.com/nurrutia25/anki-hover-glossary"), link to the license and
+    say whether you made changes; and
+  - distribute your adaptations under the same license.
+
+Full license text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Summary:           https://creativecommons.org/licenses/by-sa/4.0/
+
+Source acknowledgment
+---------------------
+The list of candidate terms and their synonyms was drawn in part from Medical Subject
+Headings (MeSH), courtesy of the U.S. National Library of Medicine. MeSH is in the
+public domain; the definitions themselves are original writing, not MeSH text. NLM
+does not endorse this project.
+
+Not medical advice
+------------------
+The definitions are short study aids for students. They can be incomplete or wrong,
+are not a substitute for textbooks or clinical references, and must not be used for
+patient care.

@@ -34,4 +34,7 @@ with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
                 continue
             z.write(path, rel)  # .ankiaddon = zip of the add-on folder's contents, no top folder
             count += 1
+    for name in ("LICENSE", "LICENSE-DEFINITIONS"):
+        z.write(os.path.join(ROOT, name), name)
+        count += 1
 print(f"{out}: {count} files, {os.path.getsize(out) / 1e6:.2f} MB")

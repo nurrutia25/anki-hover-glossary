@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Hover Glossary demo</title>
+<link rel="stylesheet" href="../addon/web/glossary.css">
+<style>
+  :root { --ba-paper: #26262a; --ba-ink: #ececf0; --ba-ink-dim: #a0a0a8; --ba-accent: #3d9bff; --ba-line: rgba(255,255,255,.14); }
+  html, body { margin: 0; height: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: linear-gradient(160deg, #2b2f6b 0%, #4a3f86 55%, #8a6fa8 100%);
+    color: #fff;
+
+  }
+  #qa { max-width: 900px; margin: 0 auto; padding: 70px 40px; font-size: 34px; line-height: 1.45; text-align: center; font-weight: 600; }
+  .cloze { color: #3d9bff; }
+  #hg-tip { transition: none; }
+</style>
+<script>window.HG_OPTS = { question: true, overrides: {} };</script>
+<script src="../addon/web/glossary_data.js"></script>
+<script src="../addon/web/glossary.js"></script>
+</head>
+<body>
+<div id="qa">A patient with Wilson disease has Kayser-Fleischer rings and develops dysdiadochokinesia; labs also show <span class="cloze">[...]</span> from SIADH.</div>
+<script>
+  // Pin one pop-up open for the screenshot.
+  document.addEventListener("DOMContentLoaded", function () {
+    setTimeout(function () {
+      var t = Array.prototype.find.call(document.querySelectorAll(".hg-term"), function (e) { return /SIADH/.test(e.textContent); });
+      if (t) t.click();
+    }, 300);
+  });
+</script>
+</body>
+</html>
