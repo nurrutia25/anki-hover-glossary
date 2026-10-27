@@ -58,5 +58,7 @@ Code is MIT-licensed; the definitions are CC BY-SA 4.0. Source, the full term li
 
 ## After uploading
 
-1. AnkiWeb gives the add-on a number (the install code). Put it in the README's Install section and in `addon/manifest.json`, then rebuild.
+AnkiWeb code: **1450038911** (https://ankiweb.net/shared/info/1450038911). To ship an update, bump `human_version` in `addon/manifest.json`, run `python3 tools/package.py`, and upload the new file on that AnkiWeb page.
+
+1. (done) Code added to the README.
 2. The screenshot and GitHub links only work once the repo is public. Until then, upload `docs/demo.png` somewhere public, or leave the image out.

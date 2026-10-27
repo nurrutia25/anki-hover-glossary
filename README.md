@@ -20,7 +20,8 @@ Abbreviations work too. Hover **SIADH** and the pop-up spells it out before defi
 
 ## Install
 
-- **AnkiWeb:** *(code coming soon)*: Tools → Add-ons → Get Add-ons…, paste the code.
+- **AnkiWeb (recommended, updates itself):** Tools → Add-ons → Get Add-ons…, enter code **`1450038911`**
+  ([AnkiWeb page](https://ankiweb.net/shared/info/1450038911)).
 - **From a file:** download `hover_glossary-<version>.ankiaddon` from
   [Releases](https://github.com/nurrutia25/anki-hover-glossary/releases), then
   Tools → Add-ons → Install from file….
