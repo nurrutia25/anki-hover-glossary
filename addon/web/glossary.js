@@ -229,7 +229,9 @@
       return Array.prototype.some.call(r.addedNodes, function (n) { return n.nodeType === 1 && (n.id === "qa" || (n.querySelector && n.querySelector("#qa"))); });
     });
     if (!relevant || !qa) return;
-    var text = qa.textContent;
+    // Compare letters only, so ticking timers don't count as a new card: the AnKing
+    // template has one inside #qa that counts every second, then fills with "!!!".
+    var text = qa.textContent.replace(/[^A-Za-z]+/g, "");
     if (text === lastText && qa.querySelector(".hg-term")) return;
     lastText = text;
     hide(true);

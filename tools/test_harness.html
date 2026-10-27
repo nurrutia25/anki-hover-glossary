@@ -50,6 +50,9 @@
     window.__saved = saved;
     document.getElementById("log").textContent += "saved: " + JSON.stringify(saved).slice(0, 300) + "\n";
   };
+  // AnKing template timer: lives inside #qa and ticks every second (then shows "!!!").
+  var secs = 0;
+  setInterval(function () { var t = qa.querySelector(".timer") || qa.appendChild(Object.assign(document.createElement("div"), { className: "timer" })); t.textContent = ++secs > 5 ? "!".repeat(secs - 5) : "0:0" + secs; }, 1000);
   // Onigiri-like churn: something inside #qa updates constantly.
   setInterval(function () { var p = qa.querySelector(".fx") || qa.appendChild(Object.assign(document.createElement("i"), { className: "fx" })); p.setAttribute("data-t", Date.now()); p.textContent = ""; }, 150);
   draw();
