@@ -1,0 +1,250 @@
+{"id": 20370, "skip": "not-medical"}
+{"id": 20371, "skip": "not-medical"}
+{"id": 20372, "skip": "not-medical"}
+{"id": 20373, "skip": "not-medical"}
+{"id": 20374, "skip": "not-medical"}
+{"id": 20375, "skip": "not-medical"}
+{"id": 20376, "skip": "obvious"}
+{"id": 20377, "skip": "not-medical"}
+{"id": 20378, "skip": "not-medical"}
+{"id": 20379, "skip": "not-medical"}
+{"id": 20380, "skip": "not-medical"}
+{"id": 20381, "skip": "not-medical"}
+{"id": 20382, "skip": "not-medical"}
+{"id": 20383, "skip": "not-medical"}
+{"id": 20384, "skip": "obvious"}
+{"id": 20385, "skip": "obvious"}
+{"id": 20386, "skip": "not-medical"}
+{"id": 20387, "skip": "not-medical"}
+{"id": 20388, "skip": "not-medical"}
+{"id": 20389, "skip": "not-medical"}
+{"id": 20390, "skip": "not-medical"}
+{"id": 20391, "skip": "not-medical"}
+{"id": 20392, "skip": "not-medical"}
+{"id": 20393, "skip": "not-medical"}
+{"id": 20394, "skip": "not-medical"}
+{"id": 20395, "skip": "obvious"}
+{"id": 20396, "skip": "not-medical"}
+{"id": 20397, "skip": "not-medical"}
+{"id": 20398, "skip": "fragment"}
+{"id": 20399, "skip": "fragment"}
+{"id": 20400, "skip": "fragment"}
+{"id": 20401, "skip": "fragment"}
+{"id": 20402, "skip": "not-medical"}
+{"id": 20403, "skip": "not-medical"}
+{"id": 20404, "skip": "obvious"}
+{"id": 20405, "term": "Palindrome", "def": "A DNA sequence that reads the same 5' to 3' on both strands. Many restriction enzyme recognition sites are palindromic.", "syn": ["palindromic"], "abbr": []}
+{"id": 20406, "term": "Palindromes", "def": "DNA sequences that read the same 5' to 3' on both strands. Many restriction enzyme recognition sites are palindromic.", "syn": [], "abbr": []}
+{"id": 20407, "skip": "fragment"}
+{"id": 20408, "skip": "obvious"}
+{"id": 20409, "skip": "fragment"}
+{"id": 20410, "skip": "fragment"}
+{"id": 20411, "skip": "obvious"}
+{"id": 20412, "term": "Pancarditis", "def": "Inflammation of all three layers of the heart (endocardium, myocardium and pericardium). It is a major feature of acute rheumatic fever.", "syn": [], "abbr": []}
+{"id": 20413, "skip": "obvious"}
+{"id": 20414, "skip": "fragment"}
+{"id": 20415, "skip": "obvious"}
+{"id": 20416, "skip": "obvious"}
+{"id": 20417, "skip": "obvious"}
+{"id": 20418, "skip": "obvious"}
+{"id": 20419, "skip": "fragment"}
+{"id": 20420, "skip": "obvious"}
+{"id": 20421, "term": "Panlobular", "def": "Affecting the entire lobule or acinus. Panlobular emphysema destroys the whole acinus and is typical of alpha-1 antitrypsin deficiency, mainly in lower lobes.", "syn": [], "abbr": []}
+{"id": 20422, "skip": "obvious"}
+{"id": 20423, "skip": "fragment"}
+{"id": 20424, "skip": "obvious"}
+{"id": 20425, "skip": "fragment"}
+{"id": 20426, "term": "Papulosquamous", "def": "Describes skin lesions that are raised (papules and plaques) with scale. Psoriasis, lichen planus, pityriasis rosea and secondary syphilis are papulosquamous diseases.", "syn": [], "abbr": []}
+{"id": 20427, "skip": "obvious"}
+{"id": 20428, "term": "Parabasal", "def": "Relating to cells in the layer just above the basal layer of the epithelium. Parabasal cells in a Pap smear are small immature cells seen with atrophy or after menopause.", "syn": [], "abbr": []}
+{"id": 20429, "term": "Paracolic", "def": "Beside the colon. The paracolic gutters are peritoneal spaces running along the ascending and descending colon that let fluid or pus spread in the abdomen.", "syn": [], "abbr": []}
+{"id": 20430, "term": "Paraesthesia", "def": "Abnormal sensation such as tingling, pins and needles or burning without an outside stimulus, caused by nerve irritation or damage.", "syn": ["paresthesia", "paresthesias"], "abbr": []}
+{"id": 20431, "term": "Paragard", "def": "Brand name of a hormone-free copper intrauterine device. Copper creates an inflammatory environment toxic to sperm and eggs, and it also works as emergency contraception.", "syn": [], "abbr": []}
+{"id": 20432, "skip": "not-medical"}
+{"id": 20433, "skip": "not-medical"}
+{"id": 20434, "term": "Paramyotonia", "def": "Muscle stiffness triggered by cold or repeated activity that worsens with exercise, unlike usual myotonia. Paramyotonia congenita is caused by a sodium channel mutation.", "syn": [], "abbr": []}
+{"id": 20435, "skip": "obvious"}
+{"id": 20436, "term": "Paraphasic", "def": "Describes speech errors in which wrong sounds or words are substituted, as in Wernicke aphasia. Phonemic errors replace sounds; semantic errors replace words.", "syn": [], "abbr": []}
+{"id": 20437, "term": "Paraphenylenediamine", "def": "A chemical in hair dyes and black henna tattoos that is a common cause of allergic contact dermatitis (a type IV hypersensitivity reaction).", "syn": [], "abbr": []}
+{"id": 20438, "skip": "obvious"}
+{"id": 20439, "skip": "obvious"}
+{"id": 20440, "skip": "obvious"}
+{"id": 20441, "skip": "fragment"}
+{"id": 20442, "skip": "not-medical"}
+{"id": 20443, "term": "Paritaprevir", "def": "A hepatitis C protease inhibitor (NS3/4A) used in combination regimens with ritonavir and other antivirals.", "syn": [], "abbr": []}
+{"id": 20444, "skip": "fragment"}
+{"id": 20445, "skip": "not-medical"}
+{"id": 20446, "skip": "not-medical"}
+{"id": 20447, "skip": "fragment"}
+{"id": 20448, "skip": "fragment"}
+{"id": 20449, "skip": "fragment"}
+{"id": 20450, "skip": "obvious"}
+{"id": 20451, "term": "Pathergy", "def": "An exaggerated skin reaction, with a pustule or ulcer, at the site of a minor injury such as a needle prick. It is characteristic of Behcet disease.", "syn": [], "abbr": []}
+{"id": 20452, "skip": "obvious"}
+{"id": 20453, "skip": "obvious"}
+{"id": 20454, "skip": "fragment"}
+{"id": 20455, "term": "Patiromer", "def": "A potassium binder taken by mouth that exchanges calcium for potassium in the gut, lowering serum potassium in hyperkalemia.", "syn": [], "abbr": []}
+{"id": 20456, "skip": "fragment"}
+{"id": 20457, "term": "Paucicellular", "def": "Containing few cells. A paucicellular bone marrow or tumor has sparse cellularity.", "syn": [], "abbr": []}
+{"id": 20458, "skip": "not-medical"}
+{"id": 20459, "skip": "obvious"}
+{"id": 20460, "term": "Pectoriloquy", "def": "Clear transmission of spoken or whispered words through the chest wall on auscultation, heard over consolidated lung such as in pneumonia.", "syn": [], "abbr": []}
+{"id": 20461, "term": "Pegademase", "def": "A polyethylene glycol-linked bovine adenosine deaminase given as enzyme replacement for adenosine deaminase-deficient severe combined immunodeficiency (SCID).", "syn": [], "abbr": []}
+{"id": 20462, "skip": "fragment"}
+{"id": 20463, "skip": "fragment"}
+{"id": 20464, "skip": "fragment"}
+{"id": 20465, "skip": "not-medical"}
+{"id": 20466, "skip": "fragment"}
+{"id": 20467, "skip": "not-medical"}
+{"id": 20468, "skip": "not-medical"}
+{"id": 20469, "skip": "fragment"}
+{"id": 20470, "skip": "not-medical"}
+{"id": 20471, "skip": "not-medical"}
+{"id": 20472, "skip": "obvious"}
+{"id": 20473, "skip": "not-medical"}
+{"id": 20474, "skip": "obvious"}
+{"id": 20475, "term": "Penumbra", "def": "The zone of brain tissue around a stroke core that is poorly perfused but still alive and potentially salvageable if blood flow is restored quickly.", "syn": [], "abbr": []}
+{"id": 20476, "skip": "obvious"}
+{"id": 20477, "skip": "not-medical"}
+{"id": 20478, "skip": "obvious"}
+{"id": 20479, "skip": "fragment"}
+{"id": 20480, "skip": "not-medical"}
+{"id": 20481, "skip": "not-medical"}
+{"id": 20482, "skip": "not-medical"}
+{"id": 20483, "skip": "not-medical"}
+{"id": 20484, "skip": "obvious"}
+{"id": 20485, "term": "Periaqueductal", "def": "Surrounding the cerebral aqueduct in the midbrain. The periaqueductal gray is a key region for pain modulation, receiving input that triggers descending pain suppression.", "syn": [], "abbr": []}
+{"id": 20486, "skip": "obvious"}
+{"id": 20487, "skip": "obvious"}
+{"id": 20488, "skip": "obvious"}
+{"id": 20489, "term": "Perichondrium", "def": "The dense connective tissue sheath covering cartilage that supplies it with nutrients and new cells. Articular cartilage lacks it.", "syn": [], "abbr": []}
+{"id": 20490, "skip": "obvious"}
+{"id": 20491, "skip": "fragment"}
+{"id": 20492, "term": "Perimysium", "def": "The connective tissue sheath surrounding a bundle (fascicle) of muscle fibers, between the endomysium and epimysium.", "syn": [], "abbr": []}
+{"id": 20493, "skip": "not-medical"}
+{"id": 20494, "skip": "not-medical"}
+{"id": 20495, "skip": "obvious"}
+{"id": 20496, "term": "Periostosis", "def": "New bone formation under the periosteum, the membrane covering bone. It occurs in hypertrophic osteoarthropathy and chronic venous disease.", "syn": [], "abbr": []}
+{"id": 20497, "skip": "obvious"}
+{"id": 20498, "skip": "obvious"}
+{"id": 20499, "skip": "obvious"}
+{"id": 20500, "skip": "obvious"}
+{"id": 20501, "skip": "obvious"}
+{"id": 20502, "skip": "obvious"}
+{"id": 20503, "skip": "obvious"}
+{"id": 20504, "skip": "not-medical"}
+{"id": 20505, "skip": "not-medical"}
+{"id": 20506, "skip": "not-medical"}
+{"id": 20507, "term": "Peroneus", "def": "Older name for the fibularis muscles of the lateral leg, which evert the foot. The peroneal (fibular) nerve supplies them.", "syn": [], "abbr": []}
+{"id": 20508, "skip": "obvious"}
+{"id": 20509, "skip": "not-medical"}
+{"id": 20510, "skip": "not-medical"}
+{"id": 20511, "skip": "not-medical"}
+{"id": 20512, "skip": "not-medical"}
+{"id": 20513, "term": "Pertactin", "def": "An outer membrane protein of Bordetella pertussis that helps it adhere to respiratory cells. It is a component of acellular pertussis vaccines.", "syn": [], "abbr": []}
+{"id": 20514, "skip": "fragment"}
+{"id": 20515, "skip": "obvious"}
+{"id": 20516, "skip": "obvious"}
+{"id": 20517, "term": "Phallography", "def": "Recording penile erections, typically during sleep, to tell psychological from organic causes of erectile dysfunction (nocturnal penile tumescence testing).", "syn": [], "abbr": []}
+{"id": 20518, "skip": "obvious"}
+{"id": 20519, "skip": "obvious"}
+{"id": 20520, "skip": "obvious"}
+{"id": 20521, "skip": "fragment"}
+{"id": 20522, "skip": "obvious"}
+{"id": 20523, "skip": "obvious"}
+{"id": 20524, "skip": "obvious"}
+{"id": 20525, "skip": "fragment"}
+{"id": 20526, "skip": "obvious"}
+{"id": 20527, "term": "Phenylbutyrate", "def": "A drug that gives the body an alternative route to excrete nitrogen waste. It is used for urea cycle disorders and works by binding glutamine.", "syn": [], "abbr": []}
+{"id": 20528, "term": "Phenylethanolamine", "def": "The compound whose N-methylation by phenylethanolamine N-methyltransferase in the adrenal medulla turns norepinephrine into epinephrine. Cortisol induces this enzyme.", "syn": [], "abbr": []}
+{"id": 20529, "skip": "obvious"}
+{"id": 20530, "skip": "fragment"}
+{"id": 20531, "skip": "not-medical"}
+{"id": 20532, "skip": "not-medical"}
+{"id": 20533, "term": "Phlebotomine", "def": "Describes sand flies (subfamily Phlebotominae), which transmit Leishmania, sandfly fever and Bartonella bacilliformis.", "syn": [], "abbr": []}
+{"id": 20534, "term": "Phlebotonics", "def": "Drugs that improve venous tone and reduce vein leakage, such as flavonoids (diosmin), used for chronic venous disease and hemorrhoids.", "syn": [], "abbr": []}
+{"id": 20535, "term": "Phlegmasia", "def": "Severe inflammation or swelling from deep venous thrombosis. Phlegmasia cerulea dolens is a massive, painful, blue swollen limb from extensive clotting that threatens limb survival.", "syn": [], "abbr": []}
+{"id": 20536, "skip": "fragment"}
+{"id": 20537, "skip": "obvious"}
+{"id": 20538, "term": "Phosphoglucoisomerase", "def": "The glycolysis enzyme (phosphoglucose isomerase) that converts glucose 6-phosphate to fructose 6-phosphate. Its deficiency causes hemolytic anemia.", "syn": [], "abbr": []}
+{"id": 20539, "skip": "fragment"}
+{"id": 20540, "skip": "obvious"}
+{"id": 20541, "skip": "obvious"}
+{"id": 20542, "skip": "not-medical"}
+{"id": 20543, "skip": "obvious"}
+{"id": 20544, "term": "Photokeratitis", "def": "Sunburn of the cornea from ultraviolet light, such as from welding arcs (arc eye), tanning or snow glare. It causes severe pain, tearing and light sensitivity hours after exposure.", "syn": [], "abbr": []}
+{"id": 20545, "skip": "obvious"}
+{"id": 20546, "skip": "obvious"}
+{"id": 20547, "skip": "obvious"}
+{"id": 20548, "skip": "not-medical"}
+{"id": 20549, "term": "Phrenicocolic", "def": "Connecting the diaphragm and colon. The phrenicocolic ligament supports the spleen and anchors the splenic flexure of the colon.", "syn": [], "abbr": []}
+{"id": 20550, "skip": "fragment"}
+{"id": 20551, "term": "Phrynoderma", "def": "Toad-skin: rough, bumpy, horny follicular plugs on the skin, classically from vitamin A deficiency, though sometimes from deficiencies of essential fatty acids or B vitamins.", "syn": [], "abbr": []}
+{"id": 20552, "skip": "not-medical"}
+{"id": 20553, "skip": "not-medical"}
+{"id": 20554, "term": "Picornavirus", "def": "A family of small, nonenveloped, positive-sense single-stranded RNA viruses, including poliovirus, coxsackievirus, echovirus, rhinovirus and hepatitis A virus.", "syn": [], "abbr": []}
+{"id": 20555, "skip": "not-medical"}
+{"id": 20556, "skip": "not-medical"}
+{"id": 20557, "skip": "obvious"}
+{"id": 20558, "skip": "not-medical"}
+{"id": 20559, "term": "Pilosebaceous", "def": "Relating to the hair follicle and its attached sebaceous gland. Acne occurs when pilosebaceous units are blocked and inflamed.", "syn": [], "abbr": []}
+{"id": 20560, "term": "Pimecrolimus", "def": "A topical calcineurin inhibitor used for atopic dermatitis. It blocks T-cell activation without steroid skin thinning.", "syn": [], "abbr": []}
+{"id": 20561, "skip": "not-medical"}
+{"id": 20562, "skip": "fragment"}
+{"id": 20563, "skip": "obvious"}
+{"id": 20564, "skip": "obvious"}
+{"id": 20565, "skip": "obvious"}
+{"id": 20566, "term": "Pirbuterol", "def": "A short-acting beta-2 agonist inhaler that relaxes bronchial smooth muscle, used for asthma.", "syn": [], "abbr": []}
+{"id": 20567, "term": "Pirfenidone", "def": "An antifibrotic drug that slows decline in lung function in idiopathic pulmonary fibrosis by reducing fibroblast activity and TGF-beta signaling.", "syn": [], "abbr": []}
+{"id": 20568, "term": "Pitavastatin", "def": "A statin that lowers cholesterol by inhibiting HMG-CoA reductase.", "syn": [], "abbr": []}
+{"id": 20569, "skip": "not-medical"}
+{"id": 20570, "term": "Pitolisant", "def": "A histamine H3 receptor antagonist and inverse agonist used to treat daytime sleepiness and cataplexy in narcolepsy.", "syn": [], "abbr": []}
+{"id": 20571, "skip": "not-medical"}
+{"id": 20572, "skip": "not-medical"}
+{"id": 20573, "skip": "fragment"}
+{"id": 20574, "skip": "obvious"}
+{"id": 20575, "term": "Plantarflexion", "def": "Pointing the foot downward at the ankle, away from the shin, as when standing on tiptoe.", "syn": ["plantar flexion"], "abbr": []}
+{"id": 20576, "skip": "obvious"}
+{"id": 20577, "term": "Plasmacytoid", "def": "Resembling plasma cells, with eccentric nuclei and basophilic cytoplasm. Plasmacytoid dendritic cells produce large amounts of type I interferon in viral infection.", "syn": [], "abbr": []}
+{"id": 20578, "term": "Platysma", "def": "A thin sheet of muscle across the front of the neck, supplied by the facial nerve (cranial nerve VII), that tenses the neck skin and pulls down the jaw corner.", "syn": [], "abbr": []}
+{"id": 20579, "term": "Platysmal", "def": "Relating to the platysma, the thin neck muscle supplied by the facial nerve. Platysmal bands are vertical cords visible in the aging neck.", "syn": [], "abbr": []}
+{"id": 20580, "skip": "not-medical"}
+{"id": 20581, "skip": "not-medical"}
+{"id": 20582, "term": "Pleiotropic", "def": "Describes a single gene or factor that affects multiple, seemingly unrelated traits or actions. Marfan syndrome is pleiotropic.", "syn": [], "abbr": []}
+{"id": 20583, "term": "Pleomorphism", "def": "Variation in the size and shape of cells and nuclei within a tissue, a hallmark of malignancy and anaplasia.", "syn": [], "abbr": []}
+{"id": 20584, "term": "Pleuroperitoneal", "def": "Between the pleural and peritoneal cavities. The pleuroperitoneal membranes help form the diaphragm, and failure of closure causes congenital diaphragmatic hernia.", "syn": [], "abbr": []}
+{"id": 20585, "term": "Plexopathies", "def": "Disorders of a nerve plexus, such as the brachial or lumbosacral plexus, causing weakness, numbness and pain in its distribution.", "syn": [], "abbr": []}
+{"id": 20586, "term": "Plexopathy", "def": "A disorder of a nerve plexus such as the brachial or lumbosacral plexus, causing weakness, numbness and pain in its distribution.", "syn": [], "abbr": []}
+{"id": 20587, "skip": "not-medical"}
+{"id": 20588, "skip": "not-medical"}
+{"id": 20589, "skip": "obvious"}
+{"id": 20590, "term": "Pneumotaxic", "def": "Describes the pneumotaxic center, a pontine group of neurons that limits inspiration and raises breathing rate.", "syn": [], "abbr": []}
+{"id": 20591, "term": "Poikilothermy", "def": "Having a body temperature that varies with the environment rather than being regulated. In people, it can appear after spinal cord injury or hypothalamic damage.", "syn": [], "abbr": []}
+{"id": 20592, "skip": "not-medical"}
+{"id": 20593, "skip": "not-medical"}
+{"id": 20594, "skip": "not-medical"}
+{"id": 20595, "skip": "not-medical"}
+{"id": 20596, "skip": "not-medical"}
+{"id": 20597, "skip": "obvious"}
+{"id": 20598, "term": "Polycistronic", "def": "Describes a single mRNA that codes for several proteins. Prokaryotes, such as the lac operon, make polycistronic mRNA, while eukaryotic mRNA is usually monocistronic.", "syn": [], "abbr": []}
+{"id": 20599, "term": "Polyductin", "def": "Another name for fibrocystin, the protein encoded by PKHD1. Mutations cause autosomal recessive polycystic kidney disease.", "syn": [], "abbr": []}
+{"id": 20600, "skip": "obvious"}
+{"id": 20601, "term": "Polyglutamation", "def": "Attachment of several glutamate residues to a molecule, which traps it inside cells. Folate and methotrexate are polyglutamated.", "syn": [], "abbr": []}
+{"id": 20602, "skip": "obvious"}
+{"id": 20603, "skip": "obvious"}
+{"id": 20604, "term": "Polyribosylribitol", "def": "Polyribosylribitol phosphate (PRP) is the capsule polysaccharide of Haemophilus influenzae type b, the antigen in the Hib vaccine.", "syn": [], "abbr": ["PRP"]}
+{"id": 20605, "skip": "obvious"}
+{"id": 20606, "skip": "obvious"}
+{"id": 20607, "skip": "obvious"}
+{"id": 20608, "skip": "obvious"}
+{"id": 20609, "term": "Pontocerebellum", "def": "The lateral cerebellar hemispheres (also called cerebrocerebellum), which receive cortical input through the pons and help plan and time voluntary movement.", "syn": [], "abbr": []}
+{"id": 20610, "term": "Popliteus", "def": "A small muscle at the back of the knee that unlocks the knee by rotating the femur laterally on the tibia at the start of flexion.", "syn": [], "abbr": []}
+{"id": 20611, "skip": "fragment"}
+{"id": 20612, "skip": "not-medical"}
+{"id": 20613, "skip": "not-medical"}
+{"id": 20614, "skip": "not-medical"}
+{"id": 20615, "skip": "obvious"}
+{"id": 20616, "skip": "obvious"}
+{"id": 20617, "skip": "obvious"}
+{"id": 20618, "skip": "obvious"}
+{"id": 20619, "skip": "obvious"}

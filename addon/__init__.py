@@ -12,7 +12,7 @@ import json
 import os
 
 from aqt import gui_hooks, mw
-from aqt.qt import QDialog, QDialogButtonBox, QLabel, QPlainTextEdit, QVBoxLayout
+from aqt.qt import QAction, QDialog, QDialogButtonBox, QLabel, QPlainTextEdit, QVBoxLayout
 
 ADDON_DIR = os.path.dirname(__file__)
 ADDON_PKG = mw.addonManager.addonFromModule(__name__)
@@ -56,10 +56,9 @@ def on_webview_will_set_content(web_content, context):
     if not _is_review_surface(context):
         return
     cfg = _config()
-    if not cfg.get("enabled", True):
-        return
     base = f"/_addons/{ADDON_PKG}/web"
     opts = {
+        "enabled": cfg.get("enabled", True),
         "question": cfg.get("showOnQuestion", True),
         "everyOccurrence": cfg.get("markEveryOccurrence", False),
         "hoverDelayMs": cfg.get("hoverDelayMs", 120),
@@ -104,5 +103,22 @@ def on_js_message(handled, message, context):
     return (True, None)
 
 
+def _toggle(checked):
+    cfg = _config()
+    cfg["enabled"] = bool(checked)
+    mw.addonManager.writeConfig(__name__, cfg)
+    if mw.reviewer and mw.reviewer.web:
+        mw.reviewer.web.eval(f"window.HG && HG.setEnabled({json.dumps(bool(checked))});")
+
+
+def _add_menu():
+    action = QAction("Hover Glossary definitions", mw)
+    action.setCheckable(True)
+    action.setChecked(_config().get("enabled", True))
+    action.toggled.connect(_toggle)
+    mw.form.menuTools.addAction(action)
+
+
+_add_menu()
 gui_hooks.webview_will_set_content.append(on_webview_will_set_content)
 gui_hooks.webview_did_receive_js_message.append(on_js_message)

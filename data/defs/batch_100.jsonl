@@ -1,0 +1,250 @@
+{"id": 17870, "skip": "not-medical"}
+{"id": 17871, "skip": "not-medical"}
+{"id": 17872, "skip": "fragment"}
+{"id": 17873, "skip": "fragment"}
+{"id": 17874, "skip": "fragment"}
+{"id": 17875, "skip": "not-medical"}
+{"id": 17876, "skip": "obvious"}
+{"id": 17877, "skip": "obvious"}
+{"id": 17878, "skip": "fragment"}
+{"id": 17879, "skip": "fragment"}
+{"id": 17880, "skip": "obvious"}
+{"id": 17881, "term": "Abiraterone", "def": "A drug that inhibits CYP17A1 (17-alpha-hydroxylase/17,20-lyase), shutting down androgen synthesis in the adrenals, testes and tumor. Used in metastatic castration-resistant prostate cancer, given with prednisone to offset mineralocorticoid excess.", "syn": [], "abbr": []}
+{"id": 17882, "skip": "obvious"}
+{"id": 17883, "skip": "not-medical"}
+{"id": 17884, "skip": "not-medical"}
+{"id": 17885, "skip": "not-medical"}
+{"id": 17886, "skip": "fragment"}
+{"id": 17887, "term": "Acanthocytosis", "def": "Presence of red cells with irregular, spiky projections of varying length (acanthocytes). Seen in abetalipoproteinemia, vitamin E deficiency, liver disease and McLeod syndrome.", "syn": [], "abbr": []}
+{"id": 17888, "skip": "not-medical"}
+{"id": 17889, "skip": "not-medical"}
+{"id": 17890, "skip": "not-medical"}
+{"id": 17891, "skip": "fragment"}
+{"id": 17892, "skip": "not-medical"}
+{"id": 17893, "skip": "not-medical"}
+{"id": 17894, "skip": "not-medical"}
+{"id": 17895, "skip": "obvious"}
+{"id": 17896, "term": "Acetoacetic acid", "def": "A ketone body made by the liver from fatty acids when insulin is low. It accumulates in diabetic ketoacidosis and is the ketone detected by urine nitroprusside tests.", "syn": [], "abbr": []}
+{"id": 17897, "skip": "obvious"}
+{"id": 17898, "term": "N-acetylgalactosamine", "def": "The sugar added to the H antigen by the A transferase enzyme to create blood group A. Blood group B instead has galactose added.", "syn": [], "abbr": []}
+{"id": 17899, "skip": "obvious"}
+{"id": 17900, "skip": "obvious"}
+{"id": 17901, "skip": "obvious"}
+{"id": 17902, "term": "Acidophil", "def": "A cell or structure that stains pink-red with the acidic dye eosin. Pituitary growth hormone and prolactin cells are acidophils, and shrunken acidophilic bodies mark apoptotic hepatocytes in viral hepatitis.", "syn": ["acidophilic"], "abbr": []}
+{"id": 17903, "skip": "not-medical"}
+{"id": 17904, "term": "Aconitase", "def": "The Krebs cycle enzyme that converts citrate to isocitrate through an intermediate, cis-aconitate. Inhibited by fluoroacetate, and a cytosolic form also regulates iron metabolism.", "syn": [], "abbr": []}
+{"id": 17905, "term": "Acrochordon", "def": "A common benign, soft, flesh-colored skin outgrowth on a stalk, usually in skin folds such as the neck and axillae. Associated with obesity and diabetes.", "syn": ["acrochordons"], "abbr": []}
+{"id": 17906, "term": "Thyroid acropachy", "def": "Clubbing of the fingers and toes with swelling of the soft tissue and new bone formation, seen in a small subset of Graves disease patients, along with exophthalmos and pretibial myxedema.", "syn": ["acropachy"], "abbr": []}
+{"id": 17907, "term": "Acrosome", "def": "A cap-like vesicle over the head of a sperm containing digestive enzymes (e.g., hyaluronidase, acrosin). Its contents are released in the acrosomal reaction to penetrate the egg's zona pellucida.", "syn": ["acrosomal"], "abbr": []}
+{"id": 17908, "term": "Actinolite", "def": "A fibrous amphibole type of asbestos, one of the straight needle-like forms linked to mesothelioma and lung cancer.", "syn": [], "abbr": []}
+{"id": 17909, "skip": "fragment"}
+{"id": 17910, "term": "Acyanotic", "def": "Describes congenital heart defects without cyanosis, because blood is shunted left to right or flows obstructed. Examples are VSD, ASD, PDA and coarctation.", "syn": [], "abbr": []}
+{"id": 17911, "skip": "not-medical"}
+{"id": 17912, "skip": "fragment"}
+{"id": 17913, "skip": "not-medical"}
+{"id": 17914, "term": "Addressins", "def": "Adhesion molecules on endothelial cells of lymph nodes and other tissues that bind homing receptors on lymphocytes, directing which tissues they migrate into.", "syn": [], "abbr": []}
+{"id": 17915, "skip": "not-medical"}
+{"id": 17916, "term": "Adefovir", "def": "A nucleotide analog antiviral that blocks hepatitis B virus DNA polymerase. Used for chronic hepatitis B and can cause kidney toxicity.", "syn": [], "abbr": []}
+{"id": 17917, "term": "Adenoidectomy", "def": "Surgical removal of the adenoids (pharyngeal tonsil tissue at the back of the nasal cavity), often done for obstructive sleep apnea or recurrent ear infections in children.", "syn": [], "abbr": []}
+{"id": 17918, "skip": "fragment"}
+{"id": 17919, "skip": "obvious"}
+{"id": 17920, "skip": "not-medical"}
+{"id": 17921, "skip": "not-medical"}
+{"id": 17922, "skip": "not-medical"}
+{"id": 17923, "skip": "not-medical"}
+{"id": 17924, "skip": "not-medical"}
+{"id": 17925, "skip": "not-medical"}
+{"id": 17926, "skip": "not-medical"}
+{"id": 17927, "skip": "not-medical"}
+{"id": 17928, "skip": "not-medical"}
+{"id": 17929, "skip": "not-medical"}
+{"id": 17930, "skip": "obvious"}
+{"id": 17931, "term": "Aerophobia", "def": "Fear of drafts of air, a classic symptom of rabies along with hydrophobia. Air blowing on the face triggers painful pharyngeal spasms.", "syn": [], "abbr": []}
+{"id": 17932, "skip": "not-medical"}
+{"id": 17933, "skip": "not-medical"}
+{"id": 17934, "skip": "not-medical"}
+{"id": 17935, "skip": "fragment"}
+{"id": 17936, "term": "Afterdrop", "def": "A further fall in core body temperature after rewarming begins in hypothermia, as cold peripheral blood returns to the core. Avoided by rewarming the trunk before the extremities.", "syn": [], "abbr": []}
+{"id": 17937, "skip": "not-medical"}
+{"id": 17938, "skip": "not-medical"}
+{"id": 17939, "skip": "obvious"}
+{"id": 17940, "skip": "not-medical"}
+{"id": 17941, "term": "Platelet aggregometry", "def": "A lab test that measures how platelets clump in response to agonists such as ADP, collagen, epinephrine and ristocetin. Absent aggregation points to Glanzmann thrombasthenia.", "syn": ["aggregometry"], "abbr": []}
+{"id": 17942, "skip": "not-medical"}
+{"id": 17943, "term": "Agomelatine", "def": "An antidepressant that acts as a melatonin (MT1/MT2) receptor agonist and serotonin 5-HT2C antagonist. Used for major depression, also with sleep disturbance.", "syn": [], "abbr": []}
+{"id": 17944, "term": "Agrammatism", "def": "Speech lacking grammatical structure, with short telegraphic phrases missing small function words. A feature of Broca (nonfluent) aphasia.", "syn": ["agrammatic"], "abbr": []}
+{"id": 17945, "skip": "not-medical"}
+{"id": 17946, "skip": "fragment"}
+{"id": 17947, "skip": "not-medical"}
+{"id": 17948, "skip": "not-medical"}
+{"id": 17949, "skip": "not-medical"}
+{"id": 17950, "skip": "not-medical"}
+{"id": 17951, "skip": "not-medical"}
+{"id": 17952, "skip": "fragment"}
+{"id": 17953, "term": "Aldesleukin", "def": "Recombinant interleukin-2 that stimulates T cell and NK cell growth. Used to treat metastatic renal cell carcinoma and melanoma; can cause capillary leak syndrome.", "syn": [], "abbr": []}
+{"id": 17954, "skip": "fragment"}
+{"id": 17955, "skip": "fragment"}
+{"id": 17956, "skip": "fragment"}
+{"id": 17957, "skip": "obvious"}
+{"id": 17958, "skip": "fragment"}
+{"id": 17959, "skip": "obvious"}
+{"id": 17960, "skip": "not-medical"}
+{"id": 17961, "skip": "not-medical"}
+{"id": 17962, "skip": "not-medical"}
+{"id": 17963, "skip": "not-medical"}
+{"id": 17964, "skip": "not-medical"}
+{"id": 17965, "term": "Alloimmunization", "def": "Formation of antibodies against foreign red cell antigens from another person, such as an Rh-negative mother exposed to Rh-positive fetal cells. Can cause hemolytic disease of the newborn.", "syn": ["alloimmunized"], "abbr": []}
+{"id": 17966, "skip": "fragment"}
+{"id": 17967, "skip": "fragment"}
+{"id": 17968, "skip": "fragment"}
+{"id": 17969, "skip": "fragment"}
+{"id": 17970, "skip": "not-medical"}
+{"id": 17971, "skip": "not-medical"}
+{"id": 17972, "skip": "not-medical"}
+{"id": 17973, "skip": "not-medical"}
+{"id": 17974, "term": "Alveolarization", "def": "The late stage of lung development in which saccules divide into mature alveoli. It is disrupted in bronchopulmonary dysplasia of premature infants.", "syn": [], "abbr": []}
+{"id": 17975, "term": "Amatoxin", "def": "A toxin of Amanita phalloides mushrooms that binds RNA polymerase II, blocking mRNA synthesis. Causes severe liver failure after a delay of 6 to 24 hours.", "syn": ["amatoxins"], "abbr": []}
+{"id": 17976, "skip": "not-medical"}
+{"id": 17977, "skip": "not-medical"}
+{"id": 17978, "term": "Gamma-aminobutyric acid", "def": "The main inhibitory neurotransmitter of the central nervous system, made from glutamate. It opens chloride channels (GABA-A) and is enhanced by benzodiazepines and barbiturates.", "syn": ["γ-aminobutyric acid"], "abbr": ["GABA"]}
+{"id": 17979, "term": "Para-aminohippuric acid", "def": "A substance fully removed from plasma in one pass through the kidney by filtration and secretion. Its clearance estimates effective renal plasma flow.", "syn": [], "abbr": ["PAH"]}
+{"id": 17980, "skip": "fragment"}
+{"id": 17981, "term": "Aminosalicylates", "def": "Anti-inflammatory drugs (5-aminosalicylic acid, e.g., mesalamine, sulfasalazine) used for mild ulcerative colitis and Crohn disease. Act locally in the gut.", "syn": ["5-aminosalicylates"], "abbr": ["5-ASA"]}
+{"id": 17982, "skip": "fragment"}
+{"id": 17983, "skip": "wrong-sense"}
+{"id": 17984, "skip": "not-medical"}
+{"id": 17985, "term": "Amphipathic", "def": "Describes a molecule with both a water-loving (hydrophilic) end and a fat-loving (hydrophobic) end, such as phospholipids and bile salts. Lets them form micelles and membranes.", "syn": [], "abbr": []}
+{"id": 17986, "skip": "not-medical"}
+{"id": 17987, "skip": "obvious"}
+{"id": 17988, "skip": "not-medical"}
+{"id": 17989, "skip": "not-medical"}
+{"id": 17990, "skip": "obvious"}
+{"id": 17991, "skip": "not-medical"}
+{"id": 17992, "term": "Anamnestic response", "def": "The rapid, stronger secondary immune response on re-exposure to an antigen, driven by memory B and T cells. Also called a memory response.", "syn": ["anamnestic"], "abbr": []}
+{"id": 17993, "skip": "not-medical"}
+{"id": 17994, "skip": "obvious"}
+{"id": 17995, "skip": "not-medical"}
+{"id": 17996, "skip": "fragment"}
+{"id": 17997, "skip": "fragment"}
+{"id": 17998, "skip": "fragment"}
+{"id": 17999, "term": "Anembryonic pregnancy", "def": "A pregnancy in which a gestational sac forms but no embryo develops, also called a blighted ovum. Ultrasound shows an empty sac and it usually ends in miscarriage.", "syn": [], "abbr": []}
+{"id": 18000, "skip": "not-medical"}
+{"id": 18001, "skip": "not-medical"}
+{"id": 18002, "skip": "not-medical"}
+{"id": 18003, "term": "Angioblast", "def": "An embryonic precursor cell from mesoderm that gives rise to endothelial cells and early blood vessels. Driven by VEGF during vasculogenesis.", "syn": [], "abbr": []}
+{"id": 18004, "skip": "fragment"}
+{"id": 18005, "skip": "not-medical"}
+{"id": 18006, "skip": "obvious"}
+{"id": 18007, "term": "Angioinvasion", "def": "Invasion of blood vessel walls by organisms or tumor, causing thrombosis and tissue infarction. Classic for Aspergillus and Mucor molds.", "syn": ["angioinvasive"], "abbr": []}
+{"id": 18008, "skip": "obvious"}
+{"id": 18009, "term": "Anhydramnios", "def": "Complete absence of amniotic fluid, a severe form of oligohydramnios. Often from renal agenesis or ruptured membranes, leading to Potter sequence and pulmonary hypoplasia.", "syn": [], "abbr": []}
+{"id": 18010, "skip": "not-medical"}
+{"id": 18011, "term": "Anisopoikilocytosis", "def": "Combined variation in red cell size (anisocytosis) and shape (poikilocytosis) on a blood smear, seen in severe anemias such as thalassemia major.", "syn": [], "abbr": []}
+{"id": 18012, "skip": "fragment"}
+{"id": 18013, "skip": "not-medical"}
+{"id": 18014, "skip": "fragment"}
+{"id": 18015, "skip": "fragment"}
+{"id": 18016, "skip": "fragment"}
+{"id": 18017, "skip": "not-medical"}
+{"id": 18018, "term": "Antebrachial", "def": "Relating to the forearm, as in the antebrachial fascia and the medial and lateral antebrachial cutaneous nerves.", "syn": [], "abbr": []}
+{"id": 18019, "skip": "not-medical"}
+{"id": 18020, "skip": "obvious"}
+{"id": 18021, "skip": "obvious"}
+{"id": 18022, "term": "Anthophyllite", "def": "A straight, needle-like amphibole form of asbestos, linked to asbestosis, lung cancer and mesothelioma.", "syn": [], "abbr": []}
+{"id": 18023, "term": "Anthracosis", "def": "Black pigment deposition in the lungs and lymph nodes from inhaled carbon (soot, urban pollution, coal dust). Generally harmless unless it progresses to coal workers' pneumoconiosis.", "syn": [], "abbr": []}
+{"id": 18024, "skip": "fragment"}
+{"id": 18025, "skip": "obvious"}
+{"id": 18026, "skip": "obvious"}
+{"id": 18027, "skip": "obvious"}
+{"id": 18028, "skip": "not-medical"}
+{"id": 18029, "skip": "not-medical"}
+{"id": 18030, "skip": "obvious"}
+{"id": 18031, "term": "Antidromic", "def": "Conduction of a nerve or cardiac impulse in the direction opposite to normal. An antidromic AV reentrant tachycardia goes down the accessory pathway, producing a wide QRS.", "syn": [], "abbr": []}
+{"id": 18032, "skip": "obvious"}
+{"id": 18033, "skip": "obvious"}
+{"id": 18034, "skip": "obvious"}
+{"id": 18035, "skip": "obvious"}
+{"id": 18036, "term": "Antimicrosomal antibodies", "def": "Older name for antibodies against thyroid peroxidase, found in Hashimoto thyroiditis.", "syn": [], "abbr": []}
+{"id": 18037, "term": "Antimitochondrial antibodies", "def": "Autoantibodies against the mitochondrial pyruvate dehydrogenase complex, the hallmark of primary biliary cholangitis.", "syn": [], "abbr": []}
+{"id": 18038, "skip": "obvious"}
+{"id": 18039, "skip": "obvious"}
+{"id": 18040, "term": "Antiprotease", "def": "A protein that inhibits protease enzymes, such as alpha-1 antitrypsin, which restrains neutrophil elastase in the lungs. Deficiency causes emphysema.", "syn": ["antiproteases"], "abbr": []}
+{"id": 18041, "skip": "not-medical"}
+{"id": 18042, "skip": "obvious"}
+{"id": 18043, "term": "Antithyroglobulin antibodies", "def": "Autoantibodies against thyroglobulin, found in Hashimoto thyroiditis alongside anti-thyroid peroxidase antibodies.", "syn": [], "abbr": []}
+{"id": 18044, "skip": "not-medical"}
+{"id": 18045, "skip": "obvious"}
+{"id": 18046, "term": "Aortocavitary fistula", "def": "An abnormal connection between the aorta and a nearby heart chamber, usually from a perivalvular abscess in infective endocarditis. Causes new heart block or acute heart failure.", "syn": [], "abbr": []}
+{"id": 18047, "skip": "obvious"}
+{"id": 18048, "skip": "obvious"}
+{"id": 18049, "skip": "not-medical"}
+{"id": 18050, "term": "Apneustic center", "def": "A group of neurons in the lower pons that promotes inspiration, prolonging the inspiratory phase. Inhibited by the pneumotaxic center.", "syn": ["apneustic"], "abbr": []}
+{"id": 18051, "skip": "fragment"}
+{"id": 18052, "skip": "not-medical"}
+{"id": 18053, "skip": "fragment"}
+{"id": 18054, "skip": "not-medical"}
+{"id": 18055, "skip": "not-medical"}
+{"id": 18056, "skip": "not-medical"}
+{"id": 18057, "skip": "fragment"}
+{"id": 18058, "skip": "not-medical"}
+{"id": 18059, "skip": "not-medical"}
+{"id": 18060, "skip": "not-medical"}
+{"id": 18061, "skip": "not-medical"}
+{"id": 18062, "term": "Apremilast", "def": "An oral phosphodiesterase-4 inhibitor, raising cAMP and lowering inflammatory cytokines. Used for psoriasis, psoriatic arthritis and oral ulcers of Behcet disease.", "syn": [], "abbr": []}
+{"id": 18063, "term": "Apurinic site", "def": "A DNA site missing its purine base, created when a glycosylase removes a damaged base during base excision repair. AP endonuclease then cuts the backbone.", "syn": [], "abbr": []}
+{"id": 18064, "term": "Apyrimidinic site", "def": "A DNA site missing its pyrimidine base, created when a glycosylase removes a damaged base during base excision repair. AP endonuclease then cuts the backbone.", "syn": [], "abbr": []}
+{"id": 18065, "skip": "not-medical"}
+{"id": 18066, "term": "Arabinogalactan", "def": "A polysaccharide of the mycobacterial cell wall that links mycolic acids to peptidoglycan. Its synthesis is blocked by ethambutol.", "syn": [], "abbr": []}
+{"id": 18067, "skip": "wrong-sense"}
+{"id": 18068, "skip": "fragment"}
+{"id": 18069, "skip": "fragment"}
+{"id": 18070, "skip": "fragment"}
+{"id": 18071, "skip": "fragment"}
+{"id": 18072, "skip": "not-medical"}
+{"id": 18073, "skip": "not-medical"}
+{"id": 18074, "skip": "not-medical"}
+{"id": 18075, "skip": "fragment"}
+{"id": 18076, "skip": "not-medical"}
+{"id": 18077, "skip": "fragment"}
+{"id": 18078, "skip": "not-medical"}
+{"id": 18079, "skip": "fragment"}
+{"id": 18080, "skip": "fragment"}
+{"id": 18081, "skip": "fragment"}
+{"id": 18082, "skip": "fragment"}
+{"id": 18083, "skip": "not-medical"}
+{"id": 18084, "term": "Arsenate", "def": "The pentavalent oxidized form of arsenic (As5+). It mimics phosphate, uncoupling ATP production in glycolysis.", "syn": [], "abbr": []}
+{"id": 18085, "term": "Arsenite", "def": "The trivalent form of arsenic (As3+). It binds sulfhydryl groups, inhibiting enzymes such as pyruvate dehydrogenase and lipoic acid.", "syn": [], "abbr": []}
+{"id": 18086, "skip": "obvious"}
+{"id": 18087, "skip": "obvious"}
+{"id": 18088, "term": "Arterionephrosclerosis", "def": "Kidney scarring from hardening and narrowing of the renal arterioles, usually due to long-standing hypertension. Causes small granular kidneys and chronic kidney disease.", "syn": [], "abbr": []}
+{"id": 18089, "skip": "obvious"}
+{"id": 18090, "skip": "fragment"}
+{"id": 18091, "term": "Arthroconidia", "def": "Barrel-shaped fungal spores formed by fragmentation of hyphae. Coccidioides immitis forms them in its mold phase, and inhaling them causes valley fever.", "syn": [], "abbr": []}
+{"id": 18092, "skip": "not-medical"}
+{"id": 18093, "skip": "fragment"}
+{"id": 18094, "skip": "fragment"}
+{"id": 18095, "term": "Arylcyclohexylamine", "def": "A class of dissociative anesthetics and drugs of abuse that block NMDA receptors, including ketamine and phencyclidine (PCP).", "syn": [], "abbr": []}
+{"id": 18096, "term": "Arytenoid cartilage", "def": "A pair of small laryngeal cartilages that pivot to open and close the vocal cords. Derived from the pharyngeal arches 4 and 6.", "syn": ["arytenoid"], "abbr": []}
+{"id": 18097, "term": "Asbestiform", "def": "Describes minerals that grow as long, thin, flexible fibers, like asbestos. The inhaled fibers cause asbestosis and mesothelioma.", "syn": [], "abbr": []}
+{"id": 18098, "skip": "not-medical"}
+{"id": 18099, "skip": "not-medical"}
+{"id": 18100, "term": "Asenapine", "def": "An atypical antipsychotic given sublingually, with antagonism of dopamine D2 and serotonin 5-HT2A receptors. Used for schizophrenia and bipolar disorder.", "syn": [], "abbr": []}
+{"id": 18101, "term": "Asociality", "def": "Reduced interest in social interaction and relationships, a negative symptom of schizophrenia.", "syn": [], "abbr": []}
+{"id": 18102, "skip": "not-medical"}
+{"id": 18103, "skip": "not-medical"}
+{"id": 18104, "skip": "not-medical"}
+{"id": 18105, "skip": "not-medical"}
+{"id": 18106, "skip": "wrong-sense"}
+{"id": 18107, "skip": "obvious"}
+{"id": 18108, "skip": "obvious"}
+{"id": 18109, "skip": "obvious"}
+{"id": 18110, "term": "Atezolizumab", "def": "A monoclonal antibody against PD-L1, a checkpoint inhibitor that restores T cell attack on tumors. Used in lung, bladder and other cancers.", "syn": [], "abbr": []}
+{"id": 18111, "term": "Atheroemboli", "def": "Showers of cholesterol crystals from ruptured aortic plaques that lodge in small arteries, causing blue toes, livedo reticularis and kidney injury, often after catheterization.", "syn": ["cholesterol emboli"], "abbr": []}
+{"id": 18112, "term": "Acute atherosis", "def": "A lesion of uterine spiral arteries in preeclampsia, with fibrinoid necrosis and lipid-laden foamy macrophages in the vessel wall.", "syn": ["atherosis"], "abbr": []}
+{"id": 18113, "skip": "not-medical"}
+{"id": 18114, "skip": "not-medical"}
+{"id": 18115, "skip": "fragment"}
+{"id": 18116, "skip": "not-medical"}
+{"id": 18117, "skip": "not-medical"}
+{"id": 18118, "skip": "not-medical"}
+{"id": 18119, "skip": "not-medical"}

@@ -1,0 +1,250 @@
+{"id": 18120, "skip": "not-medical"}
+{"id": 18121, "skip": "not-medical"}
+{"id": 18122, "skip": "fragment"}
+{"id": 18123, "skip": "not-medical"}
+{"id": 18124, "skip": "not-medical"}
+{"id": 18125, "skip": "not-medical"}
+{"id": 18126, "skip": "obvious"}
+{"id": 18127, "skip": "obvious"}
+{"id": 18128, "skip": "not-medical"}
+{"id": 18129, "skip": "not-medical"}
+{"id": 18130, "skip": "not-medical"}
+{"id": 18131, "skip": "not-medical"}
+{"id": 18132, "skip": "not-medical"}
+{"id": 18133, "skip": "not-medical"}
+{"id": 18134, "skip": "not-medical"}
+{"id": 18135, "skip": "not-medical"}
+{"id": 18136, "skip": "obvious"}
+{"id": 18137, "skip": "obvious"}
+{"id": 18138, "term": "Autocrine signaling", "def": "A cell secreting a signal that binds receptors on the same cell, rather than on neighbors (paracrine) or distant cells (endocrine). Tumors can use it to drive their own growth.", "syn": ["autocrine"], "abbr": []}
+{"id": 18139, "skip": "obvious"}
+{"id": 18140, "skip": "not-medical"}
+{"id": 18141, "term": "Autoinfarction", "def": "Progressive self-destruction of an organ by repeated infarcts. In sickle cell disease the spleen shrinks into a fibrotic remnant, leaving patients prone to encapsulated bacterial infections.", "syn": [], "abbr": []}
+{"id": 18142, "skip": "not-medical"}
+{"id": 18143, "skip": "obvious"}
+{"id": 18144, "skip": "obvious"}
+{"id": 18145, "skip": "obvious"}
+{"id": 18146, "skip": "not-medical"}
+{"id": 18147, "term": "Avanafil", "def": "A phosphodiesterase-5 inhibitor, like sildenafil, that raises cGMP in penile smooth muscle to treat erectile dysfunction. Contraindicated with nitrates.", "syn": [], "abbr": []}
+{"id": 18148, "term": "Avelumab", "def": "A monoclonal antibody against PD-L1, a checkpoint inhibitor used in Merkel cell carcinoma and urothelial cancer.", "syn": [], "abbr": []}
+{"id": 18149, "skip": "not-medical"}
+{"id": 18150, "skip": "not-medical"}
+{"id": 18151, "term": "Avibactam", "def": "A beta-lactamase inhibitor combined with ceftazidime to treat resistant gram-negative infections, including carbapenemase-producing (KPC) organisms.", "syn": [], "abbr": []}
+{"id": 18152, "skip": "not-medical"}
+{"id": 18153, "term": "Avolition", "def": "Lack of motivation to start and persist in goal-directed activity, a negative symptom of schizophrenia.", "syn": [], "abbr": []}
+{"id": 18154, "skip": "not-medical"}
+{"id": 18155, "skip": "not-medical"}
+{"id": 18156, "term": "Azurophilic granules", "def": "Lysosome-like granules in neutrophils and their precursors that stain purple with Romanowsky dyes and contain myeloperoxidase. Auer rods in acute myeloid leukemia are clumped azurophilic granules.", "syn": ["azurophilic"], "abbr": []}
+{"id": 18157, "skip": "not-medical"}
+{"id": 18158, "skip": "not-medical"}
+{"id": 18159, "skip": "not-medical"}
+{"id": 18160, "skip": "not-medical"}
+{"id": 18161, "skip": "not-medical"}
+{"id": 18162, "skip": "not-medical"}
+{"id": 18163, "skip": "fragment"}
+{"id": 18164, "term": "Bactoprenol", "def": "A lipid carrier in the bacterial membrane that shuttles peptidoglycan building blocks across the cell membrane to the cell wall. Bacitracin blocks its recycling.", "syn": [], "abbr": []}
+{"id": 18165, "skip": "not-medical"}
+{"id": 18166, "skip": "not-medical"}
+{"id": 18167, "skip": "not-medical"}
+{"id": 18168, "skip": "not-medical"}
+{"id": 18169, "term": "Balanoposthitis", "def": "Inflammation of the glans penis and foreskin, often from poor hygiene, candida or diabetes in uncircumcised men.", "syn": [], "abbr": []}
+{"id": 18170, "skip": "not-medical"}
+{"id": 18171, "skip": "wrong-sense"}
+{"id": 18172, "skip": "not-medical"}
+{"id": 18173, "skip": "not-medical"}
+{"id": 18174, "skip": "not-medical"}
+{"id": 18175, "skip": "fragment"}
+{"id": 18176, "skip": "not-medical"}
+{"id": 18177, "skip": "fragment"}
+{"id": 18178, "term": "Barosinusitis", "def": "Sinus pain from pressure differences between the sinuses and surrounding air, such as in flying or diving, when the sinus openings are blocked.", "syn": [], "abbr": []}
+{"id": 18179, "skip": "not-medical"}
+{"id": 18180, "skip": "fragment"}
+{"id": 18181, "skip": "not-medical"}
+{"id": 18182, "skip": "not-medical"}
+{"id": 18183, "skip": "not-medical"}
+{"id": 18184, "skip": "not-medical"}
+{"id": 18185, "skip": "not-medical"}
+{"id": 18186, "skip": "not-medical"}
+{"id": 18187, "skip": "not-medical"}
+{"id": 18188, "skip": "fragment"}
+{"id": 18189, "skip": "not-medical"}
+{"id": 18190, "skip": "fragment"}
+{"id": 18191, "skip": "fragment"}
+{"id": 18192, "term": "Benznidazole", "def": "An antiprotozoal drug used to treat Chagas disease (Trypanosoma cruzi). Nifurtimox is the alternative.", "syn": [], "abbr": []}
+{"id": 18193, "term": "N-acetyl-p-benzoquinone imine", "def": "The toxic metabolite of acetaminophen made by CYP450. Normally detoxified by glutathione, it damages liver cells when glutathione is depleted in overdose. N-acetylcysteine replenishes glutathione.", "syn": ["benzoquinoneimine"], "abbr": ["NAPQI"]}
+{"id": 18194, "skip": "not-medical"}
+{"id": 18195, "skip": "not-medical"}
+{"id": 18196, "skip": "not-medical"}
+{"id": 18197, "skip": "not-medical"}
+{"id": 18198, "term": "Betaherpesvirus", "def": "The herpesvirus subfamily that includes cytomegalovirus (HHV-5) and HHV-6 and HHV-7, which cause roseola.", "syn": [], "abbr": []}
+{"id": 18199, "skip": "not-medical"}
+{"id": 18200, "skip": "not-medical"}
+{"id": 18201, "term": "Biallelic", "def": "Involving both copies (alleles) of a gene. Biallelic expression or loss occurs when imprinting is lost or both alleles are mutated.", "syn": [], "abbr": []}
+{"id": 18202, "skip": "obvious"}
+{"id": 18203, "skip": "not-medical"}
+{"id": 18204, "skip": "not-medical"}
+{"id": 18205, "skip": "obvious"}
+{"id": 18206, "skip": "not-medical"}
+{"id": 18207, "skip": "not-medical"}
+{"id": 18208, "skip": "obvious"}
+{"id": 18209, "skip": "obvious"}
+{"id": 18210, "skip": "not-medical"}
+{"id": 18211, "term": "Bilirubinostasis", "def": "Stagnation of bile pigment within liver cells and canaliculi seen on biopsy, a sign of cholestasis.", "syn": [], "abbr": []}
+{"id": 18212, "skip": "obvious"}
+{"id": 18213, "skip": "obvious"}
+{"id": 18214, "skip": "obvious"}
+{"id": 18215, "skip": "obvious"}
+{"id": 18216, "skip": "not-medical"}
+{"id": 18217, "skip": "not-medical"}
+{"id": 18218, "skip": "not-medical"}
+{"id": 18219, "skip": "not-medical"}
+{"id": 18220, "skip": "not-medical"}
+{"id": 18221, "skip": "not-medical"}
+{"id": 18222, "skip": "not-medical"}
+{"id": 18223, "skip": "not-medical"}
+{"id": 18224, "skip": "obvious"}
+{"id": 18225, "skip": "not-medical"}
+{"id": 18226, "skip": "not-medical"}
+{"id": 18227, "skip": "not-medical"}
+{"id": 18228, "skip": "obvious"}
+{"id": 18229, "skip": "obvious"}
+{"id": 18230, "skip": "wrong-sense"}
+{"id": 18231, "skip": "not-medical"}
+{"id": 18232, "skip": "wrong-sense"}
+{"id": 18233, "skip": "not-medical"}
+{"id": 18234, "skip": "obvious"}
+{"id": 18235, "skip": "not-medical"}
+{"id": 18236, "skip": "not-medical"}
+{"id": 18237, "skip": "not-medical"}
+{"id": 18238, "skip": "not-medical"}
+{"id": 18239, "skip": "not-medical"}
+{"id": 18240, "skip": "not-medical"}
+{"id": 18241, "term": "Borborygmi", "def": "Loud rumbling or gurgling bowel sounds from gas and fluid moving through the intestines, often accentuated in intestinal obstruction.", "syn": [], "abbr": []}
+{"id": 18242, "skip": "not-medical"}
+{"id": 18243, "term": "Borreliosis", "def": "Infection by Borrelia spirochetes, most commonly Lyme disease from Borrelia burgdorferi spread by Ixodes ticks. Causes erythema migrans, facial palsy, arthritis and carditis.", "syn": [], "abbr": []}
+{"id": 18244, "skip": "not-medical"}
+{"id": 18245, "skip": "not-medical"}
+{"id": 18246, "skip": "not-medical"}
+{"id": 18247, "skip": "obvious"}
+{"id": 18248, "skip": "wrong-sense"}
+{"id": 18249, "skip": "not-medical"}
+{"id": 18250, "term": "Brachioradialis", "def": "A forearm muscle that flexes the elbow, tested by the brachioradialis reflex (C5-C6) and innervated by the radial nerve.", "syn": [], "abbr": []}
+{"id": 18251, "skip": "not-medical"}
+{"id": 18252, "skip": "not-medical"}
+{"id": 18253, "term": "Bradyzoite", "def": "The slow-dividing, dormant form of Toxoplasma gondii that forms tissue cysts in muscle and brain. Reactivation in AIDS causes toxoplasmosis encephalitis.", "syn": ["bradyzoites"], "abbr": []}
+{"id": 18254, "skip": "fragment"}
+{"id": 18255, "skip": "not-medical"}
+{"id": 18256, "skip": "not-medical"}
+{"id": 18257, "skip": "not-medical"}
+{"id": 18258, "skip": "not-medical"}
+{"id": 18259, "skip": "not-medical"}
+{"id": 18260, "skip": "not-medical"}
+{"id": 18261, "skip": "not-medical"}
+{"id": 18262, "term": "Brexanolone", "def": "An IV neurosteroid that positively modulates GABA-A receptors. Approved for postpartum depression.", "syn": [], "abbr": []}
+{"id": 18263, "term": "Brexpiprazole", "def": "An atypical antipsychotic that is a partial agonist at dopamine D2 and serotonin 5-HT1A receptors. Used for schizophrenia and as add-on in depression.", "syn": [], "abbr": []}
+{"id": 18264, "skip": "not-medical"}
+{"id": 18265, "skip": "not-medical"}
+{"id": 18266, "skip": "not-medical"}
+{"id": 18267, "skip": "not-medical"}
+{"id": 18268, "skip": "obvious"}
+{"id": 18269, "skip": "obvious"}
+{"id": 18270, "skip": "obvious"}
+{"id": 18271, "term": "Bronchorrhea", "def": "Production of very large amounts of watery sputum, classically in mucinous adenocarcinoma in situ of the lung.", "syn": [], "abbr": []}
+{"id": 18272, "skip": "not-medical"}
+{"id": 18273, "skip": "fragment"}
+{"id": 18274, "skip": "not-medical"}
+{"id": 18275, "skip": "not-medical"}
+{"id": 18276, "skip": "not-medical"}
+{"id": 18277, "term": "Bulbospongiosus", "def": "A perineal muscle that surrounds the base of the penis or the vaginal opening and helps with ejaculation and erection. Innervated by the pudendal nerve.", "syn": [], "abbr": []}
+{"id": 18278, "skip": "not-medical"}
+{"id": 18279, "skip": "not-medical"}
+{"id": 18280, "skip": "not-medical"}
+{"id": 18281, "term": "Butadiene", "def": "An industrial chemical used in rubber production. Occupational exposure is linked to leukemia and lymphoma.", "syn": [], "abbr": []}
+{"id": 18282, "term": "Butalbital", "def": "A short- to intermediate-acting barbiturate combined with acetaminophen and caffeine for tension headache.", "syn": [], "abbr": []}
+{"id": 18283, "term": "Butenafine", "def": "A topical allylamine antifungal that inhibits squalene epoxidase, used for tinea infections.", "syn": [], "abbr": []}
+{"id": 18284, "skip": "not-medical"}
+{"id": 18285, "skip": "not-medical"}
+{"id": 18286, "term": "Calcaneovalgus", "def": "A newborn foot position with the heel turned outward and the foot sharply flexed upward, caused by cramped positioning in the womb. Usually resolves spontaneously.", "syn": [], "abbr": []}
+{"id": 18287, "skip": "fragment"}
+{"id": 18288, "skip": "not-medical"}
+{"id": 18289, "skip": "wrong-sense"}
+{"id": 18290, "skip": "not-medical"}
+{"id": 18291, "term": "Calyceal", "def": "Relating to the calyces, the cup-shaped spaces of the kidney that collect urine from the papillae before the renal pelvis. Calyceal dilation indicates hydronephrosis.", "syn": [], "abbr": []}
+{"id": 18292, "skip": "not-medical"}
+{"id": 18293, "term": "Canalith", "def": "A calcium carbonate crystal (otoconium) that has dislodged into a semicircular canal of the inner ear, causing benign paroxysmal positional vertigo.", "syn": ["canaliths"], "abbr": []}
+{"id": 18294, "skip": "not-medical"}
+{"id": 18295, "term": "Field cancerization", "def": "Widespread genetic damage in a region of tissue from a carcinogen (e.g., sun, smoking), predisposing it to multiple separate premalignant or malignant lesions.", "syn": ["cancerization"], "abbr": []}
+{"id": 18296, "term": "Candesartan", "def": "An angiotensin II receptor blocker (ARB) used for hypertension and heart failure. Like other ARBs it is teratogenic and can raise potassium.", "syn": [], "abbr": []}
+{"id": 18297, "term": "Candidiasis", "def": "Infection with Candida yeasts, causing thrush, vaginitis, esophagitis and, in the immunocompromised, bloodstream disease. Pseudohyphae and budding yeast are seen on microscopy.", "syn": ["candidosis"], "abbr": []}
+{"id": 18298, "skip": "not-medical"}
+{"id": 18299, "term": "Cantholysis", "def": "Cutting the lateral canthal tendon of the eye, done after canthotomy to relieve pressure in orbital compartment syndrome.", "syn": [], "abbr": []}
+{"id": 18300, "term": "Canthotomy", "def": "A cut through the outer corner of the eyelids (lateral canthus). Performed emergently to relieve pressure from retrobulbar hemorrhage and prevent blindness.", "syn": ["lateral canthotomy"], "abbr": []}
+{"id": 18301, "skip": "not-medical"}
+{"id": 18302, "skip": "obvious"}
+{"id": 18303, "term": "Capacitation", "def": "The final maturation of sperm in the female reproductive tract that enables them to fertilize an egg, including loss of seminal plasma coating and changes in the membrane.", "syn": [], "abbr": []}
+{"id": 18304, "skip": "not-medical"}
+{"id": 18305, "term": "Capitellum", "def": "The rounded outer part of the lower end of the humerus that articulates with the radial head at the elbow.", "syn": [], "abbr": []}
+{"id": 18306, "term": "Capnogram", "def": "The waveform of exhaled carbon dioxide over time from capnography. A flat line means no exhaled CO2, as with esophageal intubation or cardiac arrest.", "syn": [], "abbr": []}
+{"id": 18307, "term": "Capnometry", "def": "Measurement of the carbon dioxide concentration in exhaled breath, usually end-tidal CO2, used to confirm endotracheal tube placement.", "syn": [], "abbr": []}
+{"id": 18308, "skip": "not-medical"}
+{"id": 18309, "term": "Carbaminohemoglobin", "def": "Hemoglobin with CO2 bound to its globin amino groups, one way CO2 is carried in blood. Carrying CO2 this way shifts the oxygen curve right (Haldane effect).", "syn": [], "abbr": []}
+{"id": 18310, "term": "Carbapenemase", "def": "A beta-lactamase enzyme that destroys carbapenem antibiotics, making bacteria such as Klebsiella (KPC) multidrug resistant.", "syn": [], "abbr": []}
+{"id": 18311, "term": "Carbogen", "def": "A mixture of oxygen and a small percentage of carbon dioxide breathed to cause vasodilation, sometimes used in central retinal artery occlusion.", "syn": [], "abbr": []}
+{"id": 18312, "term": "Carbolfuchsin", "def": "The red dye in acid-fast (Ziehl-Neelsen, Kinyoun) stains that penetrates the waxy mycolic acid walls of Mycobacterium and Nocardia.", "syn": [], "abbr": []}
+{"id": 18313, "skip": "not-medical"}
+{"id": 18314, "skip": "obvious"}
+{"id": 18315, "skip": "not-medical"}
+{"id": 18316, "skip": "fragment"}
+{"id": 18317, "term": "Cardiospasm", "def": "An old term for achalasia, failure of the lower esophageal sphincter to relax with loss of esophageal peristalsis.", "syn": [], "abbr": []}
+{"id": 18318, "skip": "fragment"}
+{"id": 18319, "skip": "obvious"}
+{"id": 18320, "skip": "fragment"}
+{"id": 18321, "term": "Carneous degeneration", "def": "Hemorrhagic infarction of a uterine fibroid, also called red degeneration, usually in pregnancy. Causes acute pain and low-grade fever.", "syn": ["red degeneration"], "abbr": []}
+{"id": 18322, "skip": "obvious"}
+{"id": 18323, "skip": "not-medical"}
+{"id": 18324, "skip": "fragment"}
+{"id": 18325, "skip": "fragment"}
+{"id": 18326, "skip": "not-medical"}
+{"id": 18327, "skip": "not-medical"}
+{"id": 18328, "skip": "not-medical"}
+{"id": 18329, "skip": "fragment"}
+{"id": 18330, "skip": "not-medical"}
+{"id": 18331, "skip": "not-medical"}
+{"id": 18332, "skip": "obvious"}
+{"id": 18333, "skip": "not-medical"}
+{"id": 18334, "skip": "wrong-sense"}
+{"id": 18335, "skip": "not-medical"}
+{"id": 18336, "skip": "not-medical"}
+{"id": 18337, "skip": "not-medical"}
+{"id": 18338, "skip": "not-medical"}
+{"id": 18339, "skip": "obvious"}
+{"id": 18340, "skip": "obvious"}
+{"id": 18341, "term": "Caveolin", "def": "The structural protein of caveolae, small membrane pits in cells such as muscle and endothelium. Caveolin-3 mutations cause some limb-girdle muscular dystrophies.", "syn": [], "abbr": []}
+{"id": 18342, "term": "Cavotricuspid isthmus", "def": "The strip of right atrial tissue between the tricuspid valve and inferior vena cava that carries the reentry circuit of typical atrial flutter. Ablation of it cures flutter.", "syn": ["cavotricuspid"], "abbr": []}
+{"id": 18343, "skip": "not-medical"}
+{"id": 18344, "skip": "not-medical"}
+{"id": 18345, "term": "Cecopexy", "def": "Surgery to fix the cecum to the abdominal wall, used for cecal volvulus.", "syn": [], "abbr": []}
+{"id": 18346, "skip": "not-medical"}
+{"id": 18347, "skip": "not-medical"}
+{"id": 18348, "skip": "not-medical"}
+{"id": 18349, "skip": "not-medical"}
+{"id": 18350, "term": "Centimorgan", "def": "A unit of genetic distance equal to a 1% chance of recombination between two gene loci during meiosis.", "syn": ["centimorgans"], "abbr": ["cM"]}
+{"id": 18351, "skip": "not-medical"}
+{"id": 18352, "skip": "not-medical"}
+{"id": 18353, "skip": "fragment"}
+{"id": 18354, "skip": "obvious"}
+{"id": 18355, "skip": "not-medical"}
+{"id": 18356, "skip": "not-medical"}
+{"id": 18357, "term": "Certolizumab", "def": "A pegylated antibody fragment against TNF-alpha, used for Crohn disease and rheumatoid arthritis.", "syn": [], "abbr": []}
+{"id": 18358, "term": "Cervarix", "def": "A bivalent HPV vaccine protecting against types 16 and 18, the main causes of cervical cancer.", "syn": [], "abbr": []}
+{"id": 18359, "skip": "fragment"}
+{"id": 18360, "skip": "fragment"}
+{"id": 18361, "skip": "fragment"}
+{"id": 18362, "skip": "not-medical"}
+{"id": 18363, "skip": "fragment"}
+{"id": 18364, "skip": "fragment"}
+{"id": 18365, "skip": "not-medical"}
+{"id": 18366, "skip": "not-medical"}
+{"id": 18367, "skip": "not-medical"}
+{"id": 18368, "skip": "not-medical"}
+{"id": 18369, "skip": "not-medical"}

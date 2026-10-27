@@ -8,3 +8,4 @@
 addon/user_files/overrides.json
 # AnKing card text excerpts (copyrighted) — regenerate locally with tools/make_candidates.py
 data/candidates/
+dist/

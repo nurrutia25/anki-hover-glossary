@@ -65,7 +65,7 @@
   }
 
   function markAll() {
-    if (marking || document.body.classList.contains("ba-editing")) return;
+    if (marking || OPTS.enabled === false || document.body.classList.contains("ba-editing")) return;
     var root = document.getElementById("qa");
     if (!root || !DATA.e.length) return;
     var isQuestion = !root.querySelector("#answer") && !document.body.classList.contains("hg-answer");
@@ -247,6 +247,10 @@
   window.HG = {
     mark: markAll,
     unmark: unmarkAll,
+    setEnabled: function (on) {
+      OPTS.enabled = on;
+      if (on) markAll(); else unmarkAll();
+    },
     setOverride: function (key, text) {
       if (text) overrides[key] = text; else delete overrides[key];
       if (tipFor) show(tipFor);
