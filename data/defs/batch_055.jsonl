@@ -1,0 +1,250 @@
+{"id": 13750, "term": "Peroxisomal", "def": "Relating to peroxisomes, organelles that oxidize very long-chain fatty acids and break down hydrogen peroxide. Defects cause Zellweger syndrome and adrenoleukodystrophy.", "syn": [], "abbr": []}
+{"id": 13751, "skip": "obvious"}
+{"id": 13752, "skip": "obvious"}
+{"id": 13753, "skip": "obvious"}
+{"id": 13754, "skip": "obvious"}
+{"id": 13755, "skip": "obvious"}
+{"id": 13756, "skip": "obvious"}
+{"id": 13757, "skip": "obvious"}
+{"id": 13758, "term": "Sclerae", "def": "The white outer coats of the eyes. Blue sclerae occur in osteogenesis imperfecta, where thin collagen shows the underlying choroid.", "syn": ["sclera"], "abbr": []}
+{"id": 13759, "skip": "obvious"}
+{"id": 13760, "skip": "obvious"}
+{"id": 13761, "skip": "not-medical"}
+{"id": 13762, "skip": "not-medical"}
+{"id": 13763, "skip": "obvious"}
+{"id": 13764, "skip": "not-medical"}
+{"id": 13765, "skip": "obvious"}
+{"id": 13766, "skip": "obvious"}
+{"id": 13767, "skip": "obvious"}
+{"id": 13768, "skip": "obvious"}
+{"id": 13769, "skip": "not-medical"}
+{"id": 13770, "term": "Palpebral", "def": "Relating to the eyelids. The palpebral fissure is the opening between the eyelids, which is short in fetal alcohol syndrome and slanted upward in Down syndrome.", "syn": [], "abbr": []}
+{"id": 13771, "skip": "fragment"}
+{"id": 13772, "skip": "obvious"}
+{"id": 13773, "term": "Dicrotic notch", "def": "A small dip in the arterial pressure waveform caused by aortic valve closure and brief backflow. Marks the end of systole.", "syn": ["dicrotic"], "abbr": []}
+{"id": 13774, "skip": "obvious"}
+{"id": 13775, "term": "Automaticity", "def": "Ability of cardiac pacemaker cells to spontaneously depolarize and fire without outside stimulation. Greatest in the sinoatrial node.", "syn": [], "abbr": []}
+{"id": 13776, "skip": "not-medical"}
+{"id": 13777, "skip": "obvious"}
+{"id": 13778, "skip": "not-medical"}
+{"id": 13779, "term": "Lusitropy", "def": "The rate of myocardial relaxation. Positive lusitropy, such as from beta-1 stimulation, speeds calcium reuptake into the sarcoplasmic reticulum.", "syn": [], "abbr": []}
+{"id": 13780, "skip": "obvious"}
+{"id": 13781, "skip": "obvious"}
+{"id": 13782, "skip": "obvious"}
+{"id": 13783, "skip": "obvious"}
+{"id": 13784, "skip": "obvious"}
+{"id": 13785, "skip": "obvious"}
+{"id": 13786, "skip": "obvious"}
+{"id": 13787, "skip": "obvious"}
+{"id": 13788, "term": "Tocilizumab", "def": "Monoclonal antibody blocking the IL-6 receptor. Used for rheumatoid arthritis, giant cell arteritis and cytokine release syndrome.", "syn": [], "abbr": []}
+{"id": 13789, "skip": "obvious"}
+{"id": 13790, "skip": "obvious"}
+{"id": 13791, "skip": "obvious"}
+{"id": 13792, "skip": "not-medical"}
+{"id": 13793, "skip": "obvious"}
+{"id": 13794, "skip": "not-medical"}
+{"id": 13795, "skip": "obvious"}
+{"id": 13796, "skip": "obvious"}
+{"id": 13797, "skip": "obvious"}
+{"id": 13798, "skip": "obvious"}
+{"id": 13799, "skip": "not-medical"}
+{"id": 13800, "skip": "obvious"}
+{"id": 13801, "skip": "obvious"}
+{"id": 13802, "skip": "obvious"}
+{"id": 13803, "skip": "obvious"}
+{"id": 13804, "skip": "obvious"}
+{"id": 13805, "term": "Aorticopulmonary septum", "def": "Spiral septum dividing the truncus arteriosus into the aorta and pulmonary trunk. Neural crest cells form it; failure causes transposition of great vessels and truncus arteriosus.", "syn": ["aorticopulmonary"], "abbr": []}
+{"id": 13806, "skip": "obvious"}
+{"id": 13807, "skip": "obvious"}
+{"id": 13808, "skip": "not-medical"}
+{"id": 13809, "skip": "obvious"}
+{"id": 13810, "skip": "not-medical"}
+{"id": 13811, "skip": "obvious"}
+{"id": 13812, "skip": "obvious"}
+{"id": 13813, "skip": "obvious"}
+{"id": 13814, "skip": "obvious"}
+{"id": 13815, "term": "Venodilators", "def": "Drugs that dilate veins, reducing preload and venous return. Nitroglycerin is the classic example.", "syn": ["venodilator"], "abbr": []}
+{"id": 13816, "skip": "obvious"}
+{"id": 13817, "skip": "obvious"}
+{"id": 13818, "term": "Infranodal", "def": "Below the AV node, in the His-Purkinje system. Infranodal blocks are more dangerous and more likely to progress to complete heart block.", "syn": [], "abbr": []}
+{"id": 13819, "skip": "obvious"}
+{"id": 13820, "skip": "not-medical"}
+{"id": 13821, "skip": "not-medical"}
+{"id": 13822, "skip": "obvious"}
+{"id": 13823, "skip": "obvious"}
+{"id": 13824, "skip": "obvious"}
+{"id": 13825, "skip": "obvious"}
+{"id": 13826, "skip": "obvious"}
+{"id": 13827, "skip": "obvious"}
+{"id": 13828, "skip": "obvious"}
+{"id": 13829, "term": "Codominant circulation", "def": "Coronary pattern in which the posterior descending artery arises from both the right and left coronary arteries, which occurs in a minority of people.", "syn": ["codominant"], "abbr": []}
+{"id": 13830, "skip": "obvious"}
+{"id": 13831, "skip": "fragment"}
+{"id": 13832, "skip": "obvious"}
+{"id": 13833, "skip": "fragment"}
+{"id": 13834, "skip": "obvious"}
+{"id": 13835, "skip": "obvious"}
+{"id": 13836, "skip": "not-medical"}
+{"id": 13837, "skip": "not-medical"}
+{"id": 13838, "skip": "obvious"}
+{"id": 13839, "term": "Evolocumab", "def": "Monoclonal antibody inhibiting PCSK9, increasing LDL receptor recycling and lowering LDL cholesterol. Alirocumab is similar.", "syn": [], "abbr": []}
+{"id": 13840, "skip": "obvious"}
+{"id": 13841, "skip": "obvious"}
+{"id": 13842, "skip": "not-medical"}
+{"id": 13843, "skip": "obvious"}
+{"id": 13844, "skip": "obvious"}
+{"id": 13845, "term": "Hysteresis", "def": "Lung pressure-volume curves differing on inflation and deflation, because more pressure is needed to open collapsed alveoli than keep them open.", "syn": [], "abbr": []}
+{"id": 13846, "skip": "obvious"}
+{"id": 13847, "skip": "obvious"}
+{"id": 13848, "skip": "obvious"}
+{"id": 13849, "skip": "obvious"}
+{"id": 13850, "skip": "obvious"}
+{"id": 13851, "term": "Deoxyhemoglobin", "def": "Hemoglobin without bound oxygen, giving blood a bluish color. Pulse oximetry uses its different light absorption to measure saturation.", "syn": [], "abbr": []}
+{"id": 13852, "term": "Cooperativity", "def": "Binding of one oxygen molecule to hemoglobin increasing the affinity of the remaining sites, producing the sigmoidal oxygen-hemoglobin dissociation curve.", "syn": [], "abbr": []}
+{"id": 13853, "skip": "not-medical"}
+{"id": 13854, "skip": "obvious"}
+{"id": 13855, "skip": "not-medical"}
+{"id": 13856, "skip": "not-medical"}
+{"id": 13857, "skip": "not-medical"}
+{"id": 13858, "skip": "obvious"}
+{"id": 13859, "skip": "obvious"}
+{"id": 13860, "skip": "not-medical"}
+{"id": 13861, "skip": "obvious"}
+{"id": 13862, "term": "Phagolysosomal", "def": "Relating to the fusion of a phagosome with a lysosome. In silicosis, macrophages that engulf silica rupture their phagolysosomes, causing inflammation and fibrosis.", "syn": [], "abbr": []}
+{"id": 13863, "skip": "obvious"}
+{"id": 13864, "skip": "fragment"}
+{"id": 13865, "term": "Pyknosis", "def": "Nuclear shrinkage with dense, dark chromatin, a feature of irreversible cell injury and cell death.", "syn": [], "abbr": []}
+{"id": 13866, "skip": "not-medical"}
+{"id": 13867, "skip": "obvious"}
+{"id": 13868, "skip": "obvious"}
+{"id": 13869, "skip": "obvious"}
+{"id": 13870, "skip": "obvious"}
+{"id": 13871, "skip": "obvious"}
+{"id": 13872, "skip": "obvious"}
+{"id": 13873, "skip": "obvious"}
+{"id": 13874, "skip": "obvious"}
+{"id": 13875, "skip": "not-medical"}
+{"id": 13876, "term": "Hyperchloremic", "def": "Having high blood chloride. Hyperchloremic metabolic acidosis has a normal anion gap, from bicarbonate loss in diarrhea or renal tubular acidosis.", "syn": [], "abbr": []}
+{"id": 13877, "term": "Aminoaciduria", "def": "Excess amino acids in the urine from impaired renal reabsorption. Seen in Fanconi syndrome, cystinuria and Hartnup disease.", "syn": [], "abbr": []}
+{"id": 13878, "term": "Fructokinase", "def": "Liver enzyme phosphorylating fructose to fructose-1-phosphate. Deficiency causes benign essential fructosuria.", "syn": [], "abbr": []}
+{"id": 13879, "skip": "obvious"}
+{"id": 13880, "skip": "obvious"}
+{"id": 13881, "skip": "obvious"}
+{"id": 13882, "skip": "obvious"}
+{"id": 13883, "skip": "obvious"}
+{"id": 13884, "term": "Thromboembolus", "def": "A clot that has broken off from where it formed and travels in the bloodstream to block a distant vessel.", "syn": [], "abbr": []}
+{"id": 13885, "skip": "obvious"}
+{"id": 13886, "skip": "obvious"}
+{"id": 13887, "skip": "not-medical"}
+{"id": 13888, "skip": "obvious"}
+{"id": 13889, "skip": "obvious"}
+{"id": 13890, "skip": "obvious"}
+{"id": 13891, "term": "Zileuton", "def": "5-lipoxygenase inhibitor that blocks leukotriene synthesis. Used in asthma; can cause hepatotoxicity.", "syn": [], "abbr": []}
+{"id": 13892, "skip": "obvious"}
+{"id": 13893, "skip": "obvious"}
+{"id": 13894, "skip": "obvious"}
+{"id": 13895, "skip": "obvious"}
+{"id": 13896, "skip": "obvious"}
+{"id": 13897, "skip": "obvious"}
+{"id": 13898, "term": "Juxtamedullary nephrons", "def": "Nephrons with glomeruli near the corticomedullary border and long loops of Henle that create the medullary concentration gradient.", "syn": ["juxtamedullary"], "abbr": []}
+{"id": 13899, "term": "Corticomedullary junction", "def": "Boundary between the renal cortex and medulla. Juxtamedullary glomeruli lie here.", "syn": ["corticomedullary"], "abbr": []}
+{"id": 13900, "skip": "obvious"}
+{"id": 13901, "skip": "obvious"}
+{"id": 13902, "skip": "obvious"}
+{"id": 13903, "skip": "obvious"}
+{"id": 13904, "skip": "obvious"}
+{"id": 13905, "skip": "obvious"}
+{"id": 13906, "skip": "obvious"}
+{"id": 13907, "skip": "obvious"}
+{"id": 13908, "skip": "obvious"}
+{"id": 13909, "skip": "fragment"}
+{"id": 13910, "skip": "fragment"}
+{"id": 13911, "skip": "not-medical"}
+{"id": 13912, "skip": "obvious"}
+{"id": 13913, "skip": "obvious"}
+{"id": 13914, "skip": "fragment"}
+{"id": 13915, "skip": "obvious"}
+{"id": 13916, "skip": "obvious"}
+{"id": 13917, "term": "Metanephros", "def": "Third embryonic kidney, which forms the permanent kidney. The ureteric bud forms the collecting system; the metanephric mesenchyme forms nephrons.", "syn": [], "abbr": []}
+{"id": 13918, "skip": "obvious"}
+{"id": 13919, "skip": "obvious"}
+{"id": 13920, "term": "Oliguric", "def": "Having low urine output (under 400 mL/day). Seen in acute kidney injury.", "syn": ["oliguria"], "abbr": []}
+{"id": 13921, "skip": "obvious"}
+{"id": 13922, "skip": "obvious"}
+{"id": 13923, "skip": "obvious"}
+{"id": 13924, "skip": "obvious"}
+{"id": 13925, "skip": "obvious"}
+{"id": 13926, "term": "Crescentic", "def": "Having crescents in Bowman space, from proliferation of parietal epithelial cells and macrophages. Seen in rapidly progressive glomerulonephritis.", "syn": ["crescents"], "abbr": []}
+{"id": 13927, "skip": "obvious"}
+{"id": 13928, "term": "Perinephric abscess", "def": "Pus collection in the fat around the kidney, a complication of pyelonephritis. Presents with persistent fever despite antibiotics.", "syn": ["perinephric"], "abbr": []}
+{"id": 13929, "term": "Urosepsis", "def": "Sepsis originating from a urinary tract infection, often pyelonephritis or obstruction, requiring urgent treatment.", "syn": [], "abbr": []}
+{"id": 13930, "term": "Normocalcemia", "def": "Having a normal serum calcium level. Most calcium oxalate stone formers have normal serum calcium and high urinary calcium.", "syn": [], "abbr": []}
+{"id": 13931, "skip": "obvious"}
+{"id": 13932, "skip": "obvious"}
+{"id": 13933, "skip": "obvious"}
+{"id": 13934, "skip": "obvious"}
+{"id": 13935, "skip": "obvious"}
+{"id": 13936, "skip": "obvious"}
+{"id": 13937, "skip": "obvious"}
+{"id": 13938, "skip": "obvious"}
+{"id": 13939, "skip": "obvious"}
+{"id": 13940, "term": "Ototoxic", "def": "Damaging the inner ear, causing hearing loss or imbalance. Examples include aminoglycosides, loop diuretics (especially ethacrynic acid) and cisplatin.", "syn": [], "abbr": []}
+{"id": 13941, "skip": "obvious"}
+{"id": 13942, "skip": "obvious"}
+{"id": 13943, "skip": "obvious"}
+{"id": 13944, "skip": "obvious"}
+{"id": 13945, "skip": "obvious"}
+{"id": 13946, "skip": "obvious"}
+{"id": 13947, "skip": "not-medical"}
+{"id": 13948, "skip": "not-medical"}
+{"id": 13949, "skip": "not-medical"}
+{"id": 13950, "skip": "not-medical"}
+{"id": 13951, "skip": "not-medical"}
+{"id": 13952, "skip": "not-medical"}
+{"id": 13953, "skip": "not-medical"}
+{"id": 13954, "skip": "not-medical"}
+{"id": 13955, "skip": "obvious"}
+{"id": 13956, "skip": "obvious"}
+{"id": 13957, "term": "Acetoacetyl-CoA", "def": "Intermediate in ketone body and cholesterol synthesis, made from two acetyl-CoA molecules. HMG-CoA synthase converts it to HMG-CoA.", "syn": ["acetoacetyl"], "abbr": []}
+{"id": 13958, "term": "Alpha-L-iduronidase", "def": "Lysosomal enzyme that degrades heparan and dermatan sulfate. Deficiency causes Hurler syndrome.", "syn": ["iduronidase", "iduronate"], "abbr": []}
+{"id": 13959, "skip": "obvious"}
+{"id": 13960, "skip": "not-medical"}
+{"id": 13961, "skip": "obvious"}
+{"id": 13962, "skip": "not-medical"}
+{"id": 13963, "skip": "obvious"}
+{"id": 13964, "skip": "obvious"}
+{"id": 13965, "skip": "obvious"}
+{"id": 13966, "skip": "obvious"}
+{"id": 13967, "skip": "obvious"}
+{"id": 13968, "term": "Keratomalacia", "def": "Softening and ulceration of the cornea from severe vitamin A deficiency, often following xerophthalmia and Bitot spots.", "syn": [], "abbr": []}
+{"id": 13969, "skip": "not-medical"}
+{"id": 13970, "term": "Cheilosis", "def": "Cracking and scaling at the lip corners and lips. Seen in riboflavin, iron and other vitamin deficiencies.", "syn": ["angular cheilitis"], "abbr": []}
+{"id": 13971, "term": "Polymorphonuclear leukocytes", "def": "White cells with multilobed nuclei, mainly neutrophils. Hypersegmented ones (over 5 lobes) suggest B12 or folate deficiency.", "syn": ["polymorphonuclear", "PMNs"], "abbr": []}
+{"id": 13972, "term": "Methylcobalamin", "def": "Active form of vitamin B12 serving as cofactor for methionine synthase. Converts homocysteine to methionine.", "syn": [], "abbr": []}
+{"id": 13973, "skip": "obvious"}
+{"id": 13974, "skip": "obvious"}
+{"id": 13975, "skip": "obvious"}
+{"id": 13976, "skip": "obvious"}
+{"id": 13977, "skip": "obvious"}
+{"id": 13978, "term": "Bradypnea", "def": "Abnormally slow breathing rate. Seen in opioid overdose and in cholinergic toxicity.", "syn": [], "abbr": []}
+{"id": 13979, "skip": "not-medical"}
+{"id": 13980, "term": "Cycloplegia", "def": "Paralysis of the ciliary muscle, causing loss of accommodation and blurred near vision. Caused by antimuscarinics such as atropine.", "syn": [], "abbr": []}
+{"id": 13981, "skip": "obvious"}
+{"id": 13982, "skip": "obvious"}
+{"id": 13983, "skip": "obvious"}
+{"id": 13984, "skip": "obvious"}
+{"id": 13985, "skip": "obvious"}
+{"id": 13986, "term": "Macrocytosis", "def": "Presence of abnormally large red blood cells (MCV above 100 fL). Seen in B12 or folate deficiency, alcohol use, liver disease and hypothyroidism.", "syn": [], "abbr": []}
+{"id": 13987, "skip": "obvious"}
+{"id": 13988, "skip": "obvious"}
+{"id": 13989, "skip": "obvious"}
+{"id": 13990, "skip": "obvious"}
+{"id": 13991, "skip": "obvious"}
+{"id": 13992, "skip": "obvious"}
+{"id": 13993, "skip": "obvious"}
+{"id": 13994, "term": "Degmacytes", "def": "Red cells with a bite taken out of the margin, seen in G6PD deficiency after Heinz bodies are removed by splenic macrophages.", "syn": ["bite cells"], "abbr": []}
+{"id": 13995, "skip": "obvious"}
+{"id": 13996, "skip": "obvious"}
+{"id": 13997, "skip": "not-medical"}
+{"id": 13998, "skip": "obvious"}
+{"id": 13999, "skip": "obvious"}

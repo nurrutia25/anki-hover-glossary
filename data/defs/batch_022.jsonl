@@ -1,0 +1,250 @@
+{"id": 5500, "term": "HLA-B8", "def": "An MHC class I allele associated with autoimmune disease risk, including celiac disease, Graves disease and myasthenia gravis, typically inherited with HLA-DR3.", "syn": [], "abbr": []}
+{"id": 5501, "term": "Endemic goiter", "def": "Thyroid enlargement in regions where dietary iodine is scarce. Low iodine impairs hormone synthesis, raising TSH and driving gland growth.", "syn": [], "abbr": []}
+{"id": 5502, "term": "Kidney tubules", "def": "The tubes of each nephron that modify filtered fluid by reabsorbing and secreting solutes: proximal tubule, loop of Henle, distal tubule and collecting duct.", "syn": ["kidney tubule", "renal tubules"], "abbr": []}
+{"id": 5503, "term": "Pseudopseudohypoparathyroidism", "def": "Albright hereditary osteodystrophy features (short stature, short fourth metacarpals, round face) with normal calcium and PTH. Occurs when the GNAS mutation is inherited from the father.", "syn": [], "abbr": []}
+{"id": 5504, "term": "Renovascular hypertension", "def": "High blood pressure from reduced renal blood flow, most often renal artery stenosis. The kidney releases renin, activating the renin-angiotensin-aldosterone system.", "syn": ["renal hypertension"], "abbr": []}
+{"id": 5505, "term": "Waterhouse-Friderichsen syndrome", "def": "Acute adrenal failure from bilateral adrenal hemorrhage, classically in meningococcal sepsis. Features shock, purpura and disseminated intravascular coagulation.", "syn": [], "abbr": []}
+{"id": 5506, "skip": "obvious"}
+{"id": 5507, "term": "Normetanephrine", "def": "The methylated metabolite of norepinephrine, measured in plasma or urine. Raised levels suggest pheochromocytoma.", "syn": [], "abbr": []}
+{"id": 5508, "term": "Phosphatidylinositol 3-kinase", "def": "An enzyme that phosphorylates inositol phospholipids, activating the AKT pathway that promotes cell growth and survival. Insulin signaling and many cancers involve it.", "syn": ["PI3 kinase", "PI3K"], "abbr": ["PI3K"]}
+{"id": 5509, "term": "Nelson syndrome", "def": "Enlargement of an ACTH-secreting pituitary adenoma after bilateral adrenalectomy for Cushing disease, with loss of cortisol feedback. Causes hyperpigmentation and mass effects.", "syn": [], "abbr": []}
+{"id": 5510, "term": "Laron syndrome", "def": "Growth hormone insensitivity from a growth hormone receptor mutation. Short stature with high GH and low IGF-1.", "syn": [], "abbr": []}
+{"id": 5511, "term": "AMP-activated protein kinase", "def": "An energy-sensing enzyme activated when AMP rises. It stimulates catabolic pathways and inhibits anabolic ones; metformin acts partly through it.", "syn": ["AMP-activated kinase"], "abbr": ["AMPK"]}
+{"id": 5512, "term": "Canagliflozin", "def": "An SGLT2 inhibitor that blocks proximal tubule glucose reabsorption, causing glucosuria. Used for type 2 diabetes; risks include genital yeast infections and euglycemic ketoacidosis.", "syn": [], "abbr": []}
+{"id": 5513, "term": "Oogonia", "def": "Diploid germ cells in the fetal ovary that divide by mitosis, then enter meiosis to become primary oocytes arrested in prophase I.", "syn": ["oogonium"], "abbr": []}
+{"id": 5514, "term": "Androgen-binding protein", "def": "A protein made by Sertoli cells under FSH that binds testosterone in seminiferous tubules, maintaining high local androgen concentrations for spermatogenesis.", "syn": [], "abbr": []}
+{"id": 5515, "skip": "obvious"}
+{"id": 5516, "term": "Mesonephros", "def": "The second embryonic kidney, temporary in humans. Its duct becomes the Wolffian (mesonephric) duct, forming the male epididymis, vas deferens and seminal vesicles.", "syn": [], "abbr": []}
+{"id": 5517, "term": "Bicornuate uterus", "def": "A congenital uterine anomaly from incomplete fusion of the Mullerian ducts, giving a heart-shaped uterus with two horns. Linked to miscarriage and preterm labor.", "syn": [], "abbr": []}
+{"id": 5518, "term": "Extramammary Paget disease", "def": "An intraepithelial adenocarcinoma of apocrine-rich skin such as the vulva and perianal area, appearing as an itchy red scaly plaque with Paget cells.", "syn": [], "abbr": []}
+{"id": 5519, "term": "Hysteroscopy", "def": "Direct visualization of the uterine cavity with a thin scope passed through the cervix. Used to diagnose and treat polyps, fibroids and adhesions.", "syn": [], "abbr": []}
+{"id": 5520, "term": "Tubal pregnancy", "def": "An ectopic pregnancy implanted in the fallopian tube, usually the ampulla. Risk of rupture and hemorrhage; presents with pain, bleeding and a positive hCG.", "syn": [], "abbr": []}
+{"id": 5521, "skip": "obvious"}
+{"id": 5522, "term": "Thecoma", "def": "A benign ovarian sex cord-stromal tumor of theca cells that produces estrogen. Causes postmenopausal bleeding and endometrial hyperplasia.", "syn": ["thecomas", "theca cell tumor"], "abbr": []}
+{"id": 5523, "term": "Bowen disease", "def": "Squamous cell carcinoma in situ of the skin, presenting as a red scaly plaque. It may follow arsenic exposure or sun damage.", "syn": ["squamous cell carcinoma in situ", "Bowen's disease"], "abbr": []}
+{"id": 5524, "term": "Spontaneous remission", "def": "Disappearance of disease without treatment. It is notably described with some cancers such as neuroblastoma and renal cell carcinoma.", "syn": ["spontaneous regression"], "abbr": []}
+{"id": 5525, "term": "Sertoli cell tumor", "def": "A testicular sex cord-stromal tumor, usually benign, that may secrete estrogen causing gynecomastia. Histology shows tubules resembling seminiferous tubules.", "syn": ["Sertoli cell tumors"], "abbr": []}
+{"id": 5526, "skip": "obvious"}
+{"id": 5527, "term": "Acid phosphatase", "def": "A lysosomal enzyme that is high in prostate tissue. Prostatic acid phosphatase was an older prostate cancer marker; tartrate-resistant form marks hairy cell leukemia.", "syn": [], "abbr": []}
+{"id": 5528, "term": "Medullary carcinoma", "def": "A tumor that is soft, fleshy and well circumscribed with lymphoid infiltrate. Medullary thyroid cancer arises from C cells and secretes calcitonin.", "syn": [], "abbr": []}
+{"id": 5529, "term": "Triple-negative breast cancer", "def": "Breast cancer lacking estrogen receptor, progesterone receptor and HER2. Aggressive, common with BRCA1 mutations, and responds to chemotherapy rather than hormone therapy.", "syn": [], "abbr": []}
+{"id": 5530, "skip": "obvious"}
+{"id": 5531, "term": "Allantois", "def": "An embryonic outpouching of the hindgut. It becomes the urachus, which closes to form the median umbilical ligament.", "syn": [], "abbr": []}
+{"id": 5532, "term": "Oophorectomy", "def": "Surgical removal of one or both ovaries.", "syn": ["ovariectomy"], "abbr": []}
+{"id": 5533, "term": "Broad ligament", "def": "A double fold of peritoneum draping over the uterus, fallopian tubes and ovaries. It contains the uterine vessels and the ureter runs beneath it.", "syn": [], "abbr": []}
+{"id": 5534, "term": "Metacarpal bones", "def": "The five long bones of the palm, between the carpal bones and fingers. Fifth metacarpal neck fracture is the boxer's fracture.", "syn": ["metacarpals"], "abbr": []}
+{"id": 5535, "skip": "obvious"}
+{"id": 5536, "term": "Chemotactic factors", "def": "Molecules that draw cells such as neutrophils along a concentration gradient. Examples include C5a, IL-8, LTB4 and bacterial N-formylmethionine peptides.", "syn": ["chemoattractant", "chemoattractants", "chemotactic factor"], "abbr": []}
+{"id": 5537, "term": "Olfactory bulb", "def": "The forebrain structure at the base of the frontal lobe where cranial nerve I axons synapse. It passes smell information to the olfactory cortex without a thalamic relay.", "syn": [], "abbr": []}
+{"id": 5538, "term": "Isochromosome", "def": "An abnormal chromosome where one arm is duplicated and the other lost, forming a mirror image. Isochromosome Xq is seen in Turner syndrome.", "syn": ["isochromosomes"], "abbr": []}
+{"id": 5539, "term": "Hydroxyapatite", "def": "The calcium phosphate crystal that forms the mineral of bone and teeth.", "syn": [], "abbr": []}
+{"id": 5540, "term": "Postmenopausal osteoporosis", "def": "Bone loss after menopause from estrogen deficiency, which increases osteoclast activity. Causes vertebral compression and hip fractures.", "syn": ["post-menopausal osteoporosis"], "abbr": []}
+{"id": 5541, "term": "Nuclear factor kappa B", "def": "A transcription factor that promotes inflammatory gene expression. It is held inactive by IkB and activated by TNF and toll-like receptors.", "syn": ["NF-kappa B", "nuclear factor kappaB"], "abbr": ["NF-kB"]}
+{"id": 5542, "term": "Aquaporin 2", "def": "The water channel inserted in the collecting duct apical membrane under ADH (V2 receptor) action. Defects cause nephrogenic diabetes insipidus.", "syn": ["aquaporin-2"], "abbr": []}
+{"id": 5543, "term": "Glucocorticoid receptor", "def": "An intracellular receptor that binds cortisol and acts as a transcription factor, regulating metabolism and suppressing inflammation.", "syn": ["glucocorticoid receptors"], "abbr": []}
+{"id": 5544, "term": "Ligamentum teres hepatis", "def": "The round ligament of the liver, the fibrous remnant of the fetal umbilical vein. It runs in the free edge of the falciform ligament.", "syn": ["round ligament of the liver"], "abbr": []}
+{"id": 5545, "skip": "obvious"}
+{"id": 5546, "term": "Off-label use", "def": "Prescribing a drug for an indication, dose or population not approved by regulators.", "syn": [], "abbr": []}
+{"id": 5547, "term": "Aluminum hydroxide", "def": "An antacid that neutralizes stomach acid. Can cause constipation and hypophosphatemia, and accumulates in kidney failure.", "syn": [], "abbr": []}
+{"id": 5548, "term": "Sulfapyridine", "def": "A sulfonamide that is the active metabolite of sulfasalazine, which is cleaved by gut bacteria to sulfapyridine and 5-aminosalicylic acid.", "syn": [], "abbr": []}
+{"id": 5549, "term": "Barr body", "def": "An inactivated X chromosome seen as a dense mass in the nucleus of female cells. Normal females have one; XXX has two.", "syn": ["Barr bodies"], "abbr": []}
+{"id": 5550, "skip": "not-medical"}
+{"id": 5551, "term": "Thymine", "def": "A pyrimidine base in DNA that pairs with adenine. Made from uracil by methylation using thymidylate synthase.", "syn": [], "abbr": []}
+{"id": 5552, "term": "Ribose", "def": "A five-carbon sugar that forms the backbone of RNA and ATP. It has a hydroxyl at the 2' position, which deoxyribose lacks.", "syn": [], "abbr": []}
+{"id": 5553, "skip": "not-medical"}
+{"id": 5554, "term": "DNA polymerase III", "def": "The main replicating enzyme in prokaryotes, extending DNA with 5' to 3' polymerase and 3' to 5' exonuclease proofreading.", "syn": [], "abbr": []}
+{"id": 5555, "term": "DNA polymerase I", "def": "A prokaryotic enzyme that removes RNA primers via 5' to 3' exonuclease activity and fills the gap with DNA.", "syn": [], "abbr": []}
+{"id": 5556, "term": "Promoter", "def": "A DNA region upstream of a gene where RNA polymerase and transcription factors bind to begin transcription. Eukaryotic examples include the TATA box.", "syn": ["promoter region", "promoter regions"], "abbr": []}
+{"id": 5557, "term": "Frameshift mutation", "def": "An insertion or deletion of nucleotides not divisible by three, shifting the reading frame and altering all downstream codons. Often produces a premature stop codon.", "syn": ["frameshift mutations"], "abbr": []}
+{"id": 5558, "term": "Mitochondrial DNA", "def": "Circular DNA in mitochondria, inherited only from the mother. Mutations cause heteroplasmic mitochondrial diseases such as MELAS and Leber hereditary optic neuropathy.", "syn": ["mtDNA"], "abbr": ["mtDNA"]}
+{"id": 5559, "term": "General transcription factors", "def": "Proteins such as TFIID that assemble at promoters with RNA polymerase II to start transcription.", "syn": [], "abbr": []}
+{"id": 5560, "term": "Zinc finger", "def": "A protein motif that coordinates a zinc ion to fold into a DNA-binding loop. It is common in transcription factors and steroid hormone receptors.", "syn": ["zinc fingers", "zinc finger motifs"], "abbr": []}
+{"id": 5561, "term": "Homeodomain proteins", "def": "Transcription factors with a conserved DNA-binding motif encoded by homeobox genes, including HOX genes, which pattern the body axis during development.", "syn": [], "abbr": []}
+{"id": 5562, "term": "RNA polymerase I", "def": "The enzyme that transcribes most ribosomal RNA genes (28S, 18S, 5.8S) in the nucleolus.", "syn": [], "abbr": []}
+{"id": 5563, "term": "Ribonucleoproteins", "def": "Complexes of RNA with proteins, such as ribosomes, snRNPs in the spliceosome and telomerase.", "syn": ["ribonucleoprotein"], "abbr": []}
+{"id": 5564, "skip": "obvious"}
+{"id": 5565, "term": "Noncoding RNA", "def": "RNA that is not translated to protein, including rRNA, tRNA, microRNA, snRNA and long noncoding RNA. Many regulate gene expression.", "syn": ["untranslated RNA"], "abbr": []}
+{"id": 5566, "term": "40S ribosomal subunit", "def": "The small eukaryotic ribosomal subunit. It binds mRNA and initiator tRNA to begin translation.", "syn": ["small ribosomal subunit"], "abbr": []}
+{"id": 5567, "term": "Post-translational modification", "def": "Chemical changes to a protein after translation, such as phosphorylation, glycosylation, ubiquitination and proteolytic cleavage, that alter its function or location.", "syn": ["posttranslational modification"], "abbr": []}
+{"id": 5568, "term": "Signal recognition particle", "def": "A ribonucleoprotein that binds the signal peptide of a new protein and pauses translation, guiding the ribosome to the rough endoplasmic reticulum.", "syn": ["signal recognition particles"], "abbr": ["SRP"]}
+{"id": 5569, "term": "Mannose", "def": "A six-carbon sugar and epimer of glucose. Mannose-6-phosphate tags lysosomal enzymes; defects cause I-cell disease.", "syn": [], "abbr": []}
+{"id": 5570, "term": "Endosome", "def": "A membrane vesicle that sorts material taken up by endocytosis. Its acidic contents allow receptors to separate from ligands before recycling or lysosomal degradation.", "syn": ["endosomes"], "abbr": []}
+{"id": 5571, "term": "Clathrin", "def": "A protein that forms a lattice coat on vesicles in receptor-mediated endocytosis and Golgi trafficking.", "syn": [], "abbr": []}
+{"id": 5572, "term": "Vimentin", "def": "An intermediate filament protein of mesenchymal cells such as fibroblasts, endothelium and muscle. It is a marker of sarcomas and mesenchymal tumors.", "syn": [], "abbr": []}
+{"id": 5573, "term": "Organogenesis", "def": "The stage of embryonic development, weeks 3 to 8, when organs form. Teratogens during this period cause major malformations.", "syn": [], "abbr": []}
+{"id": 5574, "term": "Dentin", "def": "The mineralized tissue forming the bulk of a tooth beneath enamel, made by odontoblasts. Defective in dentinogenesis imperfecta.", "syn": [], "abbr": []}
+{"id": 5575, "term": "Type II collagen", "def": "The main collagen of hyaline cartilage, the vitreous humor and the nucleus pulposus.", "syn": [], "abbr": []}
+{"id": 5576, "term": "Nucleus pulposus", "def": "The gelatinous center of an intervertebral disc, a remnant of the notochord. Herniation through the annulus fibrosus compresses nerve roots.", "syn": [], "abbr": []}
+{"id": 5577, "term": "Type V collagen", "def": "A minor fibrillar collagen that regulates fibril assembly. Defects cause classical Ehlers-Danlos syndrome.", "syn": [], "abbr": []}
+{"id": 5578, "term": "Ligamentum flavum", "def": "A yellow, elastic ligament connecting adjacent vertebral laminae. It is pierced during lumbar puncture and epidural anesthesia.", "syn": ["ligamenta flava"], "abbr": []}
+{"id": 5579, "term": "Tropoelastin", "def": "The soluble precursor of elastin, secreted and cross-linked by lysyl oxidase.", "syn": [], "abbr": []}
+{"id": 5580, "term": "Complementary DNA", "def": "DNA synthesized from mRNA by reverse transcriptase. Lacks introns and is used for cloning and expression.", "syn": [], "abbr": ["cDNA"]}
+{"id": 5581, "skip": "obvious"}
+{"id": 5582, "skip": "obvious"}
+{"id": 5583, "term": "DNA primers", "def": "Short nucleic acid sequences that supply the 3' end where DNA polymerase begins synthesis. In PCR they flank the target.", "syn": ["DNA primer"], "abbr": []}
+{"id": 5584, "term": "Osteocytes", "def": "Mature bone cells embedded in lacunae within mineralized matrix. They sense mechanical stress and regulate bone remodeling.", "syn": ["osteocyte"], "abbr": []}
+{"id": 5585, "term": "Sarcolemma", "def": "The plasma membrane of a muscle cell. It invaginates as T-tubules to carry the action potential inward.", "syn": [], "abbr": []}
+{"id": 5586, "skip": "obvious"}
+{"id": 5587, "term": "Williams syndrome", "def": "A 7q11.23 deletion including the elastin gene. Features elfin facies, supravalvular aortic stenosis, hypercalcemia, outgoing personality and intellectual disability.", "syn": [], "abbr": []}
+{"id": 5588, "term": "Haplotype", "def": "A group of alleles on one chromosome that are inherited together, such as an HLA haplotype.", "syn": ["haplotypes"], "abbr": []}
+{"id": 5589, "term": "LOD score", "def": "A statistic for genetic linkage: the log of the odds that two loci are linked. A score of 3 or more supports linkage.", "syn": ["lod scores"], "abbr": []}
+{"id": 5590, "term": "Polydactyly", "def": "Extra fingers or toes. It appears in trisomy 13, Bardet-Biedl syndrome and as an isolated trait.", "syn": [], "abbr": []}
+{"id": 5591, "skip": "obvious"}
+{"id": 5592, "term": "Tropomyosin", "def": "A thin filament protein that covers myosin-binding sites on actin at rest. Calcium-bound troponin moves it aside to allow contraction.", "syn": [], "abbr": []}
+{"id": 5593, "term": "Phospholamban", "def": "A regulatory protein of the sarcoplasmic reticulum that inhibits SERCA calcium uptake. Phosphorylation by PKA relieves inhibition, speeding cardiac relaxation.", "syn": [], "abbr": []}
+{"id": 5594, "term": "Aortic valve disease", "def": "Disorders of the aortic valve, including stenosis and regurgitation. Causes include calcific degeneration, bicuspid valve and rheumatic fever.", "syn": [], "abbr": []}
+{"id": 5595, "term": "Celiac artery", "def": "The unpaired artery from the aorta at T12 that supplies the foregut: stomach, liver, spleen and upper pancreas and duodenum. It divides into the left gastric, splenic and common hepatic arteries.", "syn": ["celiac trunk"], "abbr": []}
+{"id": 5596, "term": "Monckeberg sclerosis", "def": "Calcification of the media of medium-sized arteries, forming rings without luminal narrowing. Found in older adults and diabetes.", "syn": ["Monckeberg medial calcific sclerosis", "Mönckeberg sclerosis"], "abbr": []}
+{"id": 5597, "term": "Myofibrils", "def": "Rod-like bundles of contractile filaments within a muscle cell, composed of repeating sarcomeres.", "syn": ["myofibril"], "abbr": []}
+{"id": 5598, "term": "Inferior wall myocardial infarction", "def": "Infarction of the heart's bottom surface, usually from right coronary artery occlusion. ST elevation is in leads II, III and aVF; may involve the right ventricle and cause bradycardia.", "syn": ["inferior myocardial infarction"], "abbr": []}
+{"id": 5599, "skip": "not-medical"}
+{"id": 5600, "term": "Pulmonary infundibular stenosis", "def": "Narrowing of the muscular right ventricular outflow below the pulmonary valve, as in tetralogy of Fallot.", "syn": [], "abbr": []}
+{"id": 5601, "term": "Right ventricular outflow tract obstruction", "def": "Narrowing of the path from the right ventricle to the pulmonary artery, as in pulmonary stenosis or tetralogy of Fallot.", "syn": ["RVOT obstruction"], "abbr": ["RVOT"]}
+{"id": 5602, "term": "Internal thoracic artery", "def": "A branch of the subclavian artery running along the inner chest wall. The left internal thoracic artery is the preferred graft to the LAD in bypass surgery.", "syn": ["internal mammary artery", "mammary artery"], "abbr": []}
+{"id": 5603, "term": "Mexiletine", "def": "A class IB sodium channel blocker (lidocaine analog). Used orally for ventricular arrhythmias and neuropathic pain.", "syn": [], "abbr": []}
+{"id": 5604, "term": "Tocainide", "def": "A class IB antiarrhythmic related to lidocaine, now rarely used because of pulmonary fibrosis and blood dyscrasias.", "syn": [], "abbr": []}
+{"id": 5605, "term": "Flecainide", "def": "A class IC sodium channel blocker for supraventricular arrhythmias. Contraindicated after myocardial infarction (CAST trial) because of proarrhythmia.", "syn": [], "abbr": []}
+{"id": 5606, "term": "Dermatan sulfate", "def": "A glycosaminoglycan in skin, vessels and heart valves. Accumulates in Hurler and Hunter syndromes (mucopolysaccharidoses).", "syn": [], "abbr": []}
+{"id": 5607, "skip": "wrong-sense"}
+{"id": 5608, "term": "Clostridium septicum", "def": "An anaerobic gram-positive rod causing spontaneous gas gangrene, usually in patients with colon cancer or neutropenia.", "syn": [], "abbr": []}
+{"id": 5609, "term": "Actinobacillus", "def": "A genus of small gram-negative coccobacilli. A. actinomycetemcomitans (Aggregatibacter) causes periodontitis and endocarditis (HACEK).", "syn": [], "abbr": []}
+{"id": 5610, "term": "Alcoholic cardiomyopathy", "def": "Dilated cardiomyopathy from chronic heavy alcohol use, causing reduced ejection fraction and heart failure. May improve with abstinence.", "syn": [], "abbr": []}
+{"id": 5611, "term": "Atrial septum", "def": "The wall between the left and right atria. Defects include atrial septal defect and patent foramen ovale.", "syn": [], "abbr": []}
+{"id": 5612, "term": "Catheter ablation", "def": "A procedure using a catheter to destroy small areas of cardiac tissue by heat or cold that cause abnormal rhythm, as in atrial fibrillation and Wolff-Parkinson-White.", "syn": ["ablation catheter"], "abbr": []}
+{"id": 5613, "term": "Arcus senilis", "def": "A gray-white ring at the periphery of the cornea from lipid deposition. Common in older adults; in the young it suggests hyperlipidemia.", "syn": ["corneal arcus"], "abbr": []}
+{"id": 5614, "term": "Pericardial fluid", "def": "A small volume of serous fluid between the pericardial layers that lubricates the heart. Excess causes effusion or tamponade.", "syn": [], "abbr": []}
+{"id": 5615, "term": "Myosin heavy chain", "def": "The motor domain subunit of myosin that binds actin and hydrolyzes ATP. Beta-MHC mutations cause hypertrophic cardiomyopathy.", "syn": ["myosin heavy chains"], "abbr": []}
+{"id": 5616, "skip": "obvious"}
+{"id": 5617, "term": "Transesophageal echocardiography", "def": "Ultrasound of the heart from a probe in the esophagus. It gives clearer images of the atria, valves and aorta than the chest wall approach.", "syn": [], "abbr": ["TEE"]}
+{"id": 5618, "term": "Subclavian vein", "def": "The vein continuing from the axillary vein, passing over the first rib to join the internal jugular. A common site for central venous access.", "syn": [], "abbr": []}
+{"id": 5619, "term": "Lecithin-cholesterol acyltransferase", "def": "A plasma enzyme that esterifies cholesterol on HDL, trapping it in the particle core. Deficiency causes corneal opacities and anemia.", "syn": ["lecithin cholesterol acyltransferase"], "abbr": ["LCAT"]}
+{"id": 5620, "term": "Simvastatin", "def": "A statin that inhibits HMG-CoA reductase, lowering LDL cholesterol. Side effects include myopathy and liver enzyme elevation.", "syn": [], "abbr": []}
+{"id": 5621, "term": "Fenofibrate", "def": "A fibrate that activates PPAR-alpha, lowering triglycerides. Can cause myopathy and gallstones.", "syn": [], "abbr": []}
+{"id": 5622, "term": "Gemfibrozil", "def": "A fibrate that activates PPAR-alpha, lowering triglycerides. Risks include myopathy when combined with statins, and gallstones.", "syn": [], "abbr": []}
+{"id": 5623, "term": "Lamellar bodies", "def": "Organelles in type II pneumocytes that store and secrete surfactant. Also found in epidermal keratinocytes.", "syn": [], "abbr": []}
+{"id": 5624, "term": "Vital capacity", "def": "The maximum volume exhaled after a full inhalation. It equals inspiratory reserve volume plus tidal volume plus expiratory reserve volume.", "syn": ["forced vital capacity"], "abbr": ["FVC"]}
+{"id": 5625, "term": "Intercostal muscles", "def": "Muscles between the ribs. External ones raise the ribs in inspiration; internal and innermost aid forced exhalation.", "syn": ["intercostal muscle"], "abbr": []}
+{"id": 5626, "term": "Porphyrins", "def": "Ring-shaped molecules that bind metals, forming heme when iron is added. Their buildup causes porphyria.", "syn": ["porphyrin"], "abbr": []}
+{"id": 5627, "term": "Benzocaine", "def": "A topical ester local anesthetic. A cause of methemoglobinemia.", "syn": [], "abbr": []}
+{"id": 5628, "skip": "wrong-sense"}
+{"id": 5629, "term": "Hyperbaric oxygen therapy", "def": "Breathing 100% oxygen at above normal pressure. Used for carbon monoxide poisoning, decompression sickness and gas gangrene.", "syn": ["hyperbaric oxygenation"], "abbr": []}
+{"id": 5630, "term": "Pulmonary stretch receptors", "def": "Sensory endings in airway smooth muscle that detect lung inflation and signal via the vagus nerve to end inspiration (Hering-Breuer reflex).", "syn": ["lung stretch receptors"], "abbr": []}
+{"id": 5631, "term": "Defense mechanisms", "def": "Unconscious mental processes that protect against anxiety or unacceptable impulses, such as denial, repression, projection and sublimation.", "syn": ["defense mechanism"], "abbr": []}
+{"id": 5632, "skip": "obvious"}
+{"id": 5633, "term": "Plasmacytoma", "def": "A localized tumor of monoclonal plasma cells, in bone or soft tissue, which can progress to multiple myeloma.", "syn": ["plasmacytomas"], "abbr": []}
+{"id": 5634, "term": "Lacrimal gland", "def": "The gland in the upper outer orbit that produces tears. Its ducts open into the conjunctival sac.", "syn": ["lacrimal glands"], "abbr": []}
+{"id": 5635, "term": "Pulmonary sarcoidosis", "def": "Noncaseating granulomas in the lungs and hilar lymph nodes, causing cough, dyspnea and bilateral hilar lymphadenopathy.", "syn": ["sarcoidosis pulmonary"], "abbr": []}
+{"id": 5636, "term": "Stellate ganglion", "def": "A sympathetic ganglion formed by fused inferior cervical and first thoracic ganglia. Damage or blockade causes Horner syndrome.", "syn": ["stellate ganglia"], "abbr": []}
+{"id": 5637, "term": "Azygos vein", "def": "A vein along the right side of the vertebral column that drains the posterior thorax into the superior vena cava. It provides collateral flow if the inferior vena cava is blocked.", "syn": [], "abbr": []}
+{"id": 5638, "term": "Glycoprotein IIb/IIIa", "def": "A platelet integrin receptor that binds fibrinogen, linking platelets together. Abciximab, eptifibatide and tirofiban block it; deficiency is Glanzmann thrombasthenia.", "syn": ["GPIIb-IIIa receptors"], "abbr": []}
+{"id": 5639, "term": "Plasma exchange", "def": "Removal of a patient's plasma and replacement with donor plasma or albumin. Used to remove autoantibodies or toxins in Guillain-Barre, TTP and myasthenic crisis.", "syn": ["plasmapheresis"], "abbr": []}
+{"id": 5640, "term": "60S ribosomal subunit", "def": "The large eukaryotic ribosomal subunit, which contains the peptidyl transferase activity that forms peptide bonds.", "syn": [], "abbr": []}
+{"id": 5641, "term": "Prothrombin time", "def": "A coagulation test that measures the extrinsic and common pathways. Prolonged by warfarin and vitamin K deficiency.", "syn": [], "abbr": ["PT"]}
+{"id": 5642, "term": "Factor XII", "def": "Hageman factor, which starts the intrinsic coagulation pathway on contact with surfaces. Deficiency prolongs aPTT without bleeding.", "syn": ["Hageman factor"], "abbr": []}
+{"id": 5643, "term": "Hemophilia B", "def": "X-linked recessive factor IX deficiency, also called Christmas disease. Causes hemarthroses and prolonged aPTT.", "syn": ["factor IX deficiency", "Christmas disease"], "abbr": []}
+{"id": 5644, "term": "Protein S deficiency", "def": "Inherited thrombophilia from reduced protein S, a cofactor of protein C. Causes venous thromboembolism and warfarin-induced skin necrosis.", "syn": [], "abbr": []}
+{"id": 5645, "term": "Short-chain fatty acids", "def": "Fatty acids with fewer than six carbons, produced by colonic bacterial fermentation of fiber. Butyrate is the main fuel of colonocytes.", "syn": [], "abbr": []}
+{"id": 5646, "term": "Galactitol", "def": "A sugar alcohol made from galactose by aldose reductase. It accumulates in galactosemia, causing cataracts.", "syn": [], "abbr": []}
+{"id": 5647, "term": "Galactose-1-phosphate uridyltransferase", "def": "The enzyme that converts galactose-1-phosphate to glucose-1-phosphate. Its deficiency causes classic galactosemia.", "syn": ["galactose-1-phosphate uridyltransferase"], "abbr": []}
+{"id": 5648, "term": "Ubiquinone", "def": "Coenzyme Q, a lipid-soluble electron carrier in the mitochondrial respiratory chain that transfers electrons from complexes I and II to complex III.", "syn": ["coenzyme Q"], "abbr": []}
+{"id": 5649, "term": "Complex III", "def": "The cytochrome bc1 complex of the electron transport chain, passing electrons from ubiquinol to cytochrome c. Antimycin A inhibits it.", "syn": [], "abbr": []}
+{"id": 5650, "term": "Cytochrome b", "def": "A heme protein in the mitochondrial electron transport chain, a part of complex III.", "syn": [], "abbr": []}
+{"id": 5651, "term": "Sodium nitrite", "def": "A compound that oxidizes hemoglobin to methemoglobin, which binds cyanide. Used with thiosulfate as a cyanide poisoning antidote.", "syn": [], "abbr": []}
+{"id": 5652, "skip": "obvious"}
+{"id": 5653, "term": "Glycogen debranching enzyme", "def": "An enzyme that removes glycogen branches during breakdown. Deficiency causes Cori disease (type III glycogen storage disease).", "syn": [], "abbr": []}
+{"id": 5654, "term": "Acid maltase", "def": "Lysosomal alpha-1,4-glucosidase that breaks down glycogen. Deficiency causes Pompe disease with cardiomegaly and muscle weakness.", "syn": ["acid alpha-glucosidase"], "abbr": []}
+{"id": 5655, "term": "Hydrolases", "def": "Enzymes that break bonds by adding water, such as lipases, proteases and lysosomal acid hydrolases.", "syn": ["hydrolase"], "abbr": []}
+{"id": 5656, "term": "Protein C deficiency", "def": "Inherited thrombophilia from reduced protein C, which inactivates factors Va and VIIIa. Causes venous thrombosis and warfarin-induced skin necrosis.", "syn": [], "abbr": []}
+{"id": 5657, "term": "Spiral CT", "def": "CT scanning with a continuously rotating tube while the patient moves through the scanner, giving fast volumetric images.", "syn": ["helical CT"], "abbr": []}
+{"id": 5658, "skip": "obvious"}
+{"id": 5659, "term": "Chronic urticaria", "def": "Hives lasting longer than six weeks. Often autoimmune, with no external trigger.", "syn": ["chronic spontaneous urticaria"], "abbr": []}
+{"id": 5660, "skip": "wrong-sense"}
+{"id": 5661, "term": "5-lipoxygenase", "def": "The enzyme that converts arachidonic acid to leukotrienes. Zileuton inhibits it in asthma.", "syn": ["arachidonate 5-lipoxygenase"], "abbr": []}
+{"id": 5662, "term": "Leukotriene D4", "def": "A cysteinyl leukotriene causing bronchoconstriction, mucus secretion and increased vascular permeability in asthma. Montelukast blocks its receptor.", "syn": [], "abbr": ["LTD4"]}
+{"id": 5663, "skip": "obvious"}
+{"id": 5664, "term": "Deoxyribonuclease", "def": "An enzyme that cleaves DNA. DNase breaks down DNA, as in pulmonary secretions in cystic fibrosis (dornase alfa).", "syn": ["DNase"], "abbr": ["DNase"]}
+{"id": 5665, "term": "Valsartan", "def": "An angiotensin II receptor blocker for hypertension and heart failure. It does not cause cough but is teratogenic and may raise potassium.", "syn": [], "abbr": []}
+{"id": 5666, "term": "High-molecular-weight kininogen", "def": "A contact-activation protein that anchors factor XII and prekallikrein and releases bradykinin.", "syn": ["high molecular weight kininogen"], "abbr": ["HMWK"]}
+{"id": 5667, "term": "Juxtaglomerular apparatus", "def": "A kidney structure with macula densa cells, juxtaglomerular cells and mesangial cells. It senses sodium and pressure, and releases renin.", "syn": [], "abbr": []}
+{"id": 5668, "term": "Ureteral obstruction", "def": "Blockage of urine flow in the ureter by stones, tumor or stricture, causing hydronephrosis and flank pain.", "syn": [], "abbr": []}
+{"id": 5669, "term": "Fluid shifts", "def": "Movement of water between body compartments, driven by osmotic and hydrostatic forces.", "syn": [], "abbr": []}
+{"id": 5670, "term": "Effective renal plasma flow", "def": "The plasma flow reaching functional kidney tissue, estimated by PAH clearance. Dividing by one minus hematocrit gives renal blood flow.", "syn": [], "abbr": ["ERPF"]}
+{"id": 5671, "term": "Hypoproteinemia", "def": "Abnormally low blood protein, usually from loss in nephrotic syndrome, liver failure or malnutrition. It reduces oncotic pressure and causes edema.", "syn": [], "abbr": []}
+{"id": 5672, "skip": "obvious"}
+{"id": 5673, "skip": "not-medical"}
+{"id": 5674, "term": "Carbachol", "def": "A cholinergic agonist resistant to acetylcholinesterase, acting on muscarinic and nicotinic receptors. Used in glaucoma and to induce miosis.", "syn": [], "abbr": []}
+{"id": 5675, "term": "Chromosome 4", "def": "The chromosome carrying the Huntington gene (HTT), polycystic kidney disease 2 and the gene for achondroplasia (FGFR3).", "syn": [], "abbr": []}
+{"id": 5676, "term": "Uromodulin", "def": "Tamm-Horsfall protein, the most abundant urinary protein, secreted by the thick ascending limb. It forms casts and protects against urinary tract infection.", "syn": ["Tamm-Horsfall protein"], "abbr": []}
+{"id": 5677, "term": "Pronephros", "def": "The first and nonfunctional embryonic kidney in humans, regressing by week 4.", "syn": [], "abbr": []}
+{"id": 5678, "term": "Fibroblast growth factor 2", "def": "Basic fibroblast growth factor, which promotes angiogenesis and wound healing.", "syn": ["FGF2", "FGF-2", "basic FGF"], "abbr": ["FGF2"]}
+{"id": 5679, "term": "Re-epithelialization", "def": "Healing where epithelial cells migrate across a wound to restore the surface.", "syn": [], "abbr": []}
+{"id": 5680, "term": "Mesangial cells", "def": "Cells of the glomerulus that support the capillary loops and regulate filtration. They phagocytose immune complexes, which are deposited in IgA nephropathy.", "syn": ["mesangial cell"], "abbr": []}
+{"id": 5681, "term": "Birefringence", "def": "Splitting of polarized light into two rays by an anisotropic material. Under polarized light, gout crystals are negatively birefringent and pseudogout crystals positively birefringent.", "syn": [], "abbr": []}
+{"id": 5682, "term": "Hepatoblastoma", "def": "The most common pediatric liver cancer, raising alpha-fetoprotein. Associated with Beckwith-Wiedemann syndrome and familial adenomatous polyposis.", "syn": [], "abbr": []}
+{"id": 5683, "term": "Transitional cell carcinoma", "def": "Urothelial carcinoma, the most common bladder cancer, linked to smoking and aniline dyes. Causes painless hematuria.", "syn": ["urothelial carcinoma"], "abbr": []}
+{"id": 5684, "skip": "obvious"}
+{"id": 5685, "term": "Azo dyes", "def": "Synthetic dyes with a nitrogen double bond. Some are carcinogens associated with bladder cancer.", "syn": ["azo dye"], "abbr": []}
+{"id": 5686, "skip": "not-medical"}
+{"id": 5687, "skip": "obvious"}
+{"id": 5688, "term": "Gain-of-function mutation", "def": "A mutation that gives a protein new or enhanced activity, as in oncogene activation. Typically dominant.", "syn": ["gain of function mutations"], "abbr": []}
+{"id": 5689, "skip": "not-medical"}
+{"id": 5690, "term": "Carbonic anhydrase II", "def": "The cytoplasmic enzyme that interconverts CO2 and bicarbonate. Mutations cause osteopetrosis with renal tubular acidosis.", "syn": [], "abbr": []}
+{"id": 5691, "term": "Urethral sling", "def": "A mesh tape placed under the urethra to support it. Used to treat stress urinary incontinence.", "syn": ["midurethral sling"], "abbr": []}
+{"id": 5692, "skip": "obvious"}
+{"id": 5693, "term": "Underactive bladder", "def": "Weak detrusor muscle contraction causing incomplete emptying and overflow incontinence. Seen with diabetic neuropathy or spinal injury.", "syn": ["detrusor underactivity", "hypotonic bladder"], "abbr": []}
+{"id": 5694, "term": "Prostaglandin E", "def": "Lipid mediators (PGE1, PGE2) that cause vasodilation and fever, protect gastric mucosa and keep the ductus arteriosus open.", "syn": ["prostaglandins E"], "abbr": []}
+{"id": 5695, "term": "Pentose phosphate pathway", "def": "A cytoplasmic pathway generating NADPH and ribose-5-phosphate. G6PD is the rate-limiting enzyme.", "syn": ["HMP shunt"], "abbr": []}
+{"id": 5696, "term": "Pentose", "def": "A five-carbon sugar such as ribose or deoxyribose, which forms the backbone of nucleic acids.", "syn": [], "abbr": []}
+{"id": 5697, "term": "Glutathione reductase", "def": "An enzyme that regenerates reduced glutathione using NADPH, protecting red cells from oxidative damage.", "syn": [], "abbr": []}
+{"id": 5698, "term": "ATP citrate lyase", "def": "A cytosolic enzyme that cleaves citrate into acetyl-CoA and oxaloacetate to supply acetyl-CoA for fatty acid synthesis.", "syn": [], "abbr": []}
+{"id": 5699, "term": "Fatty acid synthase", "def": "A multifunctional cytosolic enzyme that builds palmitate from acetyl-CoA and malonyl-CoA using NADPH.", "syn": [], "abbr": []}
+{"id": 5700, "term": "Arachidonic acid", "def": "A 20-carbon omega-6 fatty acid released from membranes by phospholipase A2. It is the precursor of prostaglandins, thromboxanes and leukotrienes.", "syn": ["arachidonic acids"], "abbr": []}
+{"id": 5701, "term": "LDL cholesterol", "def": "Cholesterol carried by low-density lipoprotein, which deposits in artery walls and promotes atherosclerosis.", "syn": ["cholesterol LDL"], "abbr": ["LDL-C"]}
+{"id": 5702, "term": "HMG-CoA reductase", "def": "The rate-limiting enzyme of cholesterol synthesis, which converts HMG-CoA to mevalonate. Statins inhibit it.", "syn": [], "abbr": []}
+{"id": 5703, "term": "Inflammatory mediators", "def": "Chemicals that drive inflammation, such as histamine, prostaglandins, leukotrienes, bradykinin and cytokines.", "syn": [], "abbr": []}
+{"id": 5704, "term": "Low-density lipoprotein", "def": "A cholesterol-rich lipoprotein formed from VLDL and cleared by LDL receptors. It carries cholesterol to peripheral tissues.", "syn": [], "abbr": ["LDL"]}
+{"id": 5705, "term": "Sphingolipids", "def": "Lipids built on a sphingosine backbone, including ceramide, sphingomyelin and gangliosides. Lysosomal storage diseases such as Tay-Sachs and Gaucher involve them.", "syn": [], "abbr": []}
+{"id": 5706, "term": "Sphingosine", "def": "An amino alcohol that forms the backbone of sphingolipids. Joined to a fatty acid it makes ceramide.", "syn": [], "abbr": []}
+{"id": 5707, "term": "Hexosaminidase A", "def": "The lysosomal enzyme that degrades GM2 ganglioside. Deficiency causes Tay-Sachs disease.", "syn": [], "abbr": []}
+{"id": 5708, "term": "Hexosaminidase", "def": "A lysosomal enzyme that removes N-acetylhexosamine residues from glycolipids. Defects cause Tay-Sachs and Sandhoff diseases.", "syn": [], "abbr": []}
+{"id": 5709, "term": "Glucocerebrosidase", "def": "The lysosomal enzyme that cleaves glucose from glucocerebroside. Deficiency causes Gaucher disease.", "syn": [], "abbr": []}
+{"id": 5710, "term": "Galactosidase", "def": "An enzyme that cleaves galactose from glycolipids. Alpha-galactosidase A deficiency causes Fabry disease; beta-galactosidase deficiency causes GM1 gangliosidosis.", "syn": [], "abbr": []}
+{"id": 5711, "term": "Arylsulfatase", "def": "A lysosomal enzyme that removes sulfate groups from sulfatides. Arylsulfatase A deficiency causes metachromatic leukodystrophy.", "syn": ["arylsulfatase A"], "abbr": []}
+{"id": 5712, "term": "Low-protein diet", "def": "A diet limiting protein, used in advanced kidney disease and urea cycle disorders to reduce nitrogen waste.", "syn": ["low protein diet"], "abbr": []}
+{"id": 5713, "term": "Aspartame", "def": "An artificial sweetener containing phenylalanine, which must be avoided by patients with phenylketonuria.", "syn": [], "abbr": []}
+{"id": 5714, "term": "Methylenetetrahydrofolate reductase", "def": "An enzyme that makes the folate form used by methionine synthase. Mutations raise homocysteine.", "syn": ["MTHFR"], "abbr": ["MTHFR"]}
+{"id": 5715, "term": "Kyphosis", "def": "Excessive forward curvature of the thoracic spine, causing a rounded upper back. Seen in osteoporosis and Scheuermann disease.", "syn": [], "abbr": []}
+{"id": 5716, "term": "Utricle and saccule", "def": "Otolith organs of the inner ear that sense linear acceleration and head tilt. The utricle detects horizontal motion and the saccule vertical.", "syn": ["utricle", "saccule"], "abbr": []}
+{"id": 5717, "term": "Purine nucleoside phosphorylase", "def": "A purine salvage enzyme. Deficiency causes toxic metabolite buildup in T cells, leading to severe T-cell immunodeficiency.", "syn": [], "abbr": []}
+{"id": 5718, "term": "Cheilitis", "def": "Inflammation of the lips, with cracking and scaling. Angular cheilitis occurs at the mouth corners, and is associated with riboflavin or iron deficiency.", "syn": [], "abbr": []}
+{"id": 5719, "skip": "obvious"}
+{"id": 5720, "term": "Porphobilinogen deaminase", "def": "A heme synthesis enzyme, also called hydroxymethylbilane synthase. Deficiency causes acute intermittent porphyria.", "syn": ["hydroxymethylbilane synthase", "uroporphyrinogen I synthase"], "abbr": []}
+{"id": 5721, "term": "Uroporphyrinogen III", "def": "A heme synthesis intermediate formed by uroporphyrinogen III synthase. Deficiency of the synthase causes congenital erythropoietic porphyria.", "syn": ["uroporphyrinogen"], "abbr": []}
+{"id": 5722, "term": "Uroporphyrinogen decarboxylase", "def": "A heme synthesis enzyme. Its deficiency causes porphyria cutanea tarda, with blistering skin on sun exposure.", "syn": [], "abbr": []}
+{"id": 5723, "term": "Ferrochelatase", "def": "The mitochondrial enzyme that inserts iron into protoporphyrin to make heme. It is inhibited by lead and deficient in erythropoietic protoporphyria.", "syn": [], "abbr": []}
+{"id": 5724, "term": "Biliverdin", "def": "A green pigment from heme breakdown, reduced to bilirubin. It gives bruises a green color.", "syn": [], "abbr": []}
+{"id": 5725, "term": "Brimonidine", "def": "An alpha-2 agonist eye drop that lowers intraocular pressure by reducing aqueous humor production. Used in glaucoma.", "syn": [], "abbr": []}
+{"id": 5726, "term": "Reserpine", "def": "A drug that irreversibly blocks VMAT, depleting catecholamine stores in nerve terminals. Used as an antihypertensive; can cause depression.", "syn": [], "abbr": []}
+{"id": 5727, "term": "Bisoprolol", "def": "A cardioselective beta-1 blocker used for hypertension and heart failure.", "syn": [], "abbr": []}
+{"id": 5728, "term": "Left ventricular outflow tract obstruction", "def": "Narrowing of the pathway from the left ventricle to the aorta, as in aortic stenosis or hypertrophic cardiomyopathy.", "syn": ["LVOT obstruction"], "abbr": ["LVOT"]}
+{"id": 5729, "term": "Hemoglobin H", "def": "A tetramer of four beta chains formed when three alpha-globin genes are deleted (HbH disease). It has poor oxygen delivery and causes hemolytic anemia.", "syn": [], "abbr": []}
+{"id": 5730, "term": "Consensus sequence", "def": "The most common nucleotide or amino acid at each position of a set of related sequences, such as the TATA box.", "syn": [], "abbr": []}
+{"id": 5731, "term": "Facial bones", "def": "The skull's face-forming bones, including the maxilla, mandible, zygomatic, nasal, lacrimal, palatine, vomer and inferior concha.", "syn": [], "abbr": []}
+{"id": 5732, "term": "Ribosomal RNA", "def": "The most abundant RNA, forming the structural and catalytic core of the ribosome. It is made by RNA polymerase I in the nucleolus.", "syn": [], "abbr": ["rRNA"]}
+{"id": 5733, "term": "Microcirculation", "def": "Blood flow in arterioles, capillaries and venules, where exchange takes place.", "syn": [], "abbr": []}
+{"id": 5734, "term": "Decay-accelerating factor", "def": "CD55, a GPI-anchored protein that protects red cells from complement. Its absence causes paroxysmal nocturnal hemoglobinuria.", "syn": ["decay accelerating factor", "CD55"], "abbr": ["DAF"]}
+{"id": 5735, "term": "Anopheles", "def": "A genus of mosquito that transmits Plasmodium, the cause of malaria.", "syn": [], "abbr": []}
+{"id": 5736, "term": "DNA breaks", "def": "Cuts in one or both DNA strands, from radiation or chemicals. Double-strand breaks are repaired by nonhomologous end joining or homologous recombination.", "syn": ["DNA strand breaks"], "abbr": []}
+{"id": 5737, "term": "Antithymocyte globulin", "def": "A polyclonal antibody against human T cells, given for transplant rejection and aplastic anemia.", "syn": ["anti-thymocyte globulin", "antilymphocyte serum"], "abbr": ["ATG"]}
+{"id": 5738, "term": "APACHE", "def": "A scoring system estimating mortality in intensive care patients from physiologic variables.", "syn": [], "abbr": ["APACHE"]}
+{"id": 5739, "term": "Hindbrain", "def": "The embryonic rhombencephalon, which forms the pons, medulla and cerebellum.", "syn": ["rhombencephalon"], "abbr": []}
+{"id": 5740, "term": "Autonomic ganglion", "def": "A cluster of neuron cell bodies where preganglionic fibers synapse onto postganglionic neurons of the sympathetic or parasympathetic system.", "syn": ["autonomic ganglia"], "abbr": []}
+{"id": 5741, "term": "Nodes of Ranvier", "def": "Gaps in the myelin sheath of an axon where voltage-gated sodium channels cluster, allowing saltatory conduction.", "syn": ["node of Ranvier", "Ranvier nodes"], "abbr": []}
+{"id": 5742, "skip": "obvious"}
+{"id": 5743, "term": "Charcot joint", "def": "Progressive joint destruction from loss of pain and proprioception due to neuropathy. Common in diabetes, tabes dorsalis and syringomyelia.", "syn": ["neurogenic arthropathy", "neuropathic joint"], "abbr": []}
+{"id": 5744, "term": "Hereditary motor and sensory neuropathy", "def": "Charcot-Marie-Tooth disease, an inherited peripheral nerve disorder causing distal weakness, foot deformities and sensory loss.", "syn": ["Charcot-Marie-Tooth disease"], "abbr": ["HMSN"]}
+{"id": 5745, "term": "Meningocele", "def": "A herniation of meninges, but not the spinal cord, through a vertebral defect, forming a cystic sac.", "syn": [], "abbr": []}
+{"id": 5746, "term": "Monoblasts", "def": "Precursor cells in bone marrow that mature into monocytes. They are the leukemic cells in acute monocytic leukemia (M5).", "syn": ["monoblast"], "abbr": []}
+{"id": 5747, "term": "Megakaryoblasts", "def": "Bone marrow precursors of megakaryocytes. They proliferate in acute megakaryoblastic leukemia (M7), associated with Down syndrome.", "syn": ["megakaryoblast"], "abbr": []}
+{"id": 5748, "term": "Heterophile antibodies", "def": "Antibodies that react with antigens from unrelated species. In infectious mononucleosis, they agglutinate sheep or horse red cells (Monospot test).", "syn": ["heterophile antibody"], "abbr": []}
+{"id": 5749, "term": "Retinoic acid receptor", "def": "A nuclear receptor for vitamin A-derived retinoic acid that regulates gene expression. It is fused with PML in acute promyelocytic leukemia, which responds to all-trans retinoic acid.", "syn": ["retinoic acid receptors"], "abbr": ["RAR"]}

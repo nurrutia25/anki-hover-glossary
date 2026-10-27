@@ -1,0 +1,250 @@
+{"id": 17250, "term": "2,4-Dinitrophenol", "def": "Uncoupler of oxidative phosphorylation that dissipates the proton gradient, so energy is released as heat instead of ATP. Used illicitly for weight loss; causes hyperthermia and death.", "syn": [], "abbr": ["DNP"]}
+{"id": 17251, "term": "Pulseless electrical activity", "def": "Cardiac arrest with organized electrical activity on the ECG but no palpable pulse. Treated with CPR and epinephrine, and by finding the cause (the Hs and Ts).", "syn": [], "abbr": ["PEA"]}
+{"id": 17252, "term": "Short-acting muscarinic antagonist", "def": "Inhaled anticholinergic bronchodilator, such as ipratropium, used with beta agonists in acute asthma or COPD exacerbations.", "syn": [], "abbr": ["SAMA"]}
+{"id": 17253, "skip": "not-medical"}
+{"id": 17254, "term": "PKHD1", "def": "Gene encoding fibrocystin; mutated in autosomal recessive polycystic kidney disease, which causes enlarged cystic kidneys in infants and can cause Potter sequence.", "syn": [], "abbr": ["PKHD1"]}
+{"id": 17255, "skip": "obvious"}
+{"id": 17256, "skip": "not-medical"}
+{"id": 17257, "skip": "not-medical"}
+{"id": 17258, "skip": "not-medical"}
+{"id": 17259, "term": "Thick ascending limb", "def": "Segment of the loop of Henle that reabsorbs sodium, potassium and chloride via NKCC2 without water. Site of action of loop diuretics.", "syn": [], "abbr": ["TAL"]}
+{"id": 17260, "skip": "not-medical"}
+{"id": 17261, "skip": "not-medical"}
+{"id": 17262, "skip": "not-medical"}
+{"id": 17263, "skip": "not-medical"}
+{"id": 17264, "skip": "not-medical"}
+{"id": 17265, "term": "Uridine monophosphate", "def": "Pyrimidine nucleotide made de novo by orotate phosphoribosyltransferase and OMP decarboxylase; elevated orotic acid results from defects here.", "syn": [], "abbr": ["UMP"]}
+{"id": 17266, "skip": "not-medical"}
+{"id": 17267, "term": "S-adenosylmethionine", "def": "Universal methyl donor formed from methionine and ATP. Used for methylation of DNA, proteins and neurotransmitters.", "syn": [], "abbr": ["SAM"]}
+{"id": 17268, "skip": "obvious"}
+{"id": 17269, "term": "Autoimmune metaplastic atrophic gastritis", "def": "Autoimmune destruction of gastric parietal cells, causing achlorhydria and loss of intrinsic factor. Leads to pernicious anemia.", "syn": [], "abbr": ["AMAG"]}
+{"id": 17270, "skip": "not-medical"}
+{"id": 17271, "term": "Hemoglobin C", "def": "Variant hemoglobin with lysine replacing glutamate in the beta chain. Causes mild hemolytic anemia with target cells and crystals.", "syn": ["hemoglobin C disease"], "abbr": ["HbC"]}
+{"id": 17272, "skip": "obvious"}
+{"id": 17273, "term": "Decay-accelerating factor", "def": "GPI-anchored protein (CD55) on blood cells that prevents complement activation. Absent in paroxysmal nocturnal hemoglobinuria.", "syn": ["CD55"], "abbr": ["DAF"]}
+{"id": 17274, "term": "Autoimmune hemolytic anemia", "def": "Antibody-mediated destruction of red blood cells. Warm type is IgG and associated with lupus; cold type is IgM, associated with Mycoplasma and EBV.", "syn": [], "abbr": ["AIHA"]}
+{"id": 17275, "term": "Autonomic nervous system", "def": "Division of the nervous system controlling involuntary functions, comprising sympathetic and parasympathetic branches.", "syn": [], "abbr": ["ANS"]}
+{"id": 17276, "term": "Ventral posterolateral nucleus", "def": "Thalamic nucleus relaying body sensation from the spinothalamic and dorsal column pathways to the somatosensory cortex.", "syn": [], "abbr": ["VPL"]}
+{"id": 17277, "term": "Terminal deoxynucleotidyl transferase", "def": "DNA polymerase adding random nucleotides to developing lymphocyte receptor genes. Marker of immature lymphoblasts in acute lymphoblastic leukemia.", "syn": [], "abbr": ["TdT"]}
+{"id": 17278, "term": "CD5", "def": "Surface marker on T cells and on a subset of B cells. Positive in chronic lymphocytic leukemia and mantle cell lymphoma.", "syn": [], "abbr": ["CD5"]}
+{"id": 17279, "term": "CD25", "def": "The alpha chain of the IL-2 receptor, found on activated T cells and regulatory T cells. Positive on hairy cell leukemia.", "syn": [], "abbr": ["CD25"]}
+{"id": 17280, "skip": "obvious"}
+{"id": 17281, "term": "ABL", "def": "Tyrosine kinase gene on chromosome 9. In chronic myeloid leukemia, it fuses with BCR on chromosome 22 to form constitutively active BCR-ABL.", "syn": ["ABL1"], "abbr": ["ABL"]}
+{"id": 17282, "term": "Amyloid precursor protein", "def": "Membrane protein on chromosome 21 cleaved to form amyloid-beta. Mutations or trisomy 21 cause early-onset Alzheimer disease.", "syn": [], "abbr": ["APP"]}
+{"id": 17283, "term": "Multiple system atrophy", "def": "Neurodegenerative disease with parkinsonism, autonomic failure and cerebellar signs; alpha-synuclein inclusions in glial cells.", "syn": [], "abbr": ["MSA"]}
+{"id": 17284, "skip": "obvious"}
+{"id": 17285, "term": "Fecal occult blood test", "def": "Screening test detecting hidden blood in stool, used for colorectal cancer screening.", "syn": ["stool guaiac test"], "abbr": ["FOBT"]}
+{"id": 17286, "skip": "not-medical"}
+{"id": 17287, "term": "Benign paroxysmal positional vertigo", "def": "Brief episodes of vertigo triggered by head position, from displaced otoliths in a semicircular canal. Diagnosed by the Dix-Hallpike test; treated with Epley maneuver.", "syn": [], "abbr": ["BPPV"]}
+{"id": 17288, "term": "Serotonin-norepinephrine reuptake inhibitor", "def": "Antidepressant class, such as venlafaxine and duloxetine, that blocks reuptake of serotonin and norepinephrine. Also used for neuropathic pain.", "syn": ["SNRIs"], "abbr": ["SNRI"]}
+{"id": 17289, "skip": "not-medical"}
+{"id": 17290, "term": "Relative risk reduction", "def": "Proportion by which an intervention lowers risk compared with control: (control event rate minus treatment rate) divided by the control rate.", "syn": [], "abbr": ["RRR"]}
+{"id": 17291, "term": "Metabolic dysfunction-associated steatotic liver disease", "def": "Fatty liver disease linked to obesity, insulin resistance and metabolic syndrome. Formerly called NAFLD.", "syn": ["NAFLD"], "abbr": ["MASLD"]}
+{"id": 17292, "term": "CD28", "def": "T cell costimulatory receptor binding B7 (CD80/86) on antigen-presenting cells. Required with the TCR signal for T cell activation.", "syn": [], "abbr": ["CD28"]}
+{"id": 17293, "term": "Hypersensitivity reactions", "def": "Exaggerated immune responses causing tissue damage, grouped into types I to IV.", "syn": ["hypersensitivity reaction"], "abbr": ["HSR", "HSRs"]}
+{"id": 17294, "skip": "not-medical"}
+{"id": 17295, "skip": "obvious"}
+{"id": 17296, "term": "Staphylococcal scalded skin syndrome", "def": "Exfoliative toxin-mediated skin peeling in infants, with a positive Nikolsky sign. Toxin cleaves desmoglein 1.", "syn": [], "abbr": ["SSSS"]}
+{"id": 17297, "skip": "not-medical"}
+{"id": 17298, "term": "VACTERL association", "def": "Non-random cluster of congenital defects: vertebral, anal atresia, cardiac, tracheoesophageal fistula, renal and limb anomalies.", "syn": [], "abbr": ["VACTERL"]}
+{"id": 17299, "term": "Febrile nonhemolytic transfusion reaction", "def": "Fever and chills during or after transfusion, caused by recipient antibodies against donor leukocytes or cytokines. Benign and treated with antipyretics.", "syn": [], "abbr": ["FNHTR"]}
+{"id": 17300, "skip": "not-medical"}
+{"id": 17301, "term": "Dimercaptosuccinic acid", "def": "Succimer, an oral chelator used for lead, mercury and arsenic poisoning.", "syn": ["succimer"], "abbr": ["DMSA"]}
+{"id": 17302, "term": "Long-acting muscarinic antagonist", "def": "Inhaled anticholinergic bronchodilator, such as tiotropium, used for long-term COPD treatment.", "syn": [], "abbr": ["LAMA"]}
+{"id": 17303, "term": "Posterior cruciate ligament", "def": "Knee ligament preventing posterior displacement of the tibia on the femur. Injured in dashboard impacts; shown by posterior drawer sign.", "syn": [], "abbr": ["PCL"]}
+{"id": 17304, "term": "KIT", "def": "Proto-oncogene encoding the stem cell factor receptor. Activating mutations cause gastrointestinal stromal tumors and mastocytosis.", "syn": [], "abbr": ["KIT"]}
+{"id": 17305, "term": "E2F", "def": "Transcription factor that drives cell-cycle progression at G1/S. Held inactive by Rb until Rb is phosphorylated by cyclin D/CDK4.", "syn": [], "abbr": ["E2F"]}
+{"id": 17306, "term": "Arterial blood gas", "def": "Blood test from an artery measuring pH, PaCO2, PaO2 and bicarbonate to assess ventilation and acid-base status.", "syn": [], "abbr": ["ABG"]}
+{"id": 17307, "skip": "obvious"}
+{"id": 17308, "term": "Ethylenediaminetetraacetic acid", "def": "Chelating agent used for lead poisoning; also an anticoagulant in blood tubes.", "syn": [], "abbr": ["EDTA"]}
+{"id": 17309, "term": "Hepatitis A virus", "def": "RNA picornavirus transmitted fecal-orally, causing self-limited acute hepatitis without chronic disease.", "syn": [], "abbr": ["HAV"]}
+{"id": 17310, "skip": "not-medical"}
+{"id": 17311, "skip": "not-medical"}
+{"id": 17312, "skip": "not-medical"}
+{"id": 17313, "term": "Greater trochanteric pain syndrome", "def": "Lateral hip pain from trochanteric bursitis or gluteal tendinopathy, worse lying on the affected side.", "syn": [], "abbr": ["GTPS"]}
+{"id": 17314, "term": "Small intestinal bacterial overgrowth", "def": "Excess bacteria in the small bowel, causing bloating, diarrhea and malabsorption (fat-soluble vitamins, B12 deficiency).", "syn": [], "abbr": ["SIBO"]}
+{"id": 17315, "skip": "obvious"}
+{"id": 17316, "term": "Loop electrosurgical excision procedure", "def": "Removal of abnormal cervical tissue with a wire loop, used for high-grade cervical dysplasia.", "syn": [], "abbr": ["LEEP"]}
+{"id": 17317, "term": "Atypical squamous cells of undetermined significance", "def": "Mildly abnormal Pap smear result; managed with HPV testing or repeat cytology.", "syn": [], "abbr": ["ASCUS"]}
+{"id": 17318, "term": "Acute fatty liver of pregnancy", "def": "Third-trimester liver failure from microvesicular fat in hepatocytes, with hypoglycemia, coagulopathy and elevated bilirubin.", "syn": [], "abbr": ["AFLP"]}
+{"id": 17319, "term": "Men who have sex with men", "def": "Epidemiologic term for male-male sexual contact, used for risk assessment of sexually transmitted infections.", "syn": [], "abbr": ["MSM"]}
+{"id": 17320, "term": "Calcium-sensing receptor", "def": "G-protein coupled receptor on parathyroid and kidney cells that senses calcium. Mutations cause familial hypocalciuric hypercalcemia.", "syn": [], "abbr": ["CaSR"]}
+{"id": 17321, "term": "NS3 protease", "def": "Hepatitis C viral serine protease required for polyprotein processing; targeted by direct-acting antivirals like glecaprevir.", "syn": [], "abbr": ["NS3"]}
+{"id": 17322, "term": "Hepatitis D virus", "def": "Defective RNA virus requiring hepatitis B surface antigen to replicate. Causes coinfection or superinfection with HBV.", "syn": [], "abbr": ["HDV"]}
+{"id": 17323, "term": "Phosphatidylinositol 4,5-bisphosphate", "def": "Membrane lipid cleaved by phospholipase C into IP3 and DAG in Gq signaling.", "syn": [], "abbr": ["PIP2"]}
+{"id": 17324, "skip": "obvious"}
+{"id": 17325, "term": "Glycosaminoglycans", "def": "Long unbranched polysaccharides in the extracellular matrix, such as hyaluronic acid and heparan sulfate. Accumulate in Graves orbitopathy and mucopolysaccharidoses.", "syn": ["glycosaminoglycan"], "abbr": ["GAG", "GAGs"]}
+{"id": 17326, "term": "5-Hydroxyindoleacetic acid", "def": "Urinary metabolite of serotonin; elevated in carcinoid syndrome.", "syn": [], "abbr": ["5-HIAA", "HIAA"]}
+{"id": 17327, "term": "WDHA syndrome", "def": "VIPoma syndrome with watery diarrhea, hypokalemia and achlorhydria, caused by vasoactive intestinal peptide secretion.", "syn": ["Verner-Morrison syndrome"], "abbr": ["WDHA"]}
+{"id": 17328, "term": "Small cell lung cancer", "def": "Aggressive neuroendocrine lung tumor, strongly linked to smoking, that can secrete ACTH or ADH. Typically central, with L-myc amplification.", "syn": ["small cell carcinoma"], "abbr": ["SCLC"]}
+{"id": 17329, "skip": "obvious"}
+{"id": 17330, "term": "RANK", "def": "Receptor on osteoclast precursors that binds RANKL from osteoblasts, triggering osteoclast formation. Blocked by denosumab.", "syn": [], "abbr": ["RANK"]}
+{"id": 17331, "skip": "obvious"}
+{"id": 17332, "skip": "obvious"}
+{"id": 17333, "skip": "obvious"}
+{"id": 17334, "term": "Sudden infant death syndrome", "def": "Unexplained death of an infant under 1 year, usually during sleep. Risk factors include prone sleeping and smoke exposure.", "syn": [], "abbr": ["SIDS"]}
+{"id": 17335, "term": "Sentinel lymph node biopsy", "def": "Removal of the first draining lymph node to assess whether cancer, such as breast cancer or melanoma, has spread.", "syn": [], "abbr": ["SLNB"]}
+{"id": 17336, "term": "Androgen insensitivity syndrome", "def": "X-linked defect of androgen receptors; 46,XY individuals with female external genitalia, undescended testes and elevated testosterone and LH.", "syn": [], "abbr": ["AIS"]}
+{"id": 17337, "term": "GTPAL", "def": "Obstetric history shorthand: Gravidity, Term births, Preterm births, Abortions and Living children.", "syn": [], "abbr": ["GTPAL"]}
+{"id": 17338, "term": "AUG", "def": "Start codon in mRNA that codes for methionine (formylmethionine in prokaryotes).", "syn": [], "abbr": ["AUG"]}
+{"id": 17339, "term": "MLH1", "def": "DNA mismatch repair gene. Mutations cause Lynch syndrome and microsatellite instability.", "syn": [], "abbr": ["MLH1"]}
+{"id": 17340, "term": "Hereditary nonpolyposis colorectal cancer", "def": "Lynch syndrome; autosomal dominant mismatch repair defect causing early colorectal, endometrial and other cancers.", "syn": ["Lynch syndrome"], "abbr": ["HNPCC"]}
+{"id": 17341, "skip": "not-medical"}
+{"id": 17342, "skip": "obvious"}
+{"id": 17343, "skip": "not-medical"}
+{"id": 17344, "skip": "obvious"}
+{"id": 17345, "skip": "not-medical"}
+{"id": 17346, "skip": "obvious"}
+{"id": 17347, "term": "Total anomalous pulmonary venous return", "def": "Congenital defect where all pulmonary veins drain to the right heart instead of the left atrium, causing cyanosis.", "syn": [], "abbr": ["TAPVR"]}
+{"id": 17348, "term": "Transesophageal echocardiography", "def": "Ultrasound of the heart through the esophagus, giving better views than transthoracic echo.", "syn": ["transesophageal echo"], "abbr": ["TEE"]}
+{"id": 17349, "term": "Paroxysmal supraventricular tachycardia", "def": "Sudden regular narrow-complex tachycardia from a reentrant circuit above the ventricles, such as AVNRT. Terminated by vagal maneuvers or adenosine.", "syn": [], "abbr": ["PSVT"]}
+{"id": 17350, "skip": "obvious"}
+{"id": 17351, "term": "Insulin receptor substrate", "def": "Intracellular proteins phosphorylated by the insulin receptor that propagate signaling through PI3K and AKT.", "syn": [], "abbr": ["IRS"]}
+{"id": 17352, "skip": "obvious"}
+{"id": 17353, "term": "Disease-modifying antirheumatic drugs", "def": "Drugs, such as methotrexate and sulfasalazine, that slow progression of rheumatoid arthritis, unlike analgesics.", "syn": [], "abbr": ["DMARDs"]}
+{"id": 17354, "term": "MYC", "def": "Proto-oncogene encoding a transcription factor. Translocated in Burkitt lymphoma; amplified in small cell lung cancer and neuroblastoma.", "syn": [], "abbr": ["MYC"]}
+{"id": 17355, "term": "Platelet factor 4", "def": "Chemokine released from platelet alpha granules that binds heparin. Antibodies to heparin-PF4 complexes cause HIT.", "syn": [], "abbr": ["PF4"]}
+{"id": 17356, "skip": "obvious"}
+{"id": 17357, "skip": "not-medical"}
+{"id": 17358, "skip": "obvious"}
+{"id": 17359, "term": "Phosphofructokinase-1", "def": "Rate-limiting enzyme of glycolysis. Activated by AMP and fructose-2,6-bisphosphate; inhibited by ATP and citrate.", "syn": ["PFK-1"], "abbr": ["PFK"]}
+{"id": 17360, "term": "Antithrombin III", "def": "Plasma protein that inactivates thrombin and factor Xa; its action is enhanced by heparin.", "syn": ["antithrombin"], "abbr": ["ATIII"]}
+{"id": 17361, "term": "Unfractionated heparin", "def": "Anticoagulant of mixed chain lengths, given by IV infusion, that activates antithrombin; monitored with aPTT and reversed by protamine.", "syn": [], "abbr": ["UFH"]}
+{"id": 17362, "term": "Heart failure with preserved ejection fraction", "def": "Failure caused by impaired diastolic filling with a stiff ventricle and normal ejection fraction. Associated with hypertension, obesity and sleep apnea.", "syn": [], "abbr": ["HFpEF"]}
+{"id": 17363, "skip": "not-medical"}
+{"id": 17364, "skip": "obvious"}
+{"id": 17365, "skip": "not-medical"}
+{"id": 17366, "skip": "not-medical"}
+{"id": 17367, "skip": "obvious"}
+{"id": 17368, "skip": "not-medical"}
+{"id": 17369, "skip": "not-medical"}
+{"id": 17370, "skip": "obvious"}
+{"id": 17371, "skip": "obvious"}
+{"id": 17372, "skip": "obvious"}
+{"id": 17373, "skip": "not-medical"}
+{"id": 17374, "skip": "not-medical"}
+{"id": 17375, "term": "Relative afferent pupillary defect", "def": "Reduced pupil response when light shines in the affected eye, seen with swinging flashlight. Indicates optic nerve or severe retinal disease.", "syn": ["Marcus Gunn pupil"], "abbr": ["RAPD"]}
+{"id": 17376, "term": "BCR", "def": "Gene on chromosome 22 that fuses with ABL after the Philadelphia chromosome translocation t(9;22), creating BCR-ABL in chronic myeloid leukemia.", "syn": [], "abbr": ["BCR"]}
+{"id": 17377, "term": "Immunoglobulin heavy chain", "def": "Immunoglobulin heavy-chain gene locus on chromosome 14, translocated in lymphomas such as follicular and Burkitt lymphoma.", "syn": [], "abbr": ["IgH"]}
+{"id": 17378, "term": "Mucosa-associated lymphoid tissue", "def": "Lymphoid tissue in mucosal sites; MALT lymphoma is a marginal zone lymphoma linked to H. pylori.", "syn": [], "abbr": ["MALT"]}
+{"id": 17379, "term": "Serum protein electrophoresis", "def": "Test separating serum proteins to detect an M spike in monoclonal gammopathy such as multiple myeloma.", "syn": [], "abbr": ["SPEP"]}
+{"id": 17380, "term": "Upper limit of normal", "def": "Highest value of a laboratory reference range.", "syn": [], "abbr": ["ULN"]}
+{"id": 17381, "term": "Monoclonal gammopathy of undetermined significance", "def": "Asymptomatic premalignant plasma cell proliferation with M protein, below myeloma thresholds.", "syn": [], "abbr": ["MGUS"]}
+{"id": 17382, "term": "Anterior cerebral artery", "def": "Cerebral artery supplying the medial frontal and parietal lobes. Occlusion causes contralateral leg weakness and sensory loss.", "syn": [], "abbr": ["ACA"]}
+{"id": 17383, "term": "Very long-chain fatty acids", "def": "Fatty acids over 22 carbons, degraded in peroxisomes. They accumulate in adrenoleukodystrophy and Zellweger syndrome.", "syn": [], "abbr": ["VLCFA"]}
+{"id": 17384, "term": "Cytotoxic T lymphocytes", "def": "CD8 T cells that kill virus-infected and tumor cells via perforin and granzymes.", "syn": [], "abbr": ["CTLs", "CTL"]}
+{"id": 17385, "term": "Creutzfeldt-Jakob disease", "def": "Prion disease with rapidly progressive dementia, myoclonus and spongiform change. EEG shows periodic sharp waves.", "syn": [], "abbr": ["CJD"]}
+{"id": 17386, "skip": "obvious"}
+{"id": 17387, "term": "DCC", "def": "Gene (deleted in colorectal cancer) whose loss contributes to colorectal cancer in the adenoma-carcinoma sequence.", "syn": [], "abbr": ["DCC"]}
+{"id": 17388, "term": "Focal impaired awareness seizures", "def": "Seizures arising from one area of the brain with reduced awareness, often with automatisms. Formerly complex partial seizures.", "syn": [], "abbr": ["FIAS"]}
+{"id": 17389, "skip": "obvious"}
+{"id": 17390, "term": "Intraocular pressure", "def": "Fluid pressure inside the eye. Elevated in glaucoma.", "syn": [], "abbr": ["IOP"]}
+{"id": 17391, "skip": "not-medical"}
+{"id": 17392, "skip": "not-medical"}
+{"id": 17393, "skip": "not-medical"}
+{"id": 17394, "skip": "not-medical"}
+{"id": 17395, "skip": "not-medical"}
+{"id": 17396, "term": "Transjugular intrahepatic portosystemic shunt", "def": "Radiologic shunt between portal and hepatic veins to relieve portal hypertension. Can worsen hepatic encephalopathy.", "syn": [], "abbr": ["TIPS"]}
+{"id": 17397, "term": "TLR4", "def": "Toll-like receptor that recognizes bacterial lipopolysaccharide with CD14, triggering inflammation.", "syn": [], "abbr": ["TLR4"]}
+{"id": 17398, "term": "CD14", "def": "Co-receptor with TLR4 for bacterial lipopolysaccharide, found on monocytes and macrophages.", "syn": [], "abbr": ["CD14"]}
+{"id": 17399, "term": "CD3", "def": "Signaling complex associated with the T cell receptor; marker of all T cells.", "syn": [], "abbr": ["CD3"]}
+{"id": 17400, "term": "CD40", "def": "Receptor on B cells and antigen-presenting cells that binds CD40 ligand on T cells, driving class switching. Defect causes hyper-IgM syndrome.", "syn": [], "abbr": ["CD40"]}
+{"id": 17401, "skip": "not-medical"}
+{"id": 17402, "term": "BAK", "def": "Proapoptotic BCL-2 family protein that forms pores in the mitochondrial membrane to release cytochrome c.", "syn": [], "abbr": ["BAK"]}
+{"id": 17403, "term": "BAX", "def": "Proapoptotic BCL-2 family protein that forms mitochondrial pores to release cytochrome c, activated by p53.", "syn": [], "abbr": ["BAX"]}
+{"id": 17404, "term": "Hypochlorous acid", "def": "Bleach-like product of myeloperoxidase in the neutrophil oxidative burst, killing phagocytosed microbes.", "syn": [], "abbr": ["HClO"]}
+{"id": 17405, "skip": "not-medical"}
+{"id": 17406, "term": "HLA-DR2", "def": "MHC class II allele associated with multiple sclerosis, hay fever, SLE and Goodpasture syndrome.", "syn": [], "abbr": ["DR2"]}
+{"id": 17407, "skip": "obvious"}
+{"id": 17408, "term": "Duchenne muscular dystrophy", "def": "X-linked recessive dystrophin gene frameshift mutation causing progressive muscle weakness, Gowers sign and calf pseudohypertrophy.", "syn": [], "abbr": ["DMD"]}
+{"id": 17409, "term": "Prothrombin complex concentrate", "def": "Concentrate of factors II, VII, IX and X for rapid warfarin reversal.", "syn": [], "abbr": ["PCC"]}
+{"id": 17410, "term": "Apical ectodermal ridge", "def": "Ectodermal thickening at the limb bud tip secreting FGF to drive limb outgrowth along the proximal-distal axis.", "syn": [], "abbr": ["AER"]}
+{"id": 17411, "term": "Zone of polarizing activity", "def": "Mesoderm at the posterior limb bud that secretes Sonic hedgehog to pattern the anteroposterior axis.", "syn": [], "abbr": ["ZPA"]}
+{"id": 17412, "term": "Fall on outstretched hand", "def": "Injury mechanism causing distal radius, scaphoid and clavicle fractures.", "syn": [], "abbr": ["FOOSH"]}
+{"id": 17413, "term": "PI3K", "def": "Phosphoinositide 3-kinase; signaling enzyme downstream of receptor tyrosine kinases that activates AKT to promote growth and survival.", "syn": [], "abbr": ["PI3K"]}
+{"id": 17414, "term": "AKT", "def": "Serine/threonine kinase activated by PI3K that promotes cell survival and growth.", "syn": [], "abbr": ["AKT"]}
+{"id": 17415, "term": "Noninvasive positive pressure ventilation", "def": "Respiratory support with a mask providing BiPAP or CPAP without intubation.", "syn": [], "abbr": ["NIPPV"]}
+{"id": 17416, "skip": "not-medical"}
+{"id": 17417, "term": "Pneumococcal conjugate vaccine 20", "def": "Conjugate vaccine covering 20 pneumococcal serotypes, given to children and at-risk adults.", "syn": [], "abbr": ["PCV20"]}
+{"id": 17418, "term": "Enterotoxigenic Escherichia coli", "def": "E. coli causing traveler's diarrhea via heat-labile and heat-stable toxins.", "syn": [], "abbr": ["ETEC"]}
+{"id": 17419, "skip": "not-medical"}
+{"id": 17420, "term": "Voiding cystourethrogram", "def": "X-ray of the bladder and urethra during urination, used to detect vesicoureteral reflux and posterior urethral valves.", "syn": [], "abbr": ["VCUG"]}
+{"id": 17421, "term": "Food protein-induced allergic proctocolitis", "def": "Benign infant colitis with bloody stools from cow's milk or soy protein intolerance, resolving by age 1.", "syn": [], "abbr": ["FPIAP"]}
+{"id": 17422, "term": "Lymphocytic choriomeningitis virus", "def": "Arenavirus spread by rodent excreta, causing aseptic meningitis and congenital infection.", "syn": [], "abbr": ["LCMV"]}
+{"id": 17423, "term": "Gestational diabetes mellitus", "def": "Glucose intolerance first recognized during pregnancy, from placental hormones causing insulin resistance.", "syn": [], "abbr": ["GDM"]}
+{"id": 17424, "term": "Montevideo units", "def": "Measure of uterine contraction strength, the sum of peak pressures above baseline over 10 minutes. Over 200 is adequate labor.", "syn": [], "abbr": ["MVUs", "MVU"]}
+{"id": 17425, "term": "Persistent pulmonary hypertension of the newborn", "def": "Failure of pulmonary vascular resistance to fall after birth, causing right-to-left shunting and hypoxemia.", "syn": [], "abbr": ["PPHN"]}
+{"id": 17426, "skip": "obvious"}
+{"id": 17427, "skip": "obvious"}
+{"id": 17428, "term": "Atrioventricular nodal reentrant tachycardia", "def": "The most common paroxysmal supraventricular tachycardia, caused by a reentry circuit within the AV node.", "syn": [], "abbr": ["AVNRT"]}
+{"id": 17429, "skip": "not-medical"}
+{"id": 17430, "term": "Premenstrual dysphoric disorder", "def": "Severe mood symptoms in the luteal phase of the menstrual cycle that resolve with menses. Treated with SSRIs.", "syn": [], "abbr": ["PMDD"]}
+{"id": 17431, "term": "10 percent dextrose in water", "def": "IV fluid used to treat neonatal hypoglycemia.", "syn": [], "abbr": ["D10W"]}
+{"id": 17432, "skip": "not-medical"}
+{"id": 17433, "skip": "not-medical"}
+{"id": 17434, "skip": "not-medical"}
+{"id": 17435, "skip": "obvious"}
+{"id": 17436, "term": "Toxic epidermal necrolysis", "def": "Severe drug reaction with epidermal detachment over 30 percent of body surface, mucosal involvement and a positive Nikolsky sign.", "syn": [], "abbr": ["TEN"]}
+{"id": 17437, "skip": "not-medical"}
+{"id": 17438, "term": "Enterochromaffin-like cells", "def": "Gastric cells that secrete histamine under gastrin and ACh stimulation, acting on parietal cells.", "syn": ["ECL cells"], "abbr": ["ECL"]}
+{"id": 17439, "term": "Gastrin-releasing peptide", "def": "Neuropeptide released by vagal stimulation that triggers gastrin release by G cells.", "syn": ["bombesin"], "abbr": ["GRP"]}
+{"id": 17440, "term": "NS5A", "def": "Hepatitis C viral protein needed for replication and assembly. Inhibited by ledipasvir and velpatasvir.", "syn": [], "abbr": ["NS5A"]}
+{"id": 17441, "term": "Diacylglycerol", "def": "Lipid second messenger from PIP2 cleavage by phospholipase C; activates protein kinase C.", "syn": [], "abbr": ["DAG"]}
+{"id": 17442, "term": "Janus kinase", "def": "Cytoplasmic tyrosine kinase associated with cytokine receptors, phosphorylating STAT proteins. Mutated in polycythemia vera (JAK2).", "syn": ["JAK2"], "abbr": ["JAK"]}
+{"id": 17443, "skip": "not-medical"}
+{"id": 17444, "term": "Basal metabolic rate", "def": "Energy expenditure at rest, raised by thyroid hormone.", "syn": [], "abbr": ["BMR"]}
+{"id": 17445, "skip": "not-medical"}
+{"id": 17446, "skip": "not-medical"}
+{"id": 17447, "term": "CYP2C9", "def": "Cytochrome P450 enzyme metabolizing warfarin, phenytoin and sulfonylureas.", "syn": [], "abbr": ["CYP2C9"]}
+{"id": 17448, "skip": "not-medical"}
+{"id": 17449, "skip": "obvious"}
+{"id": 17450, "skip": "obvious"}
+{"id": 17451, "skip": "obvious"}
+{"id": 17452, "skip": "obvious"}
+{"id": 17453, "skip": "obvious"}
+{"id": 17454, "skip": "obvious"}
+{"id": 17455, "term": "CpG islands", "def": "Cytosine-guanine rich DNA regions near promoters. Methylation silences gene transcription.", "syn": [], "abbr": ["CpG"]}
+{"id": 17456, "skip": "obvious"}
+{"id": 17457, "term": "MSH2", "def": "DNA mismatch repair gene. Mutations cause Lynch syndrome (HNPCC).", "syn": [], "abbr": ["MSH2"]}
+{"id": 17458, "term": "Nucleotide excision repair", "def": "Pathway removing bulky DNA lesions like thymine dimers. Defective in xeroderma pigmentosum.", "syn": [], "abbr": ["NER"]}
+{"id": 17459, "term": "Signal recognition particle", "def": "Ribonucleoprotein binding a signal sequence and bringing the ribosome to the rough ER.", "syn": [], "abbr": ["SRP"]}
+{"id": 17460, "skip": "not-medical"}
+{"id": 17461, "skip": "not-medical"}
+{"id": 17462, "skip": "obvious"}
+{"id": 17463, "skip": "not-medical"}
+{"id": 17464, "term": "End-systolic volume", "def": "Volume of blood remaining in the ventricle after ejection. Stroke volume equals EDV minus ESV.", "syn": [], "abbr": ["ESV"]}
+{"id": 17465, "term": "KCNQ1", "def": "Potassium channel gene mutated in Romano-Ward and Jervell and Lange-Nielsen long QT syndromes.", "syn": [], "abbr": ["KCNQ1"]}
+{"id": 17466, "skip": "obvious"}
+{"id": 17467, "skip": "not-medical"}
+{"id": 17468, "skip": "obvious"}
+{"id": 17469, "term": "HACEK organisms", "def": "Fastidious gram-negative bacteria causing culture-negative endocarditis: Haemophilus, Aggregatibacter, Cardiobacterium, Eikenella and Kingella.", "syn": [], "abbr": ["HACEK"]}
+{"id": 17470, "term": "Thyroid function tests", "def": "Blood tests including TSH and thyroid hormones used to assess thyroid status.", "syn": [], "abbr": ["TFTs"]}
+{"id": 17471, "skip": "obvious"}
+{"id": 17472, "term": "SH2 domain", "def": "Protein domain that binds phosphorylated tyrosine, mediating signaling downstream of insulin and growth factor receptors.", "syn": [], "abbr": ["SH2"]}
+{"id": 17473, "term": "Dihydropyridine", "def": "Class of calcium channel blockers (amlodipine, nifedipine) acting on vascular smooth muscle.", "syn": [], "abbr": ["DHP"]}
+{"id": 17474, "skip": "obvious"}
+{"id": 17475, "skip": "obvious"}
+{"id": 17476, "skip": "obvious"}
+{"id": 17477, "term": "Transfusion-related acute lung injury", "def": "Noncardiogenic pulmonary edema within 6 hours of transfusion, due to donor anti-leukocyte antibodies.", "syn": [], "abbr": ["TRALI"]}
+{"id": 17478, "skip": "not-medical"}
+{"id": 17479, "skip": "not-medical"}
+{"id": 17480, "skip": "not-medical"}
+{"id": 17481, "skip": "not-medical"}
+{"id": 17482, "skip": "not-medical"}
+{"id": 17483, "term": "Fructose-6-phosphate", "def": "Glycolysis intermediate; phosphorylated by PFK-1 to fructose-1,6-bisphosphate.", "syn": [], "abbr": ["F6P"]}
+{"id": 17484, "term": "Glucose-6-phosphate", "def": "Glycolysis intermediate formed from glucose by hexokinase and dephosphorylated by glucose-6-phosphatase.", "syn": [], "abbr": ["G6P"]}
+{"id": 17485, "term": "URAT1", "def": "Renal transporter that reabsorbs urate in the proximal tubule. Inhibited by probenecid.", "syn": [], "abbr": ["URAT1"]}
+{"id": 17486, "term": "Leukotriene B4", "def": "Lipoxygenase product that is a potent neutrophil chemotactic factor.", "syn": [], "abbr": ["LTB4"]}
+{"id": 17487, "term": "Total body water", "def": "About 60 percent of body weight, divided into intracellular and extracellular compartments.", "syn": [], "abbr": ["TBW"]}
+{"id": 17488, "skip": "obvious"}
+{"id": 17489, "skip": "obvious"}
+{"id": 17490, "skip": "obvious"}
+{"id": 17491, "skip": "obvious"}
+{"id": 17492, "term": "Streptococcal pyrogenic exotoxin B", "def": "Cysteine protease from group A Streptococcus. A nephritogenic antigen in poststreptococcal glomerulonephritis.", "syn": [], "abbr": ["SpeB"]}
+{"id": 17493, "term": "Antistreptolysin O", "def": "Antibody to streptolysin O, raised after group A streptococcal infection and elevated in rheumatic fever.", "syn": [], "abbr": ["ASO"]}
+{"id": 17494, "term": "CH50", "def": "Total hemolytic complement assay measuring classical pathway function. Low in poststreptococcal glomerulonephritis.", "syn": [], "abbr": ["CH50"]}
+{"id": 17495, "skip": "obvious"}
+{"id": 17496, "term": "WT2", "def": "Imprinted tumor suppressor locus at 11p15; abnormal expression is associated with Wilms tumor and Beckwith-Wiedemann syndrome.", "syn": [], "abbr": ["WT2"]}
+{"id": 17497, "skip": "not-medical"}
+{"id": 17498, "skip": "not-medical"}
+{"id": 17499, "skip": "not-medical"}

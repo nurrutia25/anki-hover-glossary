@@ -1,0 +1,250 @@
+{"id": 7750, "term": "Xiphoid process", "def": "The small cartilaginous tip at the lower end of the sternum, which ossifies with age. It is a landmark for CPR hand positioning and the T9 level.", "syn": ["xiphoid bone"], "abbr": []}
+{"id": 7751, "skip": "obvious"}
+{"id": 7752, "term": "Annulus fibrosus", "def": "The tough outer ring of fibrocartilage of an intervertebral disc, surrounding the gelatinous nucleus pulposus. Tears allow disc herniation.", "syn": [], "abbr": []}
+{"id": 7753, "term": "14-3-3 protein", "def": "A family of regulatory proteins that bind phosphorylated targets. Elevated 14-3-3 in cerebrospinal fluid supports a diagnosis of Creutzfeldt-Jakob disease.", "syn": ["14-3-3 proteins"], "abbr": []}
+{"id": 7754, "term": "Hyperpituitarism", "def": "Excess secretion of one or more pituitary hormones, usually from a pituitary adenoma, such as growth hormone (acromegaly) or prolactin.", "syn": [], "abbr": []}
+{"id": 7755, "term": "Iritis", "def": "Inflammation of the iris, causing a painful red eye, photophobia and a small irregular pupil. Anterior uveitis, associated with HLA-B27 diseases.", "syn": [], "abbr": []}
+{"id": 7756, "term": "Posterior uveitis", "def": "Inflammation of the choroid and retina at the back of the eye, causing floaters and vision loss. Seen in toxoplasmosis, CMV retinitis and sarcoidosis.", "syn": [], "abbr": []}
+{"id": 7757, "term": "Choroiditis", "def": "Inflammation of the choroid, the vascular layer behind the retina, usually with retinal involvement (chorioretinitis).", "syn": [], "abbr": []}
+{"id": 7758, "term": "Bruch membrane", "def": "The thin layer between the choroid and retinal pigment epithelium. Drusen deposits beneath it occur in macular degeneration, and breaks permit choroidal neovascularization.", "syn": ["bruch's membrane"], "abbr": []}
+{"id": 7759, "term": "Choroidal neovascularization", "def": "Growth of abnormal new vessels from the choroid through Bruch membrane, causing wet age-related macular degeneration. Treated with anti-VEGF injections.", "syn": [], "abbr": []}
+{"id": 7760, "term": "Retinal neovascularization", "def": "Growth of fragile new retinal vessels driven by ischemia and VEGF, as in proliferative diabetic retinopathy. They bleed into the vitreous.", "syn": [], "abbr": []}
+{"id": 7761, "term": "Retinal break", "def": "A tear or hole in the retina that can let fluid under it and cause retinal detachment.", "syn": ["retinal breaks", "retinal perforations"], "abbr": []}
+{"id": 7762, "term": "Pathological myopia", "def": "Severe, progressive nearsightedness with an elongated eye, causing retinal thinning, degeneration and risk of detachment.", "syn": ["degenerative myopia"], "abbr": []}
+{"id": 7763, "term": "Posterior vitreous detachment", "def": "Separation of the vitreous gel from the retina with aging, causing floaters and flashes. A tear in the retina may occur.", "syn": ["vitreous detachment"], "abbr": ["PVD"]}
+{"id": 7764, "skip": "obvious"}
+{"id": 7765, "skip": "obvious"}
+{"id": 7766, "skip": "not-medical"}
+{"id": 7767, "skip": "not-medical"}
+{"id": 7768, "skip": "obvious"}
+{"id": 7769, "skip": "obvious"}
+{"id": 7770, "term": "Delusional parasitosis", "def": "A fixed false belief of being infested with insects or parasites, often with skin picking; a delusional disorder, somatic type.", "syn": [], "abbr": []}
+{"id": 7771, "skip": "obvious"}
+{"id": 7772, "term": "Shared psychotic disorder", "def": "A delusion transferred from one person to a close partner, also called folie a deux.", "syn": ["shared paranoid disorder", "folie a deux"], "abbr": []}
+{"id": 7773, "term": "Chloride channels", "def": "Membrane channels that allow chloride ions to cross. CFTR is a chloride channel mutated in cystic fibrosis; GABA-A receptors are chloride channels.", "syn": ["chloride channel"], "abbr": []}
+{"id": 7774, "term": "Biotransformation", "def": "Chemical modification of drugs in the body, mainly in the liver, in phase I (oxidation by CYP450) and phase II (conjugation) reactions.", "syn": [], "abbr": []}
+{"id": 7775, "skip": "obvious"}
+{"id": 7776, "term": "Orexin receptors", "def": "Receptors for orexin (hypocretin), a hypothalamic neuropeptide that promotes wakefulness. Loss of orexin neurons causes narcolepsy type 1; suvorexant blocks the receptors.", "syn": ["hypocretin receptor"], "abbr": []}
+{"id": 7777, "term": "CYP3A4 inhibitors", "def": "Drugs that block the CYP3A4 enzyme, raising levels of its substrates. Examples are ketoconazole, macrolides, ritonavir and grapefruit juice.", "syn": ["cyp3a4 inhibitors"], "abbr": []}
+{"id": 7778, "term": "Secobarbital", "def": "A short-acting barbiturate that enhances GABA-A receptor chloride channel opening, used as a sedative.", "syn": [], "abbr": []}
+{"id": 7779, "term": "Pentobarbital", "def": "A short-acting barbiturate that prolongs GABA-A chloride channel opening, used for sedation, refractory seizures and euthanasia.", "syn": [], "abbr": []}
+{"id": 7780, "skip": "obvious"}
+{"id": 7781, "skip": "obvious"}
+{"id": 7782, "term": "Dexmedetomidine", "def": "An alpha-2 agonist sedative used in intensive care and procedures with little respiratory depression. Can cause bradycardia and hypotension.", "syn": [], "abbr": []}
+{"id": 7783, "term": "Exfoliative toxins", "def": "Staphylococcus aureus toxins that cleave desmoglein-1, causing blistering of the superficial epidermis, as in staphylococcal scalded skin syndrome.", "syn": ["exfoliatins"], "abbr": []}
+{"id": 7784, "skip": "ambiguous"}
+{"id": 7785, "term": "Furuncle", "def": "A painful boil, an abscess of a hair follicle, usually from Staphylococcus aureus. Multiple recurrent furuncles are furunculosis.", "syn": ["furuncles", "furunculosis"], "abbr": []}
+{"id": 7786, "term": "Carbuncle", "def": "A cluster of connected furuncles forming a deep abscess draining at multiple sites, usually from Staphylococcus aureus.", "syn": ["carbuncles"], "abbr": []}
+{"id": 7787, "term": "Desflurane", "def": "A volatile inhaled anesthetic with low blood solubility and rapid onset and recovery. Can irritate the airway.", "syn": [], "abbr": []}
+{"id": 7788, "term": "Tetracaine", "def": "An ester-type local anesthetic with long action, used in spinal and topical eye anesthesia.", "syn": [], "abbr": []}
+{"id": 7789, "term": "Mepivacaine", "def": "An amide-type local anesthetic of intermediate duration, a sodium channel blocker.", "syn": [], "abbr": []}
+{"id": 7790, "term": "Prilocaine", "def": "An amide local anesthetic whose metabolite can cause methemoglobinemia, especially in newborns.", "syn": [], "abbr": []}
+{"id": 7791, "term": "Bridge therapy", "def": "Short-term use of a rapidly acting anticoagulant (heparin) while warfarin is stopped before a procedure and its effect has worn off.", "syn": [], "abbr": []}
+{"id": 7792, "term": "Hypochondriasis", "def": "Excessive preoccupation with having a serious illness despite reassurance and few or no symptoms; now illness anxiety disorder.", "syn": [], "abbr": []}
+{"id": 7793, "term": "Pseudocyesis", "def": "False pregnancy: a woman believes she is pregnant and develops signs like amenorrhea and abdominal enlargement without a fetus.", "syn": ["pseudopregnancy"], "abbr": []}
+{"id": 7794, "term": "Fluvoxamine", "def": "An SSRI used mainly for obsessive-compulsive disorder. Inhibits CYP1A2 and CYP2C19.", "syn": [], "abbr": []}
+{"id": 7795, "term": "Desvenlafaxine", "def": "An SNRI, the active metabolite of venlafaxine, used for depression.", "syn": ["desvenlafaxine succinate"], "abbr": []}
+{"id": 7796, "term": "Levomilnacipran", "def": "An SNRI used for major depression.", "syn": [], "abbr": []}
+{"id": 7797, "skip": "obvious"}
+{"id": 7798, "term": "Amoxapine", "def": "A tricyclic-like antidepressant, a metabolite of loxapine, with dopamine-blocking effects that can cause extrapyramidal symptoms.", "syn": [], "abbr": []}
+{"id": 7799, "term": "Doxepin", "def": "A tricyclic antidepressant with strong antihistamine effect; low doses are used for insomnia. Causes anticholinergic side effects.", "syn": [], "abbr": []}
+{"id": 7800, "term": "Tranylcypromine", "def": "A nonselective, irreversible MAO inhibitor for depression. Risks include hypertensive crisis with tyramine-rich foods and serotonin syndrome.", "syn": [], "abbr": []}
+{"id": 7801, "term": "Isocarboxazid", "def": "A nonselective irreversible MAO inhibitor for depression, with risk of hypertensive crisis with tyramine-rich foods.", "syn": [], "abbr": []}
+{"id": 7802, "skip": "obvious"}
+{"id": 7803, "term": "CYP1A2", "def": "A liver enzyme metabolizing caffeine, theophylline and clozapine. Induced by smoking and inhibited by ciprofloxacin and fluvoxamine.", "syn": ["cytochrome p-450 cyp1a2"], "abbr": []}
+{"id": 7804, "term": "Schizotypal personality disorder", "def": "A cluster A disorder with odd beliefs, magical thinking, eccentric behavior and social discomfort, without full psychosis.", "syn": [], "abbr": []}
+{"id": 7805, "skip": "obvious"}
+{"id": 7806, "term": "Dialectical behavior therapy", "def": "A form of cognitive behavioral therapy combining acceptance and change skills, used mainly for borderline personality disorder and self-harm.", "syn": ["dialectical behavioral therapy"], "abbr": ["DBT"]}
+{"id": 7807, "skip": "obvious"}
+{"id": 7808, "skip": "obvious"}
+{"id": 7809, "skip": "obvious"}
+{"id": 7810, "skip": "ambiguous"}
+{"id": 7811, "skip": "obvious"}
+{"id": 7812, "term": "Lateral hypothalamus", "def": "The hypothalamic area containing the hunger center and orexin neurons. Lesions cause anorexia and weight loss.", "syn": ["hypothalamic area, lateral"], "abbr": []}
+{"id": 7813, "skip": "obvious"}
+{"id": 7814, "term": "Catechol-O-methyltransferase", "def": "An enzyme that methylates and inactivates catecholamines and levodopa. Inhibitors (entacapone) extend levodopa's effect.", "syn": ["catechol-o-methyltransferase"], "abbr": ["COMT"]}
+{"id": 7815, "term": "3,4-Dihydroxyphenylacetic acid", "def": "A dopamine metabolite formed by MAO and aldehyde dehydrogenase, further converted by COMT to homovanillic acid.", "syn": ["dopac"], "abbr": ["DOPAC"]}
+{"id": 7816, "term": "Lysergic acid", "def": "The ergot alkaloid core structure from which LSD is synthesized.", "syn": [], "abbr": []}
+{"id": 7817, "term": "Lysergic acid diethylamide", "def": "A hallucinogen acting as a serotonin 5-HT2A agonist, causing visual distortions and synesthesia, with flashbacks possible.", "syn": [], "abbr": ["LSD"]}
+{"id": 7818, "skip": "obvious"}
+{"id": 7819, "term": "Cannabinoid receptors", "def": "G-protein-coupled receptors CB1 (brain) and CB2 (immune cells) that mediate THC's effects.", "syn": [], "abbr": []}
+{"id": 7820, "skip": "obvious"}
+{"id": 7821, "skip": "not-medical"}
+{"id": 7822, "term": "Riluzole", "def": "A drug that decreases glutamate release, used in amyotrophic lateral sclerosis to modestly prolong survival.", "syn": [], "abbr": []}
+{"id": 7823, "term": "Pancuronium", "def": "A long-acting nondepolarizing neuromuscular blocker that competitively blocks nicotinic receptors. Causes tachycardia by vagolytic effect.", "syn": [], "abbr": []}
+{"id": 7824, "term": "Sugammadex", "def": "A drug that reverses rocuronium and vecuronium by encapsulating and binding the neuromuscular blocker.", "syn": [], "abbr": []}
+{"id": 7825, "term": "Neurokinin A", "def": "A tachykinin neuropeptide related to substance P, acting on NK2 receptors to cause bronchoconstriction and smooth muscle contraction.", "syn": [], "abbr": []}
+{"id": 7826, "term": "CGRP receptor antagonists", "def": "Migraine drugs that block the receptor for calcitonin gene-related peptide, a vasodilating neuropeptide (the 'gepants').", "syn": ["cgrp receptor antagonist"], "abbr": []}
+{"id": 7827, "term": "CGRP receptor", "def": "The receptor for calcitonin gene-related peptide, a vasodilator neuropeptide released by trigeminal nerves in migraine.", "syn": [], "abbr": []}
+{"id": 7828, "term": "Vancomycin resistance", "def": "Bacterial resistance from altered cell wall precursors (D-ala-D-lac in place of D-ala-D-ala), seen in enterococci (VRE) and rarely S. aureus.", "syn": [], "abbr": []}
+{"id": 7829, "term": "Multidrug resistance-associated protein", "def": "A family (ABCC) of ATP-driven membrane pumps that move drugs and conjugated compounds out of cells, causing chemotherapy resistance.", "syn": [], "abbr": ["MRP"]}
+{"id": 7830, "term": "Multidrug resistance-associated protein 2", "def": "The canalicular transporter that excretes conjugated bilirubin into bile. Defective in Dubin-Johnson syndrome.", "syn": [], "abbr": ["MRP2"]}
+{"id": 7831, "skip": "obvious"}
+{"id": 7832, "term": "HLA-A3", "def": "An MHC class I allele associated with hemochromatosis.", "syn": ["hla-a3 antigen"], "abbr": []}
+{"id": 7833, "term": "Hematoxylin", "def": "A dye that stains acidic structures like nuclei and ribosomes blue-purple; counterpart to eosin in H&E staining.", "syn": [], "abbr": []}
+{"id": 7834, "term": "Lipid peroxidation", "def": "Free-radical oxidative damage of membrane lipids, forming reactive aldehydes. A mechanism of cell injury, as in carbon tetrachloride toxicity.", "syn": [], "abbr": []}
+{"id": 7835, "skip": "obvious"}
+{"id": 7836, "term": "Descemet membrane", "def": "The basement membrane of the corneal endothelium, deep in the cornea. Copper deposits here form Kayser-Fleischer rings.", "syn": [], "abbr": []}
+{"id": 7837, "term": "Thorium", "def": "A radioactive element. Thorium dioxide was used as a contrast agent (Thorotrast) and is linked to liver angiosarcoma.", "syn": [], "abbr": []}
+{"id": 7838, "term": "Thorium dioxide", "def": "A radioactive contrast agent (Thorotrast) formerly used for imaging, causing hepatic angiosarcoma years later.", "syn": [], "abbr": []}
+{"id": 7839, "term": "Drug-resistant epilepsy", "def": "Seizures that persist despite adequate trials of two antiseizure medications. May be treated with surgery, vagus nerve stimulation or diet.", "syn": ["intractable epilepsy"], "abbr": []}
+{"id": 7840, "term": "Aspergillus flavus", "def": "A mold that produces aflatoxin, a toxin on stored grains and peanuts that causes hepatocellular carcinoma.", "syn": [], "abbr": []}
+{"id": 7841, "term": "Paneth cells", "def": "Cells at the base of small intestinal crypts that secrete lysozyme and defensins for innate defense.", "syn": [], "abbr": []}
+{"id": 7842, "skip": "obvious"}
+{"id": 7843, "term": "Superior mesenteric artery syndrome", "def": "Duodenal compression between the superior mesenteric artery and aorta after weight loss, causing vomiting and postprandial pain.", "syn": [], "abbr": []}
+{"id": 7844, "term": "Bile canaliculi", "def": "Tiny channels between adjacent hepatocytes that collect bile and drain to bile ductules.", "syn": [], "abbr": []}
+{"id": 7845, "term": "Hypervitaminosis A", "def": "Vitamin A toxicity causing headache, pseudotumor cerebri, liver damage and bone pain, and birth defects in pregnancy.", "syn": [], "abbr": []}
+{"id": 7846, "term": "Gastric fundus", "def": "The dome of the stomach above the esophageal opening. Gastroesophageal reflux can occur here; it is mobilized in fundoplication.", "syn": [], "abbr": []}
+{"id": 7847, "term": "Traumatic diaphragmatic hernia", "def": "Protrusion of abdominal contents into the chest through a diaphragm rupture after blunt or penetrating trauma, more often on the left.", "syn": [], "abbr": []}
+{"id": 7848, "skip": "obvious"}
+{"id": 7849, "term": "Terminal deoxynucleotidyl transferase", "def": "An enzyme that adds random nucleotides at V(D)J junctions, increasing antibody and T cell receptor diversity. A marker of lymphoblasts in ALL.", "syn": ["terminal deoxyribonucleotidyl transferase", "dna nucleotidylexotransferase"], "abbr": ["TdT"]}
+{"id": 7850, "skip": "obvious"}
+{"id": 7851, "term": "Memory B cells", "def": "Long-lived B cells formed after antigen exposure that mount faster, higher-affinity responses on re-exposure.", "syn": ["memory b cell"], "abbr": []}
+{"id": 7852, "term": "Clonal anergy", "def": "A state where lymphocytes that encounter antigen without costimulation become unresponsive, a form of peripheral tolerance.", "syn": [], "abbr": []}
+{"id": 7853, "term": "HLA-DP", "def": "An MHC class II molecule presenting antigens to CD4 T cells.", "syn": ["hla-dp antigens"], "abbr": []}
+{"id": 7854, "term": "HLA-DQ", "def": "An MHC class II molecule; HLA-DQ2 and DQ8 are associated with celiac disease and type 1 diabetes.", "syn": ["hla-dq antigens"], "abbr": []}
+{"id": 7855, "term": "Primary immunodeficiency", "def": "An inherited defect of immune function causing recurrent or unusual infections, such as SCID, Bruton agammaglobulinemia and DiGeorge syndrome.", "syn": ["primary immunodeficiency diseases", "congenital immunodeficiency disorder"], "abbr": []}
+{"id": 7856, "skip": "obvious"}
+{"id": 7857, "skip": "obvious"}
+{"id": 7858, "term": "Secretory IgA", "def": "Dimeric IgA joined by a J chain and secretory piece, found in mucosal secretions and breast milk, protecting mucosal surfaces.", "syn": ["immunoglobulin a, secretory"], "abbr": []}
+{"id": 7859, "skip": "obvious"}
+{"id": 7860, "skip": "obvious"}
+{"id": 7861, "skip": "obvious"}
+{"id": 7862, "skip": "obvious"}
+{"id": 7863, "term": "Everolimus", "def": "An mTOR inhibitor used as an immunosuppressant for transplants and in some cancers and tuberous sclerosis.", "syn": [], "abbr": []}
+{"id": 7864, "term": "HLA antigens", "def": "Human leukocyte antigens: cell-surface proteins encoded by the MHC genes that present peptides to T cells and determine transplant compatibility.", "syn": ["hla antigen"], "abbr": ["HLA"]}
+{"id": 7865, "skip": "obvious"}
+{"id": 7866, "skip": "obvious"}
+{"id": 7867, "term": "Myositis ossificans", "def": "Abnormal bone formation within muscle, often after trauma. The progressive form (fibrodysplasia ossificans progressiva) is caused by ACVR1 mutation.", "syn": ["myositis ossificans progressiva"], "abbr": []}
+{"id": 7868, "term": "Polyribosomes", "def": "Several ribosomes translating a single mRNA at the same time, forming a bead-like cluster.", "syn": ["polysomes", "polyribosome", "polysome"], "abbr": []}
+{"id": 7869, "term": "Pyroptosis", "def": "Inflammatory programmed cell death mediated by caspase-1 and gasdermin, with release of IL-1 beta.", "syn": [], "abbr": []}
+{"id": 7870, "skip": "obvious"}
+{"id": 7871, "term": "Apoptotic bodies", "def": "Membrane-bound fragments of a dying cell formed during apoptosis, which are taken up by phagocytes.", "syn": ["apoptotic body"], "abbr": []}
+{"id": 7872, "term": "TNF receptors", "def": "Receptors for tumor necrosis factor. TNFR1 triggers inflammation or apoptosis through death domains.", "syn": ["tnf receptor"], "abbr": []}
+{"id": 7873, "term": "Autoimmune lymphoproliferative syndrome", "def": "Inherited failure of lymphocyte apoptosis (FAS pathway) causing lymphadenopathy, splenomegaly and autoimmune cytopenias.", "syn": [], "abbr": ["ALPS"]}
+{"id": 7874, "term": "Carbon tetrachloride", "def": "An industrial solvent that causes liver injury through free radicals, causing centrilobular necrosis and fatty change.", "syn": [], "abbr": []}
+{"id": 7875, "term": "Periarthritis", "def": "Inflammation of tissues around a joint, such as the shoulder (adhesive capsulitis).", "syn": [], "abbr": []}
+{"id": 7876, "term": "Prostaglandin D2", "def": "A prostaglandin from mast cells that causes bronchoconstriction and vasodilation; mediates niacin flushing.", "syn": ["pgd2"], "abbr": ["PGD2"]}
+{"id": 7877, "term": "Leukocyte rolling", "def": "The first step in extravasation, when selectins on endothelium weakly bind white cells and slow them. Followed by integrin-mediated adhesion and transmigration.", "syn": [], "abbr": []}
+{"id": 7878, "term": "VLA-4", "def": "Integrin alpha4beta1 on lymphocytes that binds VCAM-1 for migration into tissues. Blocked by natalizumab.", "syn": ["integrin alpha4beta1"], "abbr": []}
+{"id": 7879, "skip": "obvious"}
+{"id": 7880, "term": "Formazan", "def": "A colored product formed when tetrazolium dyes are reduced, used in the NBT test for neutrophil oxidative burst.", "syn": ["formazans"], "abbr": []}
+{"id": 7881, "term": "Wiskott-Aldrich syndrome protein", "def": "The protein mutated in Wiskott-Aldrich syndrome that regulates actin cytoskeleton in blood cells.", "syn": [], "abbr": ["WASP"]}
+{"id": 7882, "term": "Bradykinin B2 receptor", "def": "The receptor mediating bradykinin's vasodilation and increased vascular permeability. Bradykinin buildup causes ACE inhibitor cough and angioedema.", "syn": ["bradykinin b2 receptors"], "abbr": []}
+{"id": 7883, "term": "CH50 assay", "def": "A test of total complement activity of the classical pathway. Low in deficiencies of C1 through C9.", "syn": ["ch50"], "abbr": []}
+{"id": 7884, "term": "Complement receptors", "def": "Receptors for complement fragments on phagocytes and B cells, such as CR1 and CR3, aiding opsonization.", "syn": [], "abbr": []}
+{"id": 7885, "term": "Reagin", "def": "Old term for IgE antibody that mediates immediate allergic reactions. Also refers to nonspecific antibodies detected in syphilis tests.", "syn": [], "abbr": []}
+{"id": 7886, "term": "Calcinosis cutis", "def": "Calcium deposits in the skin, as in dermatomyositis, scleroderma and CREST syndrome.", "syn": [], "abbr": []}
+{"id": 7887, "term": "Vascular remodeling", "def": "Structural changes in vessel walls in response to injury or pressure, such as intimal thickening and wall hypertrophy in hypertension.", "syn": [], "abbr": []}
+{"id": 7888, "skip": "obvious"}
+{"id": 7889, "skip": "obvious"}
+{"id": 7890, "skip": "not-medical"}
+{"id": 7891, "term": "Fibroblast growth factor receptor", "def": "A tyrosine kinase receptor for fibroblast growth factors. Mutations cause skeletal dysplasias such as achondroplasia.", "syn": ["fibroblast growth factor receptors"], "abbr": ["FGFR"]}
+{"id": 7892, "term": "Fibroblast growth factor receptor 3", "def": "A receptor negatively regulating bone growth. Activating mutation causes achondroplasia.", "syn": [], "abbr": ["FGFR3"]}
+{"id": 7893, "skip": "obvious"}
+{"id": 7894, "term": "Pectus excavatum", "def": "A congenital chest wall deformity with a caved-in sternum.", "syn": [], "abbr": []}
+{"id": 7895, "term": "Cancellous bone", "def": "Spongy bone formed by a lattice of trabeculae with marrow spaces, found in vertebrae and long bone ends. It is lost first in osteoporosis.", "syn": ["spongy bone", "trabecular bone"], "abbr": []}
+{"id": 7896, "term": "Carpometacarpal joint", "def": "A joint between wrist bones and the metacarpals. The first (thumb) one is a saddle joint commonly affected by osteoarthritis.", "syn": ["carpometacarpal joints"], "abbr": []}
+{"id": 7897, "term": "HLA-DR1", "def": "An MHC class II allele; related alleles such as HLA-DR4 are associated with rheumatoid arthritis.", "syn": ["hla-dr1 antigen"], "abbr": []}
+{"id": 7898, "term": "Felty syndrome", "def": "Rheumatoid arthritis with splenomegaly and neutropenia.", "syn": [], "abbr": []}
+{"id": 7899, "skip": "not-medical"}
+{"id": 7900, "skip": "obvious"}
+{"id": 7901, "term": "Pyrophosphatase", "def": "An enzyme that splits pyrophosphate into two phosphates, driving reactions like DNA synthesis forward.", "syn": ["pyrophosphatases"], "abbr": []}
+{"id": 7902, "term": "Hypophosphatasia", "def": "Inherited deficiency of alkaline phosphatase causing defective bone mineralization with low serum alkaline phosphatase and rickets-like bones.", "syn": [], "abbr": []}
+{"id": 7903, "term": "Histidyl-tRNA synthetase", "def": "Enzyme that attaches histidine to its tRNA. Anti-Jo-1 antibodies target it in dermatomyositis and polymyositis.", "syn": ["histidine-trna ligase"], "abbr": []}
+{"id": 7904, "term": "Myofascial pain syndrome", "def": "Regional muscle pain from trigger points, tight bands within muscle that are tender and refer pain.", "syn": ["myofascial pain syndromes"], "abbr": []}
+{"id": 7905, "term": "Dystroglycan", "def": "A protein complex linking dystrophin inside muscle cells to the extracellular matrix.", "syn": ["dystroglycans"], "abbr": []}
+{"id": 7906, "term": "Myotonin-protein kinase", "def": "The DMPK gene product. A CTG repeat expansion in DMPK causes myotonic dystrophy.", "syn": ["myotonin protein kinase", "myotonic dystrophy protein kinase"], "abbr": ["DMPK"]}
+{"id": 7907, "term": "End plate potential", "def": "The depolarization of the muscle membrane at the neuromuscular junction when acetylcholine binds nicotinic receptors, triggering a muscle action potential.", "syn": ["excitatory postsynaptic potentials"], "abbr": ["EPP"]}
+{"id": 7908, "term": "Occludin", "def": "A transmembrane protein of tight junctions that seals the gaps between epithelial cells.", "syn": ["occludins"], "abbr": []}
+{"id": 7909, "term": "Desmoplakin", "def": "A desmosome protein linking intermediate filaments to the cell membrane. Mutated in some cardiomyopathies and skin disorders.", "syn": ["desmoplakins"], "abbr": []}
+{"id": 7910, "term": "Connexins", "def": "Proteins forming gap junction channels that allow direct passage of ions and small molecules between cells.", "syn": ["connexin"], "abbr": []}
+{"id": 7911, "term": "Psoralen", "def": "A plant-derived photosensitizing compound that, activated by UVA, treats psoriasis and vitiligo (PUVA).", "syn": ["ficusin"], "abbr": []}
+{"id": 7912, "term": "Collagen type XVIII", "def": "A basement membrane collagen whose fragment, endostatin, inhibits blood vessel growth.", "syn": ["type xviii collagen", "xviii collagen"], "abbr": []}
+{"id": 7913, "term": "Keratoacanthoma", "def": "A rapidly growing, dome-shaped skin tumor with a central keratin plug, regarded as a low-grade squamous cell carcinoma that may regress.", "syn": [], "abbr": []}
+{"id": 7914, "term": "Intradermal nevus", "def": "A mole whose melanocyte nests lie entirely within the dermis, usually raised and flesh-colored.", "syn": ["intradermal nevi"], "abbr": []}
+{"id": 7915, "skip": "obvious"}
+{"id": 7916, "term": "Rhinophyma", "def": "Bulbous thickening of the nose from severe rosacea with sebaceous gland hyperplasia.", "syn": [], "abbr": []}
+{"id": 7917, "term": "Panniculitis", "def": "Inflammation of subcutaneous fat. Erythema nodosum is the common type, with tender red shin nodules.", "syn": [], "abbr": []}
+{"id": 7918, "term": "Lymphangioma", "def": "A benign malformation of lymphatic vessels, including cystic hygroma in the neck in Turner syndrome.", "syn": ["cavernous lymphangioma"], "abbr": []}
+{"id": 7919, "term": "Lymphocele", "def": "A collection of lymph in a cavity, usually after surgery that disrupts lymphatics, such as pelvic lymph node dissection.", "syn": ["lymphatic cysts"], "abbr": []}
+{"id": 7920, "term": "Chondrodysplasia punctata", "def": "A group of skeletal disorders with stippled calcifications in cartilage and epiphyses. One form results from warfarin exposure in pregnancy.", "syn": ["stippled epiphyses"], "abbr": []}
+{"id": 7921, "term": "Hirudin", "def": "An anticoagulant from leech saliva that directly inhibits thrombin. Recombinant forms (lepirudin, bivalirudin) are used.", "syn": ["hirudins"], "abbr": []}
+{"id": 7922, "skip": "obvious"}
+{"id": 7923, "term": "Cyclooxygenase-2", "def": "An inducible COX enzyme that makes inflammatory prostaglandins. Selectively blocked by celecoxib.", "syn": ["cyclooxygenase 2"], "abbr": ["COX-2"]}
+{"id": 7924, "term": "P2Y12 receptor antagonists", "def": "Antiplatelet drugs that block the platelet ADP receptor, such as clopidogrel, prasugrel and ticagrelor.", "syn": ["adp receptor antagonist", "purinergic p2y receptor antagonists"], "abbr": []}
+{"id": 7925, "term": "Diclofenac", "def": "A nonselective NSAID that inhibits COX enzymes, used for pain and arthritis. Adverse effects include GI ulcers and kidney injury.", "syn": [], "abbr": []}
+{"id": 7926, "term": "Meloxicam", "def": "An NSAID with preferential COX-2 inhibition, used for arthritis.", "syn": [], "abbr": []}
+{"id": 7927, "term": "Piroxicam", "def": "A long half-life NSAID used for arthritis.", "syn": [], "abbr": []}
+{"id": 7928, "skip": "obvious"}
+{"id": 7929, "term": "Minimum inhibitory concentration", "def": "The lowest antibiotic concentration that prevents visible bacterial growth in culture, used to judge susceptibility.", "syn": ["microbial sensitivity tests"], "abbr": ["MIC"]}
+{"id": 7930, "skip": "obvious"}
+{"id": 7931, "term": "Syndactyly", "def": "Fusion of adjacent fingers or toes, from failed apoptosis of interdigital webbing during limb development.", "syn": [], "abbr": []}
+{"id": 7932, "term": "Epiblast", "def": "The upper layer of the bilaminar embryonic disc that forms the three germ layers during gastrulation. The hypoblast is the lower layer.", "syn": [], "abbr": []}
+{"id": 7933, "term": "Limb buds", "def": "Early embryonic outgrowths of mesenchyme covered by ectoderm that develop into limbs. Thalidomide exposure disrupts them.", "syn": ["limb bud"], "abbr": []}
+{"id": 7934, "term": "Odontoblasts", "def": "Cells at the edge of tooth pulp that make dentin.", "syn": ["odontoblast"], "abbr": []}
+{"id": 7935, "term": "Plagiocephaly", "def": "Flattening or asymmetry of the skull, from positioning or premature suture fusion.", "syn": [], "abbr": []}
+{"id": 7936, "skip": "obvious"}
+{"id": 7937, "term": "Sirenomelia", "def": "Fusion of the lower limbs, a mermaid-like malformation, with renal agenesis, associated with maternal diabetes.", "syn": ["ectromelia"], "abbr": []}
+{"id": 7938, "term": "Cervical plexus", "def": "Nerve network from C1 to C4 supplying neck muscles and skin, giving rise to the phrenic nerve (C3-5).", "syn": [], "abbr": []}
+{"id": 7939, "term": "Glossoptosis", "def": "Backward displacement of the tongue base that can obstruct the airway, seen in Pierre Robin sequence.", "syn": [], "abbr": []}
+{"id": 7940, "term": "Pierre Robin sequence", "def": "Micrognathia leading to glossoptosis and a U-shaped cleft palate, causing airway obstruction and feeding difficulty.", "syn": ["pierre robin syndrome", "robin sequence"], "abbr": []}
+{"id": 7941, "term": "Ultimobranchial body", "def": "Embryonic structure from the fourth pharyngeal pouch that forms the parafollicular C cells of the thyroid.", "syn": [], "abbr": []}
+{"id": 7942, "term": "Carbenicillin", "def": "An extended-spectrum penicillin active against Pseudomonas, now rarely used.", "syn": [], "abbr": []}
+{"id": 7943, "term": "First-generation cephalosporins", "def": "Cephalosporins such as cefazolin and cephalexin, with good gram-positive and limited gram-negative activity, used for skin infections and surgical prophylaxis.", "syn": ["first generation cephalosporins"], "abbr": []}
+{"id": 7944, "term": "Cephamycins", "def": "Beta-lactams related to cephalosporins, such as cefoxitin and cefotetan, with anaerobic activity and beta-lactamase stability.", "syn": ["cephamycin"], "abbr": []}
+{"id": 7945, "term": "Second-generation cephalosporins", "def": "Cephalosporins such as cefuroxime, cefoxitin and cefaclor with more gram-negative activity, including H. influenzae, than the first generation.", "syn": ["second generation cephalosporins"], "abbr": []}
+{"id": 7946, "term": "Sigma factor", "def": "A bacterial protein subunit that lets RNA polymerase recognize promoters and start transcription.", "syn": ["sigma subunit"], "abbr": []}
+{"id": 7947, "skip": "obvious"}
+{"id": 7948, "term": "Ethinyl estradiol", "def": "A potent synthetic oral estrogen, the estrogen in most combined oral contraceptives.", "syn": [], "abbr": []}
+{"id": 7949, "term": "Mestranol", "def": "A synthetic estrogen prodrug converted to ethinyl estradiol, used in oral contraceptives.", "syn": [], "abbr": []}
+{"id": 7950, "skip": "obvious"}
+{"id": 7951, "term": "Oxandrolone", "def": "An oral synthetic anabolic steroid with little androgenic effect, used for weight gain and burns.", "syn": [], "abbr": []}
+{"id": 7952, "term": "Androgen receptor antagonists", "def": "Drugs such as flutamide and bicalutamide that block androgen receptors, used for prostate cancer.", "syn": ["androgen receptor antagonist"], "abbr": []}
+{"id": 7953, "term": "Cyclophilin", "def": "An intracellular protein that binds cyclosporine; the complex inhibits calcineurin and blocks T cell activation.", "syn": ["cyclophilins"], "abbr": []}
+{"id": 7954, "term": "Interleukin-11", "def": "A cytokine that stimulates platelet production; recombinant oprelvekin was used for thrombocytopenia.", "syn": ["il-11", "il11"], "abbr": ["IL-11"]}
+{"id": 7955, "term": "Ustekinumab", "def": "A monoclonal antibody against the p40 subunit of IL-12 and IL-23, used for psoriasis and Crohn disease.", "syn": [], "abbr": []}
+{"id": 7956, "term": "Interleukin-23", "def": "A cytokine from dendritic cells that sustains Th17 cells; important in psoriasis and inflammatory bowel disease.", "syn": ["il-23"], "abbr": ["IL-23"]}
+{"id": 7957, "term": "Alloantibodies", "def": "Antibodies against antigens from another individual of the same species, such as anti-Rh or anti-HLA antibodies.", "syn": ["isoantibodies"], "abbr": []}
+{"id": 7958, "term": "5'-Nucleotidase", "def": "An enzyme removing phosphate from nucleotide 5' ends, raised in cholestasis; helps confirm that raised alkaline phosphatase is of liver origin.", "syn": ["5 nucleotidase"], "abbr": []}
+{"id": 7959, "term": "Congenital hypoplastic anemia", "def": "Inherited failure of red cell production, as in Diamond-Blackfan anemia, with macrocytic anemia, low reticulocytes and congenital anomalies like thumb abnormalities.", "syn": ["diamond-blackfan anemia"], "abbr": []}
+{"id": 7960, "skip": "obvious"}
+{"id": 7961, "skip": "obvious"}
+{"id": 7962, "skip": "obvious"}
+{"id": 7963, "skip": "obvious"}
+{"id": 7964, "term": "Morganella", "def": "A genus of gram-negative rods of the Enterobacteriaceae, a cause of urinary infections; produces urease like Proteus.", "syn": [], "abbr": []}
+{"id": 7965, "term": "Mercury poisoning", "def": "Toxicity from mercury: elemental vapor causes neurologic and psychiatric symptoms and tremor; organic mercury causes neurotoxicity; inorganic salts injure the kidney.", "syn": [], "abbr": []}
+{"id": 7966, "skip": "obvious"}
+{"id": 7967, "term": "Axillary artery", "def": "The continuation of the subclavian artery from the first rib to the teres major, supplying the shoulder. It is divided into three parts by pectoralis minor.", "syn": [], "abbr": []}
+{"id": 7968, "term": "Tibial plateau fracture", "def": "A break of the upper surface of the tibia at the knee, often from high-energy impact or a lateral blow (bumper fracture). Risks include compartment syndrome and knee instability.", "syn": [], "abbr": []}
+{"id": 7969, "term": "ANCA-associated vasculitis", "def": "Small-vessel vasculitis with anti-neutrophil cytoplasmic antibodies, including granulomatosis with polyangiitis (c-ANCA), microscopic polyangiitis and eosinophilic granulomatosis with polyangiitis (p-ANCA).", "syn": [], "abbr": []}
+{"id": 7970, "term": "Diatrizoate", "def": "An iodinated, high-osmolar radiographic contrast agent.", "syn": [], "abbr": []}
+{"id": 7971, "term": "Ipodate", "def": "An iodinated contrast agent once used for oral cholecystography; it also reduces conversion of T4 to T3.", "syn": [], "abbr": []}
+{"id": 7972, "term": "Biofilm matrix", "def": "The slime of polysaccharides, proteins and DNA that bacteria secrete to adhere to surfaces and protect themselves from antibiotics and host defenses.", "syn": ["matrix biofilm"], "abbr": []}
+{"id": 7973, "term": "Thymic neoplasm", "def": "A tumor of the thymus in the anterior mediastinum, most often a thymoma associated with myasthenia gravis.", "syn": ["neoplasm thymic", "thymus neoplasms"], "abbr": []}
+{"id": 7974, "skip": "obvious"}
+{"id": 7975, "term": "Foreign body reaction", "def": "Inflammatory response to material that cannot be removed, with macrophages and giant cells forming granulomas around it.", "syn": ["foreign body reactions"], "abbr": []}
+{"id": 7976, "skip": "obvious"}
+{"id": 7977, "skip": "obvious"}
+{"id": 7978, "term": "Hyperesthesia", "def": "Increased sensitivity to touch or sensory stimuli.", "syn": [], "abbr": []}
+{"id": 7979, "skip": "obvious"}
+{"id": 7980, "skip": "obvious"}
+{"id": 7981, "skip": "obvious"}
+{"id": 7982, "term": "Central tolerance", "def": "Elimination of self-reactive lymphocytes in primary lymphoid organs: T cells in the thymus (negative selection) and B cells in bone marrow.", "syn": [], "abbr": []}
+{"id": 7983, "term": "Lymphangioleiomyomatosis", "def": "A rare disease of smooth muscle cell growth in the lungs forming cysts, in women, associated with tuberous sclerosis. Causes dyspnea and pneumothorax.", "syn": [], "abbr": ["LAM"]}
+{"id": 7984, "term": "mTORC1", "def": "Mechanistic target of rapamycin complex 1, a kinase promoting cell growth and protein synthesis. Blocked by sirolimus and everolimus.", "syn": ["mechanistic target of rapamycin complex 1"], "abbr": []}
+{"id": 7985, "skip": "obvious"}
+{"id": 7986, "skip": "obvious"}
+{"id": 7987, "skip": "not-medical"}
+{"id": 7988, "skip": "obvious"}
+{"id": 7989, "skip": "obvious"}
+{"id": 7990, "term": "Blue toe syndrome", "def": "Painful blue-purple toes with intact pulses from cholesterol or other emboli, often after vascular procedures or anticoagulation.", "syn": [], "abbr": []}
+{"id": 7991, "skip": "not-medical"}
+{"id": 7992, "skip": "obvious"}
+{"id": 7993, "term": "Autophagosome", "def": "A double-membrane vesicle that engulfs cell components and fuses with lysosomes in autophagy. Its precursor is the phagophore.", "syn": ["autophagosomes", "phagophore"], "abbr": []}
+{"id": 7994, "term": "Vaso-occlusive crisis", "def": "Episode of severe pain in sickle cell disease when sickled red cells block small vessels, causing ischemia. Triggered by infection, dehydration or hypoxia.", "syn": ["vaso-occlusive crises"], "abbr": []}
+{"id": 7995, "term": "Gamma-globin", "def": "The globin chain of fetal hemoglobin (HbF, alpha2gamma2). Hydroxyurea raises gamma-globin expression in sickle cell disease.", "syn": [], "abbr": []}
+{"id": 7996, "skip": "obvious"}
+{"id": 7997, "term": "Penicillium", "def": "A mold genus that produces penicillin; some species cause opportunistic infection, such as Talaromyces marneffei in AIDS.", "syn": [], "abbr": []}
+{"id": 7998, "skip": "obvious"}
+{"id": 7999, "term": "Interleukin-13 receptor", "def": "Receptor for IL-13, found on epithelial and immune cells, which drives allergic inflammation. Dupilumab blocks IL-4/IL-13 signaling.", "syn": ["il-13 receptors"], "abbr": []}

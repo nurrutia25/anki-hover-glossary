@@ -1,0 +1,6 @@
+{
+  "enabled": true,
+  "showOnQuestion": true,
+  "markEveryOccurrence": false,
+  "hoverDelayMs": 120
+}

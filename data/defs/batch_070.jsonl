@@ -1,0 +1,250 @@
+{"id": 17500, "term": "Triglycerides", "def": "Fats made of glycerol with three fatty acids attached. They are the main storage form of fat in adipose tissue and the main lipid carried in chylomicrons and VLDL.", "syn": ["triglyceride"], "abbr": ["TGs"]}
+{"id": 17501, "term": "Acyl-CoA cholesterol acyltransferase", "def": "The enzyme that attaches a fatty acid to cholesterol to form cholesteryl esters, the storage form kept inside cells. It is activated when intracellular cholesterol is high.", "syn": ["acyl cholesterol acyltransferase"], "abbr": ["ACAT"]}
+{"id": 17502, "skip": "not-medical"}
+{"id": 17503, "skip": "ambiguous"}
+{"id": 17504, "skip": "ambiguous"}
+{"id": 17505, "term": "Glycosylphosphatidylinositol anchor", "def": "A glycolipid that tethers certain proteins to the outer surface of the cell membrane. Its absence in paroxysmal nocturnal hemoglobinuria removes CD55 and CD59, leaving red cells open to complement attack.", "syn": ["GPI anchor"], "abbr": ["GPI"]}
+{"id": 17506, "skip": "ambiguous"}
+{"id": 17507, "term": "Human tetanus immune globulin", "def": "Pooled antibodies against tetanus toxin given to neutralize toxin that has not yet entered nerves. It gives immediate passive protection in patients with tetanus-prone wounds or established tetanus.", "syn": ["human tetanus immunoglobulin"], "abbr": ["HTIG"]}
+{"id": 17508, "term": "Upper motor neurons", "def": "Neurons whose cell bodies lie in the motor cortex and whose axons descend in the corticospinal and corticobulbar tracts to synapse on lower motor neurons. Damage causes spasticity, hyperreflexia and a Babinski sign.", "syn": ["upper motor neuron"], "abbr": ["UMN", "UMNs"]}
+{"id": 17509, "term": "SMN1 gene", "def": "Gene on chromosome 5q encoding survival of motor neuron protein, needed for spliceosome assembly in anterior horn cells. Loss causes spinal muscular atrophy (Werdnig-Hoffmann disease).", "syn": [], "abbr": ["SMN1"]}
+{"id": 17510, "term": "Frataxin gene", "def": "The gene encoding frataxin, a mitochondrial protein that handles iron. A GAA trinucleotide repeat expansion on chromosome 9 reduces frataxin and causes Friedreich ataxia.", "syn": ["FXN gene"], "abbr": ["FXN"]}
+{"id": 17511, "skip": "not-medical"}
+{"id": 17512, "term": "CD34", "def": "A surface marker on hematopoietic stem cells and early progenitors, used to identify and collect them for transplantation. Also expressed on vascular endothelium.", "syn": ["CD34+"], "abbr": ["CD34"]}
+{"id": 17513, "term": "CD10", "def": "A surface enzyme (neprilysin) also called CALLA, the common acute lymphoblastic leukemia antigen. It marks pre-B cells and B-cell acute lymphoblastic leukemia and is typically absent in T-cell ALL.", "syn": ["CD10+"], "abbr": ["CD10"]}
+{"id": 17514, "term": "Small lymphocytic lymphoma", "def": "The lymph node-predominant form of chronic lymphocytic leukemia, made of small mature B cells that express CD5 and CD20. It is the same disease without a high blood lymphocyte count.", "syn": [], "abbr": ["SLL"]}
+{"id": 17515, "term": "BRAF V600E mutation", "def": "A point mutation that replaces valine with glutamate at position 600 of the BRAF kinase, keeping it constantly active. Seen in melanoma, hairy cell leukemia and papillary thyroid cancer; targeted by vemurafenib.", "syn": ["V600E"], "abbr": ["V600E"]}
+{"id": 17516, "term": "Ventral posteromedial nucleus", "def": "The thalamic nucleus that relays face sensation from the trigeminal nerve and taste from the solitary nucleus to the sensory cortex.", "syn": ["VPM nucleus"], "abbr": ["VPM"]}
+{"id": 17517, "term": "Posterior inferior cerebellar artery", "def": "A branch of the vertebral artery supplying the lateral medulla and inferior cerebellum. Its occlusion causes lateral medullary (Wallenberg) syndrome.", "syn": [], "abbr": ["PICA"]}
+{"id": 17518, "skip": "ambiguous"}
+{"id": 17519, "term": "JAK2 V617F mutation", "def": "A point mutation that makes the JAK2 tyrosine kinase constantly active, so cells grow without growth factor signals. Found in most polycythemia vera and many essential thrombocythemia and primary myelofibrosis cases.", "syn": ["V617F"], "abbr": ["V617F"]}
+{"id": 17520, "term": "Leukocyte alkaline phosphatase", "def": "An enzyme in neutrophil granules. Its stain score is high in a leukemoid reaction and low in chronic myeloid leukemia, which helps tell the two apart.", "syn": ["leukocyte alkaline phosphatase"], "abbr": ["LAP"]}
+{"id": 17521, "term": "CD15", "def": "A carbohydrate marker on granulocytes that is also expressed on Reed-Sternberg cells, which are positive for CD15 and CD30 in classical Hodgkin lymphoma.", "syn": [], "abbr": ["CD15"]}
+{"id": 17522, "term": "CD30", "def": "A surface marker of activated lymphocytes found on Reed-Sternberg cells of classical Hodgkin lymphoma and on anaplastic large cell lymphoma. The drug brentuximab targets it.", "syn": [], "abbr": ["CD30"]}
+{"id": 17523, "term": "Nodular sclerosis Hodgkin lymphoma", "def": "The most common Hodgkin subtype, with bands of collagen dividing the node into nodules and lacunar-type Reed-Sternberg cells. It usually involves the mediastinum of young adults and has a good prognosis.", "syn": [], "abbr": ["NSHL"]}
+{"id": 17524, "term": "Mixed cellularity Hodgkin lymphoma", "def": "A Hodgkin subtype with many classic Reed-Sternberg cells among eosinophils, plasma cells and histiocytes. It is associated with EBV and often presents with B symptoms in older adults or HIV patients.", "syn": [], "abbr": ["MCHL"]}
+{"id": 17525, "skip": "ambiguous"}
+{"id": 17526, "term": "Subarachnoid hemorrhage", "def": "Bleeding into the space between the arachnoid and pia mater, most often from a ruptured berry aneurysm. Presents with a sudden severe thunderclap headache; CT and xanthochromic CSF help diagnose it.", "syn": [], "abbr": ["SAH"]}
+{"id": 17527, "term": "Gastric outlet obstruction", "def": "Blockage at the stomach's exit through the pylorus or duodenum, causing nonbilious vomiting and early satiety. Causes include pyloric stenosis in infants and peptic ulcer scarring or cancer in adults.", "syn": [], "abbr": ["GOO"]}
+{"id": 17528, "term": "Arteriovenous malformations", "def": "Tangles of vessels in which arteries connect directly to veins without a capillary bed. High-flow shunting makes them prone to rupture or steal; seen in the brain, lung and hereditary hemorrhagic telangiectasia.", "syn": ["arteriovenous malformation", "AV malformations"], "abbr": ["AVM", "AVMs"]}
+{"id": 17529, "term": "Calcitonin gene-related peptide", "def": "A neuropeptide released from trigeminal nerve endings that dilates meningeal vessels and transmits pain. It drives migraine attacks, and drugs that block it or its receptor treat migraine.", "syn": [], "abbr": ["CGRP"]}
+{"id": 17530, "skip": "not-medical"}
+{"id": 17531, "term": "Acute disseminated encephalomyelitis", "def": "A monophasic autoimmune demyelinating disease of the brain and spinal cord that follows an infection or vaccination, typically in children. Causes multifocal neurologic deficits and altered mental status.", "syn": [], "abbr": ["ADEM"]}
+{"id": 17532, "term": "TSC1 gene", "def": "Gene on chromosome 9 encoding hamartin, which with tuberin inhibits mTOR. Mutations cause tuberous sclerosis, with hamartomas, ash-leaf spots, seizures and cardiac rhabdomyomas.", "syn": [], "abbr": ["TSC1"]}
+{"id": 17533, "term": "TSC2 gene", "def": "Gene on chromosome 16 encoding tuberin, which with hamartin restrains mTOR signaling. Mutations cause tuberous sclerosis and are usually more severe than TSC1 mutations.", "syn": [], "abbr": ["TSC2"]}
+{"id": 17534, "skip": "not-medical"}
+{"id": 17535, "skip": "not-medical"}
+{"id": 17536, "skip": "not-medical"}
+{"id": 17537, "skip": "not-medical"}
+{"id": 17538, "term": "GTPase-activating protein", "def": "A protein that speeds up the GTP-hydrolyzing activity of Ras or G proteins, switching them off. Neurofibromin is a Ras GAP, so its loss in neurofibromatosis type 1 leaves Ras overactive.", "syn": ["GTPase activating protein"], "abbr": ["GAP"]}
+{"id": 17539, "term": "Central retinal vein occlusion", "def": "Blockage of the main vein draining the retina, causing sudden painless vision loss. The fundus shows disc swelling, dilated tortuous veins and widespread hemorrhages (blood and thunder).", "syn": [], "abbr": ["CRVO"]}
+{"id": 17540, "skip": "not-medical"}
+{"id": 17541, "term": "Voltage-gated calcium channels", "def": "Membrane channels that open with depolarization and let Ca2+ in. They trigger neurotransmitter release at nerve terminals and contraction in muscle; targets of calcium channel blockers and gabapentinoids.", "syn": ["voltage-gated calcium channel"], "abbr": ["VGCC"]}
+{"id": 17542, "skip": "not-medical"}
+{"id": 17543, "term": "Second-generation antipsychotics", "def": "Atypical antipsychotics such as risperidone and olanzapine that block D2 and 5-HT2A receptors. They cause fewer extrapyramidal effects than first-generation drugs but more weight gain and metabolic problems.", "syn": ["second generation antipsychotics"], "abbr": ["SGAs"]}
+{"id": 17544, "skip": "fragment"}
+{"id": 17545, "skip": "not-medical"}
+{"id": 17546, "skip": "not-medical"}
+{"id": 17547, "term": "Immunoglobulin D", "def": "An antibody class found with IgM on the surface of mature naive B cells, where it acts as an antigen receptor. Little is present in serum.", "syn": ["IgD"], "abbr": ["IgD"]}
+{"id": 17548, "term": "CD21", "def": "The receptor for complement fragment C3d (complement receptor 2) on B cells. Part of the B-cell co-receptor complex with CD19 and CD81, and the entry receptor for Epstein-Barr virus.", "syn": [], "abbr": ["CD21"]}
+{"id": 17549, "skip": "ambiguous"}
+{"id": 17550, "term": "T-cell receptors", "def": "Antigen receptors on T cells that recognize peptide presented on MHC molecules. They are generated by gene rearrangement and, with CD3, signal when antigen is bound.", "syn": ["T-cell receptor", "T cell receptors"], "abbr": ["TCR", "TCRs"]}
+{"id": 17551, "term": "CD80", "def": "A costimulatory molecule on antigen-presenting cells, also called B7-1. It binds CD28 on T cells to give the second signal needed for activation; CTLA-4 binds it to turn the response off.", "syn": ["B7-1"], "abbr": ["CD80"]}
+{"id": 17552, "term": "Graft-versus-host disease", "def": "Disease in which donor immune cells, usually T cells in a transplant, attack the recipient's tissues. Typically causes rash, diarrhea and jaundice; seen after bone marrow transplantation.", "syn": [], "abbr": ["GVHD"]}
+{"id": 17553, "term": "Serum amyloid A", "def": "An acute phase protein made by the liver. In chronic inflammation, fragments deposit as AA amyloid, causing secondary amyloidosis of the kidney, liver and spleen.", "syn": [], "abbr": ["SAA"]}
+{"id": 17554, "term": "Pattern recognition receptors", "def": "Innate immune receptors, such as Toll-like receptors, that detect conserved microbial molecules (PAMPs). Activation triggers inflammatory signaling, including NF-kB and the inflammasome.", "syn": ["pattern recognition receptor"], "abbr": ["PRRs"]}
+{"id": 17555, "term": "Vascular cell adhesion molecule 1", "def": "An adhesion molecule that cytokines such as TNF-alpha and IL-1 induce on endothelium. It binds integrins on leukocytes so they stick to the vessel wall before leaving the blood.", "syn": ["VCAM-1"], "abbr": ["VCAM"]}
+{"id": 17556, "term": "Intercellular adhesion molecule 1", "def": "An adhesion molecule induced on endothelium by inflammatory cytokines. It binds LFA-1 integrins on leukocytes, allowing firm adhesion before they cross the vessel wall.", "syn": ["ICAM-1"], "abbr": ["ICAM"]}
+{"id": 17557, "term": "Nitroblue tetrazolium test", "def": "A test in which neutrophils reduce yellow dye to dark blue formazan using NADPH oxidase. Cells that stay yellow show failed respiratory burst, as in chronic granulomatous disease.", "syn": ["nitroblue tetrazolium"], "abbr": ["NBT"]}
+{"id": 17558, "term": "IPEX syndrome", "def": "An X-linked disorder from FOXP3 mutation that removes regulatory T cells. Causes immune dysregulation, polyendocrinopathy (such as early diabetes), and enteropathy with severe diarrhea.", "syn": [], "abbr": ["IPEX"]}
+{"id": 17559, "term": "Distal interphalangeal joints", "def": "The finger joints nearest the fingertips. They are typically involved in osteoarthritis (Heberden nodes) and psoriatic arthritis but spared in rheumatoid arthritis.", "syn": ["distal interphalangeal joint", "DIP joints"], "abbr": ["DIP", "DIPs"]}
+{"id": 17560, "term": "Proximal interphalangeal joints", "def": "The middle finger joints. They are affected in both osteoarthritis (Bouchard nodes) and rheumatoid arthritis.", "syn": ["proximal interphalangeal joint", "PIP joints"], "abbr": ["PIP", "PIPs"]}
+{"id": 17561, "term": "Cyclic citrullinated peptide", "def": "The target of anti-CCP antibodies, which are highly specific for rheumatoid arthritis. Citrulline is formed when arginine in proteins is modified, creating a new antigen.", "syn": ["anti-CCP"], "abbr": ["CCP"]}
+{"id": 17562, "skip": "not-medical"}
+{"id": 17563, "term": "CDKN2A gene", "def": "Tumor suppressor gene on chromosome 9p21 that encodes p16 and p14, which restrain the G1/S checkpoint. Inherited loss causes familial melanoma and pancreatic cancer risk.", "syn": [], "abbr": ["CDKN2A"]}
+{"id": 17564, "term": "Dual antiplatelet therapy", "def": "Combined aspirin and a P2Y12 inhibitor such as clopidogrel, given after coronary stenting or acute coronary syndrome. Stopping it early risks stent thrombosis.", "syn": [], "abbr": ["DAPT"]}
+{"id": 17565, "term": "N-acetyl-p-benzoquinone imine", "def": "A toxic metabolite of acetaminophen made by cytochrome P450. It is normally neutralized by glutathione, but in overdose it depletes glutathione and injures liver cells; N-acetylcysteine is the antidote.", "syn": [], "abbr": ["NAPQI"]}
+{"id": 17566, "term": "Vancomycin-intermediate Staphylococcus aureus", "def": "Staph aureus with reduced susceptibility to vancomycin, caused by a thickened cell wall that traps the drug. It is distinct from full vancomycin resistance (VRSA), which involves the vanA gene.", "syn": [], "abbr": ["VISA"]}
+{"id": 17567, "term": "Preferred provider organization", "def": "A type of health insurance plan allowing patients to see in-network or out-of-network providers without referrals, with higher costs out of network. Premiums are typically higher than in HMOs.", "syn": [], "abbr": ["PPO"]}
+{"id": 17568, "skip": "ambiguous"}
+{"id": 17569, "term": "Programmed cell death protein 1", "def": "An inhibitory receptor on T cells that binds PD-L1 and turns the cell off, maintaining peripheral tolerance. Tumors exploit it, and antibodies such as pembrolizumab and nivolumab block it.", "syn": ["PD-1"], "abbr": ["PD1"]}
+{"id": 17570, "term": "Histone deacetylase", "def": "An enzyme that removes acetyl groups from histones, tightening chromatin and silencing gene transcription. HDAC inhibitors such as vorinostat are used in certain lymphomas and myeloma.", "syn": ["histone deacetylases"], "abbr": ["HDAC"]}
+{"id": 17571, "term": "Case fatality rate", "def": "The proportion of people with a given disease who die from it, over a stated time. It measures how deadly the disease is among those affected.", "syn": [], "abbr": ["CFR"]}
+{"id": 17572, "term": "Lateral collateral ligament", "def": "The ligament on the outer side of the knee, running from the femur to the fibular head. It resists varus (inward-bowing) stress and is tested by the varus stress test.", "syn": [], "abbr": ["LCL"]}
+{"id": 17573, "term": "MEK", "def": "A kinase in the Ras-Raf-MEK-ERK (MAPK) pathway that is phosphorylated by Raf and in turn activates ERK to drive cell proliferation. MEK inhibitors such as trametinib treat BRAF-mutant melanoma.", "syn": ["MEK kinase"], "abbr": ["MEK"]}
+{"id": 17574, "term": "Cyclin-dependent kinases", "def": "Kinases that drive the cell cycle only when bound to their cyclin partners. They phosphorylate targets such as Rb to move the cell through checkpoints.", "syn": ["cyclin-dependent kinase"], "abbr": ["CDK", "CDKs"]}
+{"id": 17575, "skip": "fragment"}
+{"id": 17576, "term": "DASH diet", "def": "Dietary Approaches to Stop Hypertension: a diet rich in fruits, vegetables and low-fat dairy and low in sodium and saturated fat. It lowers blood pressure.", "syn": [], "abbr": ["DASH"]}
+{"id": 17577, "skip": "not-medical"}
+{"id": 17578, "skip": "not-medical"}
+{"id": 17579, "skip": "not-medical"}
+{"id": 17580, "skip": "not-medical"}
+{"id": 17581, "skip": "not-medical"}
+{"id": 17582, "skip": "ambiguous"}
+{"id": 17583, "skip": "ambiguous"}
+{"id": 17584, "skip": "not-medical"}
+{"id": 17585, "skip": "not-medical"}
+{"id": 17586, "skip": "not-medical"}
+{"id": 17587, "skip": "ambiguous"}
+{"id": 17588, "term": "Zidovudine", "def": "An older nucleoside reverse transcriptase inhibitor for HIV, also given to prevent mother-to-child transmission. Adverse effects include bone marrow suppression (anemia, neutropenia).", "syn": ["AZT"], "abbr": ["AZT"]}
+{"id": 17589, "term": "Para-aminobenzoic acid", "def": "A bacterial precursor that dihydropteroate synthase combines with pteridine to make folate. Sulfonamides mimic it and block that step; humans cannot make folate and take it in from the diet.", "syn": ["p-aminobenzoic acid"], "abbr": ["PABA"]}
+{"id": 17590, "term": "Gastrointestinal stromal tumor", "def": "A tumor of the gut wall arising from the interstitial cells of Cajal, usually in the stomach, driven by activating KIT or PDGFRA mutations. Treated with imatinib.", "syn": [], "abbr": ["GIST"]}
+{"id": 17591, "skip": "not-medical"}
+{"id": 17592, "skip": "ambiguous"}
+{"id": 17593, "term": "Inactivated poliovirus vaccine", "def": "The killed polio vaccine given by injection (Salk vaccine), used in the U.S. It gives systemic IgG immunity and, unlike the live oral vaccine, cannot cause vaccine-derived polio.", "syn": ["inactivated polio vaccine"], "abbr": ["IPV"]}
+{"id": 17594, "term": "H1N1", "def": "An influenza A subtype named for its hemagglutinin type 1 and neuraminidase type 1. Responsible for the 1918 and 2009 pandemics; subtype names reflect antigenic shift and drift.", "syn": [], "abbr": ["H1N1"]}
+{"id": 17595, "term": "Hepatitis B immune globulin", "def": "Pooled antibodies against hepatitis B surface antigen providing immediate passive protection. Given with the vaccine to newborns of HBsAg-positive mothers and after exposure in unvaccinated people.", "syn": ["hepatitis B immunoglobulin"], "abbr": ["HBIG"]}
+{"id": 17596, "term": "Cervical intraepithelial neoplasia grade 3", "def": "Severe precancerous change with abnormal cells filling the full thickness of the cervical epithelium, essentially carcinoma in situ. Caused by high-risk HPV and treated by excision.", "syn": ["CIN 3"], "abbr": ["CIN3"]}
+{"id": 17597, "term": "Atrial fibrillation", "def": "An irregularly irregular heart rhythm from chaotic atrial electrical activity, with no P waves on ECG. Increases stroke risk through atrial clot formation.", "syn": [], "abbr": ["AF"]}
+{"id": 17598, "term": "Clustered regularly interspaced short palindromic repeats", "def": "A bacterial defense system repurposed for gene editing. A guide RNA directs the Cas9 nuclease to a matching DNA sequence, where it cuts so genes can be disrupted or replaced.", "syn": ["CRISPR/Cas9"], "abbr": ["CRISPR"]}
+{"id": 17599, "term": "Last menstrual period", "def": "The first day of a woman's most recent menstrual bleeding. It is used to estimate gestational age and the due date.", "syn": [], "abbr": ["LMP"]}
+{"id": 17600, "term": "Hemophagocytic lymphohistiocytosis", "def": "A life-threatening syndrome of uncontrolled activation of T cells and macrophages that engulf blood cells. Causes prolonged fever, cytopenias and enlarged liver and spleen; can be triggered by infection or inherited.", "syn": [], "abbr": ["HLH"]}
+{"id": 17601, "term": "Advanced Trauma Life Support", "def": "A standardized protocol for the initial evaluation and resuscitation of trauma patients, organized as airway, breathing, circulation, disability and exposure.", "syn": [], "abbr": ["ATLS"]}
+{"id": 17602, "skip": "ambiguous"}
+{"id": 17603, "term": "Internal jugular vein", "def": "The large vein of the neck that drains the brain and face into the brachiocephalic vein. A common site for central venous catheters, and for thrombosis in Lemierre syndrome.", "syn": ["internal jugular"], "abbr": ["IJV"]}
+{"id": 17604, "term": "Mini-mental state examination", "def": "A 30-point bedside screening test of cognition covering orientation, memory, attention and language. Lower scores suggest dementia or delirium; it is sensitive but not specific.", "syn": ["mini-mental status exam"], "abbr": ["MMSE"]}
+{"id": 17605, "term": "Hysterosalpingography", "def": "An X-ray study in which contrast is injected through the cervix to outline the uterine cavity and fallopian tubes. Used mainly to test whether the tubes are open in infertility.", "syn": ["hysterosalpingogram"], "abbr": ["HSG"]}
+{"id": 17606, "term": "Progressive supranuclear palsy", "def": "A tauopathy causing early falls, vertical gaze palsy and axial rigidity with dementia. MRI shows midbrain atrophy (hummingbird sign).", "syn": [], "abbr": ["PSP"]}
+{"id": 17607, "term": "EML4-ALK fusion", "def": "An inversion on chromosome 2 that joins EML4 to the ALK kinase gene, producing a constantly active kinase. Found in some lung adenocarcinomas in nonsmokers and treated with crizotinib.", "syn": ["EML4"], "abbr": ["EML4"]}
+{"id": 17608, "term": "Multiple endocrine neoplasia type 2A", "def": "Inherited syndrome from RET mutations with medullary thyroid carcinoma, pheochromocytoma and parathyroid hyperplasia. Autosomal dominant.", "syn": ["MEN 2A"], "abbr": ["MEN2A"]}
+{"id": 17609, "term": "Depot medroxyprogesterone acetate", "def": "An injectable progestin contraceptive given every three months (Depo-Provera). It suppresses ovulation; adverse effects include irregular bleeding, weight gain and reduced bone density.", "syn": ["Depo-Provera"], "abbr": ["DMPA"]}
+{"id": 17610, "term": "Total abdominal hysterectomy", "def": "Surgical removal of the uterus and cervix through an abdominal incision. The laparoscopic approach is often preferred when feasible.", "syn": [], "abbr": ["TAH"]}
+{"id": 17611, "term": "Postconcussion syndrome", "def": "Persistent headache, poor concentration, dizziness, sleep problems and mood changes that last weeks to months after a mild head injury.", "syn": [], "abbr": ["PCS"]}
+{"id": 17612, "term": "Systemic inflammatory response syndrome", "def": "A body-wide inflammatory state defined by two or more of: abnormal temperature, heart rate above 90, rapid breathing, and abnormal white cell count. Can result from infection, burns or pancreatitis.", "syn": [], "abbr": ["SIRS"]}
+{"id": 17613, "term": "Electromyography", "def": "A test that records electrical activity of muscle with a needle electrode. Helps tell nerve disease from muscle disease and detects myotonia and denervation.", "syn": [], "abbr": ["EMG"]}
+{"id": 17614, "term": "Calcium pyrophosphate dihydrate", "def": "The crystal behind pseudogout. Under polarized light it appears as rhomboid, weakly positively birefringent crystals in joint fluid, often in the knee of older adults.", "syn": ["calcium pyrophosphate deposition disease"], "abbr": ["CPPD"]}
+{"id": 17615, "term": "Diagnostic peritoneal lavage", "def": "A trauma test in which fluid is instilled into the abdomen and drained to look for blood or bowel contents. Largely replaced by ultrasound (FAST) and CT.", "syn": [], "abbr": ["DPL"]}
+{"id": 17616, "term": "Thayer-Martin agar", "def": "A selective chocolate agar with vancomycin, colistin and nystatin (VPN or VCN) that suppresses other organisms. Used to grow Neisseria gonorrhoeae and N. meningitidis.", "syn": ["Thayer-Martin medium"], "abbr": ["VPN"]}
+{"id": 17617, "term": "UDP-glucuronosyltransferase", "def": "A liver enzyme that conjugates bilirubin and many drugs with glucuronic acid to make them water-soluble. Deficiency causes Crigler-Najjar and Gilbert syndromes and gray baby syndrome with chloramphenicol.", "syn": ["UDP-glucuronosyltransferase"], "abbr": ["UGT"]}
+{"id": 17618, "term": "Voltage-dependent calcium channels", "def": "Membrane channels that open on depolarization and admit Ca2+, triggering muscle contraction, hormone secretion and transmitter release.", "syn": ["voltage-dependent calcium channel"], "abbr": ["VDCC", "VDCCs"]}
+{"id": 17619, "term": "Neurokinin 1 receptor", "def": "The receptor for substance P, found in the area postrema and elsewhere. Its antagonists, such as aprepitant, prevent chemotherapy-induced nausea and vomiting.", "syn": ["NK1 receptor"], "abbr": ["NK1"]}
+{"id": 17620, "term": "Direct-acting antivirals", "def": "Oral drugs that target hepatitis C virus proteins (NS3/4A protease, NS5A, NS5B polymerase). They cure most infections and replaced interferon and ribavirin.", "syn": ["direct acting antivirals"], "abbr": ["DAAs"]}
+{"id": 17621, "term": "Nucleotide reverse transcriptase inhibitor", "def": "A drug, such as tenofovir, that is already a nucleotide and terminates the growing viral DNA chain. Used for HIV and hepatitis B.", "syn": ["NtRTIs"], "abbr": ["NtRTI"]}
+{"id": 17622, "term": "GTPase-activating proteins", "def": "Proteins that speed up the GTP-hydrolyzing activity of Ras or G proteins, switching them off. Neurofibromin is a Ras GAP.", "syn": ["GTPase activating proteins"], "abbr": ["GAPs"]}
+{"id": 17623, "term": "Protein kinase C", "def": "A kinase activated by diacylglycerol and calcium in the phospholipase C pathway (Gq signaling). It phosphorylates target proteins to produce cell responses.", "syn": [], "abbr": ["PKC"]}
+{"id": 17624, "skip": "not-medical"}
+{"id": 17625, "skip": "ambiguous"}
+{"id": 17626, "skip": "not-medical"}
+{"id": 17627, "term": "Angiotensin II type 1 receptor", "def": "The Gq-coupled receptor through which angiotensin II constricts vessels and stimulates aldosterone release. Blocked by ARBs such as losartan.", "syn": ["AT1 receptor"], "abbr": ["AT1"]}
+{"id": 17628, "skip": "not-medical"}
+{"id": 17629, "term": "HLA-DR5", "def": "An MHC class II type associated with Hashimoto thyroiditis. Graves disease is linked to HLA-DR3.", "syn": ["DR5"], "abbr": ["DR5"]}
+{"id": 17630, "term": "PAX8-PPAR-gamma fusion", "def": "A translocation joining PAX8 with the PPAR-gamma gene, found in some follicular thyroid carcinomas along with RAS mutations.", "syn": ["PAX8"], "abbr": ["PAX8"]}
+{"id": 17631, "term": "Oral glucose tolerance test", "def": "A test where blood glucose is measured two hours after a 75 g glucose drink. A value of 200 mg/dL or higher indicates diabetes; also used to screen for gestational diabetes.", "syn": [], "abbr": ["OGTT"]}
+{"id": 17632, "term": "Hormone-sensitive lipase", "def": "The enzyme in fat cells that breaks stored triglycerides into free fatty acids and glycerol. Activated by catecholamines and glucagon via PKA, and inhibited by insulin.", "syn": [], "abbr": ["HSL"]}
+{"id": 17633, "skip": "fragment"}
+{"id": 17634, "skip": "not-medical"}
+{"id": 17635, "term": "MEN1 gene", "def": "Tumor suppressor gene on chromosome 11 encoding menin. Mutations cause multiple endocrine neoplasia type 1: pituitary, parathyroid and pancreatic tumors.", "syn": ["menin"], "abbr": ["MEN1"]}
+{"id": 17636, "term": "Constitutional delay of growth and puberty", "def": "A normal variant in which growth and puberty start later than usual, often with a family history, and eventually catch up. Bone age is delayed.", "syn": [], "abbr": ["CDGP"]}
+{"id": 17637, "term": "Androgen-binding protein", "def": "A protein secreted by Sertoli cells under FSH that binds testosterone in the seminiferous tubules, keeping local androgen levels high for spermatogenesis.", "syn": [], "abbr": ["ABP"]}
+{"id": 17638, "skip": "not-medical"}
+{"id": 17639, "skip": "not-medical"}
+{"id": 17640, "skip": "fragment"}
+{"id": 17641, "skip": "not-medical"}
+{"id": 17642, "skip": "ambiguous"}
+{"id": 17643, "term": "TP53 gene", "def": "The gene encoding the p53 tumor suppressor, which halts the cell cycle or triggers apoptosis after DNA damage. It is the most commonly mutated gene in cancer; germline loss causes Li-Fraumeni syndrome.", "syn": [], "abbr": ["TP53"]}
+{"id": 17644, "term": "Base excision repair", "def": "DNA repair pathway that removes a single damaged base (such as from deamination) and fills the gap. It acts throughout the cell cycle; glycosylase and AP endonuclease are involved.", "syn": [], "abbr": ["BER"]}
+{"id": 17645, "term": "Untranslated region", "def": "The parts of an mRNA before the start codon (5' UTR) and after the stop codon (3' UTR) that are not translated into protein but regulate stability and translation.", "syn": ["5' UTR", "3' UTR"], "abbr": ["UTR"]}
+{"id": 17646, "term": "PEX genes", "def": "Genes encoding peroxins, which are needed to assemble peroxisomes. Mutations cause Zellweger syndrome and other peroxisomal biogenesis disorders.", "syn": ["peroxins"], "abbr": ["PEX"]}
+{"id": 17647, "skip": "obvious"}
+{"id": 17648, "skip": "fragment"}
+{"id": 17649, "term": "COL1 genes", "def": "Genes (COL1A1 and COL1A2) that encode type I collagen chains. Mutations cause osteogenesis imperfecta.", "syn": ["COL1A1", "COL1A2"], "abbr": ["COL1"]}
+{"id": 17650, "term": "FBN1 gene", "def": "Gene on chromosome 15 encoding fibrillin-1, a component of elastic fibers. Mutations cause Marfan syndrome.", "syn": [], "abbr": ["FBN1"]}
+{"id": 17651, "term": "C282Y mutation", "def": "The most common HFE gene mutation in hereditary hemochromatosis, an autosomal recessive iron overload disorder. Homozygotes absorb too much iron.", "syn": ["C282Y"], "abbr": ["C282Y"]}
+{"id": 17652, "term": "LOD score", "def": "Logarithm of the odds, a statistic for whether two loci are linked on a chromosome. A score above 3 is accepted as evidence of linkage.", "syn": ["logarithm of the odds"], "abbr": ["LOD"]}
+{"id": 17653, "skip": "not-medical"}
+{"id": 17654, "skip": "not-medical"}
+{"id": 17655, "term": "Sodium-calcium exchanger", "def": "A membrane transporter that exchanges three Na+ in for one Ca2+ out, removing calcium from cardiac myocytes after contraction. Digoxin raises calcium by indirectly impairing it.", "syn": ["Na+/Ca2+ exchanger"], "abbr": ["NCX"]}
+{"id": 17656, "term": "Sarcoplasmic/endoplasmic reticulum calcium ATPase", "def": "A pump that moves Ca2+ back into the sarcoplasmic reticulum, causing muscle relaxation. In the heart its activity is increased when phospholamban is phosphorylated.", "syn": ["Ca2+ ATPase"], "abbr": ["SERCA"]}
+{"id": 17657, "term": "Nucleus tractus solitarius", "def": "A medullary nucleus that receives taste and visceral sensation, including baroreceptor signals via cranial nerves IX and X.", "syn": ["solitary nucleus"], "abbr": ["NTS"]}
+{"id": 17658, "term": "SCN5A gene", "def": "Gene encoding the cardiac voltage-gated sodium channel. Loss-of-function mutations cause Brugada syndrome.", "syn": [], "abbr": ["SCN5A"]}
+{"id": 17659, "skip": "not-medical"}
+{"id": 17660, "skip": "not-medical"}
+{"id": 17661, "skip": "not-medical"}
+{"id": 17662, "term": "Automated implantable cardioverter-defibrillator", "def": "An implanted device that detects dangerous ventricular arrhythmias and shocks the heart back to normal rhythm. Used to prevent sudden cardiac death.", "syn": ["implantable cardioverter-defibrillator", "ICD"], "abbr": ["AICD"]}
+{"id": 17663, "term": "Right ventricular outflow tract", "def": "The part of the right ventricle leading to the pulmonary valve. Obstruction here is the key feature of tetralogy of Fallot.", "syn": ["right ventricular outflow"], "abbr": ["RVOT"]}
+{"id": 17664, "skip": "ambiguous"}
+{"id": 17665, "skip": "not-medical"}
+{"id": 17666, "term": "Premature ventricular contractions", "def": "Extra heartbeats starting in the ventricles, appearing as early wide QRS complexes. Often benign and treated only if symptomatic.", "syn": ["premature ventricular contraction", "PVC"], "abbr": ["PVCs"]}
+{"id": 17667, "skip": "not-medical"}
+{"id": 17668, "skip": "not-medical"}
+{"id": 17669, "term": "Atrioventricular reentrant tachycardia", "def": "A supraventricular tachycardia in which an accessory pathway, as in Wolff-Parkinson-White syndrome, forms a reentry circuit with the AV node.", "syn": [], "abbr": ["AVRT"]}
+{"id": 17670, "skip": "not-medical"}
+{"id": 17671, "term": "Liver function tests", "def": "Blood tests, such as AST, ALT, alkaline phosphatase and bilirubin, that assess liver injury and function.", "syn": ["LFTs"], "abbr": ["LFT", "LFTs"]}
+{"id": 17672, "term": "Expiratory reserve volume", "def": "The extra air that can be forcibly exhaled after a normal tidal exhalation, about 1200 mL.", "syn": [], "abbr": ["ERV"]}
+{"id": 17673, "term": "Carbon dioxide production rate", "def": "The amount of CO2 the body makes per minute. At constant production, alveolar PCO2 varies inversely with alveolar ventilation.", "syn": [], "abbr": ["VCO2"]}
+{"id": 17674, "term": "Partial pressure of inspired oxygen", "def": "The oxygen pressure in inhaled air after humidification, used in the alveolar gas equation. About 150 mmHg at sea level.", "syn": [], "abbr": ["PIO2"]}
+{"id": 17675, "skip": "ambiguous"}
+{"id": 17676, "term": "Aspirin-exacerbated respiratory disease", "def": "A triad of asthma, nasal polyps and sensitivity to aspirin and other NSAIDs, which block COX-1 and shunt arachidonic acid toward leukotrienes.", "syn": ["Samter triad"], "abbr": ["AERD"]}
+{"id": 17677, "skip": "not-medical"}
+{"id": 17678, "skip": "not-medical"}
+{"id": 17679, "term": "PiMZ genotype", "def": "An alpha-1 antitrypsin genotype with one normal (M) and one Z allele. Carriers have mildly reduced enzyme and increased lung and liver risk, especially with smoking.", "syn": ["PiMZ"], "abbr": ["PiMZ"]}
+{"id": 17680, "skip": "not-medical"}
+{"id": 17681, "term": "CD56", "def": "Neural cell adhesion molecule, marking natural killer cells and neuroendocrine tumors such as small cell lung cancer.", "syn": ["NCAM"], "abbr": ["CD56"]}
+{"id": 17682, "skip": "not-medical"}
+{"id": 17683, "term": "Maturity-onset diabetes of the young", "def": "A group of inherited, autosomal dominant forms of diabetes caused by single-gene defects in beta-cell function. Appears in young non-obese patients; glucokinase mutations cause a mild form.", "syn": [], "abbr": ["MODY"]}
+{"id": 17684, "skip": "not-medical"}
+{"id": 17685, "skip": "not-medical"}
+{"id": 17686, "term": "Gluconeogenesis", "def": "The making of new glucose in the liver and kidney from non-carbohydrate sources such as lactate, amino acids and glycerol. Maintains blood glucose during fasting.", "syn": [], "abbr": ["GNG"]}
+{"id": 17687, "term": "Venous thromboembolism", "def": "Blood clots in veins, including deep vein thrombosis and pulmonary embolism. Risks include immobility, surgery, cancer and estrogen use.", "syn": [], "abbr": ["VTE"]}
+{"id": 17688, "term": "Subcutaneous", "def": "Beneath the skin, referring to an injection into the fat layer under the skin.", "syn": ["subQ"], "abbr": ["SQ"]}
+{"id": 17689, "term": "High-molecular-weight kininogen", "def": "A plasma protein that kallikrein cleaves to release bradykinin, causing vasodilation and swelling. Also part of the contact (intrinsic) coagulation pathway.", "syn": [], "abbr": ["HMWK"]}
+{"id": 17690, "term": "Sodium-glucose cotransporter 1", "def": "A transporter that moves glucose and galactose with sodium into intestinal cells and the late proximal tubule. Defects cause glucose-galactose malabsorption.", "syn": ["SGLT-1"], "abbr": ["SGLT1"]}
+{"id": 17691, "skip": "fragment"}
+{"id": 17692, "term": "PKD1 gene", "def": "Gene on chromosome 16 encoding polycystin-1. Mutations cause about 85% of autosomal dominant polycystic kidney disease, usually more severe.", "syn": [], "abbr": ["PKD1"]}
+{"id": 17693, "term": "PKD2 gene", "def": "Gene on chromosome 4 encoding polycystin-2. Mutations cause about 15% of autosomal dominant polycystic kidney disease, usually milder.", "syn": [], "abbr": ["PKD2"]}
+{"id": 17694, "term": "Proximal straight tubule", "def": "The final segment of the proximal tubule, in the outer medulla. Sensitive to ischemic injury, causing acute tubular necrosis.", "syn": ["S3 segment"], "abbr": ["PST"]}
+{"id": 17695, "skip": "not-medical"}
+{"id": 17696, "term": "Nonenzymatic glycosylation", "def": "Sugar attaching to proteins without an enzyme, forming advanced glycation end products. In diabetes it damages vessels, including glomerular arterioles and the basement membrane.", "syn": ["nonenzymatic glycation"], "abbr": ["NEG"]}
+{"id": 17697, "term": "Juxtaglomerular apparatus", "def": "The structure at the kidney glomerulus where the distal tubule meets the afferent arteriole. Its granular cells release renin, and its macula densa senses sodium.", "syn": ["juxtaglomerular apparatus"], "abbr": ["JGA"]}
+{"id": 17698, "skip": "ambiguous"}
+{"id": 17699, "term": "Epithelial sodium channels", "def": "Channels on principal cells of the collecting duct that take up sodium. Aldosterone increases them; amiloride and triamterene block them. Overactivity causes Liddle syndrome.", "syn": ["epithelial sodium channel"], "abbr": ["ENaC", "ENaCs"]}
+{"id": 17700, "skip": "ambiguous"}
+{"id": 17701, "term": "Carnitine acyltransferase 1", "def": "The enzyme, also CPT1, that attaches fatty acids to carnitine so they enter mitochondria for beta-oxidation. Malonyl-CoA inhibits it.", "syn": ["carnitine palmitoyltransferase 1", "CPT1"], "abbr": ["CAT1"]}
+{"id": 17702, "skip": "ambiguous"}
+{"id": 17703, "skip": "ambiguous"}
+{"id": 17704, "skip": "not-medical"}
+{"id": 17705, "skip": "obvious"}
+{"id": 17706, "term": "Methylenetetrahydrofolate reductase", "def": "An enzyme in folate metabolism that makes the methyl donor for converting homocysteine to methionine. Deficiency raises homocysteine.", "syn": [], "abbr": ["MTHFR"]}
+{"id": 17707, "term": "Carbamoyl phosphate synthetase II", "def": "The cytosolic enzyme that is the rate-limiting step of pyrimidine synthesis. It differs from the mitochondrial CPS I of the urea cycle.", "syn": ["CPS II"], "abbr": ["CPS2"]}
+{"id": 17708, "term": "Inosine monophosphate dehydrogenase", "def": "An enzyme in purine synthesis that converts IMP toward GMP. Blocked by mycophenolate and ribavirin.", "syn": ["IMP dehydrogenase"], "abbr": ["IMPDH"]}
+{"id": 17709, "term": "Pyridoxal phosphate", "def": "The active coenzyme form of vitamin B6. Needed by aminotransferases, decarboxylases and heme synthesis.", "syn": [], "abbr": ["PLP"]}
+{"id": 17710, "term": "Delta-aminolevulinic acid synthase", "def": "The rate-limiting enzyme of heme synthesis, which makes aminolevulinic acid from glycine and succinyl-CoA using vitamin B6. Defects cause sideroblastic anemia.", "syn": ["ALA synthase"], "abbr": ["ALAS"]}
+{"id": 17711, "term": "Delta-aminolevulinic acid dehydratase", "def": "A zinc-dependent heme synthesis enzyme that makes porphobilinogen. Inhibited by lead poisoning.", "syn": ["ALA dehydratase"], "abbr": ["ALAD"]}
+{"id": 17712, "term": "Dopamine transporter", "def": "The presynaptic protein that takes dopamine back into the neuron. Cocaine and amphetamines block it.", "syn": ["DAT"], "abbr": ["DAT"]}
+{"id": 17713, "skip": "not-medical"}
+{"id": 17714, "term": "Reticuloendothelial system", "def": "The network of macrophages and monocytes in the spleen, liver and lymph nodes that clears old red cells and debris, causing extravascular hemolysis.", "syn": [], "abbr": ["RES"]}
+{"id": 17715, "skip": "ambiguous"}
+{"id": 17716, "term": "SMN2 gene", "def": "A near-copy of SMN1 that produces little functional SMN protein. Copy number modifies spinal muscular atrophy severity, and nusinersen alters splicing to increase it.", "syn": [], "abbr": ["SMN2"]}
+{"id": 17717, "term": "Hereditary motor and sensory neuropathy", "def": "Another name for Charcot-Marie-Tooth disease, an inherited neuropathy with distal weakness, muscle wasting, foot deformities and sensory loss. Often caused by PMP22 duplication.", "syn": [], "abbr": ["HMSN"]}
+{"id": 17718, "term": "CD16", "def": "The Fc receptor that binds IgG on natural killer cells and neutrophils, enabling antibody-dependent cellular cytotoxicity.", "syn": ["Fc gamma RIII"], "abbr": ["CD16"]}
+{"id": 17719, "term": "Periarteriolar lymphatic sheath", "def": "The T-cell zone of the spleen's white pulp, a cuff of lymphocytes around central arterioles.", "syn": [], "abbr": ["PALS"]}
+{"id": 17720, "term": "All-trans-retinoic acid", "def": "A vitamin A derivative that makes promyelocytes mature in acute promyelocytic leukemia with the PML-RARA fusion. Treatment can cause differentiation syndrome.", "syn": ["tretinoin"], "abbr": ["ATRA"]}
+{"id": 17721, "term": "Tartrate-resistant acid phosphatase", "def": "An enzyme that stains positively in hairy cell leukemia cells.", "syn": ["TRAP stain"], "abbr": ["TRAP"]}
+{"id": 17722, "term": "Anterior inferior cerebellar artery", "def": "An artery from the basilar artery supplying the lateral pons and anterior cerebellum. Occlusion causes lateral pontine syndrome with facial paralysis and hearing loss.", "syn": [], "abbr": ["AICA"]}
+{"id": 17723, "term": "Urine protein electrophoresis", "def": "A test separating urine proteins to detect monoclonal light chains (Bence Jones protein) in multiple myeloma.", "syn": ["UPEP"], "abbr": ["UPEP"]}
+{"id": 17724, "term": "Lateral geniculate body", "def": "The thalamic nucleus that relays visual information from the optic tract to the primary visual cortex.", "syn": ["lateral geniculate nucleus"], "abbr": ["LGB"]}
+{"id": 17725, "term": "Medial geniculate body", "def": "The thalamic nucleus that relays auditory information from the inferior colliculus to the auditory cortex.", "syn": ["medial geniculate nucleus"], "abbr": ["MGB"]}
+{"id": 17726, "term": "Neuropeptide Y", "def": "A hypothalamic peptide that strongly stimulates appetite. Made by hunger-promoting arcuate neurons, and stimulated by ghrelin.", "syn": [], "abbr": ["NPY"]}
+{"id": 17727, "term": "Organum vasculosum of the lamina terminalis", "def": "A circumventricular organ lacking a blood-brain barrier that senses blood osmolarity and triggers thirst and ADH release.", "syn": [], "abbr": ["OVLT"]}
+{"id": 17728, "term": "Subacute sclerosing panencephalitis", "def": "A rare fatal brain disease from persistent measles virus infection years after measles, causing progressive dementia and myoclonus.", "syn": [], "abbr": ["SSPE"]}
+{"id": 17729, "term": "Osmotic demyelination syndrome", "def": "Demyelination of the pons and other brain regions caused by overly rapid correction of hyponatremia. Causes quadriparesis and locked-in syndrome.", "syn": ["central pontine myelinolysis"], "abbr": ["ODS"]}
+{"id": 17730, "term": "Intracerebral hemorrhage", "def": "Bleeding directly into brain tissue, commonly from hypertension in the basal ganglia, or an AVM in young patients.", "syn": [], "abbr": ["ICH"]}
+{"id": 17731, "term": "Zollinger-Ellison syndrome", "def": "Severe peptic ulcers and diarrhea from a gastrin-secreting tumor (gastrinoma), often in the pancreas or duodenum. Associated with MEN1.", "syn": [], "abbr": ["ZES"]}
+{"id": 17732, "term": "Cholecystokinin B receptor", "def": "The receptor that binds gastrin and CCK equally, found on parietal cells where it stimulates acid secretion.", "syn": ["CCK-B receptor", "gastrin receptor"], "abbr": ["CCKB"]}
+{"id": 17733, "term": "Peptide YY", "def": "A gut hormone from L cells that reduces appetite after meals and slows motility.", "syn": [], "abbr": ["PYY"]}
+{"id": 17734, "skip": "ambiguous"}
+{"id": 17735, "skip": "not-medical"}
+{"id": 17736, "skip": "not-medical"}
+{"id": 17737, "skip": "ambiguous"}
+{"id": 17738, "term": "Fecal immunochemical test", "def": "A stool test using antibodies to detect hidden human blood, used to screen for colorectal cancer.", "syn": ["fecal immunohistochemical test"], "abbr": ["FIT"]}
+{"id": 17739, "skip": "ambiguous"}
+{"id": 17740, "term": "Necrotizing enterocolitis", "def": "Intestinal mucosal death in premature infants, often after feeding begins. Shows pneumatosis intestinalis and can perforate.", "syn": [], "abbr": ["NEC"]}
+{"id": 17741, "skip": "not-medical"}
+{"id": 17742, "term": "Hepatobiliary iminodiacetic acid scan", "def": "A nuclear scan that follows a radiotracer into bile. Non-filling of the gallbladder indicates cystic duct obstruction, as in acute cholecystitis.", "syn": ["HIDA scan", "cholescintigraphy"], "abbr": ["HIDA"]}
+{"id": 17743, "skip": "not-medical"}
+{"id": 17744, "term": "PMP22 gene", "def": "Gene on chromosome 17 encoding peripheral myelin protein 22. Duplication causes Charcot-Marie-Tooth type 1A; deletion causes hereditary neuropathy with pressure palsies.", "syn": [], "abbr": ["PMP22"]}
+{"id": 17745, "skip": "not-medical"}
+{"id": 17746, "term": "GNAQ gene", "def": "Gene encoding a G protein alpha subunit. A somatic activating mutation causes Sturge-Weber syndrome, with a port-wine stain and leptomeningeal angioma.", "syn": [], "abbr": ["GNAQ"]}
+{"id": 17747, "skip": "not-medical"}
+{"id": 17748, "term": "Streptococcal pyrogenic exotoxin", "def": "Superantigen toxins from Streptococcus pyogenes that cause scarlet fever and toxic shock-like syndrome by activating large numbers of T cells.", "syn": ["erythrogenic toxin"], "abbr": ["SPE"]}
+{"id": 17749, "skip": "not-medical"}

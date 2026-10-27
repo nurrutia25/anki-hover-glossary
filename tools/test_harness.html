@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Hover Glossary harness</title>
+<link rel="stylesheet" href="../addon/web/glossary.css">
+<style>
+  body { font-family: -apple-system, sans-serif; margin: 40px; }
+  body { padding-top: 120px; transform: translateY(0); } #stage { transform: translateY(10px); } #qa { max-width: 640px; font-size: 20px; line-height: 1.5; padding: 16px; border: 1px solid #ddd; }
+  .cloze { color: #0063b1; font-weight: bold; }
+  #log { margin-top: 20px; font: 12px monospace; color: #555; white-space: pre; }
+</style>
+<script>
+  window.HG_OPTS = { question: true, overrides: {} };
+  window.pycmd = function (m) { document.getElementById("log").textContent += "pycmd: " + m.slice(0, 120) + "\n"; };
+  var onShownHook = [];
+</script>
+<script src="../addon/web/glossary_data.js"></script>
+<script src="../addon/web/glossary.js"></script>
+</head>
+<body>
+<div id="stage"><div id="qa"></div></div>
+<p>
+  <button id="next">Next card</button>
+  <button id="edit">Onigiri: start edit</button>
+  <button id="save">Onigiri: save edit</button>
+</p>
+<div id="log"></div>
+<script>
+  var cards = [
+    '<span data-ba-field="Text">A newborn with a single central incisor and cyclopia most likely has <span class="cloze">[...]</span>, linked to SHH and trisomy 13.</span>',
+    '<span data-ba-field="Text">Golden-brown <b>Kayser-Fleischer rings</b> suggest Wilson disease. Tapping the face gives a positive Chvostek&#39;s sign in hypocalcemia.</span>' +
+      '<hr id="answer"><span data-ba-field="Extra">Small cell lung cancer causes SIADH; sepsis can cause DIC and ARDS. NSAIDs lower GFR. See <a href="#">Janeway lesions</a>.</span>',
+  ];
+  var i = 0, qa = document.getElementById("qa"), saved = {};
+  function draw() { qa.innerHTML = cards[i % cards.length]; onShownHook.forEach(function (f) { f(); }); }
+  document.getElementById("next").onclick = function () { i++; draw(); };
+  // Onigiri click-to-reveal stand-in.
+  qa.addEventListener("click", function () { document.getElementById("log").textContent += "click-to-reveal fired\n"; });
+  document.getElementById("edit").onclick = function () {
+    document.querySelectorAll("[data-ba-field]").forEach(function (sp) { sp.setAttribute("contenteditable", "true"); });
+    document.body.classList.add("ba-editing");
+  };
+  document.getElementById("save").onclick = function () {
+    document.querySelectorAll("[data-ba-field]").forEach(function (sp) {
+      saved[sp.getAttribute("data-ba-field")] = sp.innerHTML;
+      sp.removeAttribute("contenteditable");
+    });
+    document.body.classList.remove("ba-editing");
+    window.__saved = saved;
+    document.getElementById("log").textContent += "saved: " + JSON.stringify(saved).slice(0, 300) + "\n";
+  };
+  // Onigiri-like churn: something inside #qa updates constantly.
+  setInterval(function () { var p = qa.querySelector(".fx") || qa.appendChild(Object.assign(document.createElement("i"), { className: "fx" })); p.setAttribute("data-t", Date.now()); p.textContent = ""; }, 150);
+  draw();
+</script>
+</body>
+</html>

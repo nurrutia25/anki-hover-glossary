@@ -1,0 +1,250 @@
+{"id": 8000, "term": "Posterior cruciate ligament", "def": "A knee ligament that prevents the tibia from sliding backward on the femur. Injured by a blow to the front of the flexed knee, causing a positive posterior drawer test.", "syn": ["PCL"], "abbr": ["PCL"]}
+{"id": 8001, "term": "Typhlitis", "def": "Inflammation of the cecum in neutropenic patients, usually after chemotherapy, causing right lower quadrant pain and fever. Also called neutropenic enterocolitis.", "syn": [], "abbr": []}
+{"id": 8002, "term": "Neutropenic enterocolitis", "def": "Inflammation and necrosis of the cecum and nearby bowel in patients with severe neutropenia, usually after chemotherapy. Causes fever and right lower abdominal pain.", "syn": [], "abbr": []}
+{"id": 8003, "term": "Pleurodesis", "def": "A procedure that fuses the two pleural layers, usually with talc or other irritants, to prevent recurrent pneumothorax or pleural effusion.", "syn": [], "abbr": []}
+{"id": 8004, "term": "Immunoglobulin light chains", "def": "The small kappa or lambda chains of an antibody. Excess free monoclonal light chains appear as Bence Jones protein in multiple myeloma and AL amyloidosis.", "syn": ["immunoglobulin light chain"], "abbr": []}
+{"id": 8005, "term": "Epithelial-mesenchymal transition", "def": "A process in which epithelial cells lose their cell-to-cell adhesion and become migratory mesenchymal cells. Important in embryonic development and in cancer invasion and metastasis.", "syn": [], "abbr": ["EMT"]}
+{"id": 8006, "term": "Ras GTPase-activating proteins", "def": "Proteins that speed up Ras's GTP hydrolysis, turning Ras off. NF1 encodes neurofibromin, a Ras GAP, so its loss leaves Ras active.", "syn": ["ras GAPs"], "abbr": []}
+{"id": 8007, "term": "Cyclin-dependent kinase 4", "def": "An enzyme that, bound to cyclin D, phosphorylates Rb to push cells from G1 into S phase. Targeted by palbociclib in breast cancer.", "syn": ["CDK4"], "abbr": ["CDK4"]}
+{"id": 8008, "term": "DNA repair enzymes", "def": "Enzymes that detect and fix damaged DNA, such as mismatch repair and excision repair enzymes. Defects cause cancer predisposition syndromes like xeroderma pigmentosum.", "syn": [], "abbr": []}
+{"id": 8009, "term": "Initiator caspases", "def": "Caspases (such as 8 and 9) that start the apoptosis cascade and cleave downstream executioner caspases.", "syn": ["caspases initiator"], "abbr": []}
+{"id": 8010, "term": "Cyclin E", "def": "A cyclin that pairs with CDK2 to drive the G1 to S transition of the cell cycle.", "syn": [], "abbr": []}
+{"id": 8011, "term": "Cyclin D", "def": "A cyclin that pairs with CDK4 and CDK6 to phosphorylate Rb and drive progression through G1. Overexpressed in mantle cell lymphoma.", "syn": [], "abbr": []}
+{"id": 8012, "term": "Proliferating cell nuclear antigen", "def": "A DNA polymerase sliding clamp that holds the enzyme on DNA during replication. Used as a marker of cell proliferation.", "syn": ["PCNA"], "abbr": ["PCNA"]}
+{"id": 8013, "term": "Retinoblastoma gene", "def": "RB1, a tumor suppressor gene on chromosome 13 whose protein Rb restrains the cell cycle at G1/S. Loss causes retinoblastoma and osteosarcoma.", "syn": ["RB gene", "RB1"], "abbr": []}
+{"id": 8014, "term": "Cellular senescence", "def": "A permanent state of cell-cycle arrest after many divisions or stress, such as telomere shortening. A barrier to cancer.", "syn": [], "abbr": []}
+{"id": 8015, "term": "Angiogenic factors", "def": "Signals such as VEGF and FGF that stimulate new blood vessel growth, used by tumors to gain blood supply.", "syn": [], "abbr": []}
+{"id": 8016, "term": "Neoantigens", "def": "New tumor-specific antigens created by mutations, which can be recognized by T cells.", "syn": ["neoantigen"], "abbr": []}
+{"id": 8017, "term": "Fas receptor", "def": "A death receptor (CD95) on cells; binding of Fas ligand activates caspase 8 and extrinsic apoptosis. Defective in autoimmune lymphoproliferative syndrome.", "syn": ["CD95"], "abbr": []}
+{"id": 8018, "term": "Medial epicondylitis", "def": "Overuse tendinopathy of the wrist flexor and pronator tendons at the medial elbow, causing pain with gripping.", "syn": ["golfer's elbow", "golfers elbow"], "abbr": []}
+{"id": 8019, "term": "Snuff", "def": "Finely ground smokeless tobacco used orally or nasally, linked to oral cancers.", "syn": [], "abbr": []}
+{"id": 8020, "term": "Scaphoid bone", "def": "The most commonly fractured carpal bone, in the anatomical snuffbox. Fractures risk avascular necrosis of the proximal part because of retrograde blood supply.", "syn": [], "abbr": []}
+{"id": 8021, "term": "Lunate bone", "def": "A carpal bone that dislocates volarly after hyperextension of the wrist, can compress the median nerve and may develop avascular necrosis (Kienbock disease).", "syn": [], "abbr": []}
+{"id": 8022, "skip": "obvious"}
+{"id": 8023, "term": "Pisiform bone", "def": "A small sesamoid carpal bone on the ulnar side of the wrist where flexor carpi ulnaris attaches, next to Guyon canal.", "syn": [], "abbr": []}
+{"id": 8024, "skip": "obvious"}
+{"id": 8025, "term": "Lumbar plexus", "def": "The nerve network from L1-L4 that gives off the femoral, obturator and lateral femoral cutaneous nerves.", "syn": ["lumbosacral plexus"], "abbr": []}
+{"id": 8026, "term": "Reading frame", "def": "The way a sequence of nucleotides is divided into codons. Insertions or deletions that are not multiples of three cause frameshift mutations.", "syn": [], "abbr": []}
+{"id": 8027, "term": "Dual antiplatelet therapy", "def": "Aspirin plus a P2Y12 inhibitor such as clopidogrel, given after acute coronary syndrome or stent placement to prevent thrombosis.", "syn": ["dual anti-platelet therapy"], "abbr": ["DAPT"]}
+{"id": 8028, "term": "Cholesterol embolism", "def": "Showering of cholesterol crystals from atherosclerotic plaque after vascular procedures, causing blue toes, livedo reticularis, kidney injury and eosinophilia.", "syn": [], "abbr": []}
+{"id": 8029, "term": "Eicosanoids", "def": "Signaling lipids made from arachidonic acid, including prostaglandins, thromboxanes and leukotrienes.", "syn": [], "abbr": []}
+{"id": 8030, "term": "Interleukin-6 receptor", "def": "The receptor for IL-6, a cytokine that induces fever and acute phase proteins; blocked by tocilizumab.", "syn": ["IL-6 receptor"], "abbr": []}
+{"id": 8031, "term": "PCSK9 inhibitors", "def": "Antibodies like evolocumab that block PCSK9, preventing LDL receptor degradation and lowering LDL cholesterol.", "syn": [], "abbr": []}
+{"id": 8032, "term": "Behcet disease", "def": "A systemic vasculitis causing recurrent painful oral and genital ulcers and uveitis. Associated with HLA-B51 and pathergy.", "syn": ["Behcet syndrome", "Behçet disease"], "abbr": []}
+{"id": 8033, "term": "Myocardial reperfusion", "def": "Restoring blood flow to ischemic heart muscle after a blockage, as with PCI or thrombolytics. Can cause reperfusion injury and arrhythmias.", "syn": ["coronary reperfusion"], "abbr": []}
+{"id": 8034, "term": "Caveolin-3", "def": "A protein of muscle caveolae membrane invaginations. Mutations cause limb-girdle muscular dystrophy and long QT syndrome.", "syn": [], "abbr": []}
+{"id": 8035, "term": "Paraspinal muscles", "def": "Muscles on each side of the spine, such as erector spinae, that extend and stabilize the back.", "syn": ["paraspinal muscle"], "abbr": []}
+{"id": 8036, "skip": "obvious"}
+{"id": 8037, "term": "Parietal bone", "def": "Paired skull bones forming the roof and sides of the cranium, joined at the sagittal suture.", "syn": ["parietal bones"], "abbr": []}
+{"id": 8038, "term": "Osteocalcin", "def": "A protein made by osteoblasts that binds calcium and marks bone formation. Vitamin K-dependent.", "syn": [], "abbr": []}
+{"id": 8039, "skip": "not-medical"}
+{"id": 8040, "skip": "obvious"}
+{"id": 8041, "skip": "obvious"}
+{"id": 8042, "term": "Inducible nitric oxide synthase", "def": "Enzyme that makes large amounts of nitric oxide in macrophages during inflammation to kill microbes.", "syn": ["iNOS"], "abbr": ["iNOS"]}
+{"id": 8043, "skip": "obvious"}
+{"id": 8044, "term": "Ventricular remodeling", "def": "Changes in size, shape and function of the ventricle after infarction or pressure overload, often progressing to heart failure.", "syn": [], "abbr": []}
+{"id": 8045, "term": "Prostaglandin receptors", "def": "G protein-coupled receptors on cells that mediate prostaglandin effects such as vasodilation and pain.", "syn": [], "abbr": []}
+{"id": 8046, "skip": "obvious"}
+{"id": 8047, "skip": "obvious"}
+{"id": 8048, "term": "Amebiasis", "def": "Infection with Entamoeba histolytica, causing bloody diarrhea and liver abscess.", "syn": ["entamoeba histolytica infection"], "abbr": []}
+{"id": 8049, "skip": "not-medical"}
+{"id": 8050, "term": "Peptones", "def": "Mixtures of small peptides from protein digestion, used in culture media.", "syn": [], "abbr": []}
+{"id": 8051, "term": "Paracoccidioides brasiliensis", "def": "A thermally dimorphic fungus from Latin America that causes paracoccidioidomycosis, with budding yeast in a \"captain's wheel\" shape.", "syn": ["paracoccidioides"], "abbr": []}
+{"id": 8052, "term": "Chimeric antigen receptor", "def": "An engineered receptor on T cells joining an antibody-derived binding domain to T-cell signaling domains, targeting tumor antigens such as CD19.", "syn": [], "abbr": ["CAR"]}
+{"id": 8053, "term": "CD19", "def": "A B cell surface marker present on nearly all B cells, targeted by CAR T-cell therapy for B-cell leukemia and lymphoma.", "syn": ["CD19 antigen"], "abbr": []}
+{"id": 8054, "term": "CAR T-cell therapy", "def": "Treatment in which a patient's T cells are engineered to carry a chimeric antigen receptor and reinfused to attack cancer. Risks include cytokine release syndrome.", "syn": [], "abbr": []}
+{"id": 8055, "term": "Insertional mutagenesis", "def": "Mutation caused when DNA, such as a viral vector, inserts into a gene. A risk of retroviral gene therapy.", "syn": [], "abbr": []}
+{"id": 8056, "term": "Mutagenesis", "def": "The process of inducing genetic mutations.", "syn": [], "abbr": []}
+{"id": 8057, "skip": "not-medical"}
+{"id": 8058, "skip": "not-medical"}
+{"id": 8059, "term": "Cutaneous candidiasis", "def": "Skin infection with Candida, often in warm, moist skin folds, as red plaques with satellite lesions.", "syn": [], "abbr": []}
+{"id": 8060, "term": "Mycelium", "def": "A mass of branching fungal hyphae.", "syn": [], "abbr": []}
+{"id": 8061, "term": "Cryptococcal meningitis", "def": "Meningitis from Cryptococcus neoformans in immunocompromised patients, especially AIDS. Diagnosed by India ink or antigen in CSF.", "syn": [], "abbr": []}
+{"id": 8062, "term": "Absidia", "def": "A genus of Mucorales fungi that cause mucormycosis in diabetic ketoacidosis or immunocompromise.", "syn": [], "abbr": []}
+{"id": 8063, "skip": "not-medical"}
+{"id": 8064, "term": "Sporangia", "def": "Sac-like fungal structures that contain asexual spores, seen in Mucorales.", "syn": [], "abbr": []}
+{"id": 8065, "term": "Siderophores", "def": "Iron-binding molecules secreted by microbes to steal iron from the host.", "syn": ["siderophore"], "abbr": []}
+{"id": 8066, "term": "Bacterial pili", "def": "Hair-like protein appendages on bacteria used for attachment and conjugation.", "syn": ["fimbriae"], "abbr": []}
+{"id": 8067, "term": "Complement factor H", "def": "A regulator protein that inhibits the alternative complement pathway on host cells. Mutations cause atypical hemolytic uremic syndrome.", "syn": ["factor H"], "abbr": []}
+{"id": 8068, "term": "Bacterial transformation", "def": "Uptake of naked DNA from the environment by a bacterium.", "syn": [], "abbr": []}
+{"id": 8069, "term": "Bacterial genome", "def": "The complete DNA of a bacterium, usually a circular chromosome plus plasmids.", "syn": [], "abbr": []}
+{"id": 8070, "skip": "not-medical"}
+{"id": 8071, "term": "Chlamydophila psittaci", "def": "A bacterium from bird exposure that causes psittacosis, an atypical pneumonia.", "syn": [], "abbr": []}
+{"id": 8072, "term": "Pupillary reflex", "def": "Constriction of the pupils in response to light, via the optic nerve and oculomotor nerve.", "syn": [], "abbr": []}
+{"id": 8073, "skip": "not-medical"}
+{"id": 8074, "term": "Spirochete infection", "def": "Infection by corkscrew-shaped bacteria such as Treponema, Borrelia and Leptospira.", "syn": [], "abbr": []}
+{"id": 8075, "term": "gag gene", "def": "A retroviral gene encoding the capsid and matrix core proteins, including p24.", "syn": [], "abbr": []}
+{"id": 8076, "term": "Acute retroviral syndrome", "def": "A flu- or mononucleosis-like illness 2-4 weeks after HIV infection, with fever, rash and lymphadenopathy.", "syn": [], "abbr": []}
+{"id": 8077, "term": "tat gene", "def": "An HIV gene encoding a transactivator protein that boosts viral transcription.", "syn": ["genes tat"], "abbr": []}
+{"id": 8078, "term": "HIV-associated lipodystrophy", "def": "Abnormal fat redistribution, with central fat accumulation and facial and limb fat loss, from HIV therapy.", "syn": [], "abbr": []}
+{"id": 8079, "term": "Sensory ganglia", "def": "Clusters of sensory neuron cell bodies, such as dorsal root ganglia.", "syn": [], "abbr": []}
+{"id": 8080, "term": "DNase I", "def": "An enzyme that degrades DNA. Nebulized recombinant form thins sputum in cystic fibrosis.", "syn": ["dnase I"], "abbr": []}
+{"id": 8081, "term": "Pancrelipase", "def": "Replacement pancreatic enzymes (lipase, protease, amylase) taken with meals in pancreatic insufficiency.", "syn": ["Creon"], "abbr": []}
+{"id": 8082, "skip": "not-medical"}
+{"id": 8083, "skip": "not-medical"}
+{"id": 8084, "term": "Cowpox", "def": "A viral skin disease that gave Jenner his smallpox vaccine.", "syn": [], "abbr": []}
+{"id": 8085, "term": "Cowpox virus", "def": "A poxvirus used in early smallpox vaccination.", "syn": [], "abbr": []}
+{"id": 8086, "term": "Vaccinia", "def": "The poxvirus used as smallpox vaccine.", "syn": [], "abbr": []}
+{"id": 8087, "term": "Cisapride", "def": "A prokinetic drug withdrawn for causing long QT and torsades.", "syn": [], "abbr": []}
+{"id": 8088, "term": "Nitrate reductase", "def": "An enzyme that reduces nitrate to nitrite, used in bacterial identification.", "syn": [], "abbr": []}
+{"id": 8089, "term": "Hyaluronidase", "def": "An enzyme that breaks down hyaluronic acid, helping bacteria spread.", "syn": [], "abbr": []}
+{"id": 8090, "term": "Streptolysin", "def": "A hemolytic toxin from group A Streptococcus. Streptolysin O is the basis of the ASO titer.", "syn": [], "abbr": []}
+{"id": 8091, "term": "Streptococcus mitis", "def": "A viridans group streptococcus in mouth flora that can cause endocarditis.", "syn": [], "abbr": []}
+{"id": 8092, "term": "Macrophage activation", "def": "Stimulation of macrophages (e.g., by interferon gamma) to kill microbes.", "syn": [], "abbr": []}
+{"id": 8093, "term": "Langhans giant cells", "def": "Multinucleated cells with nuclei in a horseshoe arrangement, in granulomas of TB.", "syn": ["Langhans giant cell"], "abbr": []}
+{"id": 8094, "term": "Tuberculoma", "def": "A mass-like granuloma of TB, often in brain.", "syn": ["tuberculomas"], "abbr": []}
+{"id": 8095, "term": "Pulmonary tuberculosis", "def": "TB infection of the lungs.", "syn": [], "abbr": []}
+{"id": 8096, "skip": "obvious"}
+{"id": 8097, "term": "Paucibacillary leprosy", "def": "Tuberculoid leprosy with few bacteria and strong Th1 response.", "syn": [], "abbr": []}
+{"id": 8098, "term": "Lepromin", "def": "A skin test antigen for leprosy type.", "syn": [], "abbr": []}
+{"id": 8099, "term": "Multibacillary leprosy", "def": "Lepromatous leprosy with many bacteria and weak cell-mediated response.", "syn": [], "abbr": []}
+{"id": 8100, "term": "Immunoelectrophoresis", "def": "Lab technique separating proteins by charge then identifying with antibodies.", "syn": [], "abbr": []}
+{"id": 8101, "term": "Megestrol acetate", "def": "A progestin used to stimulate appetite in cachexia and treat endometrial cancer.", "syn": [], "abbr": []}
+{"id": 8102, "term": "Polyradiculopathy", "def": "Disease of multiple spinal nerve roots.", "syn": [], "abbr": []}
+{"id": 8103, "skip": "wrong-sense"}
+{"id": 8104, "skip": "not-medical"}
+{"id": 8105, "term": "Next-generation sequencing", "def": "High-throughput DNA sequencing of many fragments in parallel.", "syn": [], "abbr": []}
+{"id": 8106, "term": "Gram-positive rods", "def": "Bacilli that stain purple, including Bacillus, Clostridium, Listeria and Corynebacterium.", "syn": [], "abbr": []}
+{"id": 8107, "skip": "not-medical"}
+{"id": 8108, "skip": "not-medical"}
+{"id": 8109, "term": "Leg ulcer", "def": "Skin wound on the leg, from venous insufficiency, arterial disease or neuropathy.", "syn": [], "abbr": []}
+{"id": 8110, "term": "Imipenem-cilastatin", "def": "Carbapenem antibiotic paired with cilastatin, which blocks renal dehydropeptidase.", "syn": ["imipenem cilastatin"], "abbr": []}
+{"id": 8111, "term": "Degenerative disc disease", "def": "Age-related breakdown of intervertebral discs.", "syn": [], "abbr": []}
+{"id": 8112, "skip": "obvious"}
+{"id": 8113, "skip": "not-medical"}
+{"id": 8114, "skip": "not-medical"}
+{"id": 8115, "term": "Solar urticaria", "def": "Hives triggered by sunlight exposure.", "syn": [], "abbr": []}
+{"id": 8116, "term": "Diphtheria antitoxin", "def": "Antibody preparation that neutralizes diphtheria toxin.", "syn": [], "abbr": []}
+{"id": 8117, "term": "Vitreous hemorrhage", "def": "Bleeding into the eye's vitreous causing floaters, seen in diabetic retinopathy.", "syn": [], "abbr": []}
+{"id": 8118, "term": "Acute retinal necrosis", "def": "Viral retinitis from herpes viruses causing peripheral retinal necrosis.", "syn": ["acute retinal necrosis syndrome"], "abbr": []}
+{"id": 8119, "skip": "obvious"}
+{"id": 8120, "term": "Gonioscopy", "def": "Eye exam that views the iridocorneal angle with a special lens to classify glaucoma.", "syn": [], "abbr": []}
+{"id": 8121, "skip": "wrong-sense"}
+{"id": 8122, "term": "Lincomycin", "def": "A lincosamide antibiotic related to clindamycin.", "syn": [], "abbr": []}
+{"id": 8123, "skip": "wrong-sense"}
+{"id": 8124, "skip": "obvious"}
+{"id": 8125, "term": "GABA agonists", "def": "Drugs activating GABA receptors, like benzodiazepines.", "syn": [], "abbr": []}
+{"id": 8126, "skip": "not-medical"}
+{"id": 8127, "term": "Clostridium botulinum type A", "def": "Strain producing botulinum toxin A, used cosmetically.", "syn": [], "abbr": []}
+{"id": 8128, "skip": "not-medical"}
+{"id": 8129, "term": "Respiratory epithelium", "def": "Pseudostratified ciliated columnar epithelium with goblet cells lining airways.", "syn": [], "abbr": []}
+{"id": 8130, "term": "Adenylate cyclase toxin", "def": "Toxin of Bordetella pertussis raising cAMP.", "syn": [], "abbr": []}
+{"id": 8131, "term": "Bacterial capsule", "def": "Polysaccharide layer that resists phagocytosis.", "syn": [], "abbr": []}
+{"id": 8132, "term": "Anaplasma", "def": "Intracellular bacteria transmitted by ticks causing anaplasmosis.", "syn": [], "abbr": []}
+{"id": 8133, "term": "Ileitis", "def": "Inflammation of the ileum, as in Crohn disease.", "syn": [], "abbr": []}
+{"id": 8134, "term": "Human metapneumovirus", "def": "A paramyxovirus causing respiratory infections in children.", "syn": ["metapneumovirus"], "abbr": []}
+{"id": 8135, "skip": "wrong-sense"}
+{"id": 8136, "term": "Hepadnaviridae", "def": "DNA virus family that includes hepatitis B virus.", "syn": ["hepadnavirus"], "abbr": []}
+{"id": 8137, "skip": "obvious"}
+{"id": 8138, "term": "Fulminant hepatitis", "def": "Rapid, severe liver failure with encephalopathy and coagulopathy.", "syn": [], "abbr": []}
+{"id": 8139, "term": "Culex", "def": "Mosquito genus that transmits West Nile and St. Louis encephalitis viruses.", "syn": [], "abbr": []}
+{"id": 8140, "term": "Atazanavir", "def": "An HIV protease inhibitor that causes indirect hyperbilirubinemia.", "syn": [], "abbr": []}
+{"id": 8141, "term": "Darunavir", "def": "An HIV protease inhibitor.", "syn": [], "abbr": []}
+{"id": 8142, "term": "Lopinavir", "def": "An HIV protease inhibitor given with ritonavir.", "syn": [], "abbr": []}
+{"id": 8143, "term": "CCR5", "def": "A chemokine receptor used as a coreceptor by HIV, blocked by maraviroc.", "syn": ["CCR5 receptor"], "abbr": []}
+{"id": 8144, "term": "CXCR4", "def": "A chemokine receptor used by HIV as a coreceptor.", "syn": [], "abbr": []}
+{"id": 8145, "term": "Enoxacin", "def": "A fluoroquinolone antibiotic.", "syn": [], "abbr": []}
+{"id": 8146, "term": "Norfloxacin", "def": "A fluoroquinolone antibiotic for urinary infection.", "syn": [], "abbr": []}
+{"id": 8147, "term": "Topoisomerase IV", "def": "A bacterial enzyme that separates replicated chromosomes, inhibited by fluoroquinolones.", "syn": ["DNA topoisomerase IV"], "abbr": []}
+{"id": 8148, "term": "Peritoneal carcinomatosis", "def": "Spread of cancer across peritoneal surfaces.", "syn": [], "abbr": []}
+{"id": 8149, "skip": "not-medical"}
+{"id": 8150, "skip": "wrong-sense"}
+{"id": 8151, "term": "Turbinates", "def": "Bony shelves in the nasal cavity that warm and humidify air.", "syn": ["nasal turbinates"], "abbr": []}
+{"id": 8152, "term": "Dopamine D2 receptors", "def": "Gi-coupled receptors blocked by antipsychotics.", "syn": [], "abbr": []}
+{"id": 8153, "term": "Cytidine triphosphate", "def": "A pyrimidine nucleotide used in RNA synthesis.", "syn": ["CTP"], "abbr": ["CTP"]}
+{"id": 8154, "term": "Secondary parkinsonism", "def": "Parkinsonism caused by drugs, strokes or toxins rather than Parkinson disease.", "syn": [], "abbr": []}
+{"id": 8155, "skip": "not-medical"}
+{"id": 8156, "skip": "obvious"}
+{"id": 8157, "term": "DNA polymerase inhibitor", "def": "Drugs that block DNA polymerase, like acyclovir.", "syn": [], "abbr": []}
+{"id": 8158, "term": "Premature menopause", "def": "Loss of ovarian function before age 40.", "syn": ["primary ovarian insufficiency"], "abbr": []}
+{"id": 8159, "term": "Chromosome breakage", "def": "Physical breaks in chromosomes, increased in Fanconi anemia and ataxia telangiectasia.", "syn": [], "abbr": []}
+{"id": 8160, "skip": "obvious"}
+{"id": 8161, "term": "Topoisomerase inhibitors", "def": "Drugs like irinotecan and etoposide that block DNA unwinding.", "syn": [], "abbr": []}
+{"id": 8162, "term": "Anaphase", "def": "The mitotic stage when sister chromatids separate toward opposite poles.", "syn": [], "abbr": []}
+{"id": 8163, "skip": "not-medical"}
+{"id": 8164, "term": "Hoarding disorder", "def": "Persistent difficulty discarding possessions.", "syn": [], "abbr": []}
+{"id": 8165, "term": "Lanosterol", "def": "The first sterol intermediate in cholesterol synthesis, formed from squalene. In fungi it is demethylated by an enzyme that azole antifungals inhibit.", "syn": [], "abbr": []}
+{"id": 8166, "term": "Vulvovaginitis", "def": "Inflammation of the vulva and vagina.", "syn": [], "abbr": []}
+{"id": 8167, "term": "Imidazoles", "def": "Antifungal drug class including ketoconazole.", "syn": [], "abbr": []}
+{"id": 8168, "term": "Chitin", "def": "A polysaccharide in fungal cell walls.", "syn": ["chitins"], "abbr": []}
+{"id": 8169, "skip": "obvious"}
+{"id": 8170, "skip": "not-medical"}
+{"id": 8171, "term": "Acanthamoeba", "def": "Free-living amoeba causing keratitis in contact lens wearers.", "syn": [], "abbr": []}
+{"id": 8172, "term": "Chagas cardiomyopathy", "def": "Dilated cardiomyopathy and arrhythmias from Trypanosoma cruzi.", "syn": [], "abbr": []}
+{"id": 8173, "term": "Mucocutaneous leishmaniasis", "def": "Leishmania infection destroying nose and mouth tissue.", "syn": [], "abbr": []}
+{"id": 8174, "term": "Plasmodium ovale", "def": "A malaria species that forms dormant liver hypnozoites.", "syn": [], "abbr": []}
+{"id": 8175, "term": "Retinal dystrophy", "def": "Inherited degeneration of the retina, such as retinitis pigmentosa.", "syn": [], "abbr": []}
+{"id": 8176, "term": "Loeffler syndrome", "def": "Transient pulmonary infiltrates with eosinophilia, often from migrating helminth larvae.", "syn": ["Löffler syndrome"], "abbr": []}
+{"id": 8177, "skip": "not-medical"}
+{"id": 8178, "skip": "not-medical"}
+{"id": 8179, "term": "Onchocerciasis", "def": "River blindness from Onchocerca volvulus transmitted by black flies.", "syn": [], "abbr": []}
+{"id": 8180, "term": "Black fly", "def": "Simulium fly that transmits Onchocerca volvulus.", "syn": ["black flies"], "abbr": []}
+{"id": 8181, "term": "Elephantiasis", "def": "Massive lymphedema with thickened skin, classically from filariasis.", "syn": [], "abbr": []}
+{"id": 8182, "term": "Lymphatic filariasis", "def": "Infection with Wuchereria bancrofti causing lymphedema and elephantiasis.", "syn": ["wuchereria bancrofti infection"], "abbr": []}
+{"id": 8183, "skip": "not-medical"}
+{"id": 8184, "term": "Loiasis", "def": "Infection with Loa loa transmitted by deerflies, causing eye worm and Calabar swellings.", "syn": ["loa loa infection"], "abbr": []}
+{"id": 8185, "skip": "not-medical"}
+{"id": 8186, "term": "Cestode infection", "def": "Tapeworm infection, such as Taenia and Diphyllobothrium.", "syn": ["tapeworm infections"], "abbr": []}
+{"id": 8187, "term": "Schistosomiasis", "def": "Infection with Schistosoma blood flukes from freshwater snails.", "syn": [], "abbr": []}
+{"id": 8188, "term": "Schistosoma japonicum", "def": "A blood fluke causing hepatosplenic disease.", "syn": [], "abbr": []}
+{"id": 8189, "term": "Mycetoma", "def": "Chronic painful swelling and draining sinuses from fungal or actinomycete infection.", "syn": [], "abbr": []}
+{"id": 8190, "term": "Paratyphoid fever", "def": "Enteric fever like typhoid from Salmonella paratyphi.", "syn": [], "abbr": []}
+{"id": 8191, "term": "Salmonella paratyphi A", "def": "Cause of paratyphoid fever.", "syn": ["salmonella paratyphi"], "abbr": []}
+{"id": 8192, "skip": "not-medical"}
+{"id": 8193, "term": "Cerebral malaria", "def": "Severe falciparum malaria with coma and seizures.", "syn": [], "abbr": []}
+{"id": 8194, "term": "Stress echocardiography", "def": "Ultrasound of the heart during exercise or dobutamine to detect ischemia.", "syn": ["echocardiography stress"], "abbr": []}
+{"id": 8195, "skip": "not-medical"}
+{"id": 8196, "skip": "not-medical"}
+{"id": 8197, "term": "Seroma", "def": "A collection of serous fluid under skin after surgery.", "syn": [], "abbr": []}
+{"id": 8198, "term": "Esophageal pH monitoring", "def": "Test measuring acid reflux in the esophagus.", "syn": [], "abbr": []}
+{"id": 8199, "skip": "wrong-sense"}
+{"id": 8200, "term": "Tobacco cessation", "def": "Quitting tobacco use.", "syn": [], "abbr": []}
+{"id": 8201, "term": "Lateral internal sphincterotomy", "def": "Surgery cutting the internal anal sphincter to treat chronic anal fissure.", "syn": ["internal sphincterotomy"], "abbr": []}
+{"id": 8202, "skip": "not-medical"}
+{"id": 8203, "term": "Internal carotid artery dissection", "def": "Tear in the carotid wall causing stroke and Horner syndrome.", "syn": [], "abbr": []}
+{"id": 8204, "skip": "not-medical"}
+{"id": 8205, "term": "Salmonella enterica", "def": "Gram-negative species with many serotypes causing gastroenteritis and typhoid.", "syn": [], "abbr": []}
+{"id": 8206, "term": "Hypersensitivity vasculitis", "def": "Small-vessel vasculitis causing palpable purpura, triggered by drugs.", "syn": [], "abbr": []}
+{"id": 8207, "term": "Lysophospholipids", "def": "Phospholipids missing one fatty acid, signaling molecules.", "syn": [], "abbr": []}
+{"id": 8208, "term": "Artemether-lumefantrine", "def": "Antimalarial combination used for uncomplicated falciparum malaria.", "syn": ["artemether lumefantrine"], "abbr": []}
+{"id": 8209, "term": "Lumefantrine", "def": "An antimalarial combined with artemether.", "syn": [], "abbr": []}
+{"id": 8210, "term": "Artemether", "def": "An artemisinin antimalarial.", "syn": [], "abbr": []}
+{"id": 8211, "term": "Rilpivirine", "def": "A non-nucleoside reverse transcriptase inhibitor for HIV.", "syn": [], "abbr": []}
+{"id": 8212, "term": "Sustained virologic response", "def": "Undetectable hepatitis C RNA 12 weeks after treatment, equaling cure.", "syn": [], "abbr": ["SVR"]}
+{"id": 8213, "term": "Viral assembly", "def": "Putting together new viral particles in a host cell.", "syn": [], "abbr": []}
+{"id": 8214, "term": "Familial dysbetalipoproteinemia", "def": "Type III hyperlipoproteinemia from apoE2 homozygosity, with palmar xanthomas and elevated chylomicron and VLDL remnants.", "syn": ["dysbetalipoproteinemia"], "abbr": []}
+{"id": 8215, "skip": "wrong-sense"}
+{"id": 8216, "term": "Crossing over", "def": "Exchange of DNA between homologous chromosomes in meiosis I.", "syn": [], "abbr": []}
+{"id": 8217, "skip": "not-medical"}
+{"id": 8218, "term": "Legionellosis", "def": "Infection with Legionella, as Legionnaires disease.", "syn": [], "abbr": []}
+{"id": 8219, "term": "Lingual frenulum", "def": "Fold of tissue connecting tongue to the floor of the mouth.", "syn": ["lingual frenum"], "abbr": []}
+{"id": 8220, "skip": "not-medical"}
+{"id": 8221, "term": "Bacterial zoonoses", "def": "Bacterial infections transmitted from animals to humans.", "syn": [], "abbr": []}
+{"id": 8222, "skip": "not-medical"}
+{"id": 8223, "skip": "not-medical"}
+{"id": 8224, "term": "Microcytotoxicity test", "def": "Lab test for HLA typing using antibody and complement.", "syn": [], "abbr": []}
+{"id": 8225, "skip": "not-medical"}
+{"id": 8226, "term": "Hypotonic solutions", "def": "Fluids with lower osmolarity than plasma, causing cells to swell.", "syn": [], "abbr": []}
+{"id": 8227, "skip": "not-medical"}
+{"id": 8228, "term": "Musculoskeletal disease", "def": "Disorders of bone, muscle and joints.", "syn": [], "abbr": []}
+{"id": 8229, "term": "Coxsackievirus infection", "def": "Picornavirus infection causing hand-foot-mouth disease and myocarditis.", "syn": [], "abbr": []}
+{"id": 8230, "term": "Acute hemorrhagic conjunctivitis", "def": "Viral red eye with subconjunctival bleeding.", "syn": [], "abbr": []}
+{"id": 8231, "term": "Caliciviridae", "def": "Family of RNA viruses including norovirus.", "syn": [], "abbr": []}
+{"id": 8232, "term": "Western equine encephalitis", "def": "Mosquito-borne alphavirus encephalitis.", "syn": [], "abbr": []}
+{"id": 8233, "term": "Eastern equine encephalitis", "def": "Severe mosquito-borne alphavirus encephalitis.", "syn": [], "abbr": []}
+{"id": 8234, "term": "Chikungunya virus", "def": "Alphavirus transmitted by Aedes mosquitoes causing fever and severe joint pain.", "syn": [], "abbr": []}
+{"id": 8235, "term": "Equine encephalitis", "def": "Mosquito-borne alphavirus encephalitis of horses and humans.", "syn": [], "abbr": []}
+{"id": 8236, "term": "Venezuelan equine encephalitis", "def": "Mosquito-borne alphavirus encephalitis.", "syn": [], "abbr": []}
+{"id": 8237, "term": "Reoviridae", "def": "Family of segmented double-stranded RNA viruses including rotavirus.", "syn": [], "abbr": []}
+{"id": 8238, "term": "Hemagglutinin", "def": "Influenza surface protein that binds sialic acid for cell entry.", "syn": ["viral hemagglutinin"], "abbr": []}
+{"id": 8239, "skip": "wrong-sense"}
+{"id": 8240, "skip": "not-medical"}
+{"id": 8241, "term": "Riboflavin deficiency", "def": "Vitamin B2 lack causing cheilosis and glossitis.", "syn": [], "abbr": []}
+{"id": 8242, "term": "Cortical thinning", "def": "Loss of cerebral cortex thickness.", "syn": [], "abbr": []}
+{"id": 8243, "skip": "not-medical"}
+{"id": 8244, "skip": "not-medical"}
+{"id": 8245, "term": "Marburg virus disease", "def": "Filovirus hemorrhagic fever.", "syn": ["marburg virus infection"], "abbr": []}
+{"id": 8246, "term": "Ebola virus", "def": "Filovirus causing severe hemorrhagic fever.", "syn": ["Ebolavirus"], "abbr": []}
+{"id": 8247, "term": "Bunyaviridae", "def": "Family of segmented negative-strand RNA viruses including hantavirus.", "syn": [], "abbr": []}
+{"id": 8248, "term": "Sandfly fever", "def": "Phlebovirus fever spread by sandflies.", "syn": ["phlebotomus fever"], "abbr": []}
+{"id": 8249, "term": "Crimean-Congo hemorrhagic fever", "def": "Tick-borne bunyavirus hemorrhagic fever.", "syn": [], "abbr": []}

@@ -1,0 +1,250 @@
+{"id": 9000, "term": "Ehlers-Danlos syndrome", "def": "A group of inherited collagen defects causing hyperextensible skin, hypermobile joints and fragile blood vessels, with vascular and joint complications.", "syn": [], "abbr": []}
+{"id": 9001, "term": "Valsalva maneuver", "def": "Forced exhalation against a closed airway, which raises chest pressure and lowers venous return. It increases the murmur of hypertrophic cardiomyopathy and decreases most others.", "syn": ["Valsalva"], "abbr": []}
+{"id": 9002, "term": "Nephrotic syndrome", "def": "Kidney disease with heavy proteinuria (over 3.5 g/day), hypoalbuminemia, edema and hyperlipidemia. Caused by podocyte or basement membrane damage, as in minimal change disease.", "syn": [], "abbr": []}
+{"id": 9003, "term": "Fanconi syndrome", "def": "Generalized dysfunction of the proximal renal tubule, wasting glucose, amino acids, phosphate and bicarbonate, producing type 2 renal tubular acidosis.", "syn": [], "abbr": []}
+{"id": 9004, "skip": "fragment"}
+{"id": 9005, "term": "Chromaffin cells", "def": "Neuroendocrine cells of the adrenal medulla that release epinephrine and norepinephrine. Pheochromocytoma arises from them.", "syn": ["chromaffin cell"], "abbr": []}
+{"id": 9006, "term": "Carcinoid syndrome", "def": "Flushing, diarrhea, wheezing and right-sided valvular heart disease from serotonin released by a carcinoid tumor, usually after liver metastasis. Urine 5-HIAA is elevated.", "syn": [], "abbr": []}
+{"id": 9007, "term": "Wilms tumor", "def": "The most common pediatric kidney cancer, with blastemal, stromal and epithelial elements. Presents as a large flank mass; linked to WT1 deletion and WAGR syndrome.", "syn": [], "abbr": []}
+{"id": 9008, "term": "Sertoli cells", "def": "Cells lining the seminiferous tubules that nurture developing sperm cells, secrete inhibin and anti-Mullerian hormone, and form the blood-testis barrier. They respond to FSH.", "syn": ["Sertoli cell"], "abbr": []}
+{"id": 9009, "term": "Goodpasture syndrome", "def": "Antibodies against type IV collagen of the basement membranes of the glomerulus and alveolus cause rapidly progressive glomerulonephritis with lung hemorrhage. Immunofluorescence shows linear IgG.", "syn": [], "abbr": []}
+{"id": 9010, "term": "Raynaud phenomenon", "def": "Episodic vasospasm of the fingers or toes causing white, then blue, then red color changes with cold. Secondary forms are linked to scleroderma and lupus.", "syn": ["Raynaud's phenomenon"], "abbr": []}
+{"id": 9011, "term": "Eosinophilic granulomatosis with polyangiitis", "def": "A small-vessel vasculitis occurring with asthma, eosinophilia and nasal polyps, often p-ANCA positive.", "syn": ["Churg-Strauss syndrome"], "abbr": ["EGPA"]}
+{"id": 9012, "skip": "fragment"}
+{"id": 9013, "term": "Coombs test", "def": "A test for antibodies on red cells. Direct detects antibodies bound to a patient's cells (autoimmune hemolysis); indirect detects antibodies in serum (transfusion matching, Rh incompatibility).", "syn": ["Coombs"], "abbr": []}
+{"id": 9014, "term": "Lewy body", "def": "Round, eosinophilic cytoplasmic inclusions of aggregated alpha-synuclein in neurons. They are the hallmark of Parkinson disease and Lewy body dementia.", "syn": ["Lewy bodies"], "abbr": []}
+{"id": 9015, "term": "Celiac disease", "def": "An immune reaction to gluten that damages the small intestine villi, causing malabsorption. Associated with anti-tissue transglutaminase antibodies, HLA-DQ2/DQ8 and dermatitis herpetiformis.", "syn": ["celiac sprue"], "abbr": []}
+{"id": 9016, "term": "Reed-Sternberg cells", "def": "Large binucleate cells with owl-eye nucleoli, the diagnostic cells of Hodgkin lymphoma. They are CD15 and CD30 positive.", "syn": ["Reed-Sternberg cell"], "abbr": []}
+{"id": 9017, "skip": "fragment"}
+{"id": 9018, "term": "Rathke's pouch", "def": "An embryonic outpouching of the oral ectoderm that forms the anterior pituitary (adenohypophysis). Remnants can give rise to craniopharyngioma.", "syn": ["Rathke pouch"], "abbr": []}
+{"id": 9019, "skip": "fragment"}
+{"id": 9020, "skip": "fragment"}
+{"id": 9021, "term": "Sturge-Weber syndrome", "def": "A sporadic neurocutaneous disorder with a facial port-wine stain in the V1 distribution, leptomeningeal angiomas, seizures and glaucoma, from a GNAQ mutation.", "syn": [], "abbr": []}
+{"id": 9022, "term": "Budd-Chiari syndrome", "def": "Hepatic vein thrombosis causing congestive liver disease: hepatomegaly, ascites and abdominal pain. Associated with polycythemia vera and hypercoagulable states.", "syn": [], "abbr": []}
+{"id": 9023, "term": "Beckwith-Wiedemann syndrome", "def": "A growth disorder from abnormal imprinting at 11p15, with macroglossia, omphalocele, hypoglycemia and a risk of Wilms tumor.", "syn": [], "abbr": []}
+{"id": 9024, "term": "Sideroblastic anemia", "def": "Anemia where iron-loaded mitochondria ring the red cell nucleus (ring sideroblasts) because heme synthesis is impaired. Caused by ALAS2 mutations, alcohol, lead and isoniazid.", "syn": [], "abbr": []}
+{"id": 9025, "term": "Langerhans cells", "def": "Dendritic antigen-presenting cells of the epidermis. They contain Birbeck granules and are the cell of origin in Langerhans cell histiocytosis.", "syn": ["Langerhans cell"], "abbr": []}
+{"id": 9026, "term": "Chagas disease", "def": "Infection with Trypanosoma cruzi spread by reduviid (kissing) bugs. Chronic disease causes dilated cardiomyopathy, megacolon and megaesophagus; acute disease can show Romana sign.", "syn": [], "abbr": []}
+{"id": 9027, "term": "Leydig cells", "def": "Testicular interstitial cells that make testosterone in response to LH. They contain Reinke crystals.", "syn": ["Leydig cell"], "abbr": []}
+{"id": 9028, "term": "Edwards syndrome", "def": "A trisomy 18 disorder causing severe intellectual disability, rocker-bottom feet, clenched fists with overlapping fingers, micrognathia and heart defects. Most infants die within the first year.", "syn": ["Edward syndrome", "trisomy 18"], "abbr": []}
+{"id": 9029, "term": "Klinefelter syndrome", "def": "A 47,XXY disorder with small firm testes, tall stature, gynecomastia and infertility from hypergonadism with high FSH and LH. A Barr body is present.", "syn": [], "abbr": []}
+{"id": 9030, "term": "Wolff-Parkinson-White syndrome", "def": "Pre-excitation via an accessory pathway (bundle of Kent) bypassing the AV node. The ECG shows a short PR interval and delta wave; risk of tachyarrhythmia.", "syn": ["WPW"], "abbr": ["WPW"]}
+{"id": 9031, "term": "Gitelman syndrome", "def": "Autosomal recessive defect of the distal tubule Na-Cl cotransporter, mimicking thiazide use. Causes hypokalemia, metabolic alkalosis, hypomagnesemia and hypocalciuria.", "syn": [], "abbr": []}
+{"id": 9032, "term": "Lesch-Nyhan syndrome", "def": "X-linked HGPRT deficiency in purine salvage, causing hyperuricemia, gout, self-mutilation, dystonia and intellectual disability.", "syn": [], "abbr": []}
+{"id": 9033, "skip": "obvious"}
+{"id": 9034, "term": "Patau syndrome", "def": "Trisomy 13, causing holoprosencephaly, cleft lip and palate, polydactyly and heart defects. Most infants die in the first year.", "syn": ["trisomy 13"], "abbr": []}
+{"id": 9035, "term": "Sheehan syndrome", "def": "Pituitary necrosis after postpartum hemorrhage. Causes inability to lactate, amenorrhea and hypopituitarism.", "syn": [], "abbr": []}
+{"id": 9036, "term": "Von Willebrand disease", "def": "The most common inherited bleeding disorder, from deficient or defective von Willebrand factor. Causes mucosal bleeding with prolonged bleeding time and aPTT.", "syn": [], "abbr": []}
+{"id": 9037, "skip": "fragment"}
+{"id": 9038, "term": "Bartter syndrome", "def": "Autosomal recessive defect of the thick ascending limb Na-K-2Cl cotransporter, mimicking loop diuretic use. Causes hypokalemia, metabolic alkalosis and hypercalciuria.", "syn": [], "abbr": []}
+{"id": 9039, "term": "Niemann-Pick disease", "def": "A lysosomal storage disease from sphingomyelinase deficiency. Features hepatosplenomegaly, foam cells, a cherry-red macula and neurodegeneration.", "syn": [], "abbr": []}
+{"id": 9040, "term": "Hemolytic anemia", "def": "Anemia from premature destruction of red blood cells, with raised reticulocytes, indirect bilirubin and LDH, and low haptoglobin.", "syn": [], "abbr": []}
+{"id": 9041, "term": "Creutzfeldt-Jakob disease", "def": "A prion disease causing rapidly progressive dementia, myoclonus and spongiform change in the brain. EEG shows periodic sharp waves.", "syn": [], "abbr": ["CJD"]}
+{"id": 9042, "term": "Boerhaave syndrome", "def": "Transmural rupture of the esophagus from forceful vomiting. Causes chest pain, subcutaneous emphysema and mediastinitis.", "syn": [], "abbr": []}
+{"id": 9043, "term": "Whipple disease", "def": "Infection with Tropheryma whipplei causing malabsorption, arthralgia and neurologic symptoms. Biopsy shows PAS-positive foamy macrophages.", "syn": [], "abbr": []}
+{"id": 9044, "skip": "fragment"}
+{"id": 9045, "term": "Legg-Calve-Perthes disease", "def": "Avascular necrosis of the femoral head in children aged 4 to 8, presenting with hip pain and a limp.", "syn": ["Legg-Perthes disease"], "abbr": []}
+{"id": 9046, "term": "Holosystolic murmur", "def": "A murmur lasting the whole of systole, seen in mitral regurgitation, tricuspid regurgitation and ventricular septal defect.", "syn": ["pansystolic murmur"], "abbr": []}
+{"id": 9047, "term": "Asherman syndrome", "def": "Intrauterine adhesions (scarring) following uterine curettage or infection, causing amenorrhea or hypomenorrhea and infertility.", "syn": [], "abbr": []}
+{"id": 9048, "term": "Liddle syndrome", "def": "Autosomal dominant overactivity of the collecting duct sodium channel (ENaC), causing hypertension, hypokalemia and metabolic alkalosis with low renin and aldosterone.", "syn": [], "abbr": []}
+{"id": 9049, "term": "Hurler syndrome", "def": "A mucopolysaccharidosis from alpha-L-iduronidase deficiency. Causes coarse facies, corneal clouding, hepatosplenomegaly and intellectual disability.", "syn": [], "abbr": []}
+{"id": 9050, "term": "Lewy bodies", "def": "Round, eosinophilic cytoplasmic inclusions of aggregated alpha-synuclein in neurons. They are the hallmark of Parkinson disease and Lewy body dementia.", "syn": ["Lewy body"], "abbr": []}
+{"id": 9051, "term": "Erb palsy", "def": "Upper brachial plexus (C5-C6) injury causing the waiter's tip posture: arm adducted, internally rotated and extended. Often follows shoulder dystocia.", "syn": ["Erb-Duchenne palsy"], "abbr": []}
+{"id": 9052, "term": "Clue cells", "def": "Vaginal epithelial cells covered with bacteria, giving them a stippled border. They are diagnostic of bacterial vaginosis.", "syn": ["clue cell"], "abbr": []}
+{"id": 9053, "term": "Theca cells", "def": "Ovarian stromal cells that make androgens in response to LH, which granulosa cells convert to estrogen.", "syn": ["theca cell"], "abbr": []}
+{"id": 9054, "term": "Granulosa cells", "def": "Ovarian follicle cells that surround the oocyte, convert androgens to estrogen using aromatase under FSH, and later form the corpus luteum.", "syn": ["granulosa cell"], "abbr": []}
+{"id": 9055, "term": "Rett syndrome", "def": "An X-linked dominant MECP2 disorder in girls. After normal early development, loss of purposeful hand use, hand-wringing, seizures and regression occur.", "syn": [], "abbr": []}
+{"id": 9056, "term": "Reye syndrome", "def": "Acute encephalopathy with fatty liver in children given aspirin during a viral illness (influenza, varicella).", "syn": [], "abbr": []}
+{"id": 9057, "skip": "obvious"}
+{"id": 9058, "term": "Broca area", "def": "The inferior frontal gyrus region (Brodmann 44, 45) that produces speech. Damage causes nonfluent aphasia with intact comprehension.", "syn": ["Broca's area"], "abbr": []}
+{"id": 9059, "term": "Brodmann area", "def": "A numbered region of the cerebral cortex defined by its cell layout, such as area 4 (primary motor cortex).", "syn": ["Brodmann areas"], "abbr": []}
+{"id": 9060, "term": "Zenker diverticulum", "def": "An outpouching of the pharyngeal wall above the upper esophageal sphincter, causing dysphagia, halitosis and regurgitation of undigested food.", "syn": [], "abbr": []}
+{"id": 9061, "term": "Wiskott-Aldrich syndrome", "def": "An X-linked immunodeficiency with eczema, thrombocytopenia with small platelets, and recurrent infections. Caused by a WAS gene mutation.", "syn": [], "abbr": []}
+{"id": 9062, "term": "Granulosa cells", "def": "Ovarian follicle cells that surround the oocyte, convert androgens to estrogen using aromatase under FSH, and later form the corpus luteum.", "syn": ["granulosa cell"], "abbr": []}
+{"id": 9063, "term": "Fanconi anemia", "def": "An autosomal recessive DNA repair defect causing pancytopenia, short stature, radial limb defects and cancer risk.", "syn": [], "abbr": []}
+{"id": 9064, "term": "Alport syndrome", "def": "An X-linked defect in type IV collagen causing hematuria, hearing loss and eye abnormalities. Electron microscopy shows a basket-weave glomerular basement membrane.", "syn": [], "abbr": []}
+{"id": 9065, "term": "Menkes disease", "def": "An X-linked defect in copper transport (ATP7A) causing kinky hair, hypotonia and neurodegeneration in male infants.", "syn": [], "abbr": []}
+{"id": 9066, "term": "Buerger disease", "def": "Thromboangiitis obliterans, inflammation of small and medium vessels of the extremities in smokers. Causes digital ischemia and claudication.", "syn": ["thromboangiitis obliterans"], "abbr": []}
+{"id": 9067, "term": "Eisenmenger syndrome", "def": "Reversal of a left-to-right cardiac shunt to right-to-left due to pulmonary hypertension, causing late cyanosis and clubbing.", "syn": [], "abbr": []}
+{"id": 9068, "term": "Von Gierke disease", "def": "Glycogen storage disease type I from glucose-6-phosphatase deficiency. Causes severe fasting hypoglycemia, hepatomegaly, lactic acidosis and gout.", "syn": [], "abbr": []}
+{"id": 9069, "term": "Pompe disease", "def": "Glycogen storage disease type II from lysosomal acid alpha-glucosidase deficiency. Causes cardiomegaly, hypotonia and early death in infants.", "syn": [], "abbr": []}
+{"id": 9070, "term": "Bowman's space", "def": "The fluid-filled space between the glomerular capillaries and Bowman capsule, which receives the glomerular filtrate.", "syn": ["Bowman space"], "abbr": []}
+{"id": 9071, "term": "Fabry disease", "def": "X-linked alpha-galactosidase A deficiency causing buildup of ceramide trihexoside. Features angiokeratomas, burning limb pain and kidney failure.", "syn": [], "abbr": []}
+{"id": 9072, "term": "Krabbe disease", "def": "Lysosomal galactocerebrosidase deficiency causing globoid cells, optic atrophy and demyelination with neurodegeneration in infants.", "syn": [], "abbr": []}
+{"id": 9073, "term": "Megaloblastic anemia", "def": "Anemia with large red cells and hypersegmented neutrophils, from impaired DNA synthesis due to folate or vitamin B12 deficiency.", "syn": [], "abbr": []}
+{"id": 9074, "term": "Korsakoff syndrome", "def": "Amnestic disorder from thiamine deficiency in chronic alcohol use, with anterograde amnesia and confabulation. Follows Wernicke encephalopathy.", "syn": [], "abbr": []}
+{"id": 9075, "term": "Aplastic anemia", "def": "Pancytopenia from bone marrow failure with an empty, fatty marrow. Causes include drugs, viruses and radiation.", "syn": [], "abbr": []}
+{"id": 9076, "term": "Wernicke area", "def": "The posterior superior temporal gyrus responsible for language comprehension. Damage causes fluent, nonsensical speech with poor comprehension.", "syn": ["Wernicke's area"], "abbr": []}
+{"id": 9077, "term": "Klumpke palsy", "def": "Lower brachial plexus (C8-T1) injury causing claw hand and sometimes Horner syndrome, often from traction on the arm.", "syn": [], "abbr": []}
+{"id": 9078, "term": "Refsum disease", "def": "A peroxisomal disorder of phytanic acid breakdown causing retinitis pigmentosa, ataxia, neuropathy and ichthyosis.", "syn": [], "abbr": []}
+{"id": 9079, "term": "Apgar score", "def": "A 0-10 assessment of a newborn at 1 and 5 minutes, scoring appearance, pulse, grimace, activity and respiration.", "syn": [], "abbr": []}
+{"id": 9080, "skip": "obvious"}
+{"id": 9081, "term": "Leydig cells", "def": "Testicular interstitial cells that make testosterone in response to LH. They contain Reinke crystals.", "syn": ["Leydig cell"], "abbr": []}
+{"id": 9082, "skip": "fragment"}
+{"id": 9083, "skip": "fragment"}
+{"id": 9084, "skip": "fragment"}
+{"id": 9085, "skip": "obvious"}
+{"id": 9086, "term": "Kartagener syndrome", "def": "Primary ciliary dyskinesia from defective dynein arms. Causes situs inversus, chronic sinusitis, bronchiectasis and infertility.", "syn": [], "abbr": []}
+{"id": 9087, "skip": "fragment"}
+{"id": 9088, "term": "Dressler syndrome", "def": "Pericarditis and fever weeks after myocardial infarction, thought to be autoimmune.", "syn": [], "abbr": []}
+{"id": 9089, "term": "Kussmaul sign", "def": "A paradoxical rise in jugular venous pressure on inspiration. Seen in constrictive pericarditis and restrictive cardiomyopathy.", "syn": [], "abbr": []}
+{"id": 9090, "term": "Bernard-Soulier syndrome", "def": "Inherited defect of platelet GpIb, so platelets cannot bind von Willebrand factor. Causes giant platelets, thrombocytopenia and bleeding.", "syn": [], "abbr": []}
+{"id": 9091, "term": "Von Willebrand disease", "def": "The most common inherited bleeding disorder, from deficient or defective von Willebrand factor. Causes mucosal bleeding with prolonged bleeding time and aPTT.", "syn": [], "abbr": []}
+{"id": 9092, "term": "Heinz bodies", "def": "Clumps of denatured hemoglobin within red cells, seen in G6PD deficiency. They are removed by splenic macrophages to form bite cells.", "syn": ["Heinz body"], "abbr": []}
+{"id": 9093, "term": "Cori disease", "def": "Glycogen storage disease type III from debranching enzyme deficiency, causing fasting hypoglycemia and hepatomegaly with normal lactate.", "syn": ["Forbes disease"], "abbr": []}
+{"id": 9094, "term": "Nephritic syndrome", "def": "Glomerular inflammation with hematuria, red cell casts, hypertension, azotemia and mild proteinuria. Seen in poststreptococcal glomerulonephritis and IgA nephropathy.", "syn": [], "abbr": []}
+{"id": 9095, "term": "Hunter syndrome", "def": "X-linked iduronate sulfatase deficiency, a mucopolysaccharidosis. Similar to Hurler but with no corneal clouding and aggressive behavior.", "syn": [], "abbr": []}
+{"id": 9096, "term": "Hartnup disease", "def": "An autosomal recessive defect in neutral amino acid transport (tryptophan), causing pellagra-like symptoms.", "syn": [], "abbr": []}
+{"id": 9097, "term": "Diamond-Blackfan anemia", "def": "Congenital pure red cell aplasia presenting in infancy with macrocytic anemia, short stature and thumb abnormalities.", "syn": [], "abbr": []}
+{"id": 9098, "term": "Parinaud syndrome", "def": "Dorsal midbrain syndrome with impaired upward gaze, convergence-retraction nystagmus and pupillary light-near dissociation. Often due to a pineal tumor.", "syn": [], "abbr": []}
+{"id": 9099, "skip": "fragment"}
+{"id": 9100, "skip": "ambiguous"}
+{"id": 9101, "term": "Cerebellar granule cell", "def": "The most numerous neurons of the cerebellar cortex. They use glutamate as an excitatory transmitter and send parallel fibers to Purkinje cells.", "syn": ["Granule cell", "granule cell"], "abbr": []}
+{"id": 9102, "skip": "fragment"}
+{"id": 9103, "skip": "fragment"}
+{"id": 9104, "skip": "fragment"}
+{"id": 9105, "term": "Purkinje cell", "def": "Large inhibitory GABAergic neurons of the cerebellar cortex whose axons are the sole output of the cortex.", "syn": ["Purkinje cells"], "abbr": []}
+{"id": 9106, "term": "Mallory-Weiss syndrome", "def": "Longitudinal mucosal tears at the gastroesophageal junction after forceful vomiting, causing hematemesis, classically in alcohol use.", "syn": [], "abbr": []}
+{"id": 9107, "term": "Nikolsky sign", "def": "Skin that sloughs off with lateral pressure. Positive in pemphigus vulgaris, staphylococcal scalded skin syndrome and toxic epidermal necrolysis.", "syn": [], "abbr": []}
+{"id": 9108, "term": "Guyon canal", "def": "A tunnel at the wrist where the ulnar nerve and artery pass. Compression causes hand weakness and numbness of the fifth finger.", "syn": ["Guyon's canal"], "abbr": []}
+{"id": 9109, "term": "Ogilvie syndrome", "def": "Acute colonic pseudo-obstruction: marked colonic dilation without a mechanical blockage, usually in hospitalized or post-surgical patients.", "syn": [], "abbr": []}
+{"id": 9110, "term": "Osgood-Schlatter disease", "def": "Inflammation of the tibial tuberosity from overuse in adolescent athletes, causing knee pain below the patella.", "syn": [], "abbr": []}
+{"id": 9111, "skip": "obvious"}
+{"id": 9112, "skip": "not-medical"}
+{"id": 9113, "term": "Kallmann syndrome", "def": "A defect of GnRH neuron migration causing hypogonadotropic hypogonadism and anosmia (absent sense of smell). Low GnRH, LH and FSH lead to delayed puberty.", "syn": ["Kallman syndrome"], "abbr": []}
+{"id": 9114, "term": "Edwards syndrome", "def": "A trisomy 18 disorder causing severe intellectual disability, rocker-bottom feet, clenched fists with overlapping fingers, micrognathia and heart defects. Most infants die within the first year.", "syn": ["Edward syndrome", "trisomy 18"], "abbr": []}
+{"id": 9115, "skip": "fragment"}
+{"id": 9116, "term": "Zellweger syndrome", "def": "A peroxisome biogenesis disorder causing hypotonia, liver dysfunction, craniofacial abnormalities and early death.", "syn": [], "abbr": []}
+{"id": 9117, "term": "Angelman syndrome", "def": "Loss of the maternal UBE3A gene on chromosome 15. Features severe developmental delay, ataxia, seizures and inappropriate laughter.", "syn": [], "abbr": []}
+{"id": 9118, "term": "Brugada syndrome", "def": "An inherited sodium channel disorder with ST elevation in V1-V3 on ECG, causing risk of sudden death from ventricular fibrillation.", "syn": [], "abbr": []}
+{"id": 9119, "skip": "obvious"}
+{"id": 9120, "term": "Denys-Drash syndrome", "def": "WT1 mutation causing early-onset nephropathy, gonadal dysgenesis and Wilms tumor.", "syn": [], "abbr": []}
+{"id": 9121, "skip": "obvious"}
+{"id": 9122, "term": "Berger disease", "def": "IgA nephropathy, with IgA deposition in the glomerular mesangium and hematuria after mucosal infection.", "syn": ["IgA nephropathy"], "abbr": []}
+{"id": 9123, "term": "Von Hippel-Lindau disease", "def": "An autosomal dominant VHL tumor suppressor loss causing hemangioblastomas, renal cell carcinoma and pheochromocytoma.", "syn": [], "abbr": []}
+{"id": 9124, "term": "Wernicke-Korsakoff syndrome", "def": "Thiamine deficiency in alcohol use, with Wernicke encephalopathy (confusion, ataxia, ophthalmoplegia) that may progress to Korsakoff amnesia.", "syn": [], "abbr": []}
+{"id": 9125, "term": "Megaloblastic anemia", "def": "Anemia with large red cells and hypersegmented neutrophils, from impaired DNA synthesis due to folate or vitamin B12 deficiency.", "syn": [], "abbr": []}
+{"id": 9126, "term": "Howell-Jolly bodies", "def": "Remnants of nuclear DNA in red cells, normally removed by the spleen. They suggest asplenia or hyposplenism.", "syn": ["Howell-Jolly body"], "abbr": []}
+{"id": 9127, "skip": "not-medical"}
+{"id": 9128, "term": "Babinski sign", "def": "Upward movement of the great toe with fanning of the other toes on plantar stroking, indicating an upper motor neuron lesion in adults.", "syn": ["Babinski reflex"], "abbr": []}
+{"id": 9129, "term": "Brown-Sequard syndrome", "def": "Spinal cord hemisection causing ipsilateral weakness and loss of vibration and proprioception, and contralateral loss of pain and temperature below the lesion.", "syn": [], "abbr": []}
+{"id": 9130, "term": "Werdnig-Hoffmann disease", "def": "Spinal muscular atrophy type 1, from SMN1 loss causing lower motor neuron degeneration. Presents with floppy infants and tongue fasciculations.", "syn": [], "abbr": []}
+{"id": 9131, "skip": "fragment"}
+{"id": 9132, "term": "Hummingbird sign", "def": "A midbrain atrophy pattern on sagittal MRI, characteristic of progressive supranuclear palsy.", "syn": [], "abbr": []}
+{"id": 9133, "skip": "obvious"}
+{"id": 9134, "term": "Charcot-Marie-Tooth disease", "def": "An inherited peripheral neuropathy causing distal muscle wasting, foot deformities (high arches) and sensory loss, often from PMP22 duplication.", "syn": [], "abbr": []}
+{"id": 9135, "term": "Crigler-Najjar syndrome", "def": "Deficiency of UDP-glucuronosyltransferase causing unconjugated hyperbilirubinemia. Type I is severe with kernicterus.", "syn": [], "abbr": []}
+{"id": 9136, "term": "Dubin-Johnson syndrome", "def": "Benign conjugated hyperbilirubinemia from defective bilirubin excretion (MRP2), with a black liver.", "syn": [], "abbr": []}
+{"id": 9137, "skip": "not-medical"}
+{"id": 9138, "skip": "not-medical"}
+{"id": 9139, "term": "Negri bodies", "def": "Eosinophilic cytoplasmic inclusions in neurons, found in rabies.", "syn": ["Negri body"], "abbr": []}
+{"id": 9140, "term": "Prehn sign", "def": "Relief of testicular pain on elevating the scrotum, suggesting epididymitis rather than torsion.", "syn": [], "abbr": []}
+{"id": 9141, "skip": "obvious"}
+{"id": 9142, "skip": "not-medical"}
+{"id": 9143, "skip": "fragment"}
+{"id": 9144, "term": "Call-Exner bodies", "def": "Small follicle-like structures with eosinophilic fluid seen in granulosa cell tumors.", "syn": ["Call-Exner body"], "abbr": []}
+{"id": 9145, "skip": "obvious"}
+{"id": 9146, "term": "Prader-Willi syndrome", "def": "Loss of the paternal chromosome 15q11-q13 region. Features hypotonia, hyperphagia with obesity, hypogonadism and intellectual disability.", "syn": [], "abbr": []}
+{"id": 9147, "term": "Jervell and Lange-Nielsen syndrome", "def": "Autosomal recessive long QT syndrome with congenital sensorineural deafness.", "syn": [], "abbr": []}
+{"id": 9148, "term": "Romano-Ward syndrome", "def": "Autosomal dominant long QT syndrome without deafness, predisposing to torsades de pointes.", "syn": [], "abbr": []}
+{"id": 9149, "term": "Club cells", "def": "Nonciliated bronchiolar cells that secrete protective proteins, detoxify substances and serve as progenitor cells.", "syn": ["Clara cells", "club cell"], "abbr": []}
+{"id": 9150, "term": "Pancoast tumor", "def": "A lung apex tumor that compresses the sympathetic chain and brachial plexus, causing Horner syndrome and arm pain.", "syn": [], "abbr": []}
+{"id": 9151, "skip": "not-medical"}
+{"id": 9152, "term": "Mast cells", "def": "Tissue cells containing histamine granules that mediate type I hypersensitivity reactions via IgE.", "syn": ["mast cell"], "abbr": []}
+{"id": 9153, "term": "Bell palsy", "def": "Idiopathic acute facial nerve (CN VII) paralysis affecting the upper and lower face on one side. Usually resolves, and is treated with steroids.", "syn": ["Bell's palsy"], "abbr": []}
+{"id": 9154, "term": "Wernicke aphasia", "def": "Fluent but meaningless speech with poor comprehension and repetition, from a lesion of Wernicke area.", "syn": [], "abbr": []}
+{"id": 9155, "term": "Conduction aphasia", "def": "Impaired repetition with fluent speech and intact comprehension, from lesion of the arcuate fasciculus.", "syn": [], "abbr": []}
+{"id": 9156, "term": "Global aphasia", "def": "Loss of both language production and comprehension, from a large left hemisphere lesion.", "syn": [], "abbr": []}
+{"id": 9157, "term": "Pick disease", "def": "Frontotemporal dementia with Pick bodies and frontotemporal atrophy, causing personality change and disinhibition.", "syn": [], "abbr": []}
+{"id": 9158, "skip": "obvious"}
+{"id": 9159, "term": "Meckel diverticulum", "def": "A remnant of the vitelline duct forming a pouch in the ileum. May contain ectopic gastric tissue and cause painless bleeding.", "syn": ["Meckel's diverticulum"], "abbr": []}
+{"id": 9160, "term": "Peutz-Jeghers syndrome", "def": "Autosomal dominant STK11 mutation with hamartomatous gastrointestinal polyps and mucocutaneous hyperpigmentation, with increased cancer risk.", "syn": [], "abbr": []}
+{"id": 9161, "term": "Trousseau syndrome", "def": "Migratory venous thrombosis (thrombophlebitis) as a paraneoplastic sign, classically with pancreatic cancer and other adenocarcinomas.", "syn": [], "abbr": []}
+{"id": 9162, "skip": "not-medical"}
+{"id": 9163, "skip": "not-medical"}
+{"id": 9164, "term": "Munchausen syndrome", "def": "A factitious disorder where a person falsifies illness to gain medical attention.", "syn": ["Munchausen"], "abbr": []}
+{"id": 9165, "term": "Rotor syndrome", "def": "Benign conjugated hyperbilirubinemia with a normal liver, similar to Dubin-Johnson syndrome.", "syn": [], "abbr": []}
+{"id": 9166, "term": "Job syndrome", "def": "Hyper-IgE syndrome with recurrent staphylococcal skin abscesses, coarse facies, retained baby teeth and eczema, from impaired TH17 cells.", "syn": ["hyper-IgE syndrome"], "abbr": []}
+{"id": 9167, "term": "Antiphospholipid syndrome", "def": "An autoimmune disease with arterial and venous clots and recurrent miscarriage, due to antiphospholipid antibodies.", "syn": [], "abbr": []}
+{"id": 9168, "term": "Li-Fraumeni syndrome", "def": "Autosomal dominant germline TP53 mutation predisposing to sarcomas, breast cancer, brain tumors and leukemia.", "syn": [], "abbr": []}
+{"id": 9169, "skip": "obvious"}
+{"id": 9170, "term": "Compartment syndrome", "def": "Raised pressure within a closed muscle compartment compromising perfusion. Presents with pain on passive stretch, tense swelling and paresthesia.", "syn": [], "abbr": []}
+{"id": 9171, "term": "Wells score", "def": "A clinical prediction rule estimating the probability of pulmonary embolism or deep vein thrombosis.", "syn": ["Wells criteria"], "abbr": []}
+{"id": 9172, "term": "Bornholm disease", "def": "Epidemic pleurodynia caused by coxsackie B virus, with sudden severe chest or abdominal pain and fever.", "syn": ["epidemic pleurodynia"], "abbr": []}
+{"id": 9173, "term": "Beers criteria", "def": "A list of medications potentially harmful in older adults, used to guide prescribing.", "syn": [], "abbr": []}
+{"id": 9174, "term": "Fitz-Hugh-Curtis syndrome", "def": "Perihepatitis from pelvic inflammatory disease (chlamydia, gonorrhea), causing right upper quadrant pain with violin-string adhesions.", "syn": [], "abbr": []}
+{"id": 9175, "term": "Conn syndrome", "def": "Primary hyperaldosteronism, usually from an adrenal adenoma. Causes hypertension, hypokalemia and metabolic alkalosis with low renin.", "syn": [], "abbr": []}
+{"id": 9176, "skip": "obvious"}
+{"id": 9177, "term": "Sertoli cell", "def": "Cells lining the seminiferous tubules that nurture developing sperm cells, secrete inhibin and anti-Mullerian hormone, and form the blood-testis barrier. They respond to FSH.", "syn": ["Sertoli cells"], "abbr": []}
+{"id": 9178, "term": "Foam cells", "def": "Lipid-laden macrophages with a bubbly cytoplasm, seen in atherosclerotic plaques and lipid storage diseases.", "syn": ["foam cell"], "abbr": []}
+{"id": 9179, "term": "Kallmann syndrome", "def": "A defect of GnRH neuron migration causing hypogonadotropic hypogonadism and anosmia (absent sense of smell). Low GnRH, LH and FSH lead to delayed puberty.", "syn": ["Kallman syndrome"], "abbr": []}
+{"id": 9180, "term": "Barr body", "def": "An inactivated X chromosome seen as a dense mass in the nucleus of female cells.", "syn": ["Barr bodies"], "abbr": []}
+{"id": 9181, "term": "Serotonin syndrome", "def": "Excess serotonergic activity (e.g., from SSRIs with MAOIs) causing hyperthermia, clonus, hyperreflexia, agitation and diarrhea.", "syn": [], "abbr": []}
+{"id": 9182, "term": "Osler nodes", "def": "Painful, raised nodules on the finger or toe pads in infective endocarditis, from immune complex deposition.", "syn": ["Osler node"], "abbr": []}
+{"id": 9183, "term": "Samter triad", "def": "Aspirin-exacerbated respiratory disease: asthma, nasal polyps and aspirin sensitivity.", "syn": [], "abbr": []}
+{"id": 9184, "term": "Weibel-Palade bodies", "def": "Storage granules in endothelial cells holding von Willebrand factor and P-selectin.", "syn": ["Weibel-Palade body"], "abbr": []}
+{"id": 9185, "skip": "fragment"}
+{"id": 9186, "term": "Hers disease", "def": "Glycogen storage disease type VI from liver glycogen phosphorylase deficiency, with mild fasting hypoglycemia and hepatomegaly.", "syn": [], "abbr": []}
+{"id": 9187, "skip": "fragment"}
+{"id": 9188, "term": "Plasma cells", "def": "Antibody-secreting cells derived from B cells, with an eccentric nucleus and clock-face chromatin. They proliferate in multiple myeloma.", "syn": ["plasma cell"], "abbr": []}
+{"id": 9189, "term": "Babinski sign", "def": "Upward movement of the great toe with fanning of the other toes on plantar stroking, indicating an upper motor neuron lesion in adults.", "syn": ["Babinski reflex"], "abbr": []}
+{"id": 9190, "skip": "fragment"}
+{"id": 9191, "skip": "obvious"}
+{"id": 9192, "skip": "fragment"}
+{"id": 9193, "skip": "fragment"}
+{"id": 9194, "term": "Broca aphasia", "def": "Nonfluent speech with intact comprehension and impaired repetition, from lesion of Broca area.", "syn": ["Broca's aphasia"], "abbr": []}
+{"id": 9195, "skip": "fragment"}
+{"id": 9196, "term": "Osler-Weber-Rendu syndrome", "def": "Hereditary hemorrhagic telangiectasia, an autosomal dominant disease with mucocutaneous telangiectasias, recurrent nosebleeds and arteriovenous malformations.", "syn": ["hereditary hemorrhagic telangiectasia"], "abbr": ["HHT"]}
+{"id": 9197, "term": "Courvoisier sign", "def": "A palpable, nontender gallbladder with jaundice, suggesting malignant bile duct obstruction such as pancreatic head cancer.", "syn": [], "abbr": []}
+{"id": 9198, "skip": "obvious"}
+{"id": 9199, "term": "Hepatorenal syndrome", "def": "Functional kidney failure in advanced liver disease with ascites, from renal vasoconstriction. The kidneys are histologically normal.", "syn": [], "abbr": []}
+{"id": 9200, "term": "Femoral hernia", "def": "A hernia through the femoral canal below the inguinal ligament, more common in women, with a high risk of strangulation.", "syn": [], "abbr": []}
+{"id": 9201, "term": "Good syndrome", "def": "Thymoma with hypogammaglobulinemia, leading to recurrent infections.", "syn": [], "abbr": []}
+{"id": 9202, "term": "T helper cells", "def": "CD4-positive T lymphocytes that coordinate immune responses by secreting cytokines. They include Th1, Th2 and Th17 subsets.", "syn": ["Th cells"], "abbr": []}
+{"id": 9203, "term": "Raynaud phenomenon", "def": "Episodic vasospasm of the fingers or toes causing white, then blue, then red color changes with cold. Secondary forms are linked to scleroderma and lupus.", "syn": ["Raynaud's phenomenon"], "abbr": []}
+{"id": 9204, "skip": "obvious"}
+{"id": 9205, "term": "Wells score", "def": "A clinical prediction rule estimating the probability of pulmonary embolism or deep vein thrombosis.", "syn": ["Wells criteria"], "abbr": []}
+{"id": 9206, "skip": "fragment"}
+{"id": 9207, "skip": "not-medical"}
+{"id": 9208, "skip": "obvious"}
+{"id": 9209, "skip": "fragment"}
+{"id": 9210, "skip": "fragment"}
+{"id": 9211, "term": "Cowdry bodies", "def": "Intranuclear viral inclusions seen in herpesvirus infections (HSV, VZV, CMV).", "syn": ["Cowdry body"], "abbr": []}
+{"id": 9212, "term": "Marjolin ulcer", "def": "A squamous cell carcinoma arising in a chronic wound, burn scar or sinus tract.", "syn": [], "abbr": []}
+{"id": 9213, "term": "Koplik spots", "def": "Small white spots on the buccal mucosa, an early sign of measles.", "syn": ["Koplik spot"], "abbr": []}
+{"id": 9214, "skip": "obvious"}
+{"id": 9215, "skip": "obvious"}
+{"id": 9216, "term": "Bloom syndrome", "def": "Autosomal recessive DNA helicase (BLM) defect causing short stature, sun-sensitive facial rash and increased cancers.", "syn": [], "abbr": []}
+{"id": 9217, "skip": "obvious"}
+{"id": 9218, "term": "Rathke pouch", "def": "An embryonic outpouching of the oral ectoderm that forms the anterior pituitary (adenohypophysis). Remnants can give rise to craniopharyngioma.", "syn": ["Rathke's pouch"], "abbr": []}
+{"id": 9219, "skip": "not-medical"}
+{"id": 9220, "term": "Chvostek sign", "def": "Facial twitching when the facial nerve is tapped in front of the ear, a sign of hypocalcemia.", "syn": ["Chvostek's sign"], "abbr": []}
+{"id": 9221, "term": "Trousseau sign", "def": "Carpal spasm induced by inflating a blood pressure cuff above systolic pressure for minutes, indicating hypocalcemia.", "syn": ["Trousseau's sign"], "abbr": []}
+{"id": 9222, "term": "Kimmelstiel-Wilson nodules", "def": "Nodular glomerulosclerosis from diabetic nephropathy, with mesangial matrix expansion in the glomeruli.", "syn": ["Kimmelstiel-Wilson lesions"], "abbr": []}
+{"id": 9223, "term": "Waterhouse-Friderichsen syndrome", "def": "Acute adrenal failure from bilateral adrenal hemorrhage, classically in meningococcal sepsis.", "syn": [], "abbr": []}
+{"id": 9224, "term": "Nelson syndrome", "def": "Growth of an ACTH-secreting pituitary tumor after bilateral adrenalectomy for Cushing disease, with hyperpigmentation.", "syn": [], "abbr": []}
+{"id": 9225, "term": "Laron syndrome", "def": "Growth hormone insensitivity from a GH receptor mutation. Short stature with high GH and low IGF-1.", "syn": [], "abbr": []}
+{"id": 9226, "term": "Bowen disease", "def": "Squamous cell carcinoma in situ of the skin, presenting as a scaly red plaque.", "syn": ["Bowen's disease"], "abbr": []}
+{"id": 9227, "term": "Phyllodes tumor", "def": "A fibroepithelial breast tumor with leaf-like projections and a cellular stroma, usually benign but may recur.", "syn": ["phyllodes tumour"], "abbr": []}
+{"id": 9228, "skip": "fragment"}
+{"id": 9229, "term": "Barr bodies", "def": "Inactivated X chromosomes seen as dense nuclear masses in female cells.", "syn": ["Barr body"], "abbr": []}
+{"id": 9230, "term": "Williams syndrome", "def": "A 7q11.23 deletion including elastin. Features elfin facies, supravalvular aortic stenosis, hypercalcemia and an outgoing personality.", "syn": [], "abbr": []}
+{"id": 9231, "term": "Cushing reflex", "def": "Hypertension, bradycardia and irregular breathing in response to raised intracranial pressure.", "syn": ["Cushing triad"], "abbr": []}
+{"id": 9232, "term": "Dead space", "def": "Ventilated lung volume that does not take part in gas exchange. Anatomic dead space is the conducting airways; physiologic dead space adds ventilated but unperfused alveoli.", "syn": [], "abbr": []}
+{"id": 9233, "term": "Carcinoid tumor", "def": "A neuroendocrine tumor, most often in the small bowel or lung, that secretes serotonin. Causes carcinoid syndrome after liver metastasis.", "syn": [], "abbr": []}
+{"id": 9234, "term": "Club cells", "def": "Nonciliated bronchiolar cells that secrete protective proteins and serve as progenitors.", "syn": ["Clara cell", "Clara cells"], "abbr": []}
+{"id": 9235, "skip": "fragment"}
+{"id": 9236, "skip": "obvious"}
+{"id": 9237, "term": "Target cells", "def": "Red cells with a central dark spot surrounded by a pale ring, seen in thalassemia, liver disease and hemoglobin C disease.", "syn": ["target cell"], "abbr": []}
+{"id": 9238, "term": "Pernicious anemia", "def": "Vitamin B12 deficiency anemia from autoimmune loss of intrinsic factor, causing megaloblastic anemia and neurologic symptoms.", "syn": [], "abbr": []}
+{"id": 9239, "skip": "not-medical"}
+{"id": 9240, "term": "Babinski sign", "def": "Upward movement of the great toe with fanning of the other toes on plantar stroking, indicating an upper motor neuron lesion in adults.", "syn": ["Babinski reflex"], "abbr": []}
+{"id": 9241, "term": "Romberg sign", "def": "Loss of balance when standing with feet together and eyes closed, indicating a proprioceptive (dorsal column) or vestibular deficit.", "syn": ["Romberg test"], "abbr": []}
+{"id": 9242, "skip": "ambiguous"}
+{"id": 9243, "skip": "obvious"}
+{"id": 9244, "term": "Letterer-Siwe disease", "def": "The acute disseminated form of Langerhans cell histiocytosis in infants, with rash, organ involvement and fever.", "syn": [], "abbr": []}
+{"id": 9245, "skip": "fragment"}
+{"id": 9246, "skip": "not-medical"}
+{"id": 9247, "skip": "fragment"}
+{"id": 9248, "term": "Aphthous ulcers", "def": "Painful, shallow oral ulcers with a yellow base and red halo; recurrent canker sores.", "syn": ["aphthous ulcer"], "abbr": []}
+{"id": 9249, "term": "Gardner syndrome", "def": "Familial adenomatous polyposis with osteomas, soft tissue tumors and dental abnormalities. APC gene mutation.", "syn": [], "abbr": []}

@@ -1,0 +1,250 @@
+{"id": 0, "skip": "obvious"}
+{"id": 1, "skip": "obvious"}
+{"id": 2, "skip": "obvious"}
+{"id": 3, "skip": "obvious"}
+{"id": 4, "skip": "obvious"}
+{"id": 5, "skip": "obvious"}
+{"id": 6, "skip": "obvious"}
+{"id": 7, "skip": "obvious"}
+{"id": 8, "skip": "obvious"}
+{"id": 9, "skip": "obvious"}
+{"id": 10, "skip": "wrong-sense"}
+{"id": 11, "skip": "obvious"}
+{"id": 12, "skip": "obvious"}
+{"id": 13, "skip": "obvious"}
+{"id": 14, "skip": "obvious"}
+{"id": 15, "skip": "obvious"}
+{"id": 16, "skip": "obvious"}
+{"id": 17, "skip": "obvious"}
+{"id": 18, "skip": "obvious"}
+{"id": 19, "skip": "obvious"}
+{"id": 20, "skip": "obvious"}
+{"id": 21, "skip": "obvious"}
+{"id": 22, "term": "Carcinoma", "def": "A malignant tumor arising from epithelial cells, the cells lining skin, glands and organ surfaces. Most common solid cancers are carcinomas, such as adenocarcinoma (glandular) and squamous cell carcinoma.", "syn": ["carcinomas", "anaplastic carcinoma"], "abbr": []}
+{"id": 23, "skip": "obvious"}
+{"id": 24, "skip": "obvious"}
+{"id": 25, "skip": "obvious"}
+{"id": 26, "skip": "wrong-sense"}
+{"id": 27, "skip": "obvious"}
+{"id": 28, "skip": "obvious"}
+{"id": 29, "skip": "obvious"}
+{"id": 30, "skip": "obvious"}
+{"id": 31, "skip": "obvious"}
+{"id": 32, "term": "Serum", "def": "The clear, straw-colored fluid left after blood has clotted. It lacks cells and clotting factors such as fibrinogen, unlike plasma, and is what most blood chemistry and antibody tests measure.", "syn": ["serum blood"], "abbr": []}
+{"id": 33, "skip": "not-medical"}
+{"id": 34, "skip": "obvious"}
+{"id": 35, "skip": "obvious"}
+{"id": 36, "skip": "obvious"}
+{"id": 37, "skip": "obvious"}
+{"id": 38, "skip": "obvious"}
+{"id": 39, "skip": "obvious"}
+{"id": 40, "skip": "obvious"}
+{"id": 41, "skip": "obvious"}
+{"id": 42, "skip": "obvious"}
+{"id": 43, "skip": "obvious"}
+{"id": 44, "skip": "obvious"}
+{"id": 45, "skip": "obvious"}
+{"id": 46, "skip": "wrong-sense"}
+{"id": 47, "skip": "obvious"}
+{"id": 48, "term": "Edema", "def": "Excess fluid collecting in the tissue spaces, causing swelling. Arises from raised capillary pressure, low plasma albumin, leaky vessels or lymphatic blockage. Hydrops and anasarca describe fetal or generalized, severe forms.", "syn": ["hydrops", "anasarca"], "abbr": []}
+{"id": 49, "skip": "obvious"}
+{"id": 50, "skip": "obvious"}
+{"id": 51, "skip": "obvious"}
+{"id": 52, "term": "Fibrosis", "def": "Replacement of normal tissue by excess collagen-rich scar tissue after chronic injury or inflammation, stiffening the organ and impairing function. Cirrhosis of the liver is the end-stage example.", "syn": [], "abbr": []}
+{"id": 53, "term": "Mutation", "def": "A permanent change in the DNA sequence of a gene. Types include point mutations (silent, missense, nonsense), insertions or deletions that cause frameshifts, and larger rearrangements.", "syn": ["mutations"], "abbr": []}
+{"id": 54, "skip": "obvious"}
+{"id": 55, "term": "Necrosis", "def": "Accidental, uncontrolled cell death from injury such as ischemia or toxins, in which cells swell and burst and spill their contents, provoking inflammation. Types include coagulative, liquefactive, caseous, fat and fibrinoid.", "syn": [], "abbr": []}
+{"id": 56, "skip": "obvious"}
+{"id": 57, "skip": "obvious"}
+{"id": 58, "skip": "obvious"}
+{"id": 59, "skip": "obvious"}
+{"id": 60, "skip": "obvious"}
+{"id": 61, "skip": "obvious"}
+{"id": 62, "skip": "obvious"}
+{"id": 63, "skip": "obvious"}
+{"id": 64, "skip": "obvious"}
+{"id": 65, "skip": "obvious"}
+{"id": 66, "skip": "obvious"}
+{"id": 67, "skip": "obvious"}
+{"id": 68, "skip": "obvious"}
+{"id": 69, "term": "Exanthem", "def": "A widespread skin rash, typically accompanying an infection, especially a viral illness such as measles, rubella or roseola. The mucosal counterpart is called an enanthem.", "syn": ["exanthema", "exanthems", "exanthemata"], "abbr": []}
+{"id": 70, "skip": "obvious"}
+{"id": 71, "term": "Estrogens", "def": "Female sex hormones, such as estradiol, made mainly by the ovaries. They drive breast and uterine development, secondary sex characteristics and bone maintenance.", "syn": ["estrogen"], "abbr": []}
+{"id": 72, "term": "Stenosis", "def": "Abnormal narrowing of a tube or opening in the body, such as a valve, vessel or duct. It obstructs flow, as in aortic stenosis or pyloric stenosis. A stricture is a narrowing from scarring.", "syn": ["stenoses", "stricture", "strictures"], "abbr": []}
+{"id": 73, "skip": "obvious"}
+{"id": 74, "skip": "obvious"}
+{"id": 75, "skip": "obvious"}
+{"id": 76, "skip": "obvious"}
+{"id": 77, "term": "T cells", "def": "Lymphocytes that mature in the thymus and run cell-mediated immunity. CD4 helper cells coordinate other immune cells, CD8 cytotoxic cells kill infected or tumor cells, and regulatory T cells suppress responses.", "syn": ["t-cell", "t-cells", "t cell", "t lymphocytes"], "abbr": []}
+{"id": 78, "skip": "obvious"}
+{"id": 79, "skip": "obvious"}
+{"id": 80, "skip": "obvious"}
+{"id": 81, "term": "Oxidoreductase", "def": "An enzyme that moves electrons between molecules, oxidizing one substrate while reducing another. Dehydrogenases, oxidases and reductases belong here and typically use cofactors such as NAD+ or FAD.", "syn": ["oxidoreductases", "dehydrogenase", "dehydrogenases", "reductase", "reductases", "oxidase", "oxidases"], "abbr": []}
+{"id": 82, "term": "Lymphoma", "def": "A cancer of lymphocytes that usually forms solid masses in lymph nodes or other lymphoid tissue. The two main groups are Hodgkin lymphoma, with Reed-Sternberg cells, and the more varied non-Hodgkin lymphomas.", "syn": ["lymphomas"], "abbr": []}
+{"id": 83, "skip": "obvious"}
+{"id": 84, "skip": "obvious"}
+{"id": 85, "skip": "obvious"}
+{"id": 86, "skip": "not-medical"}
+{"id": 87, "term": "Ischemia", "def": "Inadequate blood supply to a tissue, leaving it short of oxygen and nutrients and unable to clear waste. Reversible at first, but prolonged ischemia leads to infarction (tissue death).", "syn": [], "abbr": []}
+{"id": 88, "skip": "obvious"}
+{"id": 89, "term": "Heart failure", "def": "The heart cannot pump enough blood to meet the body's needs, or does so only at high filling pressures. Left-sided failure causes pulmonary congestion; right-sided failure causes peripheral edema and jugular venous distension.", "syn": ["congestive heart failure", "right-sided heart failure", "left-sided heart failure", "cardiac failure"], "abbr": ["CHF"]}
+{"id": 90, "term": "Shock", "def": "Life-threatening failure of circulation to deliver enough oxygen to the tissues, causing organ damage. Main types are hypovolemic, cardiogenic, obstructive and distributive (septic, anaphylactic, neurogenic).", "syn": ["hypovolemic shock", "circulatory collapse"], "abbr": []}
+{"id": 91, "skip": "obvious"}
+{"id": 92, "term": "Platelets", "def": "Small cell fragments from megakaryocytes that circulate in blood, stick to damaged vessel walls and clump to form the initial plug in clotting. Low counts cause bleeding from mucous membranes and skin.", "syn": ["platelet", "thrombocytes", "thrombocyte"], "abbr": []}
+{"id": 93, "skip": "obvious"}
+{"id": 94, "skip": "obvious"}
+{"id": 95, "term": "Nephron", "def": "The functional unit of the kidney, made of a glomerulus that filters blood and a tubule that reabsorbs and secretes substances to form urine. Each kidney has about a million.", "syn": ["nephrons"], "abbr": []}
+{"id": 96, "skip": "obvious"}
+{"id": 97, "skip": "obvious"}
+{"id": 98, "skip": "obvious"}
+{"id": 99, "term": "Acidosis", "def": "Abnormally high acidity of the blood, with pH below 7.35. Metabolic acidosis comes from acid gain or bicarbonate loss; respiratory acidosis comes from retained CO2.", "syn": ["metabolic acidosis"], "abbr": []}
+{"id": 100, "skip": "obvious"}
+{"id": 101, "term": "Macrophage", "def": "A large phagocytic cell derived from monocytes that lives in tissues, engulfs microbes and debris, presents antigens to T cells, and secretes cytokines such as IL-1 and TNF-alpha.", "syn": ["macrophages"], "abbr": []}
+{"id": 102, "skip": "obvious"}
+{"id": 103, "skip": "obvious"}
+{"id": 104, "skip": "obvious"}
+{"id": 105, "skip": "obvious"}
+{"id": 106, "term": "Nonsteroidal anti-inflammatory drugs", "def": "Drugs such as ibuprofen and naproxen that block cyclooxygenase (COX) and so reduce prostaglandin production, easing pain, fever and inflammation. Side effects include gastric ulcers and kidney injury.", "syn": ["nsaid", "non-steroidal anti-inflammatory drugs"], "abbr": ["NSAIDs", "NSAID"]}
+{"id": 107, "skip": "obvious"}
+{"id": 108, "skip": "wrong-sense"}
+{"id": 109, "skip": "obvious"}
+{"id": 110, "skip": "obvious"}
+{"id": 111, "skip": "obvious"}
+{"id": 112, "skip": "obvious"}
+{"id": 113, "skip": "obvious"}
+{"id": 114, "term": "Hepatitis", "def": "Inflammation of the liver, most often from viruses (A through E), alcohol, drugs or autoimmunity. Presents with jaundice and elevated liver enzymes (AST, ALT).", "syn": [], "abbr": []}
+{"id": 115, "term": "Antigen", "def": "Any molecule that an antibody or T-cell receptor can recognize and bind, usually a protein or polysaccharide on a pathogen, toxin or cell. An immunogen is one that triggers an immune response.", "syn": ["antigens"], "abbr": []}
+{"id": 116, "term": "Hyperplasia", "def": "An increase in the number of cells in a tissue, which enlarges the organ. Can be physiologic (breast in pregnancy) or pathologic (endometrial hyperplasia from excess estrogen), and is reversible when the stimulus stops.", "syn": ["hyperplasias"], "abbr": []}
+{"id": 117, "skip": "obvious"}
+{"id": 118, "term": "Lymph", "def": "Clear fluid that drains from tissue spaces into lymphatic vessels, carrying proteins, immune cells and absorbed fats (chyle from the gut). It passes through lymph nodes before returning to the blood.", "syn": [], "abbr": []}
+{"id": 119, "skip": "obvious"}
+{"id": 120, "skip": "obvious"}
+{"id": 121, "skip": "obvious"}
+{"id": 122, "term": "Thrombosis", "def": "Formation of a blood clot (thrombus) inside a blood vessel, which can block flow locally or break off as an embolus. Predisposed by stasis, endothelial injury and hypercoagulability (Virchow triad).", "syn": ["thrombus", "thrombi"], "abbr": []}
+{"id": 123, "skip": "obvious"}
+{"id": 124, "term": "Hypoxia", "def": "Insufficient oxygen supply to tissues. Causes include low arterial oxygen, anemia, poor blood flow or impaired cellular use of oxygen, as in cyanide poisoning.", "syn": ["anoxia"], "abbr": []}
+{"id": 125, "skip": "obvious"}
+{"id": 126, "skip": "obvious"}
+{"id": 127, "skip": "obvious"}
+{"id": 128, "term": "Lymph node", "def": "A small bean-shaped organ along lymphatic channels that filters lymph and houses B and T cells. Nodes enlarge during infection and when cancer spreads to them.", "syn": ["lymph nodes"], "abbr": []}
+{"id": 129, "term": "Glucocorticoids", "def": "Steroid hormones, mainly cortisol, from the adrenal cortex that raise blood glucose, suppress inflammation and immune activity, and mediate the stress response. Drugs like prednisone and dexamethasone mimic them.", "syn": ["glucocorticoid"], "abbr": []}
+{"id": 130, "skip": "obvious"}
+{"id": 131, "skip": "obvious"}
+{"id": 132, "term": "Hypersensitivity", "def": "An exaggerated or inappropriate immune response that damages the host. Classified as type I (IgE-mediated allergy), II (antibody against cells), III (immune complexes) and IV (T cell-mediated, delayed).", "syn": ["allergy", "allergies", "allergic reactions", "allergic reaction"], "abbr": []}
+{"id": 133, "term": "Tachycardia", "def": "A heart rate above 100 beats per minute at rest. May be a normal response to exercise or fever, or reflect an arrhythmia such as supraventricular or ventricular tachycardia.", "syn": ["tachyarrhythmia", "tachyarrhythmias", "tachycardias"], "abbr": []}
+{"id": 134, "term": "Adenocarcinoma", "def": "A malignant tumor of glandular epithelium, forming gland-like structures. Common in the lung, colon, breast, prostate and pancreas.", "syn": ["adenocarcinomas"], "abbr": []}
+{"id": 135, "skip": "obvious"}
+{"id": 136, "term": "Infarction", "def": "Death of tissue caused by loss of blood supply, usually from arterial blockage. Examples are myocardial infarction (heart attack) and cerebral infarction (ischemic stroke).", "syn": ["infarct", "infarcts", "infarctions"], "abbr": []}
+{"id": 137, "term": "Diuretics", "def": "Drugs that increase urine output by reducing sodium and water reabsorption in the kidney. Loop, thiazide, potassium-sparing and osmotic diuretics are used for edema, heart failure and hypertension.", "syn": ["diuretic"], "abbr": []}
+{"id": 138, "skip": "obvious"}
+{"id": 139, "skip": "obvious"}
+{"id": 140, "skip": "obvious"}
+{"id": 141, "term": "Mucosa", "def": "The moist inner lining of hollow organs such as the gut, airways and urinary tract, made of epithelium, an underlying connective layer (lamina propria) and often a thin muscle layer. It secretes mucus.", "syn": ["mucous membrane", "mucous membranes"], "abbr": []}
+{"id": 142, "skip": "obvious"}
+{"id": 143, "skip": "obvious"}
+{"id": 144, "skip": "obvious"}
+{"id": 145, "skip": "obvious"}
+{"id": 146, "skip": "obvious"}
+{"id": 147, "term": "Leukemia", "def": "A cancer of blood-forming cells in the bone marrow, in which abnormal white cells crowd out normal blood production and spill into the blood. Main types are ALL, AML, CLL and CML.", "syn": ["leukemias"], "abbr": []}
+{"id": 148, "skip": "obvious"}
+{"id": 149, "term": "Atrophy", "def": "Shrinkage of a tissue or organ from loss of cell size or number, due to disuse, denervation, poor blood supply, malnutrition or lack of hormonal stimulation.", "syn": [], "abbr": []}
+{"id": 150, "skip": "obvious"}
+{"id": 151, "skip": "obvious"}
+{"id": 152, "skip": "obvious"}
+{"id": 153, "skip": "obvious"}
+{"id": 154, "skip": "obvious"}
+{"id": 155, "skip": "obvious"}
+{"id": 156, "skip": "obvious"}
+{"id": 157, "skip": "not-medical"}
+{"id": 158, "skip": "obvious"}
+{"id": 159, "skip": "obvious"}
+{"id": 160, "term": "Thrombocytopenia", "def": "A low platelet count, below about 150,000 per microliter. Causes bleeding of the skin and mucous membranes (petechiae); seen in ITP, DIC, TTP and heparin-induced thrombocytopenia.", "syn": [], "abbr": []}
+{"id": 161, "skip": "obvious"}
+{"id": 162, "term": "Neutrophil", "def": "The most abundant white blood cell, with a multilobed nucleus. It is the first responder to bacterial infection and phagocytoses microbes. Raised in acute bacterial infection.", "syn": ["neutrophils"], "abbr": []}
+{"id": 163, "term": "Antipsychotics", "def": "Drugs that treat psychosis, as in schizophrenia, mainly by blocking dopamine D2 receptors. First-generation agents (haloperidol) cause extrapyramidal side effects; second-generation agents (olanzapine) cause weight gain.", "syn": ["antipsychotic", "neuroleptic", "neuroleptics", "antipsychotic drugs"], "abbr": []}
+{"id": 164, "term": "Dyspnea", "def": "The sensation of difficult or uncomfortable breathing, or shortness of breath. A common symptom of heart failure, lung disease, anemia and anxiety.", "syn": [], "abbr": []}
+{"id": 165, "skip": "obvious"}
+{"id": 166, "term": "Kinase", "def": "An enzyme that transfers a phosphate group from ATP to another molecule, switching proteins on or off. Kinases drive signaling; examples include tyrosine kinases and hexokinase.", "syn": ["kinases", "phosphotransferase", "phosphotransferases"], "abbr": []}
+{"id": 167, "term": "Sclerosis", "def": "Pathologic hardening of a tissue, usually from excess connective tissue or scarring. Seen in atherosclerosis, systemic sclerosis (scleroderma) and multiple sclerosis.", "syn": [], "abbr": []}
+{"id": 168, "skip": "obvious"}
+{"id": 169, "term": "Sensitivity and specificity", "def": "Measures of a diagnostic test. Sensitivity is the fraction of people with the disease who test positive; specificity is the fraction of people without it who test negative.", "syn": [], "abbr": []}
+{"id": 170, "term": "Lymphadenopathy", "def": "Enlargement of lymph nodes, felt as swollen glands. Usually reactive to infection, but can reflect lymphoma, metastasis or autoimmune disease.", "syn": ["adenopathy"], "abbr": []}
+{"id": 171, "term": "Cardiomyopathy", "def": "Disease of the heart muscle itself, not caused by valve, coronary or congenital defects. Main forms are dilated, hypertrophic and restrictive, and they can lead to heart failure or arrhythmia.", "syn": ["cardiomyopathies"], "abbr": []}
+{"id": 172, "term": "Streptococcus", "def": "A genus of gram-positive cocci that grow in chains and are catalase negative. Classified by hemolysis and Lancefield group, including S. pyogenes (group A), S. agalactiae (group B) and S. pneumoniae.", "syn": ["streptococci", "streptococcal"], "abbr": []}
+{"id": 173, "skip": "obvious"}
+{"id": 174, "skip": "obvious"}
+{"id": 175, "skip": "obvious"}
+{"id": 176, "skip": "obvious"}
+{"id": 177, "term": "Lymphocyte", "def": "A white blood cell of adaptive immunity, comprising B cells, T cells and natural killer cells. Lymphocytes have a large round nucleus with little cytoplasm.", "syn": ["lymphocytes", "lymphoid cells"], "abbr": []}
+{"id": 178, "skip": "obvious"}
+{"id": 179, "skip": "obvious"}
+{"id": 180, "skip": "wrong-sense"}
+{"id": 181, "skip": "obvious"}
+{"id": 182, "term": "Aldosterone", "def": "A steroid hormone from the adrenal zona glomerulosa that makes the kidney retain sodium and water and excrete potassium and hydrogen ions. Released in response to angiotensin II and high potassium.", "syn": [], "abbr": []}
+{"id": 183, "term": "Androgens", "def": "Male sex hormones, such as testosterone and dihydrotestosterone, that drive male sexual development and traits. Also made in small amounts by the adrenal glands and ovaries.", "syn": ["androgen"], "abbr": []}
+{"id": 184, "skip": "obvious"}
+{"id": 185, "term": "Pancreatitis", "def": "Inflammation of the pancreas, from digestive enzymes activating inside it. Acute cases usually follow gallstones or alcohol and cause severe epigastric pain with high lipase and amylase.", "syn": ["acute pancreatitis", "pancreatitis acute"], "abbr": []}
+{"id": 186, "skip": "not-medical"}
+{"id": 187, "skip": "obvious"}
+{"id": 188, "skip": "obvious"}
+{"id": 189, "skip": "obvious"}
+{"id": 190, "skip": "not-medical"}
+{"id": 191, "term": "Cortisol", "def": "The main glucocorticoid hormone, made by the adrenal cortex. It raises blood glucose, suppresses inflammation and rises under stress. Hydrocortisone is its drug form.", "syn": ["hydrocortisone"], "abbr": []}
+{"id": 192, "skip": "obvious"}
+{"id": 193, "term": "Arteriole", "def": "A small artery leading into the capillaries. Its muscular wall is the main site of vascular resistance, so arterioles regulate blood pressure and tissue blood flow.", "syn": ["arterioles"], "abbr": []}
+{"id": 194, "term": "Squamous cell carcinoma", "def": "A malignant tumor of squamous epithelium, with keratin pearls and intercellular bridges. Arises in skin, lung, esophagus, cervix and head and neck, often linked to sun, smoking or HPV.", "syn": ["carcinoma squamous cell", "squamous cell carcinomas"], "abbr": ["SCC"]}
+{"id": 195, "term": "Meningitis", "def": "Inflammation of the meninges, the membranes covering the brain and spinal cord, usually from infection. Causes fever, headache, neck stiffness and photophobia.", "syn": [], "abbr": []}
+{"id": 196, "term": "Corticosteroids", "def": "Steroid hormones of the adrenal cortex, including glucocorticoids and mineralocorticoids, and the drugs that mimic them. Used to suppress inflammation and immunity.", "syn": ["corticosteroid"], "abbr": []}
+{"id": 197, "skip": "obvious"}
+{"id": 198, "skip": "obvious"}
+{"id": 199, "skip": "obvious"}
+{"id": 200, "skip": "obvious"}
+{"id": 201, "skip": "obvious"}
+{"id": 202, "skip": "obvious"}
+{"id": 203, "skip": "obvious"}
+{"id": 204, "skip": "obvious"}
+{"id": 205, "term": "Jaundice", "def": "Yellowing of the skin and eyes from excess bilirubin in the blood. Arises from excess red cell breakdown, liver disease or bile duct obstruction.", "syn": ["icterus"], "abbr": []}
+{"id": 206, "skip": "obvious"}
+{"id": 207, "skip": "obvious"}
+{"id": 208, "skip": "obvious"}
+{"id": 209, "term": "Hypothyroidism", "def": "Underproduction of thyroid hormone, slowing metabolism: fatigue, weight gain, cold intolerance, constipation and bradycardia. Most often from Hashimoto thyroiditis or iodine deficiency.", "syn": ["primary hypothyroidism", "central hypothyroidism", "secondary hypothyroidism"], "abbr": []}
+{"id": 210, "term": "Cranial nerves", "def": "The twelve pairs of nerves that arise directly from the brain and brainstem, rather than the spinal cord. They serve smell, vision, eye movement, facial sensation and movement, hearing, taste, swallowing and tongue movement.", "syn": ["cranial nerve"], "abbr": []}
+{"id": 211, "term": "Epithelium", "def": "Tissue of tightly packed cells that covers body surfaces and lines cavities and glands. Classified by cell shape and layering as squamous, cuboidal or columnar, and simple or stratified.", "syn": [], "abbr": []}
+{"id": 212, "skip": "obvious"}
+{"id": 213, "term": "Diabetes mellitus", "def": "A disorder of chronically high blood glucose from lack of insulin (type 1) or resistance to insulin (type 2). Complications involve the eyes, kidneys, nerves and blood vessels.", "syn": [], "abbr": []}
+{"id": 214, "term": "Collagen", "def": "The most abundant protein in the body, a triple-helix fibrous protein that gives strength to skin, bone, tendon and vessels. Defects cause Ehlers-Danlos syndrome and osteogenesis imperfecta.", "syn": [], "abbr": []}
+{"id": 215, "term": "Hemolysis", "def": "Destruction of red blood cells. Intravascular hemolysis occurs in the blood vessels and releases hemoglobin into plasma; extravascular hemolysis occurs in the spleen and liver. Can cause anemia and jaundice.", "syn": ["intravascular hemolysis", "extravascular hemolysis", "hemolysis intravascular"], "abbr": []}
+{"id": 216, "term": "Erythema", "def": "Redness of the skin caused by dilation of superficial blood vessels, as in inflammation, infection or sunburn. It blanches when pressed.", "syn": [], "abbr": []}
+{"id": 217, "skip": "obvious"}
+{"id": 218, "skip": "obvious"}
+{"id": 219, "term": "Vasoconstriction", "def": "Narrowing of blood vessels from contraction of their smooth muscle, which reduces blood flow and raises resistance and blood pressure. Triggered by sympathetic activity, angiotensin II and cold.", "syn": [], "abbr": []}
+{"id": 220, "term": "Adenoma", "def": "A benign tumor of glandular epithelium. Examples are colon polyps, which can become cancer, and hormone-secreting adenomas of the pituitary, thyroid and adrenal glands.", "syn": ["adenomas", "follicular adenoma", "adenoma follicular"], "abbr": []}
+{"id": 221, "term": "Metastasis", "def": "Spread of cancer from its original site to distant organs through blood, lymph or body cavities. Common targets are liver, lung, bone and brain.", "syn": ["metastases", "metastatic"], "abbr": []}
+{"id": 222, "skip": "obvious"}
+{"id": 223, "term": "Cardiac arrhythmia", "def": "An abnormal heart rhythm: too fast, too slow or irregular. Caused by abnormal impulse generation or conduction, and shown on an ECG.", "syn": ["arrhythmias", "arrhythmia", "cardiac arrhythmias"], "abbr": []}
+{"id": 224, "term": "Opioids", "def": "Drugs such as morphine, fentanyl and oxycodone that act on mu opioid receptors to relieve pain. Overdose causes respiratory depression and pinpoint pupils; naloxone reverses it.", "syn": ["opioid", "opioid analgesics", "opioid analgesic"], "abbr": []}
+{"id": 225, "term": "Endocarditis", "def": "Infection of the heart's inner lining, especially the valves, forming vegetations. Staphylococcus aureus and viridans streptococci are leading causes. Signs include fever, new murmur and Janeway lesions.", "syn": ["infective endocarditis"], "abbr": []}
+{"id": 226, "skip": "obvious"}
+{"id": 227, "term": "Benzodiazepines", "def": "Sedative drugs, such as diazepam and lorazepam, that enhance GABA-A receptor activity by increasing the frequency of chloride channel opening. Treat anxiety, seizures and alcohol withdrawal.", "syn": ["benzodiazepine", "benzos"], "abbr": []}
+{"id": 228, "term": "Hematoma", "def": "A localized collection of clotted or partly clotted blood outside vessels, from bleeding into tissue. A bruise is a small one; epidural and subdural hematomas occur around the brain.", "syn": ["hematomas"], "abbr": []}
+{"id": 229, "skip": "obvious"}
+{"id": 230, "term": "Immunoglobulin", "def": "An antibody: a Y-shaped protein made by plasma cells that binds a specific antigen. The five classes are IgG, IgA, IgM, IgE and IgD.", "syn": ["immunoglobulins", "immune globulin"], "abbr": []}
+{"id": 231, "term": "Progesterone", "def": "A steroid hormone made by the corpus luteum and placenta that prepares the uterine lining for implantation and maintains pregnancy. Its levels rise in the second half of the menstrual cycle.", "syn": [], "abbr": []}
+{"id": 232, "term": "Escherichia coli", "def": "A gram-negative rod that normally inhabits the gut. Pathogenic strains cause urinary tract infection, traveler's diarrhea, hemorrhagic colitis (O157:H7), neonatal meningitis and sepsis.", "syn": ["e coli", "e. coli"], "abbr": []}
+{"id": 233, "term": "Smooth muscle", "def": "Involuntary, non-striated muscle in the walls of hollow organs and vessels, controlled by the autonomic nervous system. Contracts via calcium-calmodulin activating myosin light-chain kinase.", "syn": ["involuntary muscle", "smooth muscles"], "abbr": []}
+{"id": 234, "skip": "not-medical"}
+{"id": 235, "term": "Dopamine", "def": "A catecholamine neurotransmitter involved in movement, reward and prolactin inhibition. Loss of it causes Parkinson disease; excess is linked to psychosis. Also a drug that raises blood pressure.", "syn": [], "abbr": []}
+{"id": 236, "skip": "obvious"}
+{"id": 237, "term": "Hypercalcemia", "def": "Abnormally high blood calcium. Most often from primary hyperparathyroidism or malignancy. Causes stones, bones, groans (abdominal pain) and psychiatric overtones.", "syn": [], "abbr": []}
+{"id": 238, "term": "Sepsis", "def": "Life-threatening organ dysfunction caused by a dysregulated body response to infection. Presents with fever, tachycardia and low blood pressure; severe cases progress to septic shock.", "syn": ["septicemia", "severe sepsis"], "abbr": []}
+{"id": 239, "skip": "obvious"}
+{"id": 240, "skip": "obvious"}
+{"id": 241, "skip": "obvious"}
+{"id": 242, "term": "Abnormal lung sounds", "def": "Added sounds heard on chest auscultation. Wheezes are high-pitched musical sounds from narrowed airways; crackles are popping sounds from fluid or opening alveoli; stridor is a harsh sound from upper airway narrowing.", "syn": ["stridor", "wheezing", "crackles", "wheezes"], "abbr": []}
+{"id": 243, "skip": "obvious"}
+{"id": 244, "skip": "obvious"}
+{"id": 245, "term": "Hyperthyroidism", "def": "Overproduction of thyroid hormone, speeding up metabolism: weight loss, heat intolerance, tremor and tachycardia. Most commonly caused by Graves disease.", "syn": ["hyperthyroid", "primary hyperthyroidism", "hyperthyroidism primary"], "abbr": []}
+{"id": 246, "skip": "obvious"}
+{"id": 247, "skip": "obvious"}
+{"id": 248, "skip": "obvious"}
+{"id": 249, "term": "Adrenal insufficiency", "def": "Inadequate cortisol production by the adrenal glands. Causes fatigue, weight loss, low blood pressure and low sodium; primary form (Addison disease) also causes hyperpigmentation.", "syn": ["hypoadrenalism"], "abbr": []}

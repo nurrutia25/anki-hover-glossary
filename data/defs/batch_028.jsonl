@@ -1,0 +1,250 @@
+{"id": 7000, "skip": "not-medical"}
+{"id": 7001, "term": "Zinc oxide", "def": "A white mineral powder used topically as a mild astringent and skin protectant, as in diaper rash creams and sunscreens, where it physically blocks ultraviolet light.", "syn": [], "abbr": []}
+{"id": 7002, "term": "Petrolatum", "def": "A semisolid mixture of hydrocarbons refined from petroleum, used as an occlusive skin protectant and ointment base that traps moisture in skin.", "syn": ["Petroleum jelly"], "abbr": []}
+{"id": 7003, "skip": "not-medical"}
+{"id": 7004, "skip": "not-medical"}
+{"id": 7005, "skip": "obvious"}
+{"id": 7006, "term": "Delayed cord clamping", "def": "Waiting 30 to 60 seconds or more after birth before clamping the umbilical cord, letting placental blood transfer to the newborn. Raises neonatal iron stores and hemoglobin and lowers anemia risk.", "syn": [], "abbr": []}
+{"id": 7007, "term": "Hyperhidrosis", "def": "Excessive sweating beyond what is needed to regulate temperature. Can be primary (palms, soles, axillae) or secondary to infection, hyperthyroidism or drugs.", "syn": [], "abbr": []}
+{"id": 7008, "term": "Otoscope", "def": "A handheld instrument with light and magnifier for examining the external ear canal and tympanic membrane.", "syn": ["Otoscopes"], "abbr": []}
+{"id": 7009, "term": "Leukorrhea", "def": "Whitish vaginal discharge. A physiologic form increases with estrogen in pregnancy or ovulation; excessive or malodorous discharge suggests infection.", "syn": [], "abbr": []}
+{"id": 7010, "skip": "obvious"}
+{"id": 7011, "term": "Entropion", "def": "Inward turning of the eyelid margin so that lashes rub against the cornea, causing irritation and corneal damage. Often from aging or scarring.", "syn": [], "abbr": []}
+{"id": 7012, "term": "Blepharitis", "def": "Chronic inflammation of the eyelid margins causing red, crusted, itchy lids. Associated with staphylococcal infection and meibomian gland dysfunction.", "syn": [], "abbr": []}
+{"id": 7013, "term": "Metatarsus", "def": "The five long bones in the midfoot between tarsal bones and toes.", "syn": [], "abbr": []}
+{"id": 7014, "term": "Metatarsus adductus", "def": "Congenital inward deviation of the forefoot with a normal hindfoot, giving a bean-shaped foot. Usually resolves spontaneously.", "syn": [], "abbr": []}
+{"id": 7015, "term": "Talipes", "def": "Congenital deformity of the foot and ankle, most commonly talipes equinovarus (clubfoot) with plantar flexion, inversion and forefoot adduction.", "syn": ["Clubfoot"], "abbr": []}
+{"id": 7016, "term": "Spondylolysis", "def": "A defect or stress fracture of the pars interarticularis of a vertebra, often at L5 in young athletes. Causes low back pain and can lead to spondylolisthesis.", "syn": [], "abbr": []}
+{"id": 7017, "skip": "not-medical"}
+{"id": 7018, "term": "Stokes-Adams attacks", "def": "Sudden brief loss of consciousness from transient complete heart block or asystole causing a drop in cardiac output. Patient recovers quickly with a flushed look.", "syn": ["Adams-Stokes syndrome", "Stokes-Adams attack", "Adams-Stokes attacks"], "abbr": []}
+{"id": 7019, "term": "Childhood obesity", "def": "Excess body fat in children, defined as BMI at or above the 95th percentile for age and sex. Raises risk of type 2 diabetes, hypertension and fatty liver.", "syn": [], "abbr": []}
+{"id": 7020, "term": "Breakthrough infection", "def": "Infection occurring in a vaccinated person despite immunization, usually milder than in unvaccinated people.", "syn": ["Breakthrough infections"], "abbr": []}
+{"id": 7021, "term": "Antimicrobial peptides", "def": "Small cationic peptides of the innate immune system, such as defensins and cathelicidin, that kill microbes by disrupting their membranes.", "syn": ["Antimicrobial peptide"], "abbr": []}
+{"id": 7022, "skip": "not-medical"}
+{"id": 7023, "skip": "not-medical"}
+{"id": 7024, "term": "Kasabach-Merritt syndrome", "def": "Consumptive coagulopathy with thrombocytopenia caused by platelet trapping in a rapidly growing vascular tumor, such as kaposiform hemangioendothelioma, in infants.", "syn": [], "abbr": []}
+{"id": 7025, "term": "Oncogenic viruses", "def": "Viruses that can cause cancer, such as HPV (cervical cancer), EBV (Burkitt lymphoma), HBV and HCV (hepatocellular carcinoma), HTLV-1 and HHV-8.", "syn": ["Oncogenic virus"], "abbr": []}
+{"id": 7026, "term": "Netrin-1", "def": "A secreted guidance protein that directs growing axons toward or away from its source through DCC and UNC5 receptors.", "syn": [], "abbr": []}
+{"id": 7027, "term": "Anti-NMDA receptor encephalitis", "def": "Autoimmune encephalitis with antibodies to NMDA receptors, mainly in young women, often with ovarian teratoma. Causes psychosis, seizures, dyskinesias and autonomic instability.", "syn": [], "abbr": []}
+{"id": 7028, "term": "Paraneoplastic encephalomyelitis", "def": "Immune-mediated inflammation of brain and spinal cord triggered by a distant cancer, often small cell lung cancer. Associated with anti-Hu antibodies.", "syn": [], "abbr": []}
+{"id": 7029, "term": "Papillary cystadenocarcinoma", "def": "A malignant glandular tumor with cystic spaces and papillary projections, as seen in the ovary.", "syn": [], "abbr": []}
+{"id": 7030, "term": "Malignant mesothelioma", "def": "A tumor of the pleura or peritoneum linked to asbestos exposure. Causes pleural effusion and chest pain; shows calretinin positivity.", "syn": ["Mesothelioma"], "abbr": []}
+{"id": 7031, "skip": "obvious"}
+{"id": 7032, "term": "Autonomic dysreflexia", "def": "Life-threatening reaction in spinal cord injury above T6, in which a noxious stimulus such as bladder distension causes severe hypertension, headache and bradycardia.", "syn": [], "abbr": []}
+{"id": 7033, "term": "Ipilimumab", "def": "A monoclonal antibody against CTLA-4 that boosts T cell activity, used for melanoma. Causes immune-related colitis, hepatitis and endocrinopathies.", "syn": [], "abbr": []}
+{"id": 7034, "term": "Germinoma", "def": "A germ cell tumor of the pineal or suprasellar region, histologically like testicular seminoma. Pineal tumors cause Parinaud syndrome; highly radiosensitive.", "syn": ["Germinomas"], "abbr": []}
+{"id": 7035, "term": "Takotsubo cardiomyopathy", "def": "Transient apical ballooning of the left ventricle triggered by emotional or physical stress, mimicking myocardial infarction with normal coronary arteries. Thought to involve catecholamine surge.", "syn": ["Stress cardiomyopathy", "Cardiomyopathy takotsubo", "Broken heart syndrome"], "abbr": []}
+{"id": 7036, "term": "Dysphonia", "def": "Impaired voice production causing hoarseness or altered pitch and quality, due to laryngeal disease or vocal cord dysfunction.", "syn": [], "abbr": []}
+{"id": 7037, "term": "Neuroprotection", "def": "Interventions that limit neuronal damage or death after insults such as ischemia or neurodegeneration.", "syn": [], "abbr": []}
+{"id": 7038, "term": "Blood alcohol concentration", "def": "The amount of ethanol in the blood, expressed as percent weight per volume. Legal driving limit in the US is 0.08%.", "syn": ["Blood alcohol level", "Blood alcohol content", "BAC"], "abbr": []}
+{"id": 7039, "skip": "obvious"}
+{"id": 7040, "term": "Cephalopelvic disproportion", "def": "Mismatch between fetal head size and maternal pelvis preventing vaginal delivery, a cause of obstructed labor and cesarean section.", "syn": [], "abbr": []}
+{"id": 7041, "term": "Cas9", "def": "An RNA-guided endonuclease from CRISPR systems that cuts double-stranded DNA at a sequence matching a guide RNA, used for gene editing.", "syn": ["Cas9 endonuclease", "Endonuclease Cas9"], "abbr": []}
+{"id": 7042, "term": "Tracheomalacia", "def": "Weakness of the tracheal wall cartilage causing airway collapse during breathing, producing expiratory stridor or barking cough in infants.", "syn": [], "abbr": []}
+{"id": 7043, "term": "Tracheal stenosis", "def": "Narrowing of the trachea, often after prolonged intubation or tracheostomy. Causes stridor and exertional dyspnea.", "syn": [], "abbr": []}
+{"id": 7044, "term": "Tourniquet", "def": "A constricting band placed on a limb to stop arterial bleeding or distend veins for venipuncture.", "syn": [], "abbr": []}
+{"id": 7045, "term": "Crown-rump length", "def": "Ultrasound measurement of embryo length from top of head to buttocks in the first trimester. Most accurate method of dating pregnancy.", "syn": ["CRL"], "abbr": []}
+{"id": 7046, "skip": "obvious"}
+{"id": 7047, "skip": "obvious"}
+{"id": 7048, "term": "Classical complement pathway", "def": "Complement activation triggered when C1 binds IgG or IgM antibody-antigen complexes, activating C4 and C2 to form C3 convertase. Deficiency of C1 to C4 predisposes to lupus.", "syn": [], "abbr": []}
+{"id": 7049, "term": "Iridocyclitis", "def": "Inflammation of the iris and ciliary body (anterior uveitis), causing painful red eye, photophobia and small irregular pupil. Associated with HLA-B27 diseases and sarcoidosis.", "syn": [], "abbr": []}
+{"id": 7050, "term": "Dicyclomine", "def": "An antimuscarinic antispasmodic that relaxes gut smooth muscle, used in irritable bowel syndrome. Causes dry mouth and urinary retention.", "syn": [], "abbr": []}
+{"id": 7051, "term": "Nadolol", "def": "A long-acting nonselective beta blocker, used for hypertension, angina and variceal bleeding prophylaxis.", "syn": [], "abbr": []}
+{"id": 7052, "skip": "not-medical"}
+{"id": 7053, "skip": "obvious"}
+{"id": 7054, "term": "Linear regression", "def": "A statistical method modeling a continuous outcome as a linear function of one or more predictors.", "syn": [], "abbr": []}
+{"id": 7055, "skip": "not-medical"}
+{"id": 7056, "term": "Coronary occlusion", "def": "Blockage of a coronary artery, typically by thrombus on a ruptured plaque, causing myocardial infarction.", "syn": [], "abbr": []}
+{"id": 7057, "term": "Putaminal hemorrhage", "def": "Bleeding in the putamen, the most common site of hypertensive intracerebral hemorrhage. Causes contralateral hemiparesis and sensory loss from internal capsule involvement.", "syn": ["Putamen hemorrhage"], "abbr": []}
+{"id": 7058, "term": "Venous valves", "def": "Folds in the lining of veins that prevent backflow of blood. Incompetence causes varicose veins and chronic venous insufficiency.", "syn": [], "abbr": []}
+{"id": 7059, "skip": "not-medical"}
+{"id": 7060, "term": "Reality testing", "def": "The ability to distinguish internal thoughts and fantasies from external reality. Impaired in psychosis, but intact in neurosis.", "syn": [], "abbr": []}
+{"id": 7061, "term": "Femoral vein", "def": "The deep vein of the thigh that continues as the external iliac vein. It lies medial to the femoral artery in the femoral triangle.", "syn": [], "abbr": []}
+{"id": 7062, "term": "Catheter-related infections", "def": "Infections from indwelling catheters, such as central line bloodstream infections and urinary tract infections. Biofilm formation is key; Staphylococcus is common.", "syn": ["Catheter-associated infection"], "abbr": []}
+{"id": 7063, "skip": "not-medical"}
+{"id": 7064, "term": "Ethylene oxide", "def": "A gas used to sterilize heat-sensitive equipment. It alkylates DNA and proteins.", "syn": [], "abbr": []}
+{"id": 7065, "term": "Pseudocholinesterase", "def": "A plasma enzyme that hydrolyzes succinylcholine and mivacurium. Deficiency or atypical variants cause prolonged paralysis after succinylcholine.", "syn": ["Butyrylcholinesterase"], "abbr": []}
+{"id": 7066, "skip": "obvious"}
+{"id": 7067, "term": "Atlantoaxial joint", "def": "The joint between the first (atlas) and second (axis) cervical vertebrae permitting head rotation. Instability occurs in Down syndrome and rheumatoid arthritis.", "syn": [], "abbr": []}
+{"id": 7068, "term": "Ergotamine", "def": "An ergot alkaloid acting on serotonin receptors that constricts blood vessels. Used for acute migraine; overuse causes ischemia.", "syn": [], "abbr": []}
+{"id": 7069, "term": "Maxillary nerve", "def": "The second division of the trigeminal nerve (V2), carrying sensation from the midface, passing through the foramen rotundum.", "syn": [], "abbr": []}
+{"id": 7070, "term": "Maximal voluntary ventilation", "def": "The greatest volume of air a person can breathe in a minute with maximal effort. Reflects respiratory muscle strength and airway resistance.", "syn": ["MVV"], "abbr": []}
+{"id": 7071, "skip": "not-medical"}
+{"id": 7072, "term": "Short-term memory", "def": "Temporary storage of a small amount of information for seconds to minutes, such as digit span (about seven items).", "syn": [], "abbr": []}
+{"id": 7073, "term": "Eccrine glands", "def": "Sweat glands over most of the body that secrete watery sweat for thermoregulation, controlled by sympathetic cholinergic fibers.", "syn": ["Eccrine gland"], "abbr": []}
+{"id": 7074, "term": "Nasal obstruction", "def": "Blockage of nasal airflow from mucosal swelling, deviated septum, polyps or tumor.", "syn": [], "abbr": []}
+{"id": 7075, "skip": "not-medical"}
+{"id": 7076, "term": "Mastoidectomy", "def": "Surgical removal of mastoid air cells, used for chronic mastoiditis or cholesteatoma.", "syn": [], "abbr": []}
+{"id": 7077, "term": "Arteriovenous fistula", "def": "An abnormal or surgically made connection between an artery and a vein. Used for hemodialysis access; large ones can cause high-output heart failure.", "syn": ["Arteriovenous fistulas"], "abbr": []}
+{"id": 7078, "skip": "obvious"}
+{"id": 7079, "term": "Shigellosis", "def": "Intestinal infection by Shigella, causing bloody diarrhea with fever and cramps. Spread by fecal-oral route and via low infectious dose.", "syn": [], "abbr": []}
+{"id": 7080, "term": "In vitro fertilization", "def": "Fertilization of an egg by sperm outside the body, with the embryo transferred into the uterus. Used for infertility.", "syn": ["IVF"], "abbr": []}
+{"id": 7081, "term": "Ovarian hyperstimulation syndrome", "def": "Complication of fertility drugs with enlarged ovaries and fluid shift from leaky vessels, causing ascites, pleural effusion and hemoconcentration.", "syn": ["OHSS"], "abbr": []}
+{"id": 7082, "term": "Hepatitis C antibodies", "def": "Antibodies against hepatitis C virus, the initial screening test. They indicate exposure, so HCV RNA is needed to confirm active infection.", "syn": ["HCV antibodies", "Anti-HCV"], "abbr": []}
+{"id": 7083, "term": "Hemosiderosis", "def": "Accumulation of hemosiderin, an iron storage pigment, in tissues without necessarily causing damage. Occurs after repeated transfusions or hemolysis.", "syn": [], "abbr": []}
+{"id": 7084, "skip": "not-medical"}
+{"id": 7085, "term": "Dupuytren contracture", "def": "Fibrosis and thickening of the palmar fascia that pulls the fingers, especially the ring and little fingers, into flexion. Associated with alcoholism, diabetes and male sex.", "syn": ["Dupuytren's contracture"], "abbr": []}
+{"id": 7086, "term": "Rectocele", "def": "Herniation of the rectum into the posterior vaginal wall from weak pelvic support. Causes pelvic pressure and difficult defecation.", "syn": [], "abbr": []}
+{"id": 7087, "term": "Deep brain stimulation", "def": "Implanted electrodes delivering electrical pulses to targets such as the subthalamic nucleus, used for Parkinson disease and essential tremor.", "syn": [], "abbr": []}
+{"id": 7088, "term": "Hematocolpos", "def": "Blood accumulating in the vagina because of an imperforate hymen or transverse vaginal septum. Presents with primary amenorrhea and cyclic pelvic pain.", "syn": [], "abbr": []}
+{"id": 7089, "skip": "obvious"}
+{"id": 7090, "term": "Pulmonary alveolar proteinosis", "def": "Accumulation of surfactant proteins in alveoli from defective GM-CSF signaling. Causes dyspnea and a crazy-paving CT pattern; treated with whole-lung lavage.", "syn": [], "abbr": []}
+{"id": 7091, "term": "Sarcoptes scabiei", "def": "A mite that burrows into skin and causes scabies, with intense nocturnal itching and burrows between fingers. Treated with permethrin.", "syn": [], "abbr": []}
+{"id": 7092, "skip": "not-medical"}
+{"id": 7093, "skip": "not-medical"}
+{"id": 7094, "term": "Hemostatics", "def": "Drugs or agents that stop bleeding, such as tranexamic acid, vitamin K and thrombin.", "syn": ["Hemostatic"], "abbr": []}
+{"id": 7095, "term": "Amblyomma americanum", "def": "The lone star tick, which transmits Ehrlichia and causes alpha-gal allergy to red meat.", "syn": ["Lone star tick", "Amblyomma"], "abbr": []}
+{"id": 7096, "term": "Blowout fracture", "def": "Fracture of the orbital floor or medial wall from blunt trauma, with entrapment of the inferior rectus muscle. Causes diplopia on upgaze and infraorbital numbness.", "syn": ["Orbital fracture"], "abbr": []}
+{"id": 7097, "term": "Radical mastectomy", "def": "Removal of the entire breast, pectoral muscles and axillary lymph nodes.", "syn": [], "abbr": []}
+{"id": 7098, "term": "Hypopharynx", "def": "The lowest part of the pharynx, from the hyoid to the cricoid cartilage, leading to the esophagus.", "syn": ["Laryngopharynx"], "abbr": []}
+{"id": 7099, "term": "Herpes simplex encephalitis", "def": "Brain infection by HSV-1 with predilection for the temporal lobes. Causes fever, seizures and altered behavior; treated with IV acyclovir.", "syn": ["Herpes encephalitis"], "abbr": []}
+{"id": 7100, "skip": "not-medical"}
+{"id": 7101, "term": "Familial dysautonomia", "def": "Autosomal recessive neuropathy (Riley-Day syndrome) in Ashkenazi Jews from IKBKAP mutation. Causes lack of tears, labile blood pressure and insensitivity to pain.", "syn": ["Riley-Day syndrome"], "abbr": []}
+{"id": 7102, "skip": "not-medical"}
+{"id": 7103, "term": "Crizotinib", "def": "A tyrosine kinase inhibitor of ALK and ROS1, used for non-small cell lung cancers with ALK rearrangement.", "syn": [], "abbr": []}
+{"id": 7104, "term": "Do-not-resuscitate order", "def": "A physician order that cardiopulmonary resuscitation not be attempted if the heart or breathing stops.", "syn": ["DNR order", "DNR"], "abbr": []}
+{"id": 7105, "term": "Capnography", "def": "Continuous measurement of exhaled carbon dioxide, used to confirm endotracheal tube placement and monitor ventilation.", "syn": [], "abbr": []}
+{"id": 7106, "term": "Occlusive dressing", "def": "A sealed dressing that blocks air and fluid, used for open pneumothorax (sucking chest wound) and to retain moisture.", "syn": [], "abbr": []}
+{"id": 7107, "skip": "obvious"}
+{"id": 7108, "term": "Black widow spider", "def": "A venomous spider (Latrodectus) whose neurotoxin (alpha-latrotoxin) triggers massive acetylcholine release, causing severe muscle cramps and abdominal rigidity.", "syn": [], "abbr": []}
+{"id": 7109, "term": "Laminectomy", "def": "Surgical removal of the vertebral lamina to decompress the spinal canal, used for spinal stenosis.", "syn": [], "abbr": []}
+{"id": 7110, "term": "Blind loop syndrome", "def": "Bacterial overgrowth in a stagnant segment of small bowel after surgery, causing malabsorption, steatorrhea and vitamin B12 deficiency.", "syn": [], "abbr": []}
+{"id": 7111, "term": "Pancreatic fistula", "def": "Abnormal connection allowing pancreatic juice to leak, often after surgery or pancreatitis.", "syn": ["Pancreatic fistulas"], "abbr": []}
+{"id": 7112, "term": "Newborn screening", "def": "Blood testing of neonates for treatable congenital disorders such as phenylketonuria and congenital hypothyroidism.", "syn": ["Neonatal screening"], "abbr": []}
+{"id": 7113, "term": "Cyclopentolate", "def": "An antimuscarinic eye drop that dilates the pupil and paralyzes accommodation (cycloplegia), used for eye exams.", "syn": [], "abbr": []}
+{"id": 7114, "term": "Endovascular aneurysm repair", "def": "Placement of a stent graft through the femoral arteries to exclude an aortic aneurysm without open surgery.", "syn": ["EVAR"], "abbr": []}
+{"id": 7115, "term": "Ureteroscopy", "def": "Use of a thin scope passed through the urethra and bladder into the ureter to see and treat stones.", "syn": [], "abbr": []}
+{"id": 7116, "term": "Nephrectomy", "def": "Surgical removal of a kidney, done for renal cell carcinoma or donation.", "syn": ["Heminephrectomy"], "abbr": []}
+{"id": 7117, "term": "Conjugated estrogens", "def": "Estrogen mixtures from pregnant mare urine, used as menopausal hormone therapy.", "syn": ["Conjugated estrogen"], "abbr": []}
+{"id": 7118, "term": "Galeazzi fracture", "def": "Fracture of the radial shaft with dislocation of the distal radioulnar joint.", "syn": ["Radius fracture"], "abbr": []}
+{"id": 7119, "term": "Kidney transplantation", "def": "Surgical placement of a donor kidney, typically into the iliac fossa, to treat end-stage renal disease.", "syn": ["Renal transplantation"], "abbr": []}
+{"id": 7120, "skip": "obvious"}
+{"id": 7121, "term": "Smoke inhalation injury", "def": "Lung and airway damage from burning smoke, including thermal injury, soot and carbon monoxide or cyanide poisoning. Hoarseness, singed nasal hair and soot in sputum suggest airway risk.", "syn": [], "abbr": []}
+{"id": 7122, "term": "Esophagoscopy", "def": "Endoscopic examination of the esophagus.", "syn": [], "abbr": []}
+{"id": 7123, "skip": "obvious"}
+{"id": 7124, "term": "Balloon tamponade", "def": "Inflation of a balloon in the esophagus or stomach to compress bleeding varices, as with a Sengstaken-Blakemore tube.", "syn": [], "abbr": []}
+{"id": 7125, "term": "PET/CT", "def": "Combined imaging fusing metabolic images from positron emission tomography with anatomy from CT, used for cancer staging.", "syn": ["PET CT scan", "CT PET scan", "CT PET"], "abbr": []}
+{"id": 7126, "term": "Malignant pleural effusion", "def": "Fluid in the pleural space from cancer spread, often lung or breast. Typically exudative and bloody, with positive cytology.", "syn": ["Malignant pleural effusions"], "abbr": []}
+{"id": 7127, "term": "Laryngoscope", "def": "An instrument for viewing the larynx, used for endotracheal intubation.", "syn": [], "abbr": []}
+{"id": 7128, "term": "Genu valgum", "def": "Knock-knees, in which the knees angle inward so the ankles are far apart.", "syn": ["Knock knees"], "abbr": []}
+{"id": 7129, "term": "Ringer's lactate", "def": "A balanced isotonic IV fluid with sodium, potassium, calcium, chloride and lactate.", "syn": ["Ringer solution"], "abbr": []}
+{"id": 7130, "skip": "not-medical"}
+{"id": 7131, "term": "Metacarpophalangeal joint", "def": "The knuckle joint between a metacarpal bone and the first finger bone. Commonly involved in rheumatoid arthritis.", "syn": ["MCP joint"], "abbr": []}
+{"id": 7132, "term": "Tracheitis", "def": "Inflammation of the trachea, often bacterial (Staphylococcus aureus) in children, causing stridor and fever.", "syn": [], "abbr": []}
+{"id": 7133, "term": "Sperm penetration", "def": "Passage of sperm through the cumulus and zona pellucida to reach the oocyte. The acrosomal reaction releases enzymes that enable this.", "syn": [], "abbr": []}
+{"id": 7134, "term": "Cranial sutures", "def": "Fibrous joints between skull bones. Premature closure causes craniosynostosis.", "syn": ["Cranial suture"], "abbr": []}
+{"id": 7135, "term": "Growth chart", "def": "A percentile chart comparing a child's height, weight and head circumference to a reference population.", "syn": [], "abbr": []}
+{"id": 7136, "skip": "not-medical"}
+{"id": 7137, "skip": "not-medical"}
+{"id": 7138, "term": "Neurobehavioral manifestations", "def": "Behavioral and cognitive symptoms caused by brain dysfunction.", "syn": [], "abbr": []}
+{"id": 7139, "skip": "not-medical"}
+{"id": 7140, "term": "Language disorder", "def": "Persistent difficulty understanding or producing language, such as aphasia in acquired lesions.", "syn": [], "abbr": []}
+{"id": 7141, "skip": "not-medical"}
+{"id": 7142, "term": "Vaginal ring", "def": "A flexible ring inserted in the vagina releasing estrogen and progestin as contraception for three weeks.", "syn": ["Vaginal rings"], "abbr": []}
+{"id": 7143, "term": "Guttate psoriasis", "def": "Psoriasis presenting as many small teardrop-shaped scaly plaques, often after streptococcal pharyngitis in young people.", "syn": [], "abbr": []}
+{"id": 7144, "term": "Lichen nitidus", "def": "A rare skin condition with tiny, flesh-colored shiny papules, often on genitals, forearms and abdomen.", "syn": [], "abbr": []}
+{"id": 7145, "term": "Fluoride", "def": "The ion of fluorine. Strengthens tooth enamel by forming fluorapatite; excess causes fluorosis.", "syn": [], "abbr": []}
+{"id": 7146, "term": "Teething", "def": "Eruption of primary teeth beginning around 6 months of age.", "syn": ["Tooth eruption"], "abbr": []}
+{"id": 7147, "term": "Occupational asthma", "def": "Asthma caused by workplace exposure to sensitizers, such as isocyanates, flour and latex. Improves away from work.", "syn": [], "abbr": []}
+{"id": 7148, "term": "Morton neuroma", "def": "Perineural fibrosis of the plantar digital nerve between the third and fourth metatarsal heads, causing forefoot burning pain, relieved by removing shoes.", "syn": [], "abbr": []}
+{"id": 7149, "term": "Cochlear implant", "def": "A device that bypasses damaged hair cells by electrically stimulating the auditory nerve, used in profound sensorineural hearing loss.", "syn": ["Cochlear implants"], "abbr": []}
+{"id": 7150, "term": "Cervical ripening", "def": "Softening and thinning of the cervix before labor. Induced with prostaglandins (misoprostol, dinoprostone) or mechanical methods.", "syn": [], "abbr": []}
+{"id": 7151, "skip": "not-medical"}
+{"id": 7152, "term": "Synthetic prostaglandins", "def": "Drug analogues of prostaglandins, such as misoprostol, carboprost and alprostadil, used for ulcer protection, labor induction and postpartum hemorrhage.", "syn": ["Synthetic prostaglandin"], "abbr": []}
+{"id": 7153, "skip": "obvious"}
+{"id": 7154, "term": "Rectovaginal fistula", "def": "Abnormal communication between rectum and vagina, causing passage of stool or gas through the vagina. Seen after childbirth injury and in Crohn disease.", "syn": [], "abbr": []}
+{"id": 7155, "term": "Cervical cerclage", "def": "A stitch placed around the cervix to prevent premature opening in cervical insufficiency.", "syn": [], "abbr": []}
+{"id": 7156, "term": "Pubic symphysis diastasis", "def": "Separation of the pubic symphysis, often in pregnancy or childbirth, causing pelvic pain and difficulty walking.", "syn": [], "abbr": []}
+{"id": 7157, "skip": "not-medical"}
+{"id": 7158, "term": "Semen analysis", "def": "Laboratory assessment of semen for count, motility and morphology, used to evaluate male infertility.", "syn": [], "abbr": []}
+{"id": 7159, "term": "Dehydroepiandrosterone sulfate", "def": "An adrenal androgen precursor made by the zona reticularis. Elevated in adrenal androgen excess, as in congenital adrenal hyperplasia.", "syn": ["DHEAS", "DHEA-S"], "abbr": []}
+{"id": 7160, "term": "Visceral pain", "def": "Deep, dull, poorly localized pain from internal organs, often referred to somatic areas.", "syn": [], "abbr": []}
+{"id": 7161, "term": "Labyrinthitis", "def": "Inflammation of the inner ear labyrinth, causing vertigo with hearing loss and tinnitus, usually viral.", "syn": [], "abbr": []}
+{"id": 7162, "term": "Vestibular neuritis", "def": "Inflammation of the vestibular nerve, usually viral, causing acute vertigo without hearing loss.", "syn": ["Vestibular neuronitis"], "abbr": []}
+{"id": 7163, "term": "Atrioventricular nodal reentrant tachycardia", "def": "The most common paroxysmal supraventricular tachycardia, from a reentry circuit in the AV node with fast and slow pathways. Treated with vagal maneuvers or adenosine.", "syn": ["AV nodal reentrant tachycardia", "AVNRT"], "abbr": []}
+{"id": 7164, "term": "Pericardiectomy", "def": "Surgical removal of the pericardium, treating constrictive pericarditis.", "syn": [], "abbr": []}
+{"id": 7165, "term": "Alexithymia", "def": "Difficulty identifying and describing one's own emotions.", "syn": [], "abbr": []}
+{"id": 7166, "term": "Asthenopia", "def": "Eye strain with fatigue, headache and blurred vision after prolonged visual effort.", "syn": [], "abbr": []}
+{"id": 7167, "skip": "not-medical"}
+{"id": 7168, "term": "Saccades", "def": "Rapid, simultaneous eye movements that shift gaze from one point to another. Controlled by the frontal eye fields and paramedian pontine reticular formation.", "syn": ["Saccade"], "abbr": []}
+{"id": 7169, "term": "Abdominal hernia", "def": "Protrusion of abdominal contents through a weakness in the abdominal wall, such as inguinal, umbilical or incisional hernia.", "syn": ["Abdominal hernias"], "abbr": []}
+{"id": 7170, "term": "Complex regional pain syndrome", "def": "Chronic limb pain disproportionate to an injury, with autonomic changes, swelling and altered skin color and temperature.", "syn": ["CRPS"], "abbr": []}
+{"id": 7171, "skip": "obvious"}
+{"id": 7172, "term": "Video-assisted thoracoscopic surgery", "def": "Minimally invasive chest surgery done through small incisions with a camera.", "syn": ["VATS"], "abbr": []}
+{"id": 7173, "term": "Cryptosporidium parvum", "def": "A protozoan acquired from contaminated water that causes watery diarrhea, severe in AIDS. Oocysts are acid-fast.", "syn": [], "abbr": []}
+{"id": 7174, "skip": "not-medical"}
+{"id": 7175, "skip": "not-medical"}
+{"id": 7176, "skip": "not-medical"}
+{"id": 7177, "term": "Collagenous colitis", "def": "Microscopic colitis causing chronic watery diarrhea with a thickened subepithelial collagen band on biopsy and normal-appearing colonoscopy.", "syn": [], "abbr": []}
+{"id": 7178, "skip": "not-medical"}
+{"id": 7179, "term": "Chondromalacia patellae", "def": "Softening of the cartilage under the kneecap causing anterior knee pain, common in young active people.", "syn": ["Chondromalacia"], "abbr": []}
+{"id": 7180, "skip": "obvious"}
+{"id": 7181, "term": "Corneal epithelium", "def": "The outermost layer of the cornea, a non-keratinized stratified squamous epithelium, which regenerates quickly after abrasions.", "syn": [], "abbr": []}
+{"id": 7182, "term": "Hypoplastic left heart syndrome", "def": "Underdevelopment of the left ventricle, aortic and mitral valves and aorta. Circulation depends on a patent ductus arteriosus; presents with cyanosis and shock in the first days.", "syn": [], "abbr": []}
+{"id": 7183, "term": "Ventral hernia", "def": "Hernia through the anterior abdominal wall, including umbilical, epigastric and incisional hernias.", "syn": [], "abbr": []}
+{"id": 7184, "term": "Image-guided biopsy", "def": "Tissue sampling using imaging such as ultrasound or CT to direct the needle.", "syn": [], "abbr": []}
+{"id": 7185, "skip": "obvious"}
+{"id": 7186, "term": "Heterotopic pregnancy", "def": "Simultaneous intrauterine and ectopic pregnancy, uncommon except after fertility treatment.", "syn": [], "abbr": []}
+{"id": 7187, "term": "Percutaneous nephrolithotomy", "def": "Removal of kidney stones through a small incision in the back, used for large stones.", "syn": [], "abbr": []}
+{"id": 7188, "term": "Patellar dislocation", "def": "Displacement of the kneecap out of the trochlear groove, usually laterally.", "syn": [], "abbr": []}
+{"id": 7189, "skip": "obvious"}
+{"id": 7190, "term": "Subphrenic abscess", "def": "A collection of pus beneath the diaphragm, usually after abdominal surgery or perforation. Causes fever and shoulder pain.", "syn": [], "abbr": []}
+{"id": 7191, "term": "Leriche syndrome", "def": "Aortoiliac occlusive disease with buttock claudication, absent femoral pulses and impotence in men.", "syn": [], "abbr": []}
+{"id": 7192, "skip": "not-medical"}
+{"id": 7193, "term": "Titin", "def": "The largest known protein, spanning from Z disc to M line in sarcomeres, providing elasticity and passive tension to muscle.", "syn": ["Connectin"], "abbr": []}
+{"id": 7194, "term": "Perilymphatic fistula", "def": "Abnormal opening between the inner ear and middle ear causing perilymph leak, vertigo and hearing loss. Follows trauma or pressure change.", "syn": [], "abbr": []}
+{"id": 7195, "term": "Surgical wound dehiscence", "def": "Reopening of a surgical wound along the incision, typically 5 to 8 days after surgery. Risk factors include infection and obesity.", "syn": [], "abbr": []}
+{"id": 7196, "term": "Cubital tunnel syndrome", "def": "Compression of the ulnar nerve at the elbow, causing numbness of the ring and little fingers and weakness of grip.", "syn": [], "abbr": []}
+{"id": 7197, "term": "Medullary sponge kidney", "def": "Congenital cystic dilation of the collecting ducts in renal papillae, associated with kidney stones and hematuria. Gives a paintbrush appearance on urography.", "syn": ["Sponge kidney"], "abbr": []}
+{"id": 7198, "skip": "not-medical"}
+{"id": 7199, "term": "Urolithiasis", "def": "Formation of stones in the urinary tract. Calcium oxalate stones are most common and present with colicky flank pain and hematuria.", "syn": [], "abbr": []}
+{"id": 7200, "term": "Intraoperative complications", "def": "Adverse events during surgery, such as bleeding and organ injury.", "syn": [], "abbr": []}
+{"id": 7201, "term": "Migraine with aura", "def": "Migraine preceded by transient focal neurologic symptoms, usually visual (scintillating scotoma), lasting 5 to 60 minutes before headache.", "syn": ["Complicated migraine"], "abbr": []}
+{"id": 7202, "skip": "obvious"}
+{"id": 7203, "term": "Peak expiratory flow rate", "def": "The maximum speed of exhalation measured with a peak flow meter, used to monitor asthma.", "syn": ["PEFR", "Peak expiratory flow rates"], "abbr": []}
+{"id": 7204, "skip": "obvious"}
+{"id": 7205, "term": "Dutasteride", "def": "A 5-alpha-reductase inhibitor reducing dihydrotestosterone, used for benign prostatic hyperplasia.", "syn": [], "abbr": []}
+{"id": 7206, "term": "Cytostatic agents", "def": "Drugs that halt cell proliferation without directly killing cells.", "syn": ["Cytostatic drugs", "Cytostatic"], "abbr": []}
+{"id": 7207, "term": "Trephination", "def": "Cutting a circular hole in the skull, practiced since antiquity or used to drain intracranial blood.", "syn": ["Trepanation"], "abbr": []}
+{"id": 7208, "term": "Miller Fisher syndrome", "def": "A Guillain-Barre variant with ophthalmoplegia, ataxia and areflexia, linked to anti-GQ1b antibodies.", "syn": ["Miller-Fisher syndrome"], "abbr": []}
+{"id": 7209, "term": "Oculocutaneous albinism", "def": "Inherited deficiency in melanin synthesis, usually tyrosinase, causing pale skin and hair, visual impairment and nystagmus, and skin cancer risk.", "syn": [], "abbr": []}
+{"id": 7210, "term": "Ocular albinism", "def": "X-linked reduced pigmentation limited to the eyes, causing nystagmus and reduced visual acuity.", "syn": [], "abbr": []}
+{"id": 7211, "term": "Digital subtraction angiography", "def": "X-ray vessel imaging in which a pre-contrast image is subtracted from later images to show only contrast-filled vessels.", "syn": ["DSA"], "abbr": []}
+{"id": 7212, "term": "Hemobilia", "def": "Bleeding into the biliary tract, causing jaundice, biliary colic and GI bleeding after liver trauma or procedures.", "syn": [], "abbr": []}
+{"id": 7213, "term": "Pancreatic cyst", "def": "A fluid-filled sac in the pancreas, including pseudocysts and neoplastic cysts such as mucinous cystic neoplasm.", "syn": ["Pancreatic cysts"], "abbr": []}
+{"id": 7214, "skip": "not-medical"}
+{"id": 7215, "term": "Coxa magna", "def": "Enlargement and flattening of the femoral head, seen after Legg-Calve-Perthes disease.", "syn": [], "abbr": []}
+{"id": 7216, "term": "Spastic paraparesis", "def": "Weakness with increased tone and hyperreflexia in the legs from corticospinal lesions, as in HTLV-1 associated myelopathy.", "syn": [], "abbr": []}
+{"id": 7217, "skip": "obvious"}
+{"id": 7218, "term": "Pinch strength", "def": "Grip force between thumb and finger, a measure of hand function.", "syn": [], "abbr": []}
+{"id": 7219, "term": "Pneumonectomy", "def": "Surgical removal of an entire lung.", "syn": [], "abbr": []}
+{"id": 7220, "term": "SARS-CoV", "def": "The coronavirus causing severe acute respiratory syndrome in 2002 to 2003, using ACE2 receptor.", "syn": ["SARS-CoV-1"], "abbr": []}
+{"id": 7221, "term": "Laser coagulation", "def": "Using laser to clot and seal tissue, as in retinal treatment.", "syn": [], "abbr": []}
+{"id": 7222, "term": "Candida glabrata", "def": "A yeast that often resists fluconazole. Causes bloodstream and urinary infections.", "syn": [], "abbr": []}
+{"id": 7223, "term": "Uterine artery embolization", "def": "Blocking blood supply to the uterus with particles via catheter, treating fibroids and postpartum hemorrhage.", "syn": [], "abbr": []}
+{"id": 7224, "term": "Necrotizing pneumonia", "def": "Lung infection with tissue death and cavity formation, as with Staphylococcus aureus or Klebsiella.", "syn": [], "abbr": []}
+{"id": 7225, "term": "Complement C4", "def": "A complement protein of the classical pathway, cleaved to C4a and C4b. Deficiency is linked to lupus.", "syn": ["C4 complement"], "abbr": []}
+{"id": 7226, "skip": "obvious"}
+{"id": 7227, "term": "Neutrophil elastase", "def": "A neutrophil serine protease that degrades elastin. Alpha-1 antitrypsin normally inhibits it; excess causes emphysema.", "syn": ["Leukocyte elastase"], "abbr": []}
+{"id": 7228, "term": "Neuromyelitis optica", "def": "Autoimmune disease causing optic neuritis and longitudinally extensive transverse myelitis, with aquaporin-4 antibodies.", "syn": ["NMO"], "abbr": []}
+{"id": 7229, "term": "mRNA vaccines", "def": "Vaccines delivering mRNA in lipid nanoparticles encoding an antigen, as used for COVID-19.", "syn": [], "abbr": []}
+{"id": 7230, "term": "Chironex fleckeri", "def": "The box jellyfish, with very potent venom that causes severe pain and cardiac arrest.", "syn": ["Box jellyfish", "Chironex"], "abbr": []}
+{"id": 7231, "skip": "not-medical"}
+{"id": 7232, "term": "Castleman disease", "def": "A lymphoproliferative disorder with enlarged lymph nodes, hyaline-vascular or plasma-cell histology. Linked to HHV-8 and IL-6.", "syn": ["Angiofollicular lymph node hyperplasia"], "abbr": []}
+{"id": 7233, "term": "Simethicone", "def": "An antifoaming agent for gas, breaking up gas bubbles in the gut.", "syn": [], "abbr": []}
+{"id": 7234, "term": "Campylobacter infection", "def": "Gastroenteritis from Campylobacter jejuni, usually from undercooked poultry. A cause of Guillain-Barre syndrome and reactive arthritis.", "syn": [], "abbr": []}
+{"id": 7235, "skip": "not-medical"}
+{"id": 7236, "term": "Tick bites", "def": "Bites from ticks, which transmit Lyme disease, ehrlichiosis, Rocky Mountain spotted fever and others.", "syn": [], "abbr": []}
+{"id": 7237, "skip": "obvious"}
+{"id": 7238, "term": "Trypanosoma brucei rhodesiense", "def": "A protozoan spread by tsetse flies causing acute East African sleeping sickness with rapid course.", "syn": [], "abbr": []}
+{"id": 7239, "term": "Trypanosoma brucei gambiense", "def": "A protozoan spread by tsetse flies causing chronic West African sleeping sickness with Winterbottom sign.", "syn": [], "abbr": []}
+{"id": 7240, "skip": "not-medical"}
+{"id": 7241, "skip": "obvious"}
+{"id": 7242, "skip": "not-medical"}
+{"id": 7243, "term": "Chloramphenicol resistance", "def": "Bacterial resistance to chloramphenicol, typically by acetyltransferase enzyme.", "syn": [], "abbr": []}
+{"id": 7244, "term": "Gastrulation", "def": "Embryonic process converting the bilaminar disc into three germ layers: ectoderm, mesoderm and endoderm.", "syn": [], "abbr": []}
+{"id": 7245, "term": "Primitive streak", "def": "A groove on the epiblast in week 3 through which cells move to form mesoderm and endoderm, marking the body axis.", "syn": [], "abbr": []}
+{"id": 7246, "term": "Phenothiazines", "def": "Antipsychotic drug class including chlorpromazine and thioridazine that block dopamine D2 receptors. Cause extrapyramidal effects.", "syn": ["Phenothiazine"], "abbr": []}
+{"id": 7247, "term": "Nizatidine", "def": "An H2 blocker that reduces gastric acid secretion.", "syn": [], "abbr": []}
+{"id": 7248, "term": "Famotidine", "def": "An H2 receptor blocker that reduces gastric acid, used for reflux and ulcers.", "syn": [], "abbr": []}
+{"id": 7249, "term": "Lansoprazole", "def": "A proton pump inhibitor that blocks the gastric H+/K+ ATPase, used for reflux and ulcers.", "syn": [], "abbr": []}

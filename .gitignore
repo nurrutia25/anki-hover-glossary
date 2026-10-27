@@ -1,0 +1,10 @@
+**/__pycache__/
+*.pyc
+.DS_Store
+*.db
+*.anki2
+*.colpkg
+# The user's own definition edits stay local
+addon/user_files/overrides.json
+# AnKing card text excerpts (copyrighted) — regenerate locally with tools/make_candidates.py
+data/candidates/

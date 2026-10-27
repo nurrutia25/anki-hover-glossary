@@ -1,0 +1,250 @@
+{"id": 16500, "term": "Follicle-stimulating hormone", "def": "A pituitary gonadotropin that stimulates ovarian follicle growth in women and Sertoli cell sperm support in men.", "syn": [], "abbr": ["FSH"]}
+{"id": 16501, "skip": "obvious"}
+{"id": 16502, "term": "Cerebrospinal fluid", "def": "The clear fluid made by the choroid plexus that cushions the brain and spinal cord; sampled by lumbar puncture.", "syn": [], "abbr": ["CSF"]}
+{"id": 16503, "skip": "not-medical"}
+{"id": 16504, "term": "Parathyroid hormone", "def": "A hormone from the parathyroid glands that raises serum calcium and lowers phosphate.", "syn": [], "abbr": ["PTH"]}
+{"id": 16505, "term": "Cytomegalovirus", "def": "A herpesvirus causing congenital infection and opportunistic disease (retinitis, colitis) in immunocompromised patients; owl-eye inclusions.", "syn": [], "abbr": ["CMV"]}
+{"id": 16506, "skip": "ambiguous"}
+{"id": 16507, "term": "Thyroid-stimulating hormone", "def": "A pituitary hormone that stimulates the thyroid to make and release thyroid hormone.", "syn": [], "abbr": ["TSH"]}
+{"id": 16508, "skip": "obvious"}
+{"id": 16509, "term": "Adenosine triphosphate", "def": "The cell's main energy currency, releasing energy when its terminal phosphate is hydrolyzed.", "syn": [], "abbr": ["ATP"]}
+{"id": 16510, "term": "Coenzyme A", "def": "A carrier of acyl groups derived from pantothenic acid (vitamin B5), central to fatty acid metabolism and the citric acid cycle.", "syn": [], "abbr": ["CoA"]}
+{"id": 16511, "term": "Bicarbonate", "def": "The main blood buffer anion, regulated by the kidneys, that neutralizes acid.", "syn": [], "abbr": ["HCO3"]}
+{"id": 16512, "term": "Glomerular filtration rate", "def": "The volume of plasma filtered by the kidney glomeruli per minute, the standard measure of kidney function.", "syn": [], "abbr": ["GFR"]}
+{"id": 16513, "term": "Immunoglobulin M", "def": "A pentameric antibody that appears first in the immune response and fixes complement strongly.", "syn": [], "abbr": ["IgM"]}
+{"id": 16514, "term": "Human papillomavirus", "def": "A DNA virus causing warts and cervical, anal and oropharyngeal cancers; types 16 and 18 are high risk.", "syn": [], "abbr": ["HPV"]}
+{"id": 16515, "term": "Adrenocorticotropic hormone", "def": "A pituitary hormone that stimulates cortisol release from the adrenal cortex.", "syn": [], "abbr": ["ACTH"]}
+{"id": 16516, "term": "CD4", "def": "A glycoprotein on helper T cells that binds MHC class II and is the receptor for HIV.", "syn": [], "abbr": ["CD4"]}
+{"id": 16517, "term": "Herpes simplex virus", "def": "A DNA virus that causes oral and genital herpes, encephalitis and keratitis, and lies latent in sensory ganglia.", "syn": [], "abbr": ["HSV"]}
+{"id": 16518, "skip": "obvious"}
+{"id": 16519, "term": "Immunoglobulin A", "def": "The antibody of mucosal secretions such as saliva, tears and breast milk, secreted as a dimer.", "syn": [], "abbr": ["IgA"]}
+{"id": 16520, "term": "Angiotensin-converting enzyme", "def": "The enzyme that converts angiotensin I to angiotensin II and degrades bradykinin; blocked by ACE inhibitors.", "syn": [], "abbr": ["ACE"]}
+{"id": 16521, "term": "Chronic obstructive pulmonary disease", "def": "Progressive airflow limitation from chronic bronchitis and emphysema, usually caused by smoking.", "syn": [], "abbr": ["COPD"]}
+{"id": 16522, "skip": "obvious"}
+{"id": 16523, "skip": "obvious"}
+{"id": 16524, "term": "Syndrome of inappropriate antidiuretic hormone secretion", "def": "Excess ADH causing water retention, hyponatremia, concentrated urine and euvolemia; seen with small cell lung cancer and some drugs.", "syn": [], "abbr": ["SIADH"]}
+{"id": 16525, "skip": "ambiguous"}
+{"id": 16526, "skip": "not-medical"}
+{"id": 16527, "skip": "ambiguous"}
+{"id": 16528, "term": "Gonadotropin-releasing hormone", "def": "A hypothalamic peptide released in pulses that triggers LH and FSH secretion from the pituitary.", "syn": [], "abbr": ["GnRH"]}
+{"id": 16529, "term": "Extracellular fluid", "def": "The body fluid outside cells, comprising plasma and interstitial fluid, about one third of total body water.", "syn": [], "abbr": ["ECF"]}
+{"id": 16530, "skip": "ambiguous"}
+{"id": 16531, "term": "Systemic lupus erythematosus", "def": "An autoimmune disease with antinuclear and anti-dsDNA antibodies causing rash, arthritis, nephritis and cytopenias, mostly in young women.", "syn": [], "abbr": ["SLE"]}
+{"id": 16532, "term": "Selective serotonin reuptake inhibitors", "def": "Antidepressants such as fluoxetine and sertraline that block the serotonin transporter; side effects include sexual dysfunction and serotonin syndrome.", "syn": [], "abbr": ["SSRIs"]}
+{"id": 16533, "skip": "not-medical"}
+{"id": 16534, "skip": "ambiguous"}
+{"id": 16535, "skip": "obvious"}
+{"id": 16536, "skip": "ambiguous"}
+{"id": 16537, "skip": "ambiguous"}
+{"id": 16538, "skip": "not-medical"}
+{"id": 16539, "term": "Interferon", "def": "A cytokine released by virus-infected cells and immune cells that induces an antiviral state; type II (gamma) activates macrophages.", "syn": [], "abbr": ["IFN"]}
+{"id": 16540, "term": "Tuberculosis", "def": "Infection with Mycobacterium tuberculosis, forming granulomas with caseous necrosis, mainly in the lungs.", "syn": [], "abbr": ["TB"]}
+{"id": 16541, "term": "Low-density lipoprotein", "def": "The cholesterol-rich lipoprotein that delivers cholesterol to tissues and drives atherosclerosis.", "syn": [], "abbr": ["LDL"]}
+{"id": 16542, "term": "Epstein-Barr virus", "def": "A herpesvirus that causes infectious mononucleosis and is linked to Burkitt lymphoma and nasopharyngeal carcinoma.", "syn": [], "abbr": ["EBV"]}
+{"id": 16543, "term": "Disseminated intravascular coagulation", "def": "Widespread clotting that consumes platelets and clotting factors, causing bleeding and microthrombi; triggered by sepsis, trauma or obstetric complications.", "syn": [], "abbr": ["DIC"]}
+{"id": 16544, "term": "Acute respiratory distress syndrome", "def": "Acute lung injury with diffuse alveolar damage, noncardiogenic pulmonary edema and severe hypoxemia.", "syn": [], "abbr": ["ARDS"]}
+{"id": 16545, "skip": "ambiguous"}
+{"id": 16546, "skip": "obvious"}
+{"id": 16547, "skip": "obvious"}
+{"id": 16548, "skip": "ambiguous"}
+{"id": 16549, "skip": "ambiguous"}
+{"id": 16550, "term": "QRS complex", "def": "The ECG deflection representing ventricular depolarization.", "syn": [], "abbr": ["QRS"]}
+{"id": 16551, "term": "Immunoglobulin E", "def": "The antibody that binds mast cells and basophils and mediates type I hypersensitivity and defense against parasites.", "syn": [], "abbr": ["IgE"]}
+{"id": 16552, "term": "Hepatitis B virus", "def": "A DNA virus that causes acute and chronic hepatitis and hepatocellular carcinoma; spread by blood and body fluids.", "syn": [], "abbr": ["HBV"]}
+{"id": 16553, "term": "Trimethoprim", "def": "An antibiotic that inhibits bacterial dihydrofolate reductase, usually given with sulfamethoxazole.", "syn": [], "abbr": ["TMP"]}
+{"id": 16554, "skip": "not-medical"}
+{"id": 16555, "term": "Ammonia", "def": "A toxic nitrogenous waste of amino acid metabolism, converted to urea in the liver; rises in liver failure and causes encephalopathy.", "syn": [], "abbr": ["NH3"]}
+{"id": 16556, "term": "QT interval", "def": "The ECG interval from ventricular depolarization to repolarization; prolongation predisposes to torsades de pointes.", "syn": [], "abbr": ["QT"]}
+{"id": 16557, "skip": "ambiguous"}
+{"id": 16558, "term": "Acquired immunodeficiency syndrome", "def": "The advanced stage of HIV infection with CD4 count below 200 per microliter or an AIDS-defining illness.", "syn": [], "abbr": ["AIDS"]}
+{"id": 16559, "term": "Tumor necrosis factor", "def": "A cytokine from macrophages that drives inflammation, fever and cachexia; blocked by drugs such as infliximab.", "syn": [], "abbr": ["TNF"]}
+{"id": 16560, "skip": "ambiguous"}
+{"id": 16561, "term": "Deep vein thrombosis", "def": "A blood clot in a deep vein, usually of the leg, risking pulmonary embolism.", "syn": [], "abbr": ["DVT"]}
+{"id": 16562, "term": "Congestive heart failure", "def": "Failure of the heart to pump adequately, causing fluid congestion in lungs and body.", "syn": [], "abbr": ["CHF"]}
+{"id": 16563, "term": "Urinary tract infection", "def": "Infection of the bladder, urethra or kidneys, most often by E. coli.", "syn": [], "abbr": ["UTI"]}
+{"id": 16564, "term": "Polycystic ovary syndrome", "def": "Hyperandrogenism with irregular ovulation and polycystic ovaries, usually with insulin resistance.", "syn": [], "abbr": ["PCOS"]}
+{"id": 16565, "skip": "ambiguous"}
+{"id": 16566, "term": "Adenosine diphosphate", "def": "The product of ATP hydrolysis; it also activates platelets through the P2Y12 receptor.", "syn": [], "abbr": ["ADP"]}
+{"id": 16567, "term": "Human leukocyte antigen", "def": "The human MHC genes that present peptides to T cells; certain alleles are linked to autoimmune disease.", "syn": [], "abbr": ["HLA"]}
+{"id": 16568, "skip": "ambiguous"}
+{"id": 16569, "term": "Blood urea nitrogen", "def": "A blood measure of urea; raised in kidney failure, dehydration and gastrointestinal bleeding.", "syn": [], "abbr": ["BUN"]}
+{"id": 16570, "term": "Sulfamethoxazole", "def": "A sulfonamide antibiotic that inhibits dihydropteroate synthase, usually combined with trimethoprim.", "syn": [], "abbr": ["SMX"]}
+{"id": 16571, "term": "Erythropoietin", "def": "A kidney hormone that stimulates red blood cell production in response to hypoxia.", "syn": [], "abbr": ["EPO"]}
+{"id": 16572, "term": "Methicillin-resistant Staphylococcus aureus", "def": "A Staphylococcus aureus strain resistant to beta-lactams through altered penicillin-binding protein (mecA); treated with vancomycin.", "syn": [], "abbr": ["MRSA"]}
+{"id": 16573, "term": "REM sleep", "def": "Rapid eye movement sleep, with vivid dreams, loss of muscle tone and an active EEG.", "syn": [], "abbr": ["REM"]}
+{"id": 16574, "term": "Varicella-zoster virus", "def": "A herpesvirus causing chickenpox and, on reactivation, shingles.", "syn": [], "abbr": ["VZV"]}
+{"id": 16575, "term": "Right upper quadrant", "def": "The upper right region of the abdomen, containing the liver, gallbladder and part of the colon.", "syn": [], "abbr": ["RUQ"]}
+{"id": 16576, "skip": "ambiguous"}
+{"id": 16577, "term": "Arterial partial pressure of oxygen", "def": "The pressure of oxygen dissolved in arterial blood, normally about 80-100 mmHg.", "syn": [], "abbr": ["PaO2"]}
+{"id": 16578, "term": "Glucose-6-phosphate dehydrogenase", "def": "The first enzyme of the pentose phosphate pathway that makes NADPH; deficiency causes oxidative hemolysis with Heinz bodies.", "syn": [], "abbr": ["G6PD"]}
+{"id": 16579, "skip": "ambiguous"}
+{"id": 16580, "skip": "ambiguous"}
+{"id": 16581, "term": "Tricyclic antidepressants", "def": "Antidepressants such as amitriptyline and nortriptyline that block norepinephrine and serotonin reuptake; overdose causes arrhythmias and anticholinergic toxicity.", "syn": [], "abbr": ["TCAs"]}
+{"id": 16582, "term": "Alpha-fetoprotein", "def": "A fetal protein; raised in hepatocellular carcinoma, yolk sac tumors and neural tube defects, and low in Down syndrome.", "syn": [], "abbr": ["AFP"]}
+{"id": 16583, "skip": "ambiguous"}
+{"id": 16584, "term": "Alanine aminotransferase", "def": "A liver enzyme whose rise in serum indicates hepatocellular injury.", "syn": [], "abbr": ["ALT"]}
+{"id": 16585, "term": "Major histocompatibility complex", "def": "The genes encoding the cell-surface molecules that present antigens to T cells.", "syn": [], "abbr": ["MHC"]}
+{"id": 16586, "term": "Gamma-aminobutyric acid", "def": "The main inhibitory neurotransmitter in the brain.", "syn": [], "abbr": ["GABA"]}
+{"id": 16587, "term": "Gastroesophageal reflux disease", "def": "Reflux of stomach acid into the esophagus causing heartburn, with risk of Barrett esophagus.", "syn": [], "abbr": ["GERD"]}
+{"id": 16588, "term": "High-density lipoprotein", "def": "The lipoprotein that carries cholesterol from tissues back to the liver; high levels are protective.", "syn": [], "abbr": ["HDL"]}
+{"id": 16589, "term": "Renin-angiotensin-aldosterone system", "def": "The hormonal cascade that raises blood pressure and sodium retention via angiotensin II and aldosterone.", "syn": [], "abbr": ["RAAS"]}
+{"id": 16590, "term": "Human herpesvirus", "def": "One of the herpesviruses infecting humans, numbered HHV-1 to HHV-8.", "syn": [], "abbr": ["HHV"]}
+{"id": 16591, "term": "Chronic kidney disease", "def": "Persistent loss of kidney function or kidney damage for over 3 months.", "syn": [], "abbr": ["CKD"]}
+{"id": 16592, "skip": "obvious"}
+{"id": 16593, "term": "Benign prostatic hyperplasia", "def": "Noncancerous prostate enlargement in older men causing urinary hesitancy and nocturia.", "syn": [], "abbr": ["BPH"]}
+{"id": 16594, "term": "Urinary tract infections", "def": "Infections of the bladder, urethra or kidneys, most often by E. coli.", "syn": [], "abbr": ["UTIs"]}
+{"id": 16595, "skip": "ambiguous"}
+{"id": 16596, "term": "Group A Streptococcus", "def": "Streptococcus pyogenes, a beta-hemolytic bacterium causing pharyngitis, skin infection and rheumatic fever.", "syn": [], "abbr": ["GAS"]}
+{"id": 16597, "term": "Ventricular septal defect", "def": "A congenital hole in the wall between the ventricles, the commonest congenital heart defect.", "syn": [], "abbr": ["VSD"]}
+{"id": 16598, "term": "Inferior vena cava", "def": "The large vein returning blood from the lower body to the right atrium.", "syn": [], "abbr": ["IVC"]}
+{"id": 16599, "term": "Inflammatory bowel disease", "def": "Crohn disease and ulcerative colitis, chronic relapsing intestinal inflammation.", "syn": [], "abbr": ["IBD"]}
+{"id": 16600, "term": "Partial thromboplastin time", "def": "A clotting test of the intrinsic pathway, prolonged by heparin and deficiencies of factors VIII, IX, XI and XII.", "syn": [], "abbr": ["PTT"]}
+{"id": 16601, "term": "Systemic vascular resistance", "def": "The resistance to blood flow of the systemic circulation, set mainly by arteriolar tone.", "syn": [], "abbr": ["SVR"]}
+{"id": 16602, "skip": "ambiguous"}
+{"id": 16603, "term": "Neonatal respiratory distress syndrome", "def": "Surfactant deficiency in premature infants causing atelectasis and hyaline membranes.", "syn": [], "abbr": ["NRDS"]}
+{"id": 16604, "term": "Calcium channel blockers", "def": "Drugs such as amlodipine, verapamil and diltiazem that block L-type calcium channels, lowering vascular tone or slowing the heart.", "syn": [], "abbr": ["CCBs"]}
+{"id": 16605, "term": "Angiotensin receptor blockers", "def": "Drugs such as losartan that block the AT1 receptor, lowering blood pressure without raising bradykinin.", "syn": [], "abbr": ["ARBs"]}
+{"id": 16606, "term": "Hepatitis C virus", "def": "An RNA virus causing chronic hepatitis, cirrhosis and hepatocellular carcinoma, spread by blood.", "syn": [], "abbr": ["HCV"]}
+{"id": 16607, "term": "Transforming growth factor", "def": "A cytokine family; TGF-beta suppresses immune responses and drives fibrosis.", "syn": [], "abbr": ["TGF"]}
+{"id": 16608, "term": "Renal tubular acidosis", "def": "Impaired renal acid excretion or bicarbonate reabsorption causing normal anion gap metabolic acidosis.", "syn": [], "abbr": ["RTA"]}
+{"id": 16609, "skip": "ambiguous"}
+{"id": 16610, "skip": "ambiguous"}
+{"id": 16611, "term": "Liver function tests", "def": "Blood tests of liver injury and synthetic function, including AST, ALT, bilirubin, albumin and INR.", "syn": [], "abbr": ["LFTs"]}
+{"id": 16612, "term": "Polymerase chain reaction", "def": "A technique that amplifies a specific DNA sequence by repeated cycles of heating, primer annealing and extension.", "syn": [], "abbr": ["PCR"]}
+{"id": 16613, "skip": "ambiguous"}
+{"id": 16614, "term": "Arterial partial pressure of carbon dioxide", "def": "The pressure of CO2 in arterial blood, normally about 35-45 mmHg; reflects ventilation.", "syn": [], "abbr": ["PaCO2"]}
+{"id": 16615, "skip": "ambiguous"}
+{"id": 16616, "skip": "not-medical"}
+{"id": 16617, "term": "Proton pump inhibitors", "def": "Drugs such as omeprazole that irreversibly block the gastric H+/K+ ATPase, reducing acid secretion.", "syn": [], "abbr": ["PPIs"]}
+{"id": 16618, "term": "CD8", "def": "A glycoprotein on cytotoxic T cells that binds MHC class I.", "syn": [], "abbr": ["CD8"]}
+{"id": 16619, "term": "United States Preventive Services Task Force", "def": "An expert panel that issues graded recommendations on screening and preventive care.", "syn": [], "abbr": ["USPSTF"]}
+{"id": 16620, "skip": "ambiguous"}
+{"id": 16621, "skip": "ambiguous"}
+{"id": 16622, "term": "Highly active antiretroviral therapy", "def": "Combination drug treatment of HIV with three or more agents to suppress viral replication.", "syn": [], "abbr": ["HAART"]}
+{"id": 16623, "skip": "ambiguous"}
+{"id": 16624, "skip": "ambiguous"}
+{"id": 16625, "skip": "ambiguous"}
+{"id": 16626, "term": "Acute kidney injury", "def": "A rapid decline in kidney function, classified as prerenal, intrinsic or postrenal.", "syn": [], "abbr": ["AKI"]}
+{"id": 16627, "skip": "ambiguous"}
+{"id": 16628, "term": "Body mass index", "def": "Weight in kilograms divided by height in meters squared; used to classify underweight, overweight and obesity.", "syn": [], "abbr": ["BMI"]}
+{"id": 16629, "term": "Aspartate aminotransferase", "def": "An enzyme in liver, heart and muscle; raised in hepatocellular injury, with AST greater than ALT in alcoholic hepatitis.", "syn": [], "abbr": ["AST"]}
+{"id": 16630, "skip": "ambiguous"}
+{"id": 16631, "term": "Severe combined immunodeficiency", "def": "Absent T-cell function, usually with absent B-cell function, causing severe infections in infancy.", "syn": [], "abbr": ["SCID"]}
+{"id": 16632, "term": "Serotonin-norepinephrine reuptake inhibitors", "def": "Antidepressants such as venlafaxine and duloxetine that block serotonin and norepinephrine transporters.", "syn": [], "abbr": ["SNRIs"]}
+{"id": 16633, "term": "Creatine kinase", "def": "An enzyme in muscle and heart; raised in myocardial infarction and rhabdomyolysis.", "syn": [], "abbr": ["CK"]}
+{"id": 16634, "term": "NADH", "def": "The reduced form of nicotinamide adenine dinucleotide, a carrier of electrons to the electron transport chain.", "syn": [], "abbr": ["NADH"]}
+{"id": 16635, "term": "Intracellular fluid", "def": "The body water inside cells, about two thirds of total body water.", "syn": [], "abbr": ["ICF"]}
+{"id": 16636, "skip": "ambiguous"}
+{"id": 16637, "term": "Nonsteroidal anti-inflammatory drugs", "def": "Drugs such as ibuprofen that inhibit cyclooxygenase, reducing prostaglandin synthesis.", "syn": [], "abbr": ["NSAIDs", "NSAID"]}
+{"id": 16638, "term": "Erythrocyte sedimentation rate", "def": "The rate red cells settle in a tube; a nonspecific marker of inflammation.", "syn": [], "abbr": ["ESR"]}
+{"id": 16639, "skip": "ambiguous"}
+{"id": 16640, "skip": "ambiguous"}
+{"id": 16641, "term": "Distal convoluted tubule", "def": "The nephron segment after the loop of Henle where thiazides block Na-Cl reabsorption and PTH increases calcium reabsorption.", "syn": [], "abbr": ["DCT"]}
+{"id": 16642, "skip": "ambiguous"}
+{"id": 16643, "skip": "ambiguous"}
+{"id": 16644, "skip": "ambiguous"}
+{"id": 16645, "term": "Propylthiouracil", "def": "An antithyroid drug that blocks thyroid peroxidase and peripheral T4-to-T3 conversion; can cause hepatotoxicity.", "syn": [], "abbr": ["PTU"]}
+{"id": 16646, "term": "Fetal hemoglobin", "def": "The predominant hemoglobin of the fetus (alpha2gamma2) with high oxygen affinity; raised by hydroxyurea in sickle cell disease.", "syn": [], "abbr": ["HbF"]}
+{"id": 16647, "term": "Electroencephalogram", "def": "A recording of the brain's electrical activity from scalp electrodes.", "syn": [], "abbr": ["EEG"]}
+{"id": 16648, "term": "Coronary artery disease", "def": "Atherosclerotic narrowing of the coronary arteries causing angina and myocardial infarction.", "syn": [], "abbr": ["CAD"]}
+{"id": 16649, "term": "Proton pump inhibitor", "def": "A drug such as omeprazole that irreversibly blocks the gastric H+/K+ ATPase, reducing acid secretion.", "syn": [], "abbr": ["PPI"]}
+{"id": 16650, "term": "Growth hormone", "def": "A pituitary hormone that stimulates growth through IGF-1; excess causes acromegaly or gigantism.", "syn": [], "abbr": ["GH"]}
+{"id": 16651, "skip": "ambiguous"}
+{"id": 16652, "term": "Lactate dehydrogenase", "def": "An enzyme released with cell damage; raised in hemolysis, myocardial infarction and some tumors.", "syn": [], "abbr": ["LDH"]}
+{"id": 16653, "term": "Immune thrombocytopenia", "def": "Autoimmune platelet destruction by antiplatelet antibodies, causing mucosal bleeding and petechiae.", "syn": [], "abbr": ["ITP"]}
+{"id": 16654, "term": "Diabetic ketoacidosis", "def": "Insulin deficiency with hyperglycemia, ketone production and anion gap metabolic acidosis, mainly in type 1 diabetes.", "syn": [], "abbr": ["DKA"]}
+{"id": 16655, "term": "Fetal growth restriction", "def": "Failure of a fetus to reach its growth potential, usually estimated weight below the 10th percentile.", "syn": [], "abbr": ["FGR"]}
+{"id": 16656, "term": "Guanosine triphosphate", "def": "A nucleotide used for protein synthesis and as the energy source for G proteins.", "syn": [], "abbr": ["GTP"]}
+{"id": 16657, "term": "Atrial natriuretic peptide", "def": "A hormone released from stretched atria that promotes sodium and water excretion and vasodilation.", "syn": [], "abbr": ["ANP"]}
+{"id": 16658, "term": "Alkaline phosphatase", "def": "An enzyme in bile ducts and bone; raised in cholestasis and bone disease.", "syn": [], "abbr": ["ALP"]}
+{"id": 16659, "term": "Vascular endothelial growth factor", "def": "A growth factor that drives angiogenesis; targeted by bevacizumab and ranibizumab.", "syn": [], "abbr": ["VEGF"]}
+{"id": 16660, "term": "Very-low-density lipoprotein", "def": "A liver-made lipoprotein that carries endogenous triglycerides to tissues.", "syn": [], "abbr": ["VLDL"]}
+{"id": 16661, "skip": "ambiguous"}
+{"id": 16662, "skip": "ambiguous"}
+{"id": 16663, "term": "Cytochrome P450", "def": "A family of liver enzymes that metabolize most drugs; inducers and inhibitors cause drug interactions.", "syn": [], "abbr": ["CYP450"]}
+{"id": 16664, "term": "Monoamine oxidase", "def": "An enzyme that degrades monoamine neurotransmitters; inhibited by drugs such as phenelzine and selegiline.", "syn": [], "abbr": ["MAO"]}
+{"id": 16665, "skip": "ambiguous"}
+{"id": 16666, "term": "Jugular venous distension", "def": "Visible bulging of the neck veins from raised right atrial pressure, as in heart failure or tamponade.", "syn": [], "abbr": ["JVD"]}
+{"id": 16667, "skip": "ambiguous"}
+{"id": 16668, "term": "NADPH", "def": "The reduced form of NADP+, the reducing agent for biosynthesis and for the respiratory burst.", "syn": [], "abbr": ["NADPH"]}
+{"id": 16669, "skip": "ambiguous"}
+{"id": 16670, "skip": "obvious"}
+{"id": 16671, "term": "Phosphodiesterase", "def": "An enzyme that breaks down cAMP or cGMP; inhibited by sildenafil (PDE5) and theophylline.", "syn": [], "abbr": ["PDE"]}
+{"id": 16672, "skip": "ambiguous"}
+{"id": 16673, "skip": "ambiguous"}
+{"id": 16674, "term": "Ammonium", "def": "The protonated form of ammonia, excreted in urine by the kidney as a way of eliminating acid.", "syn": [], "abbr": ["NH4"]}
+{"id": 16675, "term": "Nucleoside reverse transcriptase inhibitors", "def": "HIV drugs such as zidovudine, lamivudine and tenofovir that terminate the growing viral DNA chain.", "syn": [], "abbr": ["NRTIs"]}
+{"id": 16676, "term": "Insulin-like growth factor", "def": "A growth hormone-induced peptide that promotes growth; IGF-1 is made by the liver.", "syn": [], "abbr": ["IGF"]}
+{"id": 16677, "term": "Type 1 diabetes mellitus", "def": "Autoimmune destruction of pancreatic beta cells causing absolute insulin deficiency.", "syn": [], "abbr": ["T1DM"]}
+{"id": 16678, "term": "Positive end-expiratory pressure", "def": "Pressure kept in the airway at the end of exhalation during ventilation to prevent alveolar collapse.", "syn": [], "abbr": ["PEEP"]}
+{"id": 16679, "skip": "ambiguous"}
+{"id": 16680, "term": "Attention-deficit/hyperactivity disorder", "def": "A neurodevelopmental disorder of inattention, hyperactivity and impulsivity, treated with stimulants.", "syn": [], "abbr": ["ADHD"]}
+{"id": 16681, "term": "Upper motor neuron", "def": "A motor neuron of the cortex or brainstem; lesions cause spasticity, hyperreflexia and a Babinski sign.", "syn": [], "abbr": ["UMN"]}
+{"id": 16682, "skip": "ambiguous"}
+{"id": 16683, "term": "Intravenous immunoglobulin", "def": "Pooled human antibodies given intravenously for immunodeficiency and autoimmune diseases such as ITP and Kawasaki disease.", "syn": [], "abbr": ["IVIG"]}
+{"id": 16684, "term": "Partial pressure of carbon dioxide", "def": "The pressure exerted by CO2 in blood or gas.", "syn": [], "abbr": ["PCO2"]}
+{"id": 16685, "term": "Pulmonary capillary wedge pressure", "def": "A catheter-measured pressure that estimates left atrial pressure.", "syn": [], "abbr": ["PCWP"]}
+{"id": 16686, "skip": "ambiguous"}
+{"id": 16687, "term": "ST-elevation myocardial infarction", "def": "A heart attack with ST-segment elevation on ECG from complete coronary occlusion.", "syn": [], "abbr": ["STEMI"]}
+{"id": 16688, "skip": "ambiguous"}
+{"id": 16689, "term": "Hemolytic-uremic syndrome", "def": "Hemolytic anemia, thrombocytopenia and kidney injury, classically after Shiga toxin E. coli infection.", "syn": [], "abbr": ["HUS"]}
+{"id": 16690, "term": "Short-acting beta agonist", "def": "An inhaled bronchodilator such as albuterol used for quick relief of asthma.", "syn": [], "abbr": ["SABA"]}
+{"id": 16691, "term": "Poststreptococcal glomerulonephritis", "def": "Immune complex kidney inflammation 1-3 weeks after group A streptococcal infection, with hematuria, hypertension and low C3.", "syn": [], "abbr": ["PSGN"]}
+{"id": 16692, "term": "Slipped capital femoral epiphysis", "def": "Displacement of the femoral head at the growth plate in obese adolescents, causing hip or knee pain and a limp.", "syn": [], "abbr": ["SCFE"]}
+{"id": 16693, "term": "Peripheral artery disease", "def": "Atherosclerotic narrowing of limb arteries causing claudication.", "syn": [], "abbr": ["PAD"]}
+{"id": 16694, "term": "Intrauterine device", "def": "A small device placed in the uterus for long-term contraception, copper or hormonal.", "syn": [], "abbr": ["IUD"]}
+{"id": 16695, "term": "Complete blood count", "def": "A blood test of red cells, white cells and platelets.", "syn": [], "abbr": ["CBC"]}
+{"id": 16696, "skip": "ambiguous"}
+{"id": 16697, "term": "Primary biliary cholangitis", "def": "Autoimmune destruction of small bile ducts with anti-mitochondrial antibodies, causing cholestasis in middle-aged women.", "syn": [], "abbr": ["PBC"]}
+{"id": 16698, "skip": "ambiguous"}
+{"id": 16699, "term": "Ejection fraction", "def": "The percentage of end-diastolic ventricular volume ejected with each beat; normally above 55%.", "syn": [], "abbr": ["EF"]}
+{"id": 16700, "skip": "ambiguous"}
+{"id": 16701, "term": "Forced expiratory volume in one second", "def": "The volume exhaled in the first second of a forced breath; reduced in obstructive lung disease.", "syn": [], "abbr": ["FEV1"]}
+{"id": 16702, "skip": "ambiguous"}
+{"id": 16703, "skip": "ambiguous"}
+{"id": 16704, "skip": "ambiguous"}
+{"id": 16705, "term": "Chronic lymphocytic leukemia", "def": "A leukemia of mature B cells in older adults with smudge cells; usually CD5 and CD20 positive.", "syn": [], "abbr": ["CLL"]}
+{"id": 16706, "term": "Esophagogastroduodenoscopy", "def": "Endoscopic examination of the esophagus, stomach and duodenum.", "syn": [], "abbr": ["EGD"]}
+{"id": 16707, "term": "Selective serotonin reuptake inhibitor", "def": "An antidepressant such as fluoxetine or sertraline that blocks the serotonin transporter; side effects include sexual dysfunction and serotonin syndrome.", "syn": [], "abbr": ["SSRI"]}
+{"id": 16708, "skip": "ambiguous"}
+{"id": 16709, "term": "Mitral valve prolapse", "def": "Billowing of the mitral leaflets into the left atrium in systole, causing a midsystolic click.", "syn": [], "abbr": ["MVP"]}
+{"id": 16710, "skip": "ambiguous"}
+{"id": 16711, "skip": "ambiguous"}
+{"id": 16712, "skip": "ambiguous"}
+{"id": 16713, "term": "CD20", "def": "A B-cell surface marker targeted by rituximab.", "syn": [], "abbr": ["CD20"]}
+{"id": 16714, "skip": "ambiguous"}
+{"id": 16715, "term": "Cholecystokinin", "def": "A duodenal hormone that stimulates gallbladder contraction and pancreatic enzyme secretion.", "syn": [], "abbr": ["CCK"]}
+{"id": 16716, "term": "Dihydrotestosterone", "def": "A potent androgen made from testosterone by 5-alpha-reductase, responsible for male external genital development and prostate growth.", "syn": [], "abbr": ["DHT"]}
+{"id": 16717, "term": "Platelet-derived growth factor", "def": "A growth factor released by platelets that stimulates fibroblast and smooth muscle proliferation.", "syn": [], "abbr": ["PDGF"]}
+{"id": 16718, "term": "Functional residual capacity", "def": "The lung volume remaining after a normal exhalation, where chest wall and lung recoil balance.", "syn": [], "abbr": ["FRC"]}
+{"id": 16719, "term": "Thrombotic thrombocytopenic purpura", "def": "Microangiopathic hemolytic anemia from ADAMTS13 deficiency, with thrombocytopenia, fever, neurologic and renal signs.", "syn": [], "abbr": ["TTP"]}
+{"id": 16720, "term": "Antinuclear antibodies", "def": "Autoantibodies against nuclear components, a screening test for lupus and other autoimmune diseases.", "syn": [], "abbr": ["ANA"]}
+{"id": 16721, "skip": "ambiguous"}
+{"id": 16722, "skip": "not-medical"}
+{"id": 16723, "term": "Preterm premature rupture of membranes", "def": "Rupture of the fetal membranes before labor and before 37 weeks.", "syn": [], "abbr": ["PPROM"]}
+{"id": 16724, "term": "Transvaginal ultrasound", "def": "Ultrasound with a probe in the vagina, giving close views of the uterus, ovaries and early pregnancy.", "syn": [], "abbr": ["TVUS"]}
+{"id": 16725, "term": "Prostaglandin E1", "def": "A vasodilating prostaglandin that keeps the ductus arteriosus open; alprostadil.", "syn": [], "abbr": ["PGE1"]}
+{"id": 16726, "term": "Corticotropin-releasing hormone", "def": "A hypothalamic hormone that stimulates ACTH release.", "syn": [], "abbr": ["CRH"]}
+{"id": 16727, "skip": "ambiguous"}
+{"id": 16728, "skip": "ambiguous"}
+{"id": 16729, "term": "Chronic myeloid leukemia", "def": "A leukemia with the Philadelphia chromosome t(9;22) and BCR-ABL, treated with imatinib.", "syn": [], "abbr": ["CML"]}
+{"id": 16730, "term": "Forced vital capacity", "def": "The total volume exhaled forcibly after full inspiration; reduced in restrictive disease.", "syn": [], "abbr": ["FVC"]}
+{"id": 16731, "term": "Upper respiratory infection", "def": "Viral infection of the nose, throat and sinuses, the common cold.", "syn": [], "abbr": ["URI"]}
+{"id": 16732, "term": "Hexose monophosphate shunt", "def": "The pentose phosphate pathway, which generates NADPH and ribose.", "syn": [], "abbr": ["HMP"]}
+{"id": 16733, "skip": "ambiguous"}
+{"id": 16734, "term": "Small bowel obstruction", "def": "Blockage of the small intestine, most often by adhesions, causing vomiting and distension.", "syn": [], "abbr": ["SBO"]}
+{"id": 16735, "term": "Lipopolysaccharide", "def": "The endotoxin of Gram-negative outer membranes that triggers fever and septic shock.", "syn": [], "abbr": ["LPS"]}
+{"id": 16736, "skip": "ambiguous"}
+{"id": 16737, "skip": "ambiguous"}
+{"id": 16738, "skip": "ambiguous"}
+{"id": 16739, "skip": "ambiguous"}
+{"id": 16740, "term": "Hyperosmolar hyperglycemic state", "def": "Very high glucose and plasma osmolality without significant ketosis, mainly in type 2 diabetes.", "syn": [], "abbr": ["HHS"]}
+{"id": 16741, "term": "Type 2 diabetes mellitus", "def": "Insulin resistance with relative insulin deficiency, usually with obesity.", "syn": [], "abbr": ["T2DM"]}
+{"id": 16742, "skip": "ambiguous"}
+{"id": 16743, "term": "BRCA1", "def": "A tumor suppressor gene for DNA repair on chromosome 17; mutations raise breast and ovarian cancer risk.", "syn": [], "abbr": ["BRCA1"]}
+{"id": 16744, "term": "Prostate-specific antigen", "def": "A protease made by prostate cells, raised in prostate cancer, BPH and prostatitis.", "syn": [], "abbr": ["PSA"]}
+{"id": 16745, "term": "Prostaglandin E2", "def": "A prostaglandin that causes fever, vasodilation, cervical ripening and gastric protection.", "syn": [], "abbr": ["PGE2"]}
+{"id": 16746, "term": "Membranoproliferative glomerulonephritis", "def": "Glomerular disease with mesangial proliferation and basement membrane thickening, producing tram-track appearance.", "syn": [], "abbr": ["MPGN"]}
+{"id": 16747, "term": "Diffusing capacity of the lung for carbon monoxide", "def": "A measure of gas transfer across the alveolar-capillary membrane; reduced in emphysema and fibrosis.", "syn": [], "abbr": ["DLCO"]}
+{"id": 16748, "term": "Low-molecular-weight heparin", "def": "Anticoagulants such as enoxaparin that mainly inhibit factor Xa and need less monitoring than unfractionated heparin.", "syn": [], "abbr": ["LMWH"]}
+{"id": 16749, "term": "Deep tendon reflexes", "def": "Muscle stretch reflexes such as the knee and ankle jerks, graded 0 to 4+.", "syn": [], "abbr": ["DTRs"]}

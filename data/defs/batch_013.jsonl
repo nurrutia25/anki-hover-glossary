@@ -1,0 +1,250 @@
+{"id": 3250, "term": "Aripiprazole", "def": "An atypical antipsychotic that acts as a partial agonist at dopamine D2 and serotonin 5-HT1A receptors. Used for schizophrenia and bipolar disorder; less weight gain and prolactin elevation than other atypicals.", "syn": [], "abbr": []}
+{"id": 3251, "skip": "obvious"}
+{"id": 3252, "term": "Phencyclidine", "def": "A dissociative anesthetic drug of abuse that blocks NMDA glutamate receptors. Intoxication causes agitation, violent behavior, nystagmus and hallucinations. Similar in action to ketamine.", "syn": ["angel dust"], "abbr": ["PCP"]}
+{"id": 3253, "term": "Odds ratio", "def": "The odds of exposure in cases divided by the odds of exposure in controls. It is the measure of association in case-control studies and approximates relative risk when the disease is rare.", "syn": [], "abbr": []}
+{"id": 3254, "skip": "obvious"}
+{"id": 3255, "term": "Cytotoxic T cells", "def": "CD8-positive T lymphocytes that recognize antigen on MHC class I and kill infected or tumor cells by releasing perforin and granzymes, which trigger apoptosis.", "syn": ["cytotoxic T lymphocytes"], "abbr": []}
+{"id": 3256, "term": "CD40 ligand", "def": "A protein on activated helper T cells that binds CD40 on B cells to drive isotype class switching. Defective in X-linked hyper-IgM syndrome.", "syn": ["CD40L"], "abbr": ["CD40L"]}
+{"id": 3257, "term": "Humoral immunity", "def": "The arm of adaptive immunity carried out by antibodies secreted by B cells and plasma cells, mainly defending against extracellular microbes and toxins.", "syn": ["humoral immune response"], "abbr": []}
+{"id": 3258, "term": "Varicella vaccine", "def": "A live attenuated vaccine against varicella-zoster virus, given in two doses in childhood. Contraindicated in pregnancy and severe immunodeficiency.", "syn": ["Varivax", "chickenpox vaccine"], "abbr": []}
+{"id": 3259, "term": "Subunit vaccine", "def": "A vaccine made of purified viral or bacterial components (such as a surface protein) instead of the whole organism, so it cannot cause infection. Examples are hepatitis B and HPV vaccines.", "syn": ["subunit vaccines"], "abbr": []}
+{"id": 3260, "term": "Typhoid fever", "def": "A systemic illness caused by Salmonella typhi, spread by contaminated food and water. Features sustained fever, rose spots, relative bradycardia and bowel perforation; carriers harbor bacteria in the gallbladder.", "syn": ["typhoid", "enteric fever"], "abbr": []}
+{"id": 3261, "term": "Myositis", "def": "Inflammation of skeletal muscle causing proximal weakness and elevated creatine kinase. Includes polymyositis, dermatomyositis and inclusion body myositis.", "syn": ["inflammatory myopathy", "inflammatory myopathies"], "abbr": []}
+{"id": 3262, "term": "Hyper-IgM syndrome", "def": "An immunodeficiency, often from CD40 ligand defects, where B cells cannot class switch. Patients have high IgM but low IgG, IgA and IgE and suffer recurrent bacterial infections.", "syn": ["hyper-IgM immunodeficiency"], "abbr": []}
+{"id": 3263, "term": "Wiskott-Aldrich syndrome", "def": "An X-linked immunodeficiency from a WAS gene mutation causing the triad of eczema, thrombocytopenia with small platelets, and recurrent infections.", "syn": [], "abbr": ["WAS"]}
+{"id": 3264, "term": "Antiphospholipid antibodies", "def": "Autoantibodies against phospholipid-binding proteins (anticardiolipin, lupus anticoagulant, anti-beta-2 glycoprotein I). They cause venous and arterial clots and pregnancy loss, and prolong the aPTT.", "syn": ["antiphospholipid antibody"], "abbr": []}
+{"id": 3265, "term": "Topoisomerase I", "def": "An enzyme that relieves DNA supercoiling by making single-strand breaks. Inhibited by irinotecan and topotecan; autoantibodies to it occur in diffuse systemic sclerosis.", "syn": ["DNA topoisomerase I", "DNA topoisomerase"], "abbr": []}
+{"id": 3266, "term": "Osteoid osteoma", "def": "A small benign bone-forming tumor with a central nidus, most often in the long bones of young people. Causes night pain that is relieved by NSAIDs.", "syn": [], "abbr": []}
+{"id": 3267, "term": "Chondrosarcoma", "def": "A malignant cartilage-producing tumor of the pelvis, femur and shoulder in middle-aged adults. Histology shows atypical chondrocytes in a cartilage matrix; it resists chemotherapy.", "syn": ["chondrosarcomas"], "abbr": []}
+{"id": 3268, "term": "Spondyloarthropathy", "def": "A group of HLA-B27-associated inflammatory arthritides involving the spine and sacroiliac joints, without rheumatoid factor. Includes ankylosing spondylitis, psoriatic and reactive arthritis.", "syn": ["spondyloarthropathies", "spondylarthropathies"], "abbr": []}
+{"id": 3269, "term": "Dystrophin", "def": "A large cytoskeletal protein that links the muscle cell membrane to actin. Absent in Duchenne and defective in Becker muscular dystrophy (X-linked).", "syn": [], "abbr": []}
+{"id": 3270, "term": "Actinic keratosis", "def": "A rough, scaly precancerous skin patch on sun-exposed skin caused by UV damage. It can progress to squamous cell carcinoma.", "syn": ["actinic keratoses"], "abbr": []}
+{"id": 3271, "term": "Staphylococcal scalded skin syndrome", "def": "Widespread skin blistering and peeling caused by Staphylococcus aureus exfoliative toxins that cleave desmoglein-1. Seen in infants and children; positive Nikolsky sign, with mucosa spared.", "syn": [], "abbr": ["SSSS"]}
+{"id": 3272, "term": "Fondaparinux", "def": "A synthetic anticoagulant that indirectly inhibits factor Xa by binding antithrombin. Given subcutaneously; does not cause heparin-induced thrombocytopenia but is cleared by the kidney.", "syn": [], "abbr": []}
+{"id": 3273, "term": "Piperacillin-tazobactam", "def": "A broad-spectrum combination of an extended-spectrum penicillin with a beta-lactamase inhibitor. Covers Pseudomonas, anaerobes and many gram-negative rods.", "syn": ["piperacillin tazobactam", "Zosyn"], "abbr": []}
+{"id": 3274, "term": "Ceftaroline", "def": "A fifth-generation cephalosporin that binds PBP2a, so it is active against MRSA and many gram-negative bacteria. Not active against Pseudomonas.", "syn": [], "abbr": []}
+{"id": 3275, "term": "Focused assessment with sonography for trauma", "def": "A rapid bedside ultrasound of the pericardium, hepatorenal pouch, splenorenal space and pelvis looking for free fluid in blunt abdominal trauma.", "syn": ["FAST exam"], "abbr": ["FAST"]}
+{"id": 3276, "skip": "obvious"}
+{"id": 3277, "skip": "obvious"}
+{"id": 3278, "term": "Lymphadenectomy", "def": "Surgical removal of lymph nodes, done to stage or treat cancer. A complication is lymphedema in the drained region.", "syn": ["lymph node dissection", "lymph node excision"], "abbr": []}
+{"id": 3279, "term": "Intrahepatic cholestasis", "def": "Impaired bile flow arising within the liver, producing conjugated hyperbilirubinemia, itching and raised alkaline phosphatase. Seen with drugs, pregnancy and primary biliary cholangitis.", "syn": [], "abbr": []}
+{"id": 3280, "term": "Retinoids", "def": "Vitamin A derivatives that bind nuclear retinoic acid receptors. Used for acne (isotretinoin) and leukemia (tretinoin); they are strongly teratogenic.", "syn": ["retinoid"], "abbr": []}
+{"id": 3281, "term": "Trastuzumab", "def": "A monoclonal antibody against HER2/neu used for HER2-positive breast and gastric cancer. Its main toxicity is cardiomyopathy.", "syn": ["Herceptin"], "abbr": []}
+{"id": 3282, "term": "Taxanes", "def": "Chemotherapy drugs (paclitaxel, docetaxel) that stabilize microtubules and block mitosis in M phase. Toxicities include neutropenia and peripheral neuropathy.", "syn": ["taxoids"], "abbr": []}
+{"id": 3283, "term": "Moxifloxacin", "def": "A respiratory fluoroquinolone that inhibits DNA gyrase and topoisomerase IV. Covers anaerobes and atypicals; risks are tendon rupture and QT prolongation.", "syn": [], "abbr": []}
+{"id": 3284, "term": "Perineum", "def": "The diamond-shaped region between the pubic symphysis and coccyx, containing the urogenital and anal triangles that hold the external genitalia and anus.", "syn": [], "abbr": []}
+{"id": 3285, "term": "Amebiasis", "def": "Infection with Entamoeba histolytica, acquired by fecal-oral cyst ingestion. Causes bloody dysentery and liver abscesses; treated with metronidazole.", "syn": [], "abbr": []}
+{"id": 3286, "term": "Paromomycin", "def": "An aminoglycoside that is not absorbed from the gut. Used to treat intestinal amebiasis and Cryptosporidium and Giardia in pregnancy.", "syn": [], "abbr": []}
+{"id": 3287, "term": "Budding yeast", "def": "Single-celled fungi, such as Saccharomyces and Candida, that reproduce by forming daughter buds from the parent cell.", "syn": [], "abbr": []}
+{"id": 3288, "term": "Epidemic typhus", "def": "Louse-borne illness caused by Rickettsia prowazekii. Causes fever and a rash that begins on the trunk and spreads outward, sparing palms and soles.", "syn": ["typhus"], "abbr": []}
+{"id": 3289, "term": "Caspofungin", "def": "An echinocandin antifungal that inhibits beta-glucan synthesis in the fungal cell wall. Active against Candida and Aspergillus; given IV.", "syn": [], "abbr": []}
+{"id": 3290, "term": "Bacitracin", "def": "A polypeptide antibiotic that blocks bacterial cell wall synthesis. Used topically because it is nephrotoxic systemically.", "syn": [], "abbr": []}
+{"id": 3291, "term": "Chancroid", "def": "A sexually transmitted infection caused by Haemophilus ducreyi, producing a painful genital ulcer with tender inguinal lymph nodes.", "syn": [], "abbr": []}
+{"id": 3292, "term": "Congenital syphilis", "def": "Syphilis passed across the placenta to the fetus. Signs include saddle nose, Hutchinson teeth, mulberry molars, saber shins and sensorineural deafness.", "syn": ["Hutchinson teeth"], "abbr": []}
+{"id": 3293, "term": "Leptospirosis", "def": "A spirochete infection (Leptospira) from water contaminated by animal urine. Severe form (Weil disease) causes jaundice, kidney failure and bleeding.", "syn": [], "abbr": []}
+{"id": 3294, "term": "Virion", "def": "A complete, infectious viral particle outside a host cell, consisting of nucleic acid in a protein capsid, sometimes with an envelope.", "syn": ["virions"], "abbr": []}
+{"id": 3295, "term": "B virus", "def": "A herpesvirus of macaque monkeys (Cercopithecine herpesvirus 1) that can cause fatal encephalitis in humans after bites or scratches.", "syn": [], "abbr": []}
+{"id": 3296, "term": "Hepatitis B virus", "def": "A partially double-stranded DNA virus of the Hepadnaviridae that replicates through an RNA intermediate using reverse transcriptase. Causes acute and chronic hepatitis and hepatocellular carcinoma.", "syn": [], "abbr": ["HBV"]}
+{"id": 3297, "skip": "obvious"}
+{"id": 3298, "term": "Intranuclear inclusion bodies", "def": "Abnormal staining masses inside infected cell nuclei. Examples are Cowdry type A inclusions in herpesviruses and owl's-eye inclusions in CMV.", "syn": ["intranuclear inclusions", "nuclear inclusions", "intranuclear inclusion"], "abbr": []}
+{"id": 3299, "term": "Genital herpes", "def": "Sexually transmitted infection with HSV-2 (sometimes HSV-1) causing painful vesicles and ulcers. The virus stays latent in sacral ganglia.", "syn": ["herpes genitalis"], "abbr": []}
+{"id": 3300, "term": "Vibrio vulnificus", "def": "A marine gram-negative bacterium causing wound infection and septicemia after raw oyster consumption, with hemorrhagic bullous skin lesions, especially in patients with liver disease.", "syn": [], "abbr": []}
+{"id": 3301, "term": "Neurocysticercosis", "def": "Brain infection with larval Taenia solium cysts, from ingesting eggs. Leading cause of adult-onset seizures worldwide; CT shows cystic lesions with a scolex.", "syn": [], "abbr": []}
+{"id": 3302, "term": "Sciatica", "def": "Pain radiating down the back of the leg along the sciatic nerve, usually from lumbar disc herniation compressing the L5 or S1 root.", "syn": [], "abbr": []}
+{"id": 3303, "term": "Epidural abscess", "def": "A pus collection in the epidural space, usually from Staphylococcus aureus. Causes back pain, fever and progressive neurologic deficits from cord compression.", "syn": ["spinal epidural abscess", "epidural abscesses"], "abbr": []}
+{"id": 3304, "term": "Bacterial vaginosis", "def": "Overgrowth of anaerobes such as Gardnerella with loss of lactobacilli. Gives a thin gray discharge, fishy odor, pH above 4.5 and clue cells.", "syn": [], "abbr": []}
+{"id": 3305, "term": "Mediastinitis", "def": "Infection of the mediastinum, often after esophageal rupture or cardiac surgery. Presents with chest pain, fever and sepsis.", "syn": [], "abbr": []}
+{"id": 3306, "term": "Leucovorin", "def": "Folinic acid, a reduced folate that bypasses dihydrofolate reductase. Used to rescue normal cells from methotrexate toxicity and to enhance 5-fluorouracil.", "syn": ["folinic acid"], "abbr": []}
+{"id": 3307, "term": "Spinal stenosis", "def": "Narrowing of the spinal canal that compresses nerves, causing neurogenic claudication: leg pain on walking that improves when bending forward.", "syn": [], "abbr": []}
+{"id": 3308, "term": "Rho(D) immune globulin", "def": "Anti-D antibody given to Rh-negative mothers around delivery or bleeding to prevent sensitization and hemolytic disease in later Rh-positive fetuses.", "syn": ["RhoGAM", "Rho D immune globulin"], "abbr": []}
+{"id": 3309, "term": "Togaviruses", "def": "Enveloped positive-sense RNA viruses with icosahedral capsids. Include rubella virus and alphaviruses such as eastern equine encephalitis and chikungunya.", "syn": ["togavirus"], "abbr": []}
+{"id": 3310, "term": "Diffuse axonal injury", "def": "Widespread shearing of axons from rotational acceleration-deceleration head trauma, with coma and punctate hemorrhages at the gray-white junction.", "syn": [], "abbr": []}
+{"id": 3311, "term": "Polyomavirus", "def": "A small non-enveloped DNA virus family. JC virus causes progressive multifocal leukoencephalopathy, BK virus causes kidney transplant nephropathy, and Merkel cell polyomavirus causes Merkel cell carcinoma.", "syn": ["polyomaviruses"], "abbr": []}
+{"id": 3312, "skip": "obvious"}
+{"id": 3313, "term": "Human papillomavirus 6", "def": "A low-risk HPV type that causes genital warts (condylomata acuminata), along with type 11.", "syn": ["HPV 6"], "abbr": []}
+{"id": 3314, "skip": "obvious"}
+{"id": 3315, "skip": "obvious"}
+{"id": 3316, "term": "Colistin", "def": "A polymyxin antibiotic that disrupts the gram-negative outer membrane. Reserved for multidrug-resistant bacteria; toxic to kidneys and nerves.", "syn": ["polymyxin E"], "abbr": []}
+{"id": 3317, "term": "Enterococcus faecium", "def": "A gram-positive coccus often resistant to vancomycin (VRE) and ampicillin, a common cause of hospital-acquired infections.", "syn": [], "abbr": []}
+{"id": 3318, "term": "Streptococcus gallolyticus", "def": "Formerly Streptococcus bovis, a group D strep that causes endocarditis and is associated with colon cancer.", "syn": [], "abbr": []}
+{"id": 3319, "term": "Cystoscopy", "def": "Direct visualization of the bladder and urethra through an endoscope, used to find bladder tumors, stones and sources of hematuria.", "syn": [], "abbr": []}
+{"id": 3320, "term": "Famciclovir", "def": "An oral prodrug of penciclovir that inhibits viral DNA polymerase after activation by viral thymidine kinase. Treats herpes simplex and zoster.", "syn": [], "abbr": []}
+{"id": 3321, "skip": "obvious"}
+{"id": 3322, "term": "Pannus", "def": "An abnormal layer of inflamed granulation tissue that overgrows joint cartilage in rheumatoid arthritis, destroying cartilage and bone.", "syn": [], "abbr": []}
+{"id": 3323, "skip": "obvious"}
+{"id": 3324, "skip": "obvious"}
+{"id": 3325, "term": "Diphenhydramine", "def": "A first-generation H1 antihistamine that crosses into the brain, causing sedation and anticholinergic effects. Used for allergy and as a sleep aid.", "syn": [], "abbr": []}
+{"id": 3326, "term": "Cimetidine", "def": "An H2 receptor blocker that reduces gastric acid. It inhibits cytochrome P450 and has antiandrogen effects such as gynecomastia.", "syn": [], "abbr": []}
+{"id": 3327, "skip": "obvious"}
+{"id": 3328, "term": "Lactulose", "def": "A nonabsorbable sugar that is fermented by gut bacteria. Used to treat constipation and hepatic encephalopathy by trapping ammonia as ammonium.", "syn": [], "abbr": []}
+{"id": 3329, "skip": "obvious"}
+{"id": 3330, "term": "Phospholipase C", "def": "An enzyme that cleaves PIP2 into IP3 and DAG. It acts as the second messenger system of Gq-coupled receptors.", "syn": [], "abbr": []}
+{"id": 3331, "term": "Second messenger", "def": "A small intracellular molecule, such as cAMP, cGMP, IP3, DAG or calcium, that relays a receptor signal from the cell surface to targets inside the cell.", "syn": ["second messenger system"], "abbr": []}
+{"id": 3332, "term": "Pulmonary arterial hypertension", "def": "Elevated pressure in the pulmonary arteries from narrowing of small pulmonary vessels. Causes dyspnea and right heart failure; treated with endothelin antagonists, PDE-5 inhibitors and prostacyclins.", "syn": [], "abbr": ["PAH"]}
+{"id": 3333, "term": "Serine", "def": "A polar amino acid with a hydroxyl group. A common site of phosphorylation and a precursor to glycine and cysteine.", "syn": [], "abbr": []}
+{"id": 3334, "term": "Gigantism", "def": "Excess growth hormone before epiphyseal closure, usually from a pituitary adenoma, causing abnormally tall stature. After closure the same excess causes acromegaly.", "syn": ["pituitary gigantism"], "abbr": []}
+{"id": 3335, "skip": "obvious"}
+{"id": 3336, "term": "Axonal transport", "def": "Movement of organelles and proteins along microtubules in a neuron. Kinesin moves cargo anterograde, dynein retrograde; used by rabies and herpes viruses to reach the cell body.", "syn": ["axoplasmic transport", "axoplasmic flow"], "abbr": []}
+{"id": 3337, "skip": "obvious"}
+{"id": 3338, "term": "Thyroid-stimulating immunoglobulins", "def": "IgG autoantibodies that bind and activate the TSH receptor, causing hyperthyroidism in Graves disease.", "syn": ["thyroid stimulating immunoglobulin"], "abbr": ["TSI"]}
+{"id": 3339, "term": "Zona reticularis", "def": "The innermost layer of the adrenal cortex, which produces adrenal androgens such as DHEA under ACTH control.", "syn": [], "abbr": []}
+{"id": 3340, "term": "Corticosterone", "def": "A glucocorticoid and mineralocorticoid precursor in the adrenal cortex, the intermediate leading to aldosterone.", "syn": [], "abbr": []}
+{"id": 3341, "term": "17-alpha-hydroxylase", "def": "A steroid enzyme (CYP17A1) with 17-alpha-hydroxylase and 17,20-lyase activity needed to make cortisol and sex steroids. Deficiency causes hypertension with hypogonadism.", "syn": ["17,20-lyase", "17,20-desmolase", "17 20 lyase", "17 20-desmolase"], "abbr": []}
+{"id": 3342, "term": "Phospholipase A2", "def": "An enzyme that releases arachidonic acid from membrane phospholipids, starting eicosanoid synthesis. Inhibited by corticosteroids via lipocortin.", "syn": [], "abbr": []}
+{"id": 3343, "skip": "obvious"}
+{"id": 3344, "term": "Pancreatic delta cells", "def": "Islet cells that secrete somatostatin, which inhibits insulin, glucagon and growth hormone release.", "syn": ["delta cells"], "abbr": []}
+{"id": 3345, "skip": "obvious"}
+{"id": 3346, "skip": "obvious"}
+{"id": 3347, "term": "Cirrhosis", "def": "Irreversible liver fibrosis with regenerative nodules and distorted architecture. Leads to portal hypertension, ascites and liver failure; common causes are alcohol and viral hepatitis.", "syn": ["liver cirrhosis", "hepatic cirrhosis"], "abbr": []}
+{"id": 3348, "term": "Pseudohypoparathyroidism", "def": "Resistance to parathyroid hormone from a GNAS mutation, causing low calcium and high PTH. Albright hereditary osteodystrophy adds short stature and short fourth metacarpals.", "syn": ["Albright hereditary osteodystrophy"], "abbr": []}
+{"id": 3349, "term": "Optic chiasm", "def": "The crossing point of the optic nerves where nasal retinal fibers decussate. Lesions here, such as pituitary tumors, cause bitemporal hemianopia.", "syn": [], "abbr": []}
+{"id": 3350, "term": "Empty sella syndrome", "def": "Herniation of the arachnoid into the sella turcica that flattens the pituitary against its floor, often causing mild pituitary hormone deficits.", "syn": [], "abbr": []}
+{"id": 3351, "term": "Prednisolone", "def": "The active form of prednisone, an intermediate-acting glucocorticoid used for inflammation and immunosuppression.", "syn": [], "abbr": []}
+{"id": 3352, "skip": "not-medical"}
+{"id": 3353, "term": "Metanephrine", "def": "A breakdown product of epinephrine made by COMT. Elevated plasma or urine metanephrines are used to diagnose pheochromocytoma.", "syn": ["metanephrines"], "abbr": []}
+{"id": 3354, "skip": "obvious"}
+{"id": 3355, "skip": "obvious"}
+{"id": 3356, "skip": "obvious"}
+{"id": 3357, "term": "Somatostatinoma", "def": "A rare pancreatic neuroendocrine tumor of delta cells causing diabetes, gallstones and steatorrhea from inhibition of insulin, cholecystokinin and pancreatic enzymes.", "syn": ["somatostatinomas"], "abbr": []}
+{"id": 3358, "term": "Vasoactive intestinal peptide", "def": "A neuropeptide that relaxes smooth muscle and stimulates intestinal secretion. Excess from a VIPoma causes watery diarrhea with low potassium.", "syn": ["vasoactive intestinal polypeptide"], "abbr": ["VIP"]}
+{"id": 3359, "skip": "obvious"}
+{"id": 3360, "term": "Multiple endocrine neoplasia type 2B", "def": "A RET-mutation syndrome with medullary thyroid carcinoma, pheochromocytoma, mucosal neuromas and marfanoid habitus.", "syn": ["MEN 2b", "MEN2b"], "abbr": []}
+{"id": 3361, "term": "Neuroendocrine tumor", "def": "A tumor of hormone-producing neuroendocrine cells, such as carcinoid, insulinoma or gastrinoma. Stain positive for chromogranin and synaptophysin.", "syn": ["neuroendocrine tumors"], "abbr": []}
+{"id": 3362, "skip": "obvious"}
+{"id": 3363, "skip": "wrong-sense"}
+{"id": 3364, "term": "Glucosidase", "def": "An enzyme that cleaves glucose units from carbohydrates. Alpha-glucosidase in the gut brush border is blocked by acarbose; lysosomal acid alpha-glucosidase is deficient in Pompe disease.", "syn": ["glucosidases"], "abbr": []}
+{"id": 3365, "skip": "obvious"}
+{"id": 3366, "skip": "obvious"}
+{"id": 3367, "skip": "obvious"}
+{"id": 3368, "term": "Vascular endothelium", "def": "The single cell layer lining blood vessels. It regulates tone via nitric oxide, controls permeability and prevents clotting.", "syn": ["capillary endothelium"], "abbr": []}
+{"id": 3369, "skip": "obvious"}
+{"id": 3370, "term": "Lichen simplex chronicus", "def": "Thickened, leathery, itchy skin with exaggerated markings from chronic rubbing or scratching.", "syn": ["neurodermatitis"], "abbr": []}
+{"id": 3371, "term": "Selective estrogen receptor modulators", "def": "Drugs that act as estrogen agonists in some tissues and antagonists in others. Tamoxifen and raloxifene are examples.", "syn": ["SERMs", "selective estrogen receptor modulator"], "abbr": ["SERMs"]}
+{"id": 3372, "term": "Raloxifene", "def": "A SERM that acts as an estrogen agonist in bone and antagonist in breast and uterus. Used for osteoporosis; raises risk of venous clots.", "syn": [], "abbr": []}
+{"id": 3373, "term": "Clomiphene", "def": "A SERM that blocks estrogen feedback at the hypothalamus, raising GnRH, FSH and LH. Used to induce ovulation.", "syn": ["clomiphene citrate"], "abbr": []}
+{"id": 3374, "skip": "not-medical"}
+{"id": 3375, "term": "Leiomyosarcoma", "def": "A malignant tumor of smooth muscle, most often in the uterus, retroperitoneum or gut. Unlike benign leiomyomas it shows atypia, necrosis and mitoses.", "syn": ["leiomyosarcomas"], "abbr": []}
+{"id": 3376, "term": "Cystadenocarcinoma", "def": "A malignant glandular tumor forming cystic spaces, most often in the ovary or pancreas.", "syn": ["cystadenocarcinomas"], "abbr": []}
+{"id": 3377, "term": "Alpha-fetoprotein", "def": "A protein made by the fetal liver and yolk sac. Raised in neural tube defects and abdominal wall defects; also a tumor marker for hepatocellular carcinoma and yolk sac tumors.", "syn": ["alpha fetoprotein"], "abbr": ["AFP"]}
+{"id": 3378, "term": "Lutein", "def": "A yellow carotenoid pigment concentrated in the macula of the retina. Dietary lutein may lower the risk of age-related macular degeneration.", "syn": [], "abbr": []}
+{"id": 3379, "skip": "obvious"}
+{"id": 3380, "term": "Spermatic cord", "def": "A cord running through the inguinal canal that carries the vas deferens, testicular vessels, nerves and lymphatics to the testis.", "syn": [], "abbr": []}
+{"id": 3381, "term": "Ascitic fluid", "def": "Fluid accumulated in the peritoneal cavity. A serum-ascites albumin gradient of 1.1 or more indicates portal hypertension.", "syn": [], "abbr": []}
+{"id": 3382, "skip": "obvious"}
+{"id": 3383, "term": "Myofibroblasts", "def": "Fibroblasts with smooth muscle features that contract wounds and lay down collagen during healing and fibrosis.", "syn": ["myofibroblast"], "abbr": []}
+{"id": 3384, "term": "Ectasia", "def": "Abnormal dilation of a hollow structure such as a vessel or duct.", "syn": ["pathologic dilatation"], "abbr": []}
+{"id": 3385, "term": "Foam cells", "def": "Lipid-laden macrophages with a foamy cytoplasm. Characteristic of atherosclerotic plaques, xanthomas and some storage diseases.", "syn": ["foam cell"], "abbr": []}
+{"id": 3386, "term": "Chorion", "def": "The outer fetal membrane that forms the fetal portion of the placenta. Chorionic villi arise from it.", "syn": ["chorions"], "abbr": []}
+{"id": 3387, "term": "Urachus", "def": "The embryonic remnant of the allantois connecting bladder to umbilicus. Persistence causes a urachal fistula or cyst; it becomes the median umbilical ligament.", "syn": [], "abbr": []}
+{"id": 3388, "term": "Aneuploidy", "def": "An abnormal chromosome number that is not a multiple of the haploid set, such as trisomy 21 or monosomy X. Usually from nondisjunction.", "syn": ["aneuploidies"], "abbr": []}
+{"id": 3389, "skip": "obvious"}
+{"id": 3390, "skip": "obvious"}
+{"id": 3391, "term": "Denosumab", "def": "A monoclonal antibody against RANKL that blocks osteoclast formation. Used for osteoporosis and bone metastases; can cause hypocalcemia.", "syn": [], "abbr": []}
+{"id": 3392, "term": "Cyclooxygenase", "def": "An enzyme that converts arachidonic acid to prostaglandins and thromboxane. Inhibited by NSAIDs and aspirin; COX-2 is selectively blocked by celecoxib.", "syn": [], "abbr": ["COX"]}
+{"id": 3393, "term": "Advanced maternal age", "def": "Pregnancy at age 35 or older, which increases the risk of chromosomal abnormalities such as trisomy 21.", "syn": [], "abbr": []}
+{"id": 3394, "term": "Vasa previa", "def": "Fetal vessels running unprotected over the cervical os. Rupture of membranes causes painless bleeding and rapid fetal exsanguination.", "syn": [], "abbr": []}
+{"id": 3395, "term": "Nucleosome", "def": "The basic unit of chromatin: about 147 base pairs of DNA wrapped around a core of eight histones (two each of H2A, H2B, H3, H4).", "syn": ["nucleosomes"], "abbr": []}
+{"id": 3396, "term": "Heterochromatin", "def": "Tightly condensed, transcriptionally inactive chromatin that stains dark on electron microscopy. Heavily methylated and deacetylated.", "syn": [], "abbr": []}
+{"id": 3397, "skip": "obvious"}
+{"id": 3398, "term": "Topoisomerase II", "def": "An enzyme that makes double-strand DNA breaks to relieve supercoiling. Targeted by etoposide, doxorubicin, and fluoroquinolones in bacteria.", "syn": ["DNA topoisomerase II"], "abbr": []}
+{"id": 3399, "term": "Lac operon", "def": "A bacterial gene cluster for lactose metabolism. It is switched on when lactose is present and glucose is low, via the repressor and cAMP-CAP.", "syn": ["lac genes"], "abbr": []}
+{"id": 3400, "skip": "obvious"}
+{"id": 3401, "term": "Xeroderma pigmentosum", "def": "An autosomal recessive defect in nucleotide excision repair causing extreme sun sensitivity and a very high risk of skin cancers.", "syn": [], "abbr": []}
+{"id": 3402, "term": "Homologous recombination", "def": "Error-free repair of DNA double-strand breaks using a sister chromatid as template. Requires BRCA1 and BRCA2.", "syn": [], "abbr": []}
+{"id": 3403, "term": "Fanconi anemia", "def": "An inherited DNA crosslink repair defect causing pancytopenia, short stature, radial or thumb anomalies and risk of leukemia.", "syn": ["anemia Fanconi"], "abbr": []}
+{"id": 3404, "term": "Homeobox genes", "def": "Genes with a conserved DNA-binding sequence that control body segment identity along the head-to-tail axis. Hox mutations cause limb and organ patterning defects.", "syn": ["homeobox", "Hox genes", "Hox gene", "homeobox gene"], "abbr": []}
+{"id": 3405, "term": "Alternative splicing", "def": "Processing of one pre-mRNA into different mature mRNAs by including or skipping exons, allowing one gene to produce several proteins.", "syn": [], "abbr": []}
+{"id": 3406, "skip": "obvious"}
+{"id": 3407, "skip": "obvious"}
+{"id": 3408, "term": "G1 phase", "def": "The first gap phase of the cell cycle, when the cell grows and prepares for DNA synthesis. Passage through the G1/S checkpoint is controlled by Rb and p53.", "syn": [], "abbr": []}
+{"id": 3409, "term": "Mitotic spindle", "def": "The microtubule array that separates chromosomes during cell division. Blocked by vinca alkaloids and taxanes.", "syn": ["spindle apparatus", "mitotic spindles"], "abbr": []}
+{"id": 3410, "skip": "obvious"}
+{"id": 3411, "term": "Type III collagen", "def": "Reticular collagen found in skin, vessels, uterus and granulation tissue. Defective in vascular Ehlers-Danlos syndrome.", "syn": ["collagen type III"], "abbr": []}
+{"id": 3412, "term": "Alport syndrome", "def": "An inherited type IV collagen defect causing hematuria with kidney failure, sensorineural hearing loss and eye problems. Basement membrane shows a basket-weave pattern.", "syn": ["hereditary nephritis"], "abbr": []}
+{"id": 3413, "term": "Proline", "def": "A cyclic amino acid that breaks alpha helices. Hydroxylated in collagen by a vitamin C-dependent enzyme.", "syn": ["prolines"], "abbr": []}
+{"id": 3414, "term": "Vitamin C deficiency", "def": "Scurvy: impaired collagen hydroxylation causing bleeding gums, perifollicular hemorrhages, poor wound healing and corkscrew hairs.", "syn": [], "abbr": []}
+{"id": 3415, "term": "Menkes disease", "def": "An X-linked copper transport (ATP7A) defect causing kinky hair, hypotonia and neurodegeneration from poor lysyl oxidase activity.", "syn": ["Menkes kinky hair syndrome"], "abbr": []}
+{"id": 3416, "term": "Collagenase", "def": "An enzyme that breaks down collagen, needed for tissue remodeling. Excess matrix metalloproteinase activity contributes to emphysema and tumor spread.", "syn": ["collagenases"], "abbr": []}
+{"id": 3417, "skip": "obvious"}
+{"id": 3418, "term": "X chromosome inactivation", "def": "Random silencing of one X chromosome in each female cell, forming a Barr body. Mediated by XIST RNA.", "syn": ["lyonization", "X inactivation", "X-inactivation"], "abbr": []}
+{"id": 3419, "skip": "obvious"}
+{"id": 3420, "term": "Retinoblastoma", "def": "A childhood eye tumor from loss of both RB1 alleles, presenting with leukocoria (white pupillary reflex). Hereditary form raises risk of osteosarcoma.", "syn": ["retinoblastomas"], "abbr": []}
+{"id": 3421, "term": "Hyperphagia", "def": "Abnormally increased food intake, as in hypothalamic damage, diabetes or Prader-Willi syndrome.", "syn": ["polyphagia"], "abbr": []}
+{"id": 3422, "term": "McCune-Albright syndrome", "def": "A GNAS mosaic mutation causing polyostotic fibrous dysplasia, cafe-au-lait spots and endocrine hyperfunction such as precocious puberty.", "syn": ["polyostotic fibrous dysplasia"], "abbr": []}
+{"id": 3423, "term": "Lens subluxation", "def": "Partial displacement of the lens, seen in Marfan syndrome (upward) and homocystinuria (downward).", "syn": ["lens dislocation"], "abbr": []}
+{"id": 3424, "term": "Aortic bodies", "def": "Chemoreceptors near the aortic arch that sense low oxygen, high CO2 and low pH. Afferents travel via the vagus nerve.", "syn": ["aortic body"], "abbr": []}
+{"id": 3425, "skip": "obvious"}
+{"id": 3426, "term": "Thromboangiitis obliterans", "def": "Buerger disease: inflammation and clotting of small and medium limb vessels in heavy smokers, causing claudication, ulcers and gangrene.", "syn": ["Buerger disease"], "abbr": []}
+{"id": 3427, "skip": "obvious"}
+{"id": 3428, "term": "Aortic rupture", "def": "Tear of the aorta, from dissection, aneurysm or trauma at the ligamentum arteriosum. Causes severe pain and a widened mediastinum.", "syn": [], "abbr": []}
+{"id": 3429, "term": "Coronary vasospasm", "def": "Transient narrowing of a coronary artery causing Prinzmetal angina with ST elevation at rest. Treated with calcium channel blockers and nitrates.", "syn": ["coronary artery spasm", "coronary artery vasospasm"], "abbr": []}
+{"id": 3430, "term": "Central venous pressure", "def": "Pressure in the vena cava near the right atrium, reflecting right heart filling and volume status.", "syn": [], "abbr": ["CVP"]}
+{"id": 3431, "term": "Fetal alcohol spectrum disorders", "def": "Defects from prenatal alcohol exposure: growth restriction, microcephaly, smooth philtrum, thin upper lip, short palpebral fissures and cognitive impairment.", "syn": ["fetal alcohol syndrome"], "abbr": ["FAS"]}
+{"id": 3432, "term": "Patent foramen ovale", "def": "Failure of the fetal opening between the atria to close. Can allow paradoxical embolism from veins to the systemic circulation.", "syn": [], "abbr": ["PFO"]}
+{"id": 3433, "term": "Truncus arteriosus", "def": "A congenital defect where a single arterial trunk exits both ventricles, from failure of the aorticopulmonary septum to form. Causes cyanosis and heart failure.", "syn": [], "abbr": []}
+{"id": 3434, "term": "Intracerebral hemorrhage", "def": "Bleeding within the brain tissue, most often from chronic hypertension affecting small vessels of the basal ganglia.", "syn": ["cerebral hemorrhage"], "abbr": []}
+{"id": 3435, "skip": "not-medical"}
+{"id": 3436, "term": "Methicillin resistance", "def": "Resistance of Staphylococcus aureus to beta-lactams via the altered penicillin-binding protein PBP2a encoded by mecA.", "syn": ["methicillin-resistant", "methicillin resistant"], "abbr": ["MRSA"]}
+{"id": 3437, "term": "Isolated systolic hypertension", "def": "Elevated systolic pressure (above 140) with normal diastolic pressure, from stiff arteries in the elderly.", "syn": ["systolic hypertension"], "abbr": []}
+{"id": 3438, "term": "Systolic heart failure", "def": "Heart failure with reduced ejection fraction, from weak ventricular contraction. Causes include ischemia and dilated cardiomyopathy.", "syn": ["heart failure systolic"], "abbr": ["HFrEF"]}
+{"id": 3439, "term": "Enterohepatic circulation", "def": "Recycling of bile acids and some drugs from the liver to gut and back via the portal vein. Interrupted by cholestyramine.", "syn": [], "abbr": []}
+{"id": 3440, "term": "Hypertriglyceridemia", "def": "Elevated blood triglycerides. Very high levels cause acute pancreatitis, eruptive xanthomas and lipemia retinalis.", "syn": [], "abbr": []}
+{"id": 3441, "skip": "not-medical"}
+{"id": 3442, "term": "Methemoglobin", "def": "Hemoglobin with iron in the ferric (Fe3+) state, unable to carry oxygen. Causes chocolate-colored blood and cyanosis; treated with methylene blue.", "syn": [], "abbr": []}
+{"id": 3443, "term": "Ubiquitination", "def": "Attaching ubiquitin to a protein, marking it for degradation by the proteasome.", "syn": [], "abbr": []}
+{"id": 3444, "term": "Carbonic anhydrase inhibitors", "def": "Drugs such as acetazolamide that block carbonic anhydrase, causing bicarbonate diuresis and metabolic acidosis. Used for glaucoma and altitude sickness.", "syn": ["carbonic anhydrase inhibitor"], "abbr": []}
+{"id": 3445, "term": "Angiofibroma", "def": "A benign tumor of blood vessels and fibrous tissue. Seen on the face in tuberous sclerosis and in the nasopharynx of adolescent males.", "syn": ["angiofibromas"], "abbr": []}
+{"id": 3446, "term": "Otitis media with effusion", "def": "Fluid in the middle ear without acute infection, causing conductive hearing loss. Common in children with eustachian tube dysfunction.", "syn": ["serous otitis media", "middle ear effusion"], "abbr": []}
+{"id": 3447, "skip": "not-medical"}
+{"id": 3448, "term": "Fusobacterium", "def": "Anaerobic gram-negative rods of the mouth. Cause Lemierre syndrome (jugular vein thrombophlebitis) and abscesses.", "syn": [], "abbr": []}
+{"id": 3449, "skip": "obvious"}
+{"id": 3450, "term": "Interleukin-5", "def": "A cytokine made by Th2 cells that promotes eosinophil growth and B-cell class switching to IgA.", "syn": ["IL-5"], "abbr": ["IL-5"]}
+{"id": 3451, "term": "Allergic bronchopulmonary aspergillosis", "def": "A hypersensitivity reaction to Aspergillus in asthma or cystic fibrosis, with wheeze, brown mucus plugs, high IgE and central bronchiectasis.", "syn": [], "abbr": ["ABPA"]}
+{"id": 3452, "skip": "obvious"}
+{"id": 3453, "term": "Coal workers' pneumoconiosis", "def": "Lung disease from inhaled coal dust, producing anthracotic macrophages and nodules. Can progress to massive fibrosis.", "syn": ["coal workers pneumoconiosis", "black lung disease", "black lung"], "abbr": []}
+{"id": 3454, "skip": "obvious"}
+{"id": 3455, "skip": "not-medical"}
+{"id": 3456, "term": "Amniotic fluid embolism", "def": "Sudden cardiovascular collapse, hypoxia and DIC around labor, as amniotic material enters maternal circulation.", "syn": [], "abbr": []}
+{"id": 3457, "term": "Retinopathy of prematurity", "def": "Abnormal retinal vessel growth in preterm infants given oxygen, which can cause retinal detachment and blindness.", "syn": ["retrolental fibroplasia"], "abbr": ["ROP"]}
+{"id": 3458, "skip": "obvious"}
+{"id": 3459, "term": "Thoracic outlet syndrome", "def": "Compression of the brachial plexus or subclavian vessels between clavicle and first rib, causing arm pain, numbness or swelling.", "syn": [], "abbr": []}
+{"id": 3460, "skip": "obvious"}
+{"id": 3461, "term": "Thromboxane A2", "def": "A platelet eicosanoid that causes platelet aggregation and vasoconstriction. Blocked by low-dose aspirin.", "syn": [], "abbr": ["TXA2"]}
+{"id": 3462, "term": "Thromboxane", "def": "A class of eicosanoids made by COX and thromboxane synthase that promote platelet aggregation and vasoconstriction.", "syn": ["thromboxanes"], "abbr": []}
+{"id": 3463, "skip": "not-medical"}
+{"id": 3464, "term": "Acute promyelocytic leukemia", "def": "AML subtype with t(15;17) producing PML-RARA fusion. Presents with DIC; Auer rods; treated with all-trans retinoic acid.", "syn": [], "abbr": ["APL"]}
+{"id": 3465, "term": "Phosphofructokinase-2", "def": "A bifunctional enzyme controlling fructose 2,6-bisphosphate, which regulates glycolysis versus gluconeogenesis. Insulin activates it in the fed state.", "syn": ["fructose-2,6-bisphosphatase"], "abbr": ["PFK-2"]}
+{"id": 3466, "term": "Pompe disease", "def": "Glycogen storage disease type II from deficient lysosomal acid alpha-glucosidase, causing cardiomegaly, hypotonia and early heart failure.", "syn": ["glycogen storage disease type II"], "abbr": []}
+{"id": 3467, "term": "Cardiomegaly", "def": "Enlargement of the heart, seen on chest x-ray as a cardiothoracic ratio above 0.5.", "syn": ["enlarged heart"], "abbr": []}
+{"id": 3468, "term": "Decompression sickness", "def": "Nitrogen bubbles forming in tissues after rapid ascent from diving, causing joint pain, neurologic deficits and respiratory symptoms.", "syn": ["bends", "caisson disease"], "abbr": []}
+{"id": 3469, "term": "Degranulation", "def": "Release of granule contents from cells such as mast cells, neutrophils and eosinophils.", "syn": ["cell degranulation"], "abbr": []}
+{"id": 3470, "term": "Formoterol", "def": "A long-acting beta-2 agonist bronchodilator with fast onset, used in asthma and COPD together with an inhaled steroid.", "syn": [], "abbr": []}
+{"id": 3471, "term": "Pseudoephedrine", "def": "An alpha-agonist decongestant that constricts nasal blood vessels. Can raise blood pressure and cause insomnia.", "syn": [], "abbr": []}
+{"id": 3472, "term": "Albuminuria", "def": "Excess albumin in urine, a marker of glomerular damage as in diabetic nephropathy.", "syn": [], "abbr": []}
+{"id": 3473, "term": "C1 esterase inhibitor", "def": "A serum protein that blocks the complement C1 and bradykinin pathways. Deficiency causes hereditary angioedema.", "syn": ["C1 inhibitor"], "abbr": []}
+{"id": 3474, "term": "Complement C1s", "def": "A serine protease subunit of the C1 complex that cleaves C4 and C2 in the classical pathway.", "syn": ["C1 esterase"], "abbr": []}
+{"id": 3475, "skip": "obvious"}
+{"id": 3476, "skip": "obvious"}
+{"id": 3477, "term": "Hypoaldosteronism", "def": "Insufficient aldosterone, causing hyperkalemia, sodium loss and non-anion-gap metabolic acidosis (type 4 renal tubular acidosis).", "syn": ["hyporeninemic hypoaldosteronism"], "abbr": []}
+{"id": 3478, "term": "Nicotinic receptors", "def": "Acetylcholine-gated ion channels at autonomic ganglia, the neuromuscular junction and in the CNS. Blocked by curare and succinylcholine.", "syn": ["nicotinic receptor"], "abbr": []}
+{"id": 3479, "term": "Autosomal recessive polycystic kidney disease", "def": "An inherited disease with cystic kidneys in infants, associated with congenital hepatic fibrosis and Potter sequence.", "syn": ["ARPKD"], "abbr": ["ARPKD"]}
+{"id": 3480, "term": "Cystic kidney disease", "def": "A group of disorders with fluid-filled cysts in the kidneys, including polycystic kidney disease and medullary sponge kidney.", "syn": ["cystic kidney"], "abbr": []}
+{"id": 3481, "term": "Von Hippel-Lindau disease", "def": "A VHL tumor suppressor mutation causing retinal and cerebellar hemangioblastomas, clear cell renal carcinoma and pheochromocytoma.", "syn": ["Hippel-Lindau disease", "von Hippel-Lindau syndrome"], "abbr": ["VHL"]}
+{"id": 3482, "term": "Macroglossia", "def": "An abnormally large tongue, seen in hypothyroidism, Down syndrome, Beckwith-Wiedemann syndrome and amyloidosis.", "syn": [], "abbr": []}
+{"id": 3483, "term": "NADPH oxidase", "def": "A phagocyte enzyme producing the respiratory burst of superoxide. Deficiency causes chronic granulomatous disease.", "syn": [], "abbr": []}
+{"id": 3484, "skip": "obvious"}
+{"id": 3485, "term": "Ceramide", "def": "A lipid of sphingosine and a fatty acid, the building block of sphingolipids. Accumulates in Gaucher and Fabry disease.", "syn": ["ceramides"], "abbr": []}
+{"id": 3486, "term": "Hunter syndrome", "def": "X-linked recessive mucopolysaccharidosis II from iduronate sulfatase deficiency. Features coarse face, aggressive behavior, no corneal clouding.", "syn": [], "abbr": []}
+{"id": 3487, "term": "Alanine aminotransferase", "def": "A liver enzyme that is raised in hepatocellular injury.", "syn": ["alanine transaminase"], "abbr": ["ALT"]}
+{"id": 3488, "term": "Carbamoyl phosphate synthetase I deficiency", "def": "A urea cycle defect causing hyperammonemia without orotic aciduria.", "syn": [], "abbr": []}
+{"id": 3489, "term": "Methionine synthase", "def": "A vitamin B12-dependent enzyme that converts homocysteine to methionine using methyltetrahydrofolate. Deficiency traps folate and causes megaloblastic anemia.", "syn": [], "abbr": []}
+{"id": 3490, "term": "DOPA", "def": "Dihydroxyphenylalanine, the intermediate made from tyrosine by tyrosine hydroxylase that is converted to dopamine. Levodopa is its drug form.", "syn": ["dihydroxyphenylalanine"], "abbr": []}
+{"id": 3491, "term": "Adenosine deaminase", "def": "A purine salvage enzyme. Deficiency causes severe combined immunodeficiency through toxic buildup of lymphocyte deoxyadenosine.", "syn": [], "abbr": ["ADA"]}
+{"id": 3492, "term": "Guanosine", "def": "A purine nucleoside of guanine and ribose.", "syn": [], "abbr": []}
+{"id": 3493, "skip": "obvious"}
+{"id": 3494, "term": "Diphyllobothrium", "def": "The fish tapeworm acquired from raw freshwater fish, causing vitamin B12 deficiency and megaloblastic anemia.", "syn": [], "abbr": []}
+{"id": 3495, "term": "Vitamin E deficiency", "def": "Causes hemolytic anemia and neurologic disease with spinocerebellar degeneration and posterior column loss.", "syn": [], "abbr": []}
+{"id": 3496, "term": "Reticuloendothelial system", "def": "The system of macrophages in the liver, spleen, lymph nodes and bone marrow that clear particles and old red cells.", "syn": ["mononuclear phagocyte system"], "abbr": []}
+{"id": 3497, "term": "Porphobilinogen", "def": "A heme synthesis intermediate that accumulates in urine in acute intermittent porphyria.", "syn": [], "abbr": []}
+{"id": 3498, "term": "Neuromuscular blockade", "def": "Paralysis of skeletal muscle by blocking acetylcholine at the neuromuscular junction, used in anesthesia.", "syn": [], "abbr": []}
+{"id": 3499, "term": "Jimson weed", "def": "Datura stramonium, a plant containing anticholinergic alkaloids. Poisoning causes mydriasis, dry skin, fever and delirium.", "syn": ["Datura stramonium", "stramonium"], "abbr": []}

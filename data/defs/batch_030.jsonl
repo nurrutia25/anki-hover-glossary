@@ -1,0 +1,250 @@
+{"id": 7500, "term": "NADH dehydrogenase", "def": "Complex I of the mitochondrial electron transport chain. It oxidizes NADH, passes electrons to ubiquinone and pumps protons; rotenone and amobarbital inhibit it.", "syn": [], "abbr": []}
+{"id": 7501, "term": "Cytochrome a", "def": "A heme-containing component of cytochrome c oxidase (complex IV, cytochromes a and a3) in the electron transport chain. Carbon monoxide, cyanide and azide inhibit this complex.", "syn": [], "abbr": []}
+{"id": 7502, "term": "ADP/ATP translocase", "def": "An inner mitochondrial membrane carrier that exchanges ATP made in the matrix for cytosolic ADP. It is inhibited by atractyloside and bongkrekic acid.", "syn": ["ADP translocase"], "abbr": []}
+{"id": 7503, "term": "Rhodanese", "def": "A mitochondrial enzyme (thiosulfate sulfurtransferase) that detoxifies cyanide by transferring sulfur to form thiocyanate. Sodium thiosulfate is given in cyanide poisoning to supply sulfur.", "syn": [], "abbr": []}
+{"id": 7504, "skip": "obvious"}
+{"id": 7505, "term": "Brown fat", "def": "Thermogenic adipose tissue rich in mitochondria that uses uncoupling protein 1 (thermogenin) to dissipate the proton gradient as heat. It is most abundant in newborns.", "syn": ["brown adipose tissue", "brown adipocytes"], "abbr": []}
+{"id": 7506, "term": "Dextrins", "def": "Short branched or linear glucose polymers produced by partial starch digestion by amylase. Limit dextrins retain alpha-1,6 branch points and are cleaved by brush-border enzymes.", "syn": [], "abbr": []}
+{"id": 7507, "skip": "obvious"}
+{"id": 7508, "term": "Myophosphorylase", "def": "The muscle isoform of glycogen phosphorylase, which breaks down glycogen to glucose-1-phosphate. Its deficiency causes McArdle disease, with exercise-induced cramps and myoglobinuria.", "syn": [], "abbr": []}
+{"id": 7509, "term": "Amidases", "def": "Enzymes that hydrolyze amide bonds to release ammonia, such as glutaminase and asparaginase.", "syn": ["amidase"], "abbr": []}
+{"id": 7510, "term": "Epoxide hydrolases", "def": "Enzymes that convert reactive epoxides into less toxic diols, a step in drug and carcinogen metabolism.", "syn": ["epoxide hydrolase"], "abbr": []}
+{"id": 7511, "term": "Cystathionine beta-synthase", "def": "A vitamin B6-dependent enzyme that converts homocysteine and serine to cystathionine. Its deficiency causes classic homocystinuria with lens dislocation, thrombosis and intellectual disability.", "syn": ["cystathionine beta synthase"], "abbr": []}
+{"id": 7512, "skip": "obvious"}
+{"id": 7513, "skip": "obvious"}
+{"id": 7514, "skip": "obvious"}
+{"id": 7515, "skip": "obvious"}
+{"id": 7516, "term": "Hyaline membrane disease", "def": "Neonatal respiratory distress syndrome from surfactant deficiency in preterm infants. Alveoli collapse and eosinophilic hyaline membranes line them; it is treated with exogenous surfactant.", "syn": ["neonatal respiratory distress syndrome"], "abbr": []}
+{"id": 7517, "skip": "obvious"}
+{"id": 7518, "skip": "obvious"}
+{"id": 7519, "term": "Neuromuscular disease", "def": "Disorders that affect peripheral nerves, the neuromuscular junction, or muscle, causing weakness. Examples are myasthenia gravis, muscular dystrophy and ALS.", "syn": ["neuromuscular diseases"], "abbr": []}
+{"id": 7520, "skip": "obvious"}
+{"id": 7521, "term": "Gastrula", "def": "The embryonic stage after the blastula in which the three germ layers (ectoderm, mesoderm, endoderm) form by invagination of cells. The primitive gut (archenteron) develops during it.", "syn": [], "abbr": []}
+{"id": 7522, "term": "Hydroxyzine", "def": "A first-generation H1 antihistamine with sedating and anxiolytic effects, used for itching and anxiety.", "syn": [], "abbr": []}
+{"id": 7523, "term": "Loratadine", "def": "A second-generation H1 antihistamine that is minimally sedating because it poorly crosses the blood-brain barrier.", "syn": [], "abbr": []}
+{"id": 7524, "term": "Dander", "def": "Tiny flakes of skin and hair shed by animals, a common airborne allergen that triggers IgE-mediated asthma and rhinitis.", "syn": [], "abbr": []}
+{"id": 7525, "term": "Metaproterenol", "def": "A beta-2 agonist bronchodilator used for asthma and COPD. Side effects are tremor and tachycardia.", "syn": ["orciprenaline"], "abbr": []}
+{"id": 7526, "term": "Desonide", "def": "A low-potency topical corticosteroid used for mild inflammatory skin conditions, including on the face and in children.", "syn": [], "abbr": []}
+{"id": 7527, "term": "Leukotriene E4", "def": "The stable end product of cysteinyl leukotriene metabolism, formed from LTC4 and LTD4. It is measured in urine as a marker of leukotriene production and causes bronchoconstriction.", "syn": ["LTE4"], "abbr": []}
+{"id": 7528, "term": "Leukotriene C4", "def": "A cysteinyl leukotriene made from arachidonic acid by 5-lipoxygenase and LTC4 synthase. With LTD4 and LTE4 it causes bronchoconstriction and vascular leakage in asthma.", "syn": ["LTC4"], "abbr": []}
+{"id": 7529, "term": "5-lipoxygenase inhibitors", "def": "Drugs such as zileuton that block 5-lipoxygenase, reducing synthesis of leukotrienes. Used in asthma; they can be hepatotoxic.", "syn": ["5-lipoxygenase inhibitor"], "abbr": []}
+{"id": 7530, "skip": "obvious"}
+{"id": 7531, "term": "Iontophoresis", "def": "Use of a mild electrical current to drive charged drug molecules through the skin. It is used to deliver drugs like lidocaine and to induce sweating for the sweat chloride test.", "syn": [], "abbr": []}
+{"id": 7532, "skip": "obvious"}
+{"id": 7533, "skip": "obvious"}
+{"id": 7534, "term": "Enalapril", "def": "An ACE inhibitor prodrug converted to enalaprilat. It lowers blood pressure and afterload; side effects include dry cough, hyperkalemia and angioedema.", "syn": [], "abbr": []}
+{"id": 7535, "term": "Ramipril", "def": "An ACE inhibitor used for hypertension, heart failure and cardiovascular protection. Side effects include cough, hyperkalemia and angioedema.", "syn": [], "abbr": []}
+{"id": 7536, "term": "Captopril", "def": "The first ACE inhibitor, containing a sulfhydryl group; it can cause cough, taste disturbance and rash. It is contraindicated in pregnancy.", "syn": [], "abbr": []}
+{"id": 7537, "term": "Angiotensin II receptor blockers", "def": "Drugs ending in -sartan that block the AT1 receptor, lowering blood pressure and protecting the kidney in diabetes. Unlike ACE inhibitors, they do not cause cough or raise bradykinin.", "syn": ["sartans", "ARBs"], "abbr": []}
+{"id": 7538, "term": "Losartan", "def": "An angiotensin II receptor blocker that also has a mild uricosuric effect. Used for hypertension and diabetic nephropathy; contraindicated in pregnancy.", "syn": [], "abbr": []}
+{"id": 7539, "skip": "not-medical"}
+{"id": 7540, "term": "Evans blue", "def": "A dye that binds tightly to plasma albumin, used to measure plasma volume by dilution.", "syn": [], "abbr": []}
+{"id": 7541, "term": "Heavy water", "def": "Water in which hydrogen is replaced by deuterium, used as a tracer to measure total body water by dilution.", "syn": ["deuterium oxide", "D2O"], "abbr": []}
+{"id": 7542, "term": "Body fluid compartments", "def": "The divisions of body water: intracellular fluid (about two thirds) and extracellular fluid (one third), the latter split into interstitial fluid and plasma.", "syn": ["body fluid compartment"], "abbr": []}
+{"id": 7543, "term": "Isotonic contraction", "def": "A muscle contraction in which tension stays constant while the muscle shortens, moving a load.", "syn": ["isotonic contractions"], "abbr": []}
+{"id": 7544, "term": "Para-aminohippuric acid", "def": "A compound filtered and actively secreted by the proximal tubule so that nearly all is cleared in a single pass. Its clearance estimates renal plasma flow.", "syn": ["PAH", "p-aminohippuric acid"], "abbr": ["PAH"]}
+{"id": 7545, "skip": "obvious"}
+{"id": 7546, "term": "Ultrafiltration", "def": "Movement of fluid and small solutes across a semipermeable barrier under pressure while retaining large molecules. It describes glomerular filtration and fluid removal in dialysis.", "syn": [], "abbr": []}
+{"id": 7547, "skip": "obvious"}
+{"id": 7548, "skip": "obvious"}
+{"id": 7549, "term": "Monosomy", "def": "Presence of only one copy of a chromosome in a cell, as in Turner syndrome (45,X).", "syn": [], "abbr": []}
+{"id": 7550, "term": "Glial cell line-derived neurotrophic factor", "def": "A growth factor that supports survival of dopaminergic neurons and enteric neurons. Defects in its signaling through RET contribute to Hirschsprung disease.", "syn": [], "abbr": ["GDNF"]}
+{"id": 7551, "skip": "not-medical"}
+{"id": 7552, "term": "Phospholipase A2 receptor", "def": "The target antigen on podocytes of autoantibodies in most primary membranous nephropathy. Anti-PLA2R antibodies are used for diagnosis and monitoring.", "syn": ["PLA2R"], "abbr": []}
+{"id": 7553, "term": "Heymann nephritis antigen", "def": "The podocyte antigen complex (megalin) in a rat model of membranous nephropathy, in which antibodies cause subepithelial immune complexes.", "syn": [], "abbr": []}
+{"id": 7554, "skip": "not-medical"}
+{"id": 7555, "term": "Sodium cyanide", "def": "A cyanide salt that blocks cytochrome c oxidase and halts oxidative phosphorylation, causing rapid cellular asphyxiation. It is treated with hydroxocobalamin or nitrite and thiosulfate.", "syn": [], "abbr": []}
+{"id": 7556, "skip": "obvious"}
+{"id": 7557, "term": "Aniridia", "def": "Congenital absence or hypoplasia of the iris, from PAX6 mutations. It occurs with WAGR syndrome (Wilms tumor, aniridia, genitourinary anomalies, retardation) due to deletion on chromosome 11p13.", "syn": [], "abbr": []}
+{"id": 7558, "skip": "obvious"}
+{"id": 7559, "term": "46,XY disorder of sex development", "def": "Atypical genital development in a genetic male, from conditions like androgen insensitivity or 5-alpha-reductase deficiency. The older term was male pseudohermaphroditism.", "syn": ["male pseudohermaphroditism"], "abbr": []}
+{"id": 7560, "skip": "not-medical"}
+{"id": 7561, "term": "Tyrosinemia", "def": "Disorders of tyrosine metabolism. Type I (fumarylacetoacetate hydrolase deficiency) causes liver failure, renal tubular dysfunction and a cabbage-like odor, and is treated with nitisinone.", "syn": ["tyrosinemias"], "abbr": []}
+{"id": 7562, "term": "Cystinosis", "def": "Lysosomal storage disease where cystine accumulates because of a defective transporter (cystinosin). It causes Fanconi syndrome, crystals in the cornea and progressive kidney failure.", "syn": [], "abbr": []}
+{"id": 7563, "term": "E3 ubiquitin ligase", "def": "An enzyme that attaches ubiquitin to specific target proteins, marking them for degradation by the proteasome. Examples are the von Hippel-Lindau protein and Parkin.", "syn": ["E3 ligase", "ubiquitin-protein ligases"], "abbr": []}
+{"id": 7564, "term": "Renal cortical necrosis", "def": "Ischemic death of the renal cortex, from severe vessel spasm or microthrombi. Associated with obstetric complications (abruption), sepsis and DIC; it causes acute renal failure.", "syn": [], "abbr": []}
+{"id": 7565, "term": "Torsemide", "def": "A loop diuretic that inhibits the Na+/K+/2Cl- cotransporter, similar to furosemide but with better oral absorption.", "syn": ["torasemide"], "abbr": []}
+{"id": 7566, "term": "Metolazone", "def": "A thiazide-like diuretic acting in the distal tubule. It is added to loop diuretics to overcome diuretic resistance in heart failure.", "syn": [], "abbr": []}
+{"id": 7567, "term": "Indapamide", "def": "A thiazide-like diuretic used for hypertension that inhibits the distal tubule sodium-chloride cotransporter.", "syn": [], "abbr": []}
+{"id": 7568, "term": "Epithelial sodium channels", "def": "Channels (ENaC) in the principal cells of the collecting duct that take up sodium, driven by aldosterone. Amiloride and triamterene block them; gain-of-function mutations cause Liddle syndrome.", "syn": ["epithelial sodium channel", "ENaC"], "abbr": ["ENaC"]}
+{"id": 7569, "term": "Hexose", "def": "A six-carbon sugar, such as glucose, fructose and galactose.", "syn": ["hexoses"], "abbr": []}
+{"id": 7570, "term": "Linoleic acid", "def": "An essential omega-6 polyunsaturated fatty acid with 18 carbons and two double bonds. It must come from diet and is a precursor of arachidonic acid.", "syn": [], "abbr": []}
+{"id": 7571, "term": "Alpha-linolenic acid", "def": "An essential omega-3 fatty acid (18 carbons, three double bonds) from plant oils. It is converted to EPA and DHA.", "syn": ["linolenic acid"], "abbr": []}
+{"id": 7572, "skip": "obvious"}
+{"id": 7573, "term": "Apoproteins", "def": "The protein components of lipoproteins, which provide structure and direct them to receptors and enzymes. Examples are apoA-I, apoB-100, apoB-48, apoC-II and apoE.", "syn": ["apoprotein", "apolipoproteins"], "abbr": []}
+{"id": 7574, "term": "High-density lipoprotein", "def": "A lipoprotein that carries cholesterol from tissues back to the liver (reverse cholesterol transport). Higher levels are protective against atherosclerosis; it is built on apoA-I.", "syn": ["HDL"], "abbr": ["HDL"]}
+{"id": 7575, "skip": "obvious"}
+{"id": 7576, "term": "Apolipoprotein A", "def": "The protein family including apoA-I, the main protein of HDL and an activator of LCAT. Its deficiency lowers HDL levels.", "syn": [], "abbr": []}
+{"id": 7577, "term": "Esterification", "def": "A reaction forming an ester from an acid and an alcohol. In physiology, it describes fatty acids attaching to glycerol to make triglycerides or to cholesterol by LCAT and ACAT.", "syn": [], "abbr": []}
+{"id": 7578, "term": "Familial hypertriglyceridemia", "def": "Autosomal dominant overproduction of VLDL, causing elevated triglycerides (type IV hyperlipoproteinemia). Very high levels risk acute pancreatitis.", "syn": [], "abbr": []}
+{"id": 7579, "term": "Dolichol", "def": "A long-chain lipid in the endoplasmic reticulum membrane that carries oligosaccharides during N-linked glycosylation of proteins.", "syn": ["dolichols"], "abbr": []}
+{"id": 7580, "term": "Glycerol kinase", "def": "An enzyme that phosphorylates glycerol to glycerol-3-phosphate, mainly in liver and kidney. X-linked deficiency causes hyperglycerolemia, sometimes with contiguous gene syndrome.", "syn": [], "abbr": []}
+{"id": 7581, "term": "Carnitine palmitoyltransferase", "def": "Enzymes (CPT I and II) that transport long-chain fatty acids into mitochondria for beta-oxidation. CPT II deficiency causes muscle pain and myoglobinuria with fasting or exercise.", "syn": [], "abbr": []}
+{"id": 7582, "term": "Hydroxybutyrate dehydrogenase", "def": "A mitochondrial enzyme that interconverts acetoacetate and beta-hydroxybutyrate, the two main ketone bodies.", "syn": [], "abbr": []}
+{"id": 7583, "skip": "obvious"}
+{"id": 7584, "term": "Dysostosis", "def": "Defective formation of individual bones, as opposed to generalized skeletal dysplasia. Examples include craniosynostosis and cleidocranial dysplasia.", "syn": [], "abbr": []}
+{"id": 7585, "term": "Argininosuccinate synthetase", "def": "A urea cycle enzyme that combines citrulline and aspartate to form argininosuccinate. Deficiency causes citrullinemia with hyperammonemia.", "syn": ["argininosuccinate synthase"], "abbr": []}
+{"id": 7586, "term": "Argininosuccinase", "def": "The urea cycle enzyme (argininosuccinate lyase) that splits argininosuccinate into arginine and fumarate. Deficiency causes argininosuccinic aciduria.", "syn": ["argininosuccinate lyase"], "abbr": []}
+{"id": 7587, "term": "Dihydropteridine reductase", "def": "An enzyme that regenerates tetrahydrobiopterin, the cofactor for phenylalanine hydroxylase. Its deficiency causes a malignant form of hyperphenylalaninemia.", "syn": [], "abbr": []}
+{"id": 7588, "term": "Ochronosis", "def": "Blue-black pigmentation of connective tissue, ears and cartilage from accumulation of homogentisic acid in alkaptonuria. It leads to arthritis of the spine and joints.", "syn": [], "abbr": []}
+{"id": 7589, "term": "Branched-chain amino acids", "def": "Leucine, isoleucine and valine, essential amino acids with aliphatic side chains. Deficiency of their dehydrogenase causes maple syrup urine disease.", "syn": [], "abbr": []}
+{"id": 7590, "term": "Refractory anemia", "def": "Anemia that does not respond to standard treatment, often from a myelodysplastic syndrome with ineffective hematopoiesis.", "syn": [], "abbr": []}
+{"id": 7591, "term": "Uridine monophosphate", "def": "A pyrimidine nucleotide formed by orotate phosphoribosyltransferase and OMP decarboxylase. Defects cause orotic aciduria.", "syn": ["UMP"], "abbr": []}
+{"id": 7592, "skip": "obvious"}
+{"id": 7593, "term": "Rhodopsin", "def": "The light-sensitive visual pigment of rod cells, a G protein-coupled receptor containing 11-cis-retinal. Light converts retinal to all-trans form, starting phototransduction; it requires vitamin A.", "syn": [], "abbr": []}
+{"id": 7594, "skip": "obvious"}
+{"id": 7595, "term": "Flavin adenine dinucleotide", "def": "A cofactor derived from riboflavin (B2) that accepts electrons as FADH2 in the TCA cycle and electron transport chain. Succinate dehydrogenase uses it.", "syn": ["FAD"], "abbr": ["FAD"]}
+{"id": 7596, "term": "Flavin mononucleotide", "def": "A riboflavin-derived cofactor of NADH dehydrogenase (complex I) and other oxidation-reduction enzymes.", "syn": ["FMN"], "abbr": ["FMN"]}
+{"id": 7597, "term": "Neutral amino acid transporters", "def": "Carriers that move neutral amino acids across membranes in the gut and kidney. In Hartnup disease, defective renal and intestinal transport causes tryptophan loss and pellagra-like symptoms.", "syn": [], "abbr": []}
+{"id": 7598, "skip": "obvious"}
+{"id": 7599, "term": "Decarboxylation", "def": "Removal of a carboxyl group as CO2 from a molecule. Examples are pyruvate to acetyl-CoA and amino acid to amine (such as histidine to histamine).", "syn": [], "abbr": []}
+{"id": 7600, "skip": "obvious"}
+{"id": 7601, "term": "Avidin", "def": "A protein in raw egg whites that binds biotin tightly and blocks its absorption. Eating large amounts of raw eggs can cause biotin deficiency.", "syn": [], "abbr": []}
+{"id": 7602, "term": "Biotinidase", "def": "An enzyme that releases biotin from biocytin and biotin-containing proteins, recycling the vitamin.", "syn": [], "abbr": []}
+{"id": 7603, "term": "Biotinidase deficiency", "def": "Autosomal recessive inability to recycle biotin, causing a multiple carboxylase deficiency with seizures, hypotonia, rash, alopecia and metabolic acidosis. It is treated with biotin supplementation.", "syn": [], "abbr": []}
+{"id": 7604, "term": "Multiple carboxylase deficiency", "def": "A disorder of biotin-dependent carboxylases, caused by biotinidase or holocarboxylase synthetase deficiency. It causes acidosis, rash and neurologic problems and responds to biotin.", "syn": [], "abbr": []}
+{"id": 7605, "term": "Diphyllobothriasis", "def": "Infection with the fish tapeworm Diphyllobothrium latum, acquired from raw or undercooked freshwater fish. It can cause vitamin B12 deficiency and megaloblastic anemia.", "syn": [], "abbr": []}
+{"id": 7606, "term": "Lysyl hydroxylase", "def": "An enzyme requiring vitamin C that hydroxylates lysine residues in procollagen, needed for collagen cross-linking. Deficiency causes Ehlers-Danlos syndrome (kyphoscoliotic type).", "syn": ["lysyl hydroxylases"], "abbr": []}
+{"id": 7607, "term": "Tocotrienol", "def": "A form of vitamin E with an unsaturated side chain, working as a lipid-soluble antioxidant.", "syn": ["tocotrienols"], "abbr": []}
+{"id": 7608, "term": "Vitamin K1", "def": "The plant form (phylloquinone, phytonadione) of vitamin K, a cofactor for gamma-carboxylation of clotting factors II, VII, IX and X. It is given to newborns to prevent hemorrhagic disease.", "syn": ["phytonadione", "phytomenadione", "phylloquinone", "vitamin K 1"], "abbr": []}
+{"id": 7609, "term": "Vitamin K2", "def": "The bacterial form (menaquinone) of vitamin K made by gut flora, serving as a cofactor for gamma-carboxylation of clotting factors.", "syn": ["menaquinone", "vitamin K 2"], "abbr": []}
+{"id": 7610, "term": "Emaciation", "def": "Extreme thinness and wasting from loss of body fat and muscle, as in severe malnutrition and cachexia.", "syn": [], "abbr": []}
+{"id": 7611, "term": "Dihydroxyacetone", "def": "A three-carbon ketose sugar. Its phosphate is an intermediate of glycolysis and gluconeogenesis.", "syn": [], "abbr": []}
+{"id": 7612, "term": "Dihydroxyacetone phosphate", "def": "A three-carbon intermediate of glycolysis made by aldolase and convertible to glyceraldehyde-3-phosphate by triose phosphate isomerase. It also feeds glycerol-3-phosphate synthesis.", "syn": ["DHAP"], "abbr": ["DHAP"]}
+{"id": 7613, "term": "Anhydride", "def": "A compound formed from two acid molecules by loss of water; in biochemistry, the high-energy phosphoanhydride bonds of ATP release energy when hydrolyzed.", "syn": ["anhydrides"], "abbr": []}
+{"id": 7614, "term": "Renal medulla", "def": "The inner region of the kidney, made of renal pyramids containing loops of Henle, vasa recta and collecting ducts. Its high osmolarity allows urine concentration.", "syn": ["kidney medulla"], "abbr": []}
+{"id": 7615, "term": "Symporter", "def": "A membrane transporter that moves two substances in the same direction across a membrane, such as the Na+-glucose cotransporter (SGLT).", "syn": ["co-transporter", "cotransporter"], "abbr": []}
+{"id": 7616, "term": "Uroporphyrinogen III synthase", "def": "A heme synthesis enzyme that makes uroporphyrinogen III. Its deficiency causes congenital erythropoietic porphyria.", "syn": ["uroporphyrinogen III synthetase"], "abbr": []}
+{"id": 7617, "term": "Congenital erythropoietic porphyria", "def": "Autosomal recessive uroporphyrinogen III synthase deficiency, with accumulation of porphyrins in red cells. It causes severe photosensitivity, hemolytic anemia and red-stained teeth and urine.", "syn": ["erythropoietic porphyria"], "abbr": []}
+{"id": 7618, "term": "Oxygenase", "def": "An enzyme that incorporates oxygen from O2 into a substrate. Monooxygenases include cytochrome P450, and dioxygenases include lipoxygenase.", "syn": ["oxygenases"], "abbr": []}
+{"id": 7619, "term": "Heme oxygenase", "def": "An enzyme that breaks down heme to biliverdin, releasing iron and carbon monoxide. Biliverdin is then converted to bilirubin.", "syn": [], "abbr": []}
+{"id": 7620, "term": "Endocardial cushion defects", "def": "Congenital heart defects from abnormal development of the endocardial cushions, including atrioventricular septal defects with ostium primum ASD. They are strongly associated with Down syndrome.", "syn": [], "abbr": []}
+{"id": 7621, "skip": "not-medical"}
+{"id": 7622, "term": "Atropa", "def": "A plant genus including deadly nightshade (Atropa belladonna), a source of atropine and scopolamine.", "syn": [], "abbr": []}
+{"id": 7623, "term": "Datura", "def": "A genus of toxic plants (jimsonweed) containing anticholinergic alkaloids such as atropine and scopolamine. Ingestion causes delirium, dilated pupils and dry skin.", "syn": [], "abbr": []}
+{"id": 7624, "term": "Atropa belladonna", "def": "Deadly nightshade, a plant containing the anticholinergic alkaloids atropine, hyoscyamine and scopolamine. Poisoning causes dry mouth, mydriasis, tachycardia, hyperthermia and delirium.", "syn": ["belladonna"], "abbr": []}
+{"id": 7625, "term": "Solifenacin", "def": "A muscarinic antagonist (M3-selective) used for overactive bladder. Side effects include dry mouth, constipation and urinary retention.", "syn": [], "abbr": []}
+{"id": 7626, "term": "Protein phosphatase", "def": "An enzyme that removes phosphate groups from proteins, reversing kinase action. Examples are calcineurin and PP1.", "syn": ["phosphoprotein phosphatases"], "abbr": []}
+{"id": 7627, "term": "Metyrosine", "def": "A tyrosine hydroxylase inhibitor that blocks catecholamine synthesis. Used to control hypertension in pheochromocytoma.", "syn": ["alpha-methyltyrosine"], "abbr": []}
+{"id": 7628, "term": "Dopamine transporter", "def": "A membrane protein that takes dopamine back into presynaptic neurons, ending its action. Cocaine and amphetamines act on it; DaTscan imaging uses it as a marker in parkinsonism.", "syn": [], "abbr": ["DAT"]}
+{"id": 7629, "term": "Central nervous system stimulants", "def": "Drugs that increase CNS activity, such as amphetamine, methylphenidate and caffeine. They treat ADHD and narcolepsy and can cause insomnia, anorexia and tachycardia.", "syn": ["CNS stimulant"], "abbr": []}
+{"id": 7630, "term": "Doxazosin", "def": "An alpha-1 blocker used for hypertension and benign prostatic hyperplasia. It causes orthostatic hypotension.", "syn": [], "abbr": []}
+{"id": 7631, "term": "Celiprolol", "def": "A beta-1 selective blocker with partial beta-2 agonist activity and mild vasodilating effects.", "syn": [], "abbr": []}
+{"id": 7632, "skip": "obvious"}
+{"id": 7633, "term": "Ankyrin", "def": "A cytoskeletal protein that links membrane proteins, such as band 3, to spectrin. Defects cause hereditary spherocytosis.", "syn": [], "abbr": []}
+{"id": 7634, "term": "Spectrin", "def": "A cytoskeletal protein forming a mesh under the red cell membrane, giving the cell its shape and flexibility. Deficiency causes hereditary spherocytosis or elliptocytosis.", "syn": [], "abbr": []}
+{"id": 7635, "term": "Hydrophobic interactions", "def": "The tendency of nonpolar groups to cluster away from water. This is a main force behind protein folding and membrane formation.", "syn": ["hydrophobic interaction"], "abbr": []}
+{"id": 7636, "term": "Complement inhibitors", "def": "Drugs that block the complement cascade, such as eculizumab (anti-C5). They are used for paroxysmal nocturnal hemoglobinuria and atypical hemolytic uremic syndrome and raise the risk of Neisseria infection.", "syn": ["complement inhibitor"], "abbr": []}
+{"id": 7637, "term": "Fava beans", "def": "Beans that contain oxidants (vicine and convicine) and can trigger acute hemolysis in G6PD deficiency (favism).", "syn": ["favism"], "abbr": []}
+{"id": 7638, "term": "Antituberculosis drugs", "def": "Agents used for tuberculosis, the first-line four being isoniazid, rifampin, pyrazinamide and ethambutol (RIPE). Multiple drugs are used together to prevent resistance.", "syn": ["anti-tuberculosis drugs", "antitubercular drugs"], "abbr": []}
+{"id": 7639, "term": "Myelophthisic anemia", "def": "Anemia caused by replacement of bone marrow by fibrosis, tumor or granulomas. The smear shows teardrop cells and leukoerythroblastosis.", "syn": ["myelophthisis"], "abbr": []}
+{"id": 7640, "term": "Histaminase", "def": "An enzyme (diamine oxidase) that breaks down histamine, particularly in the gut and placenta.", "syn": [], "abbr": []}
+{"id": 7641, "term": "Eosinophil cationic protein", "def": "A cytotoxic granule protein of eosinophils that damages helminths and host epithelium. It is released in allergic inflammation.", "syn": [], "abbr": []}
+{"id": 7642, "term": "Eosinophil-derived neurotoxin", "def": "A ribonuclease in eosinophil granules with antiviral activity, which is neurotoxic in animal studies.", "syn": [], "abbr": []}
+{"id": 7643, "term": "Eosinophil peroxidase", "def": "An enzyme in eosinophil granules that uses hydrogen peroxide to produce toxic reactive species against parasites and cause tissue damage in asthma.", "syn": [], "abbr": []}
+{"id": 7644, "term": "Arylsulfatase B", "def": "A lysosomal enzyme that removes sulfate from dermatan sulfate and chondroitin sulfate. Its deficiency causes Maroteaux-Lamy syndrome (MPS VI).", "syn": ["N-acetylgalactosamine-4-sulfatase"], "abbr": []}
+{"id": 7645, "term": "Neurulation", "def": "The embryonic process in which the neural plate folds to form the neural tube, the precursor of the brain and spinal cord. Failure causes neural tube defects.", "syn": [], "abbr": []}
+{"id": 7646, "term": "Axon hillock", "def": "The cone-shaped region where the axon leaves the cell body. It has a high density of voltage-gated sodium channels and is where action potentials are initiated.", "syn": ["axon initial segment"], "abbr": []}
+{"id": 7647, "term": "Gene therapy", "def": "Treatment that adds, replaces or edits genes in a patient's cells, often using viral vectors, to correct a genetic disease.", "syn": [], "abbr": []}
+{"id": 7648, "skip": "obvious"}
+{"id": 7649, "term": "Pseudobulbar palsy", "def": "Bilateral damage to corticobulbar tracts causing dysarthria, dysphagia, a brisk jaw jerk and emotional lability (inappropriate laughing or crying). Distinct from true bulbar palsy, which involves lower motor neurons.", "syn": [], "abbr": []}
+{"id": 7650, "term": "Superoxide dismutase 1", "def": "The cytosolic copper-zinc form of superoxide dismutase. Mutations in SOD1 cause some familial ALS through toxic gain of function.", "syn": ["SOD1"], "abbr": []}
+{"id": 7651, "skip": "not-medical"}
+{"id": 7652, "skip": "not-medical"}
+{"id": 7653, "term": "Whole-body irradiation", "def": "Exposure of the entire body to ionizing radiation, used before bone marrow transplant to destroy marrow, or occurring after accidents. Acute radiation syndrome affects marrow, GI tract, and CNS at increasing doses.", "syn": ["whole body radiation"], "abbr": []}
+{"id": 7654, "term": "Chromosomal translocation", "def": "Exchange of chromosome segments between nonhomologous chromosomes. Examples are t(9;22) in CML and t(14;18) in follicular lymphoma.", "syn": ["genetic translocation"], "abbr": []}
+{"id": 7655, "term": "Arsenic trioxide", "def": "A drug that induces differentiation and apoptosis of leukemic promyelocytes. Used for acute promyelocytic leukemia (t(15;17)); causes QT prolongation and differentiation syndrome.", "syn": [], "abbr": []}
+{"id": 7656, "term": "Mental foramen", "def": "An opening on the mandible through which the mental nerve and vessels exit to supply the chin and lower lip. It is a landmark for local anesthesia.", "syn": [], "abbr": []}
+{"id": 7657, "term": "Lingual nerve", "def": "A branch of the mandibular nerve (V3) carrying general sensation from the anterior two thirds of the tongue; it is joined by chorda tympani fibers for taste.", "syn": [], "abbr": []}
+{"id": 7658, "term": "Postganglionic parasympathetic fibers", "def": "Fibers from ganglia near or within target organs that release acetylcholine onto muscarinic receptors. They are short because ganglia lie close to organs.", "syn": [], "abbr": []}
+{"id": 7659, "term": "Trigeminal motor nucleus", "def": "A pontine nucleus supplying the muscles of mastication through the mandibular branch of the trigeminal nerve. Lesions cause jaw deviation toward the affected side on opening.", "syn": [], "abbr": []}
+{"id": 7660, "term": "Inner hair cells", "def": "Auditory sensory cells in a single row in the cochlea that convert sound vibration to neural signals via the cochlear nerve. They are the main source of hearing input.", "syn": ["inner hair cell"], "abbr": []}
+{"id": 7661, "term": "Cochlear microphonic", "def": "An electrical potential from the cochlear hair cells that mirrors the sound waveform, recorded in electrocochleography.", "syn": ["cochlear microphonic potential"], "abbr": []}
+{"id": 7662, "term": "Cochlear nerve", "def": "The part of cranial nerve VIII carrying hearing signals from the spiral ganglion of the cochlea to the cochlear nuclei.", "syn": ["cochlear nerves"], "abbr": []}
+{"id": 7663, "term": "Stria vascularis", "def": "The vascular lining of the cochlear duct that secretes potassium-rich endolymph and generates the endocochlear potential. Loop diuretics can damage it.", "syn": [], "abbr": []}
+{"id": 7664, "term": "Crista ampullaris", "def": "The sensory epithelium in each semicircular canal's ampulla that detects rotational head movement. Hair cells bend in a gelatinous cupula as endolymph moves.", "syn": [], "abbr": []}
+{"id": 7665, "term": "Cochlear hair cells", "def": "Mechanoreceptor cells in the organ of Corti, in inner and outer rows, which transduce sound. Aminoglycosides and loud noise damage them.", "syn": [], "abbr": []}
+{"id": 7666, "term": "Oculomotor nucleus", "def": "A midbrain nucleus giving rise to cranial nerve III, supplying most extraocular muscles; the Edinger-Westphal nucleus provides parasympathetic fibers for pupil constriction.", "syn": [], "abbr": []}
+{"id": 7667, "term": "Ventral lateral nucleus", "def": "A thalamic nucleus that relays motor information from the cerebellum and basal ganglia to the motor cortex.", "syn": [], "abbr": []}
+{"id": 7668, "term": "Pars reticulata", "def": "The part of the substantia nigra that, with the globus pallidus interna, is an output of the basal ganglia sending inhibitory GABA signals to the thalamus.", "syn": [], "abbr": []}
+{"id": 7669, "term": "Rod photoreceptors", "def": "Retinal cells specialized for dim-light vision using rhodopsin. They are concentrated in the periphery and are lost first in retinitis pigmentosa and vitamin A deficiency (night blindness).", "syn": ["photoreceptors rods", "rods"], "abbr": []}
+{"id": 7670, "term": "Posterior cerebral artery infarct", "def": "Stroke in the posterior cerebral artery territory affecting the occipital lobe, causing contralateral homonymous hemianopia with macular sparing. Bilateral lesions can produce cortical blindness.", "syn": ["PCA infarct"], "abbr": []}
+{"id": 7671, "term": "Janus kinases", "def": "Cytoplasmic tyrosine kinases (JAK1-3, TYK2) that bind cytokine receptors and phosphorylate STAT proteins. JAK inhibitors such as tofacitinib treat autoimmune disease.", "syn": ["Janus kinase"], "abbr": []}
+{"id": 7672, "term": "Janus kinase 2", "def": "A tyrosine kinase signaling downstream of erythropoietin and other receptors. The activating JAK2 V617F mutation occurs in polycythemia vera, essential thrombocythemia and myelofibrosis.", "syn": ["JAK2"], "abbr": ["JAK2"]}
+{"id": 7673, "skip": "not-medical"}
+{"id": 7674, "skip": "not-medical"}
+{"id": 7675, "term": "Immunoglobulin heavy chain genes", "def": "Gene segments on chromosome 14 that undergo VDJ recombination to generate antibody heavy chains. They are partners in translocations such as t(14;18) in follicular lymphoma.", "syn": ["IgH genes"], "abbr": []}
+{"id": 7676, "term": "BCL-2 gene", "def": "A gene encoding an anti-apoptotic protein that prevents cell death. Overexpression from t(14;18) occurs in follicular lymphoma.", "syn": ["bcl-2 gene", "BCL2"], "abbr": []}
+{"id": 7677, "term": "Mitotic index", "def": "The fraction of cells in a tissue undergoing mitosis, used as a measure of tumor proliferation.", "syn": [], "abbr": []}
+{"id": 7678, "term": "Cranial irradiation", "def": "Radiation therapy to the brain, used for CNS tumors and as prophylaxis in acute lymphoblastic leukemia. Late effects include cognitive decline and endocrine dysfunction.", "syn": [], "abbr": []}
+{"id": 7679, "term": "Gamma globulins", "def": "The immunoglobulin fraction of plasma proteins that migrates last on serum electrophoresis. A polyclonal increase occurs in chronic infection and a monoclonal spike in myeloma.", "syn": ["gamma globulin"], "abbr": []}
+{"id": 7680, "term": "Paraprotein", "def": "A monoclonal immunoglobulin or light chain in blood or urine, produced by a clone of plasma cells. It is seen in myeloma, Waldenstrom macroglobulinemia and MGUS.", "syn": ["paraproteins"], "abbr": []}
+{"id": 7681, "skip": "not-medical"}
+{"id": 7682, "term": "Supraoptic nucleus", "def": "A hypothalamic nucleus whose neurons make ADH (and oxytocin) and send them down axons to the posterior pituitary for release.", "syn": [], "abbr": []}
+{"id": 7683, "term": "Paraventricular nucleus", "def": "A hypothalamic nucleus producing oxytocin and ADH, and CRH and TRH, which regulate the anterior pituitary.", "syn": [], "abbr": []}
+{"id": 7684, "term": "Dorsomedial hypothalamic nucleus", "def": "A hypothalamic nucleus involved in feeding, circadian rhythm and stress responses. Damage may cause rage behavior.", "syn": [], "abbr": []}
+{"id": 7685, "term": "Organum vasculosum of the lamina terminalis", "def": "A circumventricular organ lacking a blood-brain barrier that senses blood osmolarity and angiotensin II, triggering thirst and ADH release.", "syn": ["organum vasculosum"], "abbr": []}
+{"id": 7686, "term": "Habenula", "def": "A small epithalamic nucleus that receives input from the limbic system and inhibits dopamine neurons, involved in reward and aversion.", "syn": [], "abbr": []}
+{"id": 7687, "skip": "obvious"}
+{"id": 7688, "skip": "obvious"}
+{"id": 7689, "skip": "obvious"}
+{"id": 7690, "skip": "obvious"}
+{"id": 7691, "term": "Mediodorsal thalamic nucleus", "def": "A thalamic nucleus that connects the limbic system with the prefrontal cortex. Damage, as in Wernicke-Korsakoff syndrome, causes amnesia.", "syn": ["dorsomedial nucleus"], "abbr": []}
+{"id": 7692, "term": "Basal ganglia hemorrhage", "def": "Bleeding into the putamen or other deep nuclei, usually from chronic hypertension affecting Charcot-Bouchard microaneurysms. It causes contralateral hemiparesis and sensory loss.", "syn": [], "abbr": []}
+{"id": 7693, "term": "Ruptured aneurysm", "def": "Bursting of a vascular aneurysm. A ruptured berry aneurysm causes subarachnoid hemorrhage with thunderclap headache, and a ruptured aortic aneurysm causes catastrophic bleeding.", "syn": [], "abbr": []}
+{"id": 7694, "term": "Crus cerebri", "def": "The ventral part of the cerebral peduncle of the midbrain, carrying descending corticospinal, corticobulbar and corticopontine fibers.", "syn": ["cerebral crus"], "abbr": []}
+{"id": 7695, "skip": "obvious"}
+{"id": 7696, "term": "Betaine", "def": "A methyl donor that converts homocysteine to methionine (betaine-homocysteine methyltransferase). It is used to treat homocystinuria.", "syn": [], "abbr": []}
+{"id": 7697, "term": "Inositol", "def": "A sugar alcohol that is a component of phosphatidylinositol in membranes and the precursor of IP3 second messenger.", "syn": [], "abbr": []}
+{"id": 7698, "term": "Neurites", "def": "Projections from a neuron's cell body, either dendrites or axons, especially developing ones.", "syn": [], "abbr": []}
+{"id": 7699, "term": "Amyloidogenic proteins", "def": "Proteins prone to misfold into beta-pleated sheet fibrils, forming amyloid deposits. Examples are amyloid beta, transthyretin and immunoglobulin light chains.", "syn": ["amyloid protein"], "abbr": []}
+{"id": 7700, "term": "Microtubule-associated proteins", "def": "Proteins that bind and stabilize microtubules, including tau and MAP2. Hyperphosphorylated tau forms the neurofibrillary tangles of Alzheimer disease.", "syn": ["microtubule-associated protein", "MAPs"], "abbr": []}
+{"id": 7701, "skip": "obvious"}
+{"id": 7702, "skip": "not-medical"}
+{"id": 7703, "term": "Gerstmann-Straussler-Scheinker disease", "def": "A rare inherited prion disease causing progressive cerebellar ataxia followed by dementia, due to PRNP mutations.", "syn": ["Gerstmann-Straussler-Scheinker syndrome"], "abbr": []}
+{"id": 7704, "term": "Kuru", "def": "A prion disease that spread among the Fore people of Papua New Guinea through ritual cannibalism. It causes cerebellar ataxia and tremor, progressing to death.", "syn": [], "abbr": []}
+{"id": 7705, "skip": "obvious"}
+{"id": 7706, "term": "Peripheral nerve injury", "def": "Damage to peripheral nerves classified by Seddon as neurapraxia (conduction block), axonotmesis (axon loss with intact sheath) and neurotmesis (complete transection).", "syn": ["peripheral nerve injuries"], "abbr": []}
+{"id": 7707, "term": "Bovine spongiform encephalopathy", "def": "A prion disease of cattle (mad cow disease) that can pass to humans, causing variant Creutzfeldt-Jakob disease. It results in spongiform brain change.", "syn": ["mad cow disease"], "abbr": []}
+{"id": 7708, "term": "Neuropil", "def": "The dense network of axons, dendrites and glial processes between neuron cell bodies in gray matter, where synapses occur.", "syn": [], "abbr": []}
+{"id": 7709, "term": "Efferent pathways", "def": "Neural pathways that carry signals away from the central nervous system to muscles and glands.", "syn": ["efferent pathway"], "abbr": []}
+{"id": 7710, "term": "Migrating motor complex", "def": "A cyclical pattern of strong contractions that sweeps through the stomach and small bowel during fasting, clearing residual material. It is regulated by motilin and is disrupted by eating.", "syn": ["migrating motor complexes"], "abbr": []}
+{"id": 7711, "term": "Peptide YY", "def": "A hormone from L cells of the ileum and colon that is released after meals and slows gut motility and reduces appetite (the ileal brake).", "syn": ["PYY"], "abbr": ["PYY"]}
+{"id": 7712, "term": "Afferent neurons", "def": "Sensory neurons that carry signals from receptors toward the central nervous system.", "syn": ["afferent neuron"], "abbr": []}
+{"id": 7713, "term": "Bile pigments", "def": "Colored breakdown products of heme, including bilirubin and biliverdin, that give bile and stool their color.", "syn": ["bile pigment"], "abbr": []}
+{"id": 7714, "term": "Taurine", "def": "An amino-sulfonic acid that conjugates bile acids in the liver to form bile salts, increasing their solubility.", "syn": [], "abbr": []}
+{"id": 7715, "term": "Trehalase", "def": "A brush-border enzyme in the small intestine that breaks down trehalose, a sugar from mushrooms, into two glucose molecules.", "syn": [], "abbr": []}
+{"id": 7716, "term": "Trehalose", "def": "A disaccharide of two glucose units, found in mushrooms and insects, digested by intestinal trehalase.", "syn": [], "abbr": []}
+{"id": 7717, "term": "Chymotrypsin", "def": "A pancreatic serine protease that cleaves peptide bonds after aromatic amino acids. It is activated from chymotrypsinogen by trypsin.", "syn": [], "abbr": []}
+{"id": 7718, "term": "Chymotrypsinogen", "def": "The inactive precursor of chymotrypsin, secreted by pancreatic acinar cells and activated by trypsin in the duodenum.", "syn": [], "abbr": []}
+{"id": 7719, "term": "Carboxypeptidases", "def": "Pancreatic exopeptidases that remove amino acids one at a time from the carboxyl end of proteins during digestion.", "syn": ["carboxypeptidase"], "abbr": []}
+{"id": 7720, "term": "Carboxypeptidase A", "def": "A pancreatic zinc enzyme that removes aromatic or branched C-terminal amino acids from peptides. Trypsin activates its precursor.", "syn": [], "abbr": []}
+{"id": 7721, "term": "Dipeptides", "def": "Molecules made of two amino acids joined by a peptide bond. They are absorbed in the intestine through the PepT1 transporter.", "syn": ["dipeptide"], "abbr": []}
+{"id": 7722, "term": "Monoglyceride lipase", "def": "An enzyme that hydrolyzes monoacylglycerol into glycerol and a free fatty acid, the final step of fat breakdown in lipolysis.", "syn": ["monoacylglycerol lipase"], "abbr": []}
+{"id": 7723, "term": "Lysolecithin", "def": "A phospholipid formed when phospholipase A2 removes a fatty acid from lecithin (phosphatidylcholine). It acts as a detergent that can disrupt cell membranes.", "syn": ["lysophosphatidylcholine"], "abbr": []}
+{"id": 7724, "term": "Distal renal tubule", "def": "The part of the nephron after the loop of Henle, including the distal convoluted tubule, where sodium and calcium reabsorption are regulated; thiazides act here.", "syn": ["distal tubule"], "abbr": []}
+{"id": 7725, "term": "Papillary cystadenoma", "def": "A benign glandular tumor forming cysts with papillary projections. Papillary cystadenoma lymphomatosum (Warthin tumor) arises in the parotid gland.", "syn": [], "abbr": []}
+{"id": 7726, "term": "Mucoepidermoid carcinoma", "def": "The most common malignant salivary gland tumor, typically in the parotid, composed of mucus-secreting and squamous cells.", "syn": ["mucoepidermoid tumor"], "abbr": []}
+{"id": 7727, "term": "Laryngopharyngeal reflux", "def": "Backflow of gastric contents into the throat and larynx, causing hoarseness, chronic cough and throat clearing, often without heartburn.", "syn": [], "abbr": []}
+{"id": 7728, "term": "Ectopia cordis", "def": "A rare congenital malformation in which the heart lies partly or fully outside the chest wall due to sternal failure to fuse.", "syn": [], "abbr": []}
+{"id": 7729, "term": "Linitis plastica", "def": "Diffuse infiltration of the stomach wall by signet ring cell adenocarcinoma, making it thick and rigid like a leather bottle. It is linked to E-cadherin mutations.", "syn": [], "abbr": []}
+{"id": 7730, "term": "Adenovirus infection", "def": "Infection by non-enveloped double-stranded DNA adenoviruses causing pharyngitis, conjunctivitis, hemorrhagic cystitis and gastroenteritis.", "syn": ["adenovirus infections"], "abbr": []}
+{"id": 7731, "skip": "not-medical"}
+{"id": 7732, "term": "Enteropathy-associated T-cell lymphoma", "def": "An aggressive intestinal T-cell lymphoma complicating celiac disease, often causing perforation.", "syn": [], "abbr": []}
+{"id": 7733, "term": "Tryptophan hydroxylase", "def": "The rate-limiting enzyme in serotonin synthesis, converting tryptophan to 5-hydroxytryptophan. Its activity is high in carcinoid tumors.", "syn": [], "abbr": []}
+{"id": 7734, "term": "Cutaneous fistula", "def": "An abnormal channel connecting an internal organ or abscess to the skin surface, such as an enterocutaneous fistula in Crohn disease.", "syn": ["skin fistula"], "abbr": []}
+{"id": 7735, "skip": "not-medical"}
+{"id": 7736, "term": "Tumor necrosis factor-alpha", "def": "A proinflammatory cytokine from macrophages that promotes inflammation, fever and cachexia, and is essential for granuloma maintenance. TNF inhibitors treat rheumatoid arthritis and Crohn disease.", "syn": ["TNF-alpha"], "abbr": ["TNF-alpha"]}
+{"id": 7737, "term": "Intestinal perforation", "def": "A hole through the wall of the bowel leaking contents into the peritoneum. It causes peritonitis with free air under the diaphragm on x-ray.", "syn": [], "abbr": []}
+{"id": 7738, "term": "Progesterone reductase", "def": "An enzyme that reduces progesterone to metabolites such as pregnanediol; 5-alpha-reductase makes 5-alpha-dihydroprogesterone.", "syn": [], "abbr": []}
+{"id": 7739, "skip": "obvious"}
+{"id": 7740, "term": "Ileal disease", "def": "Disease of the terminal ileum, such as Crohn disease. It impairs absorption of vitamin B12 and bile acids.", "syn": [], "abbr": []}
+{"id": 7741, "term": "Spina bifida cystica", "def": "A neural tube defect with a sac protruding through a vertebral defect, either a meningocele (meninges only) or myelomeningocele (cord and nerves). Also called spina bifida aperta.", "syn": ["spina bifida aperta"], "abbr": []}
+{"id": 7742, "skip": "obvious"}
+{"id": 7743, "term": "Lesser petrosal nerve", "def": "A branch of the glossopharyngeal nerve carrying parasympathetic fibers to the otic ganglion, which supplies the parotid gland.", "syn": [], "abbr": []}
+{"id": 7744, "term": "Entorhinal cortex", "def": "A region of the medial temporal lobe that relays information between the neocortex and the hippocampus. It is among the first areas affected in Alzheimer disease.", "syn": [], "abbr": []}
+{"id": 7745, "skip": "obvious"}
+{"id": 7746, "term": "Absence epilepsy", "def": "A generalized seizure disorder in children with brief staring spells without a postictal state. EEG shows 3-Hz spike-and-wave discharges; ethosuximide is first-line.", "syn": ["childhood absence epilepsy"], "abbr": []}
+{"id": 7747, "skip": "obvious"}
+{"id": 7748, "term": "Calcitonin gene-related peptide", "def": "A neuropeptide that is a potent vasodilator, released from trigeminal nerves in migraine. Monoclonal antibodies against it prevent migraines.", "syn": [], "abbr": ["CGRP"]}
+{"id": 7749, "term": "Bruxism", "def": "Involuntary grinding or clenching of the teeth, often during sleep, causing tooth wear and jaw pain.", "syn": [], "abbr": []}

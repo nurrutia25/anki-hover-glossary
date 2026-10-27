@@ -1,0 +1,250 @@
+{"id": 6250, "term": "Liraglutide", "def": "A GLP-1 receptor agonist injected for type 2 diabetes and obesity. It boosts glucose-dependent insulin release, suppresses glucagon and slows gastric emptying; risks include pancreatitis and thyroid C-cell tumors.", "syn": [], "abbr": []}
+{"id": 6251, "term": "Linagliptin", "def": "A DPP-4 inhibitor for type 2 diabetes that raises incretin (GLP-1) levels, increasing glucose-dependent insulin release. Cleared mainly through bile, so no renal dose adjustment is needed.", "syn": [], "abbr": []}
+{"id": 6252, "term": "Glycerol-3-phosphate dehydrogenase", "def": "Enzyme linking glycolysis and lipid synthesis by converting dihydroxyacetone phosphate to glycerol-3-phosphate, which provides the glycerol backbone for triglycerides. Also part of the glycerol phosphate shuttle for NADH.", "syn": ["glycerol-3-phosphate dehydrogenase"], "abbr": []}
+{"id": 6253, "term": "Adiponectin", "def": "Hormone released by fat cells that increases insulin sensitivity and fatty acid oxidation. Levels fall in obesity and type 2 diabetes.", "syn": [], "abbr": []}
+{"id": 6254, "term": "Blood-testis barrier", "def": "Tight junctions between adjacent Sertoli cells that isolate developing sperm cells from the blood. It protects haploid germ cells from immune attack because they are antigenically foreign.", "syn": [], "abbr": []}
+{"id": 6255, "term": "Spermatid", "def": "Haploid male germ cell produced by meiosis II that matures into sperm (spermiogenesis) without further division. Lies close to the lumen of the seminiferous tubule.", "syn": ["spermatids"], "abbr": []}
+{"id": 6256, "term": "Oogenesis", "def": "Development of egg cells in the ovary. Oocytes arrest in prophase I from fetal life until ovulation, then in metaphase II until fertilization.", "syn": [], "abbr": []}
+{"id": 6257, "term": "Prophase I of meiosis", "def": "Long first stage of meiosis I in which homologous chromosomes pair and cross over, exchanging genetic material. Oocytes remain arrested in this stage (diplotene) until puberty.", "syn": ["prophase 1", "prophase i"], "abbr": []}
+{"id": 6258, "term": "Activin", "def": "Hormone of the TGF-beta family that stimulates FSH release from the pituitary. Counterbalanced by inhibin, which comes from Sertoli and granulosa cells.", "syn": ["activins"], "abbr": []}
+{"id": 6259, "term": "Basal body", "def": "Microtubule structure at the base of a cilium or flagellum that anchors and organizes it. Structurally related to a centriole.", "syn": ["basal bodies"], "abbr": []}
+{"id": 6260, "term": "Oligomenorrhea", "def": "Infrequent menstrual periods, with cycles longer than 35 days. A common feature of polycystic ovary syndrome.", "syn": [], "abbr": []}
+{"id": 6261, "term": "Sulfatase", "def": "Enzyme that removes sulfate groups from molecules. Lysosomal sulfatase deficiencies cause storage diseases such as Hunter syndrome and metachromatic leukodystrophy.", "syn": ["sulfatases"], "abbr": []}
+{"id": 6262, "term": "Y chromosome", "def": "Sex chromosome carrying the SRY gene that drives male development. Present in males only and contains few genes beyond testis determination and spermatogenesis.", "syn": ["y chromosomes"], "abbr": []}
+{"id": 6263, "skip": "obvious"}
+{"id": 6264, "term": "Pudendal neuralgia", "def": "Chronic pelvic or perineal pain from irritation or entrapment of the pudendal nerve (S2-S4). Often worse when sitting.", "syn": ["pudendal nerve entrapment", "pudendal nerve entrapment syndrome"], "abbr": []}
+{"id": 6265, "skip": "obvious"}
+{"id": 6266, "term": "Vardenafil", "def": "A phosphodiesterase 5 inhibitor for erectile dysfunction that raises cGMP in penile smooth muscle. Contraindicated with nitrates because of severe hypotension.", "syn": [], "abbr": []}
+{"id": 6267, "skip": "obvious"}
+{"id": 6268, "term": "Anaplasia", "def": "Loss of cell differentiation and cell identity, with pleomorphism and many mitoses. A hallmark of malignancy.", "syn": [], "abbr": []}
+{"id": 6269, "term": "Mucinous cystadenoma", "def": "Benign ovarian tumor of mucin-secreting epithelium forming large multilocular cysts. Can become very large.", "syn": [], "abbr": []}
+{"id": 6270, "term": "Prophylactic mastectomy", "def": "Surgical removal of breast tissue to prevent cancer, considered for BRCA1 or BRCA2 carriers.", "syn": [], "abbr": []}
+{"id": 6271, "term": "Serous and mucinous cystic neoplasms", "def": "Ovarian or pancreatic cystic tumors lined by serous (watery) or mucinous (mucus-secreting) epithelium, ranging from benign to malignant.", "syn": ["neoplasm serous", "neoplasm mucinous", "mucinous neoplasm"], "abbr": []}
+{"id": 6272, "term": "Pseudomyxoma peritonei", "def": "Abdomen filled with gelatinous mucin from a mucinous tumor, usually of the appendix, that has ruptured and seeded the peritoneum.", "syn": [], "abbr": []}
+{"id": 6273, "term": "Mucinous cystadenocarcinoma", "def": "Malignant ovarian or pancreatic cystic tumor of mucin-secreting epithelium.", "syn": [], "abbr": []}
+{"id": 6274, "term": "Brenner tumor", "def": "Uncommon ovarian tumor of transitional-like epithelium, usually benign. Histology shows coffee-bean nuclei.", "syn": ["brenner tumors"], "abbr": []}
+{"id": 6275, "term": "Struma ovarii", "def": "Ovarian teratoma composed mostly of thyroid tissue, which can cause hyperthyroidism.", "syn": [], "abbr": []}
+{"id": 6276, "term": "Sertoli-Leydig cell tumor", "def": "Sex cord-stromal tumor that produces androgens and causes virilization in women. Called arrhenoblastoma.", "syn": ["androblastoma"], "abbr": []}
+{"id": 6277, "term": "Krukenberg tumor", "def": "Ovarian metastasis, usually bilateral, from a mucin-secreting signet ring cell carcinoma, classically of the stomach.", "syn": ["krukenberg tumors"], "abbr": []}
+{"id": 6278, "skip": "obvious"}
+{"id": 6279, "term": "Peyronie disease", "def": "Fibrous plaque in the penile tunica albuginea causing painful curved erections.", "syn": [], "abbr": []}
+{"id": 6280, "term": "Spermatocele", "def": "Painless cystic collection of sperm-containing fluid in the epididymis, which transilluminates.", "syn": [], "abbr": []}
+{"id": 6281, "skip": "obvious"}
+{"id": 6282, "skip": "obvious"}
+{"id": 6283, "term": "Gametogenesis", "def": "Formation of sperm and eggs by meiosis from germ cells.", "syn": [], "abbr": []}
+{"id": 6284, "skip": "obvious"}
+{"id": 6285, "term": "Urachal cyst", "def": "Cystic remnant of the urachus between the bladder and umbilicus, which can become infected.", "syn": [], "abbr": []}
+{"id": 6286, "skip": "obvious"}
+{"id": 6287, "term": "Sucralfate", "def": "Drug that forms a protective barrier over ulcers in an acidic environment. Needs acid to work.", "syn": [], "abbr": []}
+{"id": 6288, "term": "Proton-motive force", "def": "Electrochemical proton gradient across the inner mitochondrial membrane that drives ATP synthase.", "syn": [], "abbr": []}
+{"id": 6289, "term": "Oligospermia", "def": "Low sperm concentration in semen, a cause of male infertility.", "syn": ["oligozoospermia"], "abbr": []}
+{"id": 6290, "term": "Euchromatin", "def": "Loosely packed, transcriptionally active DNA, lightly stained.", "syn": [], "abbr": []}
+{"id": 6291, "skip": "not-medical"}
+{"id": 6292, "term": "CpG islands", "def": "Stretches of DNA rich in cytosine-guanine pairs, often in gene promoters. Methylation silences transcription.", "syn": ["cpg island"], "abbr": []}
+{"id": 6293, "skip": "obvious"}
+{"id": 6294, "term": "DNA gyrase", "def": "Bacterial type II topoisomerase that relieves supercoiling. Target of fluoroquinolones.", "syn": [], "abbr": []}
+{"id": 6295, "term": "DNA primase", "def": "Enzyme that makes short RNA primers for DNA polymerase.", "syn": ["primase"], "abbr": []}
+{"id": 6296, "skip": "obvious"}
+{"id": 6297, "term": "Silent mutation", "def": "Base change that doesn't alter the encoded amino acid because of codon redundancy.", "syn": ["silent mutations", "mutations silent"], "abbr": []}
+{"id": 6298, "term": "Nonsense mutation", "def": "Base change creating a premature stop codon, producing truncated protein.", "syn": ["premature stop codon"], "abbr": []}
+{"id": 6299, "term": "ATM protein", "def": "Kinase that detects DNA double-strand breaks and activates p53. Mutated in ataxia-telangiectasia.", "syn": [], "abbr": []}
+{"id": 6300, "term": "Untranslated regions", "def": "Parts of mRNA outside the coding sequence that regulate translation and stability.", "syn": ["untranslated region"], "abbr": ["UTR", "UTRs"]}
+{"id": 6301, "term": "3' untranslated region", "def": "mRNA segment after the stop codon, containing regulatory signals including the poly-A signal.", "syn": ["3 utr", "3 untranslated region"], "abbr": ["3' UTR"]}
+{"id": 6302, "term": "Enhancer", "def": "DNA sequence that increases transcription of a gene, even from a distance, by binding activator proteins.", "syn": ["enhancer sequences", "enhancer sequence"], "abbr": []}
+{"id": 6303, "term": "CREB", "def": "Transcription factor activated by cAMP-dependent phosphorylation by protein kinase A.", "syn": ["creb protein", "camp response element-binding proteins"], "abbr": ["CREB"]}
+{"id": 6304, "term": "Waardenburg syndrome", "def": "Neural crest disorder with sensorineural deafness, white forelock and different-colored eyes.", "syn": [], "abbr": []}
+{"id": 6305, "term": "Thalidomide", "def": "Drug that caused limb malformations (phocomelia) in fetuses; now used for multiple myeloma and leprosy reactions.", "syn": [], "abbr": []}
+{"id": 6306, "skip": "obvious"}
+{"id": 6307, "term": "Amanita", "def": "Genus of mushrooms; Amanita phalloides contains alpha-amanitin, which inhibits RNA polymerase II and causes liver failure.", "syn": [], "abbr": []}
+{"id": 6308, "skip": "obvious"}
+{"id": 6309, "term": "Polyadenylation", "def": "Addition of a poly-A tail to the 3' end of mRNA after transcription, protecting it and aiding export.", "syn": [], "abbr": []}
+{"id": 6310, "term": "Poly-A tail", "def": "Chain of adenine nucleotides added to the 3' end of mRNA that stabilizes it.", "syn": ["poly a"], "abbr": []}
+{"id": 6311, "term": "Poly-A polymerase", "def": "Enzyme that adds the poly-A tail to the 3' end of pre-mRNA.", "syn": ["poly a polymerase"], "abbr": []}
+{"id": 6312, "skip": "not-medical"}
+{"id": 6313, "term": "mRNA decay", "def": "Degradation of mRNA that sets how long it is translated.", "syn": ["mrna decay", "mrna degradation"], "abbr": []}
+{"id": 6314, "term": "Processing bodies", "def": "Cytoplasmic granules (P-bodies) where mRNA is degraded or stored.", "syn": ["p-bodies"], "abbr": []}
+{"id": 6315, "term": "Splice sites", "def": "Sequences at intron-exon boundaries recognized by the spliceosome; introns begin with GU (5' donor) and end with AG (3').", "syn": ["5 splice site", "3 splice site", "splice donor site"], "abbr": []}
+{"id": 6316, "term": "Cytidine", "def": "Pyrimidine nucleoside of cytosine and ribose.", "syn": [], "abbr": []}
+{"id": 6317, "term": "Ribozyme", "def": "RNA molecule with catalytic activity, such as the peptidyl transferase in ribosomes.", "syn": ["ribozymes"], "abbr": []}
+{"id": 6318, "term": "5' untranslated region", "def": "mRNA segment before the start codon containing ribosome binding signals.", "syn": ["5 utr"], "abbr": ["5' UTR"]}
+{"id": 6319, "term": "Pseudomonas exotoxin A", "def": "Toxin that ADP-ribosylates elongation factor 2, halting protein synthesis, like diphtheria toxin.", "syn": ["exotoxin a pseudomonas"], "abbr": []}
+{"id": 6320, "term": "Heat-shock response", "def": "Cell response to stress that induces chaperone proteins (heat shock proteins) to refold damaged proteins.", "syn": ["heat shock"], "abbr": []}
+{"id": 6321, "skip": "obvious"}
+{"id": 6322, "skip": "obvious"}
+{"id": 6323, "term": "Asparagine", "def": "Amino acid whose amide nitrogen is the site of N-linked glycosylation in the ER.", "syn": [], "abbr": []}
+{"id": 6324, "skip": "obvious"}
+{"id": 6325, "term": "Kinesin", "def": "Motor protein that moves cargo along microtubules toward the plus end (anterograde).", "syn": ["kinesins"], "abbr": []}
+{"id": 6326, "term": "Dextrocardia", "def": "Heart positioned in the right chest; in Kartagener syndrome it occurs with situs inversus.", "syn": [], "abbr": []}
+{"id": 6327, "term": "Sodium-potassium pump", "def": "ATPase pumping 3 Na+ out and 2 K+ in per ATP, maintaining the resting potential. Inhibited by digoxin and ouabain.", "syn": ["sodium-potassium pump"], "abbr": ["Na+/K+ ATPase"]}
+{"id": 6328, "term": "Ouabain", "def": "Cardiac glycoside that inhibits the Na+/K+ ATPase.", "syn": [], "abbr": []}
+{"id": 6329, "term": "Vitreous body", "def": "Clear gel filling the eye between the lens and retina.", "syn": ["vitreous humor"], "abbr": []}
+{"id": 6330, "term": "Procollagen peptidase", "def": "Enzyme that cuts the terminal propeptides off procollagen outside the cell; deficiency causes Ehlers-Danlos.", "syn": ["procollagen peptidase"], "abbr": []}
+{"id": 6331, "term": "Recombinant DNA", "def": "DNA made by joining sequences from different sources, used for cloning and producing proteins.", "syn": ["recombinant dna"], "abbr": []}
+{"id": 6332, "term": "Restriction endonucleases", "def": "Bacterial enzymes cutting DNA at specific palindromic sequences, used in cloning.", "syn": ["restriction endonuclease"], "abbr": []}
+{"id": 6333, "term": "Restriction fragment length polymorphism", "def": "Variation in DNA fragment sizes after enzyme cutting due to sequence differences, used in genetic mapping.", "syn": ["restriction fragment length polymorphism"], "abbr": ["RFLP"]}
+{"id": 6334, "term": "Southern blot", "def": "Technique detecting a specific DNA sequence by transferring digested DNA to a membrane and hybridizing a probe.", "syn": ["southern blot"], "abbr": []}
+{"id": 6335, "term": "Oligonucleotide", "def": "Short single strand of nucleotides, used as a primer or probe.", "syn": ["oligonucleotides"], "abbr": []}
+{"id": 6336, "term": "Deoxyribonucleotides", "def": "Building blocks of DNA, made from ribonucleotides by ribonucleotide reductase.", "syn": ["deoxyribonucleotide"], "abbr": []}
+{"id": 6337, "term": "RNA probe", "def": "Labeled RNA strand used to detect complementary nucleic acid sequences.", "syn": ["rna probes"], "abbr": []}
+{"id": 6338, "term": "In situ hybridization", "def": "Labeled probe binding to nucleic acid sequences in intact tissue.", "syn": ["in situ hybridization"], "abbr": []}
+{"id": 6339, "term": "Fluorescence in situ hybridization", "def": "Technique using fluorescent probes to detect specific chromosomal sequences, deletions or translocations.", "syn": ["fluorescence in situ hybridization"], "abbr": ["FISH"]}
+{"id": 6340, "term": "Transgenic mouse", "def": "Mouse with foreign DNA inserted into its genome to study gene function.", "syn": ["transgenic mouse"], "abbr": []}
+{"id": 6341, "term": "Histone code", "def": "Pattern of histone modifications, such as acetylation and methylation, regulating gene expression.", "syn": ["histone modifications"], "abbr": []}
+{"id": 6342, "term": "Long noncoding RNA", "def": "RNA over 200 nucleotides that does not code for protein but regulates gene expression, such as XIST.", "syn": ["long noncoding rna"], "abbr": ["lncRNA"]}
+{"id": 6343, "term": "Heteroplasmy", "def": "Mixture of normal and mutated mitochondrial DNA in a cell; disease severity depends on the proportion.", "syn": [], "abbr": []}
+{"id": 6344, "term": "Mitochondrial myopathies", "def": "Muscle diseases from mitochondrial DNA defects, causing weakness and lactic acidosis, with ragged red fibers.", "syn": ["mitochondrial myopathy"], "abbr": []}
+{"id": 6345, "term": "ABO blood group system", "def": "Blood types set by A and B sugar antigens on red cells; plasma has antibodies to the antigens absent.", "syn": ["abo blood groups"], "abbr": []}
+{"id": 6346, "skip": "obvious"}
+{"id": 6347, "term": "Genetic heterogeneity", "def": "Same phenotype caused by different genetic variants (allelic) or different genes (locus).", "syn": ["locus heterogeneity", "allelic heterogeneity"], "abbr": []}
+{"id": 6348, "term": "SNRPN", "def": "Gene in the Prader-Willi region of chromosome 15, expressed only from the paternal allele.", "syn": ["snrpn"], "abbr": []}
+{"id": 6349, "term": "Excoriation disorder", "def": "Psychiatric disorder of repetitive skin picking causing lesions.", "syn": [], "abbr": []}
+{"id": 6350, "skip": "not-medical"}
+{"id": 6351, "term": "Centromere", "def": "Region where sister chromatids join and spindle fibers attach.", "syn": [], "abbr": []}
+{"id": 6352, "term": "Cri-du-chat syndrome", "def": "Deletion of the short arm of chromosome 5, with a high-pitched cat-like cry and intellectual disability.", "syn": [], "abbr": []}
+{"id": 6353, "skip": "obvious"}
+{"id": 6354, "term": "Fibrillin-1", "def": "Extracellular matrix glycoprotein forming microfibrils; mutated in Marfan syndrome.", "syn": [], "abbr": []}
+{"id": 6355, "term": "Pectus carinatum", "def": "Outward protrusion of the sternum (pigeon chest).", "syn": [], "abbr": []}
+{"id": 6356, "skip": "obvious"}
+{"id": 6357, "term": "Nuchal translucency", "def": "Fluid at the fetal neck on ultrasound; increased thickness suggests Down syndrome.", "syn": [], "abbr": []}
+{"id": 6358, "term": "Carotid-femoral pulse wave velocity", "def": "Speed of the pulse wave between carotid and femoral arteries; measures aortic stiffness.", "syn": [], "abbr": []}
+{"id": 6359, "term": "Pulse wave velocity", "def": "Speed of the arterial pressure wave; higher values indicate stiffer arteries.", "syn": ["pulse wave velocity"], "abbr": []}
+{"id": 6360, "term": "M2 muscarinic receptor", "def": "Gi-coupled acetylcholine receptor in the heart that slows heart rate.", "syn": ["m2 muscarinic receptor"], "abbr": []}
+{"id": 6361, "term": "Troponin C", "def": "Troponin subunit binding calcium, initiating muscle contraction.", "syn": [], "abbr": []}
+{"id": 6362, "term": "Calcium ATPase", "def": "Pumps calcium out of the cytosol; SERCA pumps it into the sarcoplasmic reticulum.", "syn": ["ca2 atpase"], "abbr": []}
+{"id": 6363, "skip": "obvious"}
+{"id": 6364, "term": "Spinal anesthesia", "def": "Local anesthetic injected into the subarachnoid space, blocking sensation below the injection level.", "syn": ["spinal anesthesia"], "abbr": []}
+{"id": 6365, "term": "Proximal tubule", "def": "Kidney segment reabsorbing most filtered sodium, water, glucose and bicarbonate.", "syn": ["proximal renal tubule"], "abbr": []}
+{"id": 6366, "skip": "obvious"}
+{"id": 6367, "term": "Pre-excitation syndrome", "def": "Accessory pathway activating ventricles early, as in Wolff-Parkinson-White.", "syn": ["pre-excitation syndromes"], "abbr": []}
+{"id": 6368, "term": "Erythrocyte sedimentation rate", "def": "Rate red cells settle in plasma; raised in inflammation.", "syn": ["erythrocyte sedimentation"], "abbr": ["ESR"]}
+{"id": 6369, "term": "Ciliary arteries", "def": "Branches of the ophthalmic artery supplying the eye's uvea.", "syn": ["ciliary artery"], "abbr": []}
+{"id": 6370, "term": "Systemic vasculitis", "def": "Inflammation of blood vessel walls throughout the body.", "syn": ["systemic vasculitides"], "abbr": []}
+{"id": 6371, "skip": "obvious"}
+{"id": 6372, "term": "Coronary stenosis", "def": "Narrowing of coronary arteries, usually from atherosclerosis, causing angina.", "syn": ["coronary artery stenosis"], "abbr": []}
+{"id": 6373, "term": "Implantable cardioverter-defibrillator", "def": "Device implanted under the skin that shocks life-threatening ventricular arrhythmias.", "syn": ["implantable cardioverter defibrillator"], "abbr": ["ICD"]}
+{"id": 6374, "term": "Paroxysmal nocturnal dyspnea", "def": "Sudden breathlessness waking a patient at night, a sign of left heart failure.", "syn": ["paroxysmal nocturnal dyspnea"], "abbr": ["PND"]}
+{"id": 6375, "skip": "not-medical"}
+{"id": 6376, "skip": "obvious"}
+{"id": 6377, "skip": "obvious"}
+{"id": 6378, "skip": "obvious"}
+{"id": 6379, "term": "Marantic endocarditis", "def": "Sterile fibrin vegetations on valves in hypercoagulable states such as cancer.", "syn": ["nonbacterial thrombotic endocarditis"], "abbr": []}
+{"id": 6380, "term": "Ventricular assist device", "def": "Mechanical pump supporting a failing ventricle.", "syn": ["ventricular assist devices"], "abbr": ["VAD"]}
+{"id": 6381, "term": "Myosin-binding protein C", "def": "Thick filament protein; mutations cause hypertrophic cardiomyopathy.", "syn": ["myosin-binding protein c"], "abbr": []}
+{"id": 6382, "term": "Defibrillator", "def": "Device delivering electric shock to restore a normal rhythm in ventricular fibrillation.", "syn": ["defibrillators"], "abbr": []}
+{"id": 6383, "term": "Ventricular septum", "def": "Wall separating left and right ventricles; defects cause VSD.", "syn": [], "abbr": []}
+{"id": 6384, "term": "Endomyocardial fibrosis", "def": "Fibrosis of the endocardium causing restrictive cardiomyopathy, common in tropical regions.", "syn": [], "abbr": []}
+{"id": 6385, "term": "Endocardial fibroelastosis", "def": "Thickening of the endocardium by collagen and elastin in infants, causing heart failure.", "syn": [], "abbr": []}
+{"id": 6386, "term": "Photosensitivity disorders", "def": "Abnormal skin reaction to sunlight, sometimes caused by drugs.", "syn": ["photodermatitis", "photosensitization"], "abbr": []}
+{"id": 6387, "term": "Phosphodiesterase 3 inhibitors", "def": "Drugs such as milrinone and cilostazol that raise cAMP, causing vasodilation and increased heart contractility.", "syn": ["pde3 inhibitor", "pde-3 inhibitors"], "abbr": []}
+{"id": 6388, "term": "Transposition of the great vessels", "def": "Cyanotic heart defect with aorta from the right ventricle and pulmonary artery from the left ventricle; needs a shunt for survival.", "syn": ["transposition of great vessels"], "abbr": []}
+{"id": 6389, "skip": "obvious"}
+{"id": 6390, "term": "Histidine decarboxylase", "def": "Enzyme making histamine from histidine in mast cells.", "syn": [], "abbr": []}
+{"id": 6391, "term": "Basic amino acids", "def": "Amino acids with positively charged side chains at physiological pH: arginine, lysine and histidine.", "syn": ["basic amino acid"], "abbr": []}
+{"id": 6392, "term": "Insulin receptor substrate", "def": "Docking proteins phosphorylated by the insulin receptor, relaying signals to PI3K.", "syn": ["insulin receptor substrate 1"], "abbr": ["IRS-1"]}
+{"id": 6393, "skip": "obvious"}
+{"id": 6394, "term": "Fab fragment", "def": "Antigen-binding arm of an antibody containing variable regions.", "syn": ["fab fragments"], "abbr": []}
+{"id": 6395, "term": "Dihydropyridines", "def": "Calcium channel blockers (amlodipine, nifedipine) acting mainly on vascular smooth muscle.", "syn": ["dihydropyridine"], "abbr": []}
+{"id": 6396, "term": "Chlorthalidone", "def": "Long-acting thiazide-like diuretic used for hypertension.", "syn": [], "abbr": []}
+{"id": 6397, "term": "Mevalonate", "def": "Intermediate in cholesterol synthesis made by HMG-CoA reductase, the statin target.", "syn": ["mevalonic acid"], "abbr": []}
+{"id": 6398, "term": "Nascent HDL", "def": "Newly formed, disc-shaped HDL particle with little cholesterol, made in liver and gut.", "syn": ["nascent hdl"], "abbr": []}
+{"id": 6399, "term": "Cholesteryl ester transfer protein", "def": "Plasma protein moving cholesterol esters from HDL to VLDL and LDL.", "syn": ["cholesterol ester transfer protein"], "abbr": ["CETP"]}
+{"id": 6400, "term": "Fluvastatin", "def": "Statin inhibiting HMG-CoA reductase to lower LDL.", "syn": [], "abbr": []}
+{"id": 6401, "term": "Colesevelam", "def": "Bile acid sequestrant lowering LDL; also lowers glucose.", "syn": [], "abbr": []}
+{"id": 6402, "term": "Colestipol", "def": "Bile acid sequestrant for high LDL; can raise triglycerides.", "syn": [], "abbr": []}
+{"id": 6403, "term": "Myosin light chain phosphatase", "def": "Dephosphorylates myosin light chain, relaxing smooth muscle.", "syn": ["myosin light chain phosphatase"], "abbr": []}
+{"id": 6404, "term": "Myosin light chain", "def": "Regulatory myosin subunit; phosphorylation triggers smooth muscle contraction.", "syn": ["myosin light chains"], "abbr": []}
+{"id": 6405, "skip": "obvious"}
+{"id": 6406, "term": "Pulmonary surfactant", "def": "Lipid mixture (mainly dipalmitoylphosphatidylcholine) from type II pneumocytes that lowers alveolar surface tension, preventing collapse.", "syn": ["pulmonary surfactants"], "abbr": []}
+{"id": 6407, "skip": "obvious"}
+{"id": 6408, "skip": "obvious"}
+{"id": 6409, "skip": "obvious"}
+{"id": 6410, "term": "Aspirin-exacerbated respiratory disease", "def": "Asthma, nasal polyps and aspirin sensitivity from shifts toward leukotrienes.", "syn": ["aspirin-induced asthma"], "abbr": []}
+{"id": 6411, "skip": "not-medical"}
+{"id": 6412, "skip": "not-medical"}
+{"id": 6413, "skip": "obvious"}
+{"id": 6414, "skip": "not-medical"}
+{"id": 6415, "term": "Caplan syndrome", "def": "Rheumatoid arthritis with pneumoconiosis, producing lung nodules.", "syn": [], "abbr": []}
+{"id": 6416, "term": "Mallory bodies", "def": "Eosinophilic cytoplasmic inclusions of damaged keratin in hepatocytes, seen in alcoholic hepatitis.", "syn": ["mallory bodies"], "abbr": []}
+{"id": 6417, "term": "Chilblains", "def": "Painful, itchy skin lesions on fingers or toes after cold exposure.", "syn": ["pernio"], "abbr": []}
+{"id": 6418, "term": "Heerfordt syndrome", "def": "Sarcoidosis presentation with fever, parotid enlargement and uveitis.", "syn": ["uveoparotid fever"], "abbr": []}
+{"id": 6419, "term": "Angiotensin-converting enzyme", "def": "Converts angiotensin I to II and breaks down bradykinin; inhibited by ACE inhibitors.", "syn": ["angiotensin converting enzyme"], "abbr": ["ACE"]}
+{"id": 6420, "term": "Bronchoalveolar lavage fluid", "def": "Fluid recovered from washing the lung airways, analyzed for cells and organisms.", "syn": [], "abbr": []}
+{"id": 6421, "term": "CD4:CD8 ratio", "def": "Ratio of helper to cytotoxic T cells; low in HIV, high in sarcoidosis lavage.", "syn": ["cd4 cd8 ratio"], "abbr": []}
+{"id": 6422, "skip": "obvious"}
+{"id": 6423, "term": "Polycyclic aromatic hydrocarbons", "def": "Carcinogens from combustion and smoke, such as benzo[a]pyrene.", "syn": ["polycyclic aromatic hydrocarbons"], "abbr": ["PAHs"]}
+{"id": 6424, "term": "2-Naphthylamine", "def": "Aromatic amine dye chemical that causes bladder cancer.", "syn": [], "abbr": []}
+{"id": 6425, "skip": "obvious"}
+{"id": 6426, "term": "Gene amplification", "def": "Increase in gene copy number, as with HER2 and N-myc in cancer.", "syn": [], "abbr": []}
+{"id": 6427, "term": "Periostitis", "def": "Inflammation of the periosteum, the bone covering.", "syn": [], "abbr": []}
+{"id": 6428, "term": "Anisocoria", "def": "Unequal pupil sizes.", "syn": [], "abbr": []}
+{"id": 6429, "skip": "obvious"}
+{"id": 6430, "term": "Calretinin", "def": "Calcium-binding protein used as an immunohistochemical marker for mesothelioma.", "syn": ["calretinin"], "abbr": []}
+{"id": 6431, "term": "Cytokeratin 5", "def": "Keratin of basal epidermal cells; mutated in epidermolysis bullosa simplex.", "syn": ["cytokeratin 5"], "abbr": []}
+{"id": 6432, "term": "Factor XIII", "def": "Stabilizes fibrin clots by cross-linking; deficiency delays bleeding.", "syn": [], "abbr": []}
+{"id": 6433, "term": "Factor XI", "def": "Intrinsic pathway factor; deficiency is hemophilia C.", "syn": [], "abbr": []}
+{"id": 6434, "term": "Factor IX", "def": "Vitamin K-dependent clotting factor; deficiency is hemophilia B.", "syn": [], "abbr": []}
+{"id": 6435, "term": "Platelet glycoproteins", "def": "Platelet surface receptors such as GpIb and GpIIb/IIIa.", "syn": ["platelet glycoprotein"], "abbr": []}
+{"id": 6436, "skip": "obvious"}
+{"id": 6437, "term": "Vitamin K epoxide reductase", "def": "Enzyme regenerating active vitamin K; target of warfarin.", "syn": ["vitamin k epoxide reductase"], "abbr": ["VKORC1"]}
+{"id": 6438, "term": "Aminocaproic acid", "def": "Antifibrinolytic that inhibits plasminogen activation.", "syn": [], "abbr": []}
+{"id": 6439, "term": "Factor VIIIa", "def": "Activated factor VIII, cofactor of factor IXa.", "syn": [], "abbr": []}
+{"id": 6440, "term": "Isomerase", "def": "Enzyme that rearranges atoms within a molecule to form an isomer.", "syn": ["isomerases"], "abbr": []}
+{"id": 6441, "term": "Hydroxocobalamin", "def": "Vitamin B12 form; antidote for cyanide poisoning.", "syn": ["hydroxycobalamin"], "abbr": []}
+{"id": 6442, "term": "Brown fat", "def": "Heat-producing adipose tissue rich in mitochondria and UCP1.", "syn": ["brown fat"], "abbr": []}
+{"id": 6443, "term": "Thermogenin", "def": "UCP1, uncoupling oxidative phosphorylation to make heat in brown fat.", "syn": ["uncoupling protein 1"], "abbr": []}
+{"id": 6444, "term": "Glycogen branching enzyme", "def": "Enzyme forming alpha-1,6 branches in glycogen; deficiency causes Andersen disease.", "syn": ["branching enzyme"], "abbr": []}
+{"id": 6445, "skip": "obvious"}
+{"id": 6446, "term": "Glycogen storage disease type IV", "def": "Branching enzyme deficiency, causing abnormal glycogen, liver failure and cirrhosis in infancy.", "syn": ["andersen disease", "glycogen storage disease type iv", "glycogen storage disease type 4"], "abbr": []}
+{"id": 6447, "term": "CYP2E1", "def": "Cytochrome P450 enzyme metabolizing ethanol and acetaminophen; induced by chronic alcohol use.", "syn": ["cyp2e1"], "abbr": []}
+{"id": 6448, "term": "Microsomes", "def": "Vesicles of endoplasmic reticulum formed on homogenization, holding drug metabolizing enzymes.", "syn": ["microsome"], "abbr": []}
+{"id": 6449, "term": "Liver microsomes", "def": "Vesicles from liver ER containing cytochrome P450 enzymes.", "syn": ["liver microsome"], "abbr": []}
+{"id": 6450, "term": "Factor Va", "def": "Activated factor V, cofactor of factor Xa; resistant to protein C in factor V Leiden.", "syn": ["factor va", "activated factor v"], "abbr": []}
+{"id": 6451, "term": "Thrombin time", "def": "Test measuring fibrin clot formation after thrombin is added; prolonged by heparin.", "syn": [], "abbr": []}
+{"id": 6452, "term": "Dalteparin", "def": "Low molecular weight heparin that inhibits factor Xa.", "syn": [], "abbr": []}
+{"id": 6453, "skip": "obvious"}
+{"id": 6454, "skip": "obvious"}
+{"id": 6455, "term": "Anterior horn cells", "def": "Lower motor neurons in the spinal cord; destroyed in polio and ALS.", "syn": ["anterior horn cell", "ventral horn cells"], "abbr": []}
+{"id": 6456, "term": "Continuous positive airway pressure", "def": "Constant air pressure through a mask that keeps the airway open, used for sleep apnea.", "syn": ["continuous positive airway pressure"], "abbr": ["CPAP"]}
+{"id": 6457, "term": "Mandibular advancement device", "def": "Oral appliance that moves the lower jaw forward to widen the airway in sleep apnea.", "syn": ["mandibular advancement devices"], "abbr": []}
+{"id": 6458, "skip": "obvious"}
+{"id": 6459, "term": "Dimenhydrinate", "def": "Sedating first-generation antihistamine for motion sickness.", "syn": [], "abbr": []}
+{"id": 6460, "term": "Chlorpheniramine", "def": "First-generation H1 antihistamine, causing sedation and anticholinergic effects.", "syn": [], "abbr": []}
+{"id": 6461, "term": "Promethazine", "def": "First-generation antihistamine and antiemetic.", "syn": [], "abbr": []}
+{"id": 6462, "term": "Cetirizine", "def": "Second-generation H1 antihistamine with little sedation.", "syn": [], "abbr": []}
+{"id": 6463, "term": "Beclomethasone", "def": "Inhaled corticosteroid for asthma.", "syn": [], "abbr": []}
+{"id": 6464, "term": "Budesonide-formoterol", "def": "Combination inhaler of corticosteroid and long-acting beta agonist.", "syn": ["symbicort"], "abbr": []}
+{"id": 6465, "term": "Fluticasone-salmeterol", "def": "Combination inhaler of corticosteroid and long-acting beta agonist.", "syn": ["fluticasone salmeterol", "advair"], "abbr": []}
+{"id": 6466, "term": "Omalizumab", "def": "Anti-IgE monoclonal antibody for allergic asthma.", "syn": [], "abbr": []}
+{"id": 6467, "term": "Guaifenesin", "def": "Expectorant that thins airway mucus.", "syn": [], "abbr": []}
+{"id": 6468, "term": "Glutamate receptors", "def": "Ion channel (AMPA, NMDA, kainate) and G-protein receptors for glutamate.", "syn": ["glutamate receptors"], "abbr": []}
+{"id": 6469, "term": "Sigma receptors", "def": "Intracellular receptors modulating neurotransmission, targeted by some psychoactive drugs.", "syn": ["sigma receptors"], "abbr": []}
+{"id": 6470, "term": "Lisinopril", "def": "ACE inhibitor for hypertension and heart failure; can cause cough and angioedema.", "syn": [], "abbr": []}
+{"id": 6471, "term": "Kininogen", "def": "Plasma protein cleaved by kallikrein to make bradykinin.", "syn": ["kininogens"], "abbr": []}
+{"id": 6472, "term": "Renin inhibitors", "def": "Drugs such as aliskiren that block renin and lower angiotensin.", "syn": ["direct renin inhibitor", "renin inhibitor", "direct renin inhibitors", "renin inhibitors"], "abbr": []}
+{"id": 6473, "term": "Heparanase", "def": "Enzyme degrading heparan sulfate, aiding tumor invasion.", "syn": [], "abbr": []}
+{"id": 6474, "term": "Glucose transporters", "def": "Membrane proteins moving glucose, such as GLUT4 (insulin-responsive).", "syn": ["glucose transporters"], "abbr": []}
+{"id": 6475, "term": "Bumetanide", "def": "Loop diuretic inhibiting NKCC2.", "syn": [], "abbr": []}
+{"id": 6476, "term": "Phosphaturia", "def": "Excess phosphate in urine, seen in X-linked hypophosphatemic rickets.", "syn": [], "abbr": []}
+{"id": 6477, "term": "Varenicline", "def": "Partial nicotinic receptor agonist for smoking cessation.", "syn": [], "abbr": []}
+{"id": 6478, "term": "Glutaminase", "def": "Enzyme converting glutamine to glutamate and ammonia; important in the kidney.", "syn": [], "abbr": []}
+{"id": 6479, "term": "Mucin-1", "def": "Cell surface mucin, marker for breast and other adenocarcinomas.", "syn": ["mucin-1"], "abbr": []}
+{"id": 6480, "skip": "wrong-sense"}
+{"id": 6481, "skip": "obvious"}
+{"id": 6482, "term": "C3 nephritic factor", "def": "Autoantibody stabilizing C3 convertase, causing low C3 and membranoproliferative glomerulonephritis.", "syn": ["c3 nephritic factor"], "abbr": []}
+{"id": 6483, "term": "Xanthogranulomatous pyelonephritis", "def": "Chronic kidney infection with lipid-laden macrophages, associated with stones and Proteus.", "syn": [], "abbr": []}
+{"id": 6484, "skip": "not-medical"}
+{"id": 6485, "skip": "obvious"}
+{"id": 6486, "term": "Osmotic diuretics", "def": "Diuretics such as mannitol that increase tubular osmolarity, pulling water into urine.", "syn": ["osmotic diuretic"], "abbr": []}
+{"id": 6487, "term": "Chloride-bicarbonate exchanger", "def": "Anion exchanger swapping chloride for bicarbonate; in the kidney's alpha-intercalated cells and red cells.", "syn": ["cl hco3 exchanger"], "abbr": []}
+{"id": 6488, "term": "Glycyrrhetinic acid", "def": "Licorice compound inhibiting 11-beta-hydroxysteroid dehydrogenase, causing pseudohyperaldosteronism.", "syn": [], "abbr": []}
+{"id": 6489, "term": "Propylene glycol", "def": "Solvent that can cause anion gap acidosis with high doses of lorazepam infusion.", "syn": [], "abbr": []}
+{"id": 6490, "term": "Urodynamics", "def": "Tests of bladder pressure and flow to evaluate urinary function.", "syn": ["urodynamic"], "abbr": []}
+{"id": 6491, "skip": "obvious"}
+{"id": 6492, "skip": "not-medical"}
+{"id": 6493, "skip": "obvious"}
+{"id": 6494, "term": "Scavenger receptor", "def": "Receptors on macrophages taking up oxidized LDL, forming foam cells.", "syn": ["scavenger receptor"], "abbr": []}
+{"id": 6495, "term": "Homozygous familial hypercholesterolemia", "def": "Two defective LDL receptor genes, with severe early cholesterol elevations and early heart disease.", "syn": [], "abbr": []}
+{"id": 6496, "term": "HMG-CoA synthase", "def": "Enzyme making HMG-CoA in ketone body synthesis and cholesterol synthesis.", "syn": ["hmg-coa synthase"], "abbr": []}
+{"id": 6497, "term": "Choline", "def": "Nutrient that is a precursor of acetylcholine and phosphatidylcholine.", "syn": [], "abbr": []}
+{"id": 6498, "term": "GM2 ganglioside", "def": "Lipid that accumulates in Tay-Sachs (hexosaminidase A) and Sandhoff diseases.", "syn": ["gm2 ganglioside"], "abbr": []}
+{"id": 6499, "term": "Niemann-Pick disease type A", "def": "Sphingomyelinase deficiency causing sphingomyelin accumulation, hepatosplenomegaly and neurodegeneration, with a cherry-red macula.", "syn": ["sphingomyelinase deficiency"], "abbr": []}

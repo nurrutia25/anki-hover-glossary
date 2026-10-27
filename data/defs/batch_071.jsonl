@@ -1,0 +1,120 @@
+{"id": 17750, "term": "Cytochrome P450 3A4", "def": "The most abundant liver and gut drug-metabolizing enzyme, handling about half of all drugs. Inhibitors (ketoconazole, grapefruit juice) raise drug levels; inducers (rifampin) lower them.", "syn": [], "abbr": ["CYP3A4"]}
+{"id": 17751, "skip": "ambiguous"}
+{"id": 17752, "term": "Toxic shock syndrome toxin-1", "def": "A Staphylococcus aureus superantigen that crosslinks MHC II with T-cell receptors, causing massive cytokine release, fever, rash and shock.", "syn": ["TSST-1"], "abbr": ["TSST"]}
+{"id": 17753, "skip": "ambiguous"}
+{"id": 17754, "skip": "ambiguous"}
+{"id": 17755, "skip": "ambiguous"}
+{"id": 17756, "skip": "fragment"}
+{"id": 17757, "term": "Obsessive-compulsive personality disorder", "def": "A pattern of preoccupation with order, perfectionism and control, without true obsessions or compulsions, and the person sees the traits as appropriate.", "syn": [], "abbr": ["OCPD"]}
+{"id": 17758, "skip": "obvious"}
+{"id": 17759, "term": "Extrapyramidal symptoms", "def": "Movement side effects of antipsychotics from D2 blockade in the basal ganglia: dystonia, parkinsonism, akathisia and tardive dyskinesia.", "syn": [], "abbr": ["EPS"]}
+{"id": 17760, "skip": "ambiguous"}
+{"id": 17761, "term": "CD31", "def": "A cell adhesion protein (PECAM-1) on endothelial cells and platelets. A marker used to identify vascular tumors such as angiosarcoma.", "syn": ["PECAM-1"], "abbr": []}
+{"id": 17762, "term": "Complement receptor 2", "def": "A B-cell surface receptor (CD21) that binds complement fragments and is also the receptor for Epstein-Barr virus.", "syn": ["CD21"], "abbr": ["CR2"]}
+{"id": 17763, "term": "CD95", "def": "Also called Fas, a death receptor that triggers apoptosis when bound by Fas ligand.", "syn": ["Fas"], "abbr": []}
+{"id": 17764, "term": "Antibody-dependent cell-mediated cytotoxicity", "def": "NK cells bind the Fc region of IgG-coated target cells via CD16 and kill them with perforin and granzymes.", "syn": [], "abbr": ["ADCC"]}
+{"id": 17765, "skip": "ambiguous"}
+{"id": 17766, "term": "BP180", "def": "A hemidesmosome protein in the epidermal basement membrane; its autoantibodies cause bullous pemphigoid.", "syn": [], "abbr": []}
+{"id": 17767, "term": "Pathogen-associated molecular patterns", "def": "Conserved microbial structures, such as LPS and flagellin, recognized by innate immune receptors like Toll-like receptors.", "syn": [], "abbr": ["PAMPs"]}
+{"id": 17768, "term": "Toll-like receptors", "def": "Innate immune receptors recognizing pathogen-associated molecular patterns. Activation signals through NF-kB to induce inflammatory cytokines.", "syn": ["Toll-like receptor"], "abbr": ["TLRs", "TLR"]}
+{"id": 17769, "skip": "ambiguous"}
+{"id": 17770, "term": "V(D)J recombination", "def": "Somatic rearrangement of variable, diversity and joining gene segments creating diverse antibody and T-cell receptor genes, mediated by RAG1 and RAG2.", "syn": [], "abbr": ["VDJ"]}
+{"id": 17771, "term": "Recombination-activating genes", "def": "RAG1 and RAG2 encode enzymes that cut DNA for V(D)J recombination in developing lymphocytes. Mutations cause severe combined immunodeficiency.", "syn": [], "abbr": ["RAG"]}
+{"id": 17772, "term": "Bruton tyrosine kinase", "def": "A B-cell signaling enzyme needed for B-cell maturation, mutated in X-linked agammaglobulinemia.", "syn": [], "abbr": ["BTK"]}
+{"id": 17773, "term": "X-linked agammaglobulinemia", "def": "A BTK mutation causes absent B cells and very low immunoglobulins of all classes, so boys get recurrent bacterial infections after maternal IgG wanes.", "syn": ["Bruton agammaglobulinemia"], "abbr": ["XLA"]}
+{"id": 17774, "skip": "ambiguous"}
+{"id": 17775, "term": "SSB antigen", "def": "Also called La; autoantibodies against it occur in Sjogren syndrome and neonatal lupus.", "syn": ["La antigen"], "abbr": ["SSB"]}
+{"id": 17776, "term": "Matrix metalloproteinase", "def": "Zinc-dependent enzymes degrading extracellular matrix in tissue remodeling, wound healing and cancer invasion.", "syn": ["matrix metalloproteinases"], "abbr": ["MMP"]}
+{"id": 17777, "term": "Fibroblast growth factor receptor 3", "def": "A receptor tyrosine kinase inhibiting growth of cartilage. Activating mutations cause achondroplasia.", "syn": [], "abbr": ["FGFR3"]}
+{"id": 17778, "skip": "ambiguous"}
+{"id": 17779, "term": "Interleukins", "def": "Cytokines produced by leukocytes that signal between immune cells.", "syn": [], "abbr": ["ILs"]}
+{"id": 17780, "term": "Polymyalgia rheumatica", "def": "Inflammatory pain and morning stiffness in the shoulder and hip girdles in older adults, with high ESR and rapid steroid response. Linked with giant cell arteritis.", "syn": [], "abbr": ["PMR"]}
+{"id": 17781, "skip": "ambiguous"}
+{"id": 17782, "skip": "not-medical"}
+{"id": 17783, "skip": "ambiguous"}
+{"id": 17784, "skip": "ambiguous"}
+{"id": 17785, "skip": "ambiguous"}
+{"id": 17786, "term": "FK506 binding protein", "def": "The intracellular binding partner of tacrolimus, forming a complex that inhibits calcineurin.", "syn": [], "abbr": ["FKBP"]}
+{"id": 17787, "skip": "ambiguous"}
+{"id": 17788, "skip": "ambiguous"}
+{"id": 17789, "skip": "ambiguous"}
+{"id": 17790, "skip": "ambiguous"}
+{"id": 17791, "term": "Incidence density rate", "def": "New cases per unit of person-time at risk, a measure of the instantaneous rate of disease occurrence.", "syn": ["incidence rate"], "abbr": ["IDR"]}
+{"id": 17792, "skip": "not-medical"}
+{"id": 17793, "skip": "ambiguous"}
+{"id": 17794, "term": "Cyclin-dependent kinase", "def": "Enzymes that drive the cell cycle when bound to cyclins. Inhibited by p21 and p16.", "syn": ["cyclin-dependent kinases"], "abbr": ["CDK"]}
+{"id": 17795, "skip": "ambiguous"}
+{"id": 17796, "skip": "not-medical"}
+{"id": 17797, "term": "Organic anion transporter", "def": "Proximal tubule transporters that secrete drugs and organic anions, such as penicillin and methotrexate, into urine.", "syn": [], "abbr": ["OAT"]}
+{"id": 17798, "term": "Chronic venous insufficiency", "def": "Failure of leg vein valves with venous pooling, causing edema, varicose veins, skin discoloration and ulcers.", "syn": [], "abbr": ["CVI"]}
+{"id": 17799, "skip": "ambiguous"}
+{"id": 17800, "skip": "ambiguous"}
+{"id": 17801, "term": "N-acetylmuramic acid", "def": "A sugar that alternates with N-acetylglucosamine in the backbone of bacterial peptidoglycan.", "syn": [], "abbr": ["NAM"]}
+{"id": 17802, "term": "Lipooligosaccharide", "def": "An endotoxin of Neisseria and Haemophilus lacking the O antigen of lipopolysaccharide.", "syn": [], "abbr": ["LOS"]}
+{"id": 17803, "skip": "ambiguous"}
+{"id": 17804, "skip": "ambiguous"}
+{"id": 17805, "skip": "ambiguous"}
+{"id": 17806, "term": "Hypothalamic-pituitary-adrenal axis", "def": "Hormone chain from CRH to ACTH to cortisol, regulated by negative feedback.", "syn": [], "abbr": ["HPA"]}
+{"id": 17807, "skip": "ambiguous"}
+{"id": 17808, "skip": "ambiguous"}
+{"id": 17809, "term": "Extended-spectrum beta-lactamase", "def": "Enzymes in gram-negative bacteria that hydrolyze penicillins and cephalosporins; carbapenems are used for treatment.", "syn": [], "abbr": ["ESBL"]}
+{"id": 17810, "term": "Receiver operating characteristic", "def": "A graph of sensitivity against 1-specificity across test cutoffs; area under the curve measures test discrimination.", "syn": ["ROC curve"], "abbr": ["ROC"]}
+{"id": 17811, "term": "Mitogen-activated protein kinase kinase", "def": "An enzyme in a signaling cascade that phosphorylates MAP kinase. Anthrax lethal factor cleaves it.", "syn": ["MEK"], "abbr": ["MAPKK"]}
+{"id": 17812, "skip": "ambiguous"}
+{"id": 17813, "skip": "ambiguous"}
+{"id": 17814, "term": "Activities of daily living", "def": "Basic self-care tasks such as bathing, dressing, eating and toileting; dependence on them distinguishes dementia from normal aging.", "syn": [], "abbr": ["ADLs"]}
+{"id": 17815, "term": "Eye movement desensitization and reprocessing", "def": "A psychotherapy for PTSD that uses guided eye movements while recalling trauma.", "syn": [], "abbr": ["EMDR"]}
+{"id": 17816, "term": "Mesna", "def": "A drug that binds acrolein in the bladder, preventing hemorrhagic cystitis from cyclophosphamide and ifosfamide.", "syn": [], "abbr": ["MESNA"]}
+{"id": 17817, "term": "Vascular endothelial growth factor receptor", "def": "A receptor tyrosine kinase driving angiogenesis, inhibited by sunitinib and sorafenib.", "syn": [], "abbr": ["VEGFR"]}
+{"id": 17818, "term": "Enteropathogenic E. coli", "def": "A strain that attaches to intestinal epithelium, effacing microvilli and causing infant diarrhea without toxin.", "syn": [], "abbr": ["EPEC"]}
+{"id": 17819, "term": "Direct oral anticoagulants", "def": "Oral anticoagulants that directly inhibit factor Xa or thrombin, such as rivaroxaban, apixaban and dabigatran.", "syn": ["direct oral anticoagulant"], "abbr": ["DOAC"]}
+{"id": 17820, "skip": "ambiguous"}
+{"id": 17821, "term": "Contrast-enhanced CT", "def": "CT scan done after intravenous contrast, used to evaluate masses such as pancreatic cancer.", "syn": [], "abbr": ["CECT"]}
+{"id": 17822, "term": "Anterior talofibular ligament", "def": "The ankle ligament most often sprained, injured in inversion.", "syn": [], "abbr": ["ATFL"]}
+{"id": 17823, "skip": "ambiguous"}
+{"id": 17824, "skip": "not-medical"}
+{"id": 17825, "skip": "ambiguous"}
+{"id": 17826, "skip": "ambiguous"}
+{"id": 17827, "skip": "ambiguous"}
+{"id": 17828, "term": "Neural cell adhesion molecules", "def": "Cell surface proteins mediating neuronal adhesion; rabies virus uses them to enter at the neuromuscular junction.", "syn": [], "abbr": ["NCAMs"]}
+{"id": 17829, "term": "Hemorrhagic fever with renal syndrome", "def": "Illness from hantavirus, spread by rodent excreta, with fever, bleeding and kidney failure.", "syn": [], "abbr": ["HFRS"]}
+{"id": 17830, "term": "Leber hereditary optic neuropathy", "def": "Mitochondrial inherited painless central vision loss in young men.", "syn": [], "abbr": ["LHON"]}
+{"id": 17831, "skip": "ambiguous"}
+{"id": 17832, "term": "Oppositional defiant disorder", "def": "A childhood pattern of angry, argumentative, defiant behavior toward authority, without violating others' rights.", "syn": [], "abbr": ["ODD"]}
+{"id": 17833, "term": "Biophysical profile", "def": "Ultrasound and nonstress test scoring fetal well-being by breathing, movement, tone, amniotic fluid and heart-rate reactivity.", "syn": [], "abbr": ["BPP"]}
+{"id": 17834, "skip": "ambiguous"}
+{"id": 17835, "term": "CHARGE syndrome", "def": "Coloboma, heart defects, choanal atresia, growth retardation, genital and ear anomalies, from CHD7 mutation.", "syn": [], "abbr": ["CHARGE"]}
+{"id": 17836, "skip": "not-medical"}
+{"id": 17837, "term": "Apgar score", "def": "A 0 to 10 newborn assessment at 1 and 5 minutes of heart rate, respiration, tone, reflexes and color.", "syn": ["APGAR"], "abbr": []}
+{"id": 17838, "term": "Temporomandibular disorder", "def": "Pain and dysfunction of the jaw joint and chewing muscles.", "syn": [], "abbr": ["TMD"]}
+{"id": 17839, "term": "Total body surface area", "def": "The percent of skin burned, estimated by the rule of nines and used to calculate fluid resuscitation.", "syn": [], "abbr": ["TBSA"]}
+{"id": 17840, "skip": "ambiguous"}
+{"id": 17841, "term": "Anti-Mullerian hormone", "def": "A hormone from ovarian follicles, used to estimate ovarian reserve; also made by fetal Sertoli cells.", "syn": [], "abbr": ["AMH"]}
+{"id": 17842, "term": "Do not resuscitate", "def": "A physician order that cardiopulmonary resuscitation not be attempted in cardiac arrest.", "syn": [], "abbr": ["DNR"]}
+{"id": 17843, "term": "Adrenal vein sampling", "def": "Catheter measurement of aldosterone in each adrenal vein to tell unilateral adenoma from bilateral hyperplasia in primary aldosteronism.", "syn": [], "abbr": ["AVS"]}
+{"id": 17844, "term": "Acute otitis media", "def": "Acute middle ear infection with a bulging, red tympanic membrane.", "syn": [], "abbr": ["AOM"]}
+{"id": 17845, "skip": "ambiguous"}
+{"id": 17846, "term": "NEXUS criteria", "def": "Clinical rules identifying low-risk trauma patients who need no cervical spine imaging.", "syn": [], "abbr": ["NEXUS"]}
+{"id": 17847, "term": "Upper gastrointestinal bleeding", "def": "Bleeding proximal to the ligament of Treitz, with hematemesis or melena.", "syn": [], "abbr": ["UGIB"]}
+{"id": 17848, "term": "Ethanol", "def": "Alcohol, a CNS depressant metabolized by alcohol dehydrogenase.", "syn": [], "abbr": ["EtOH"]}
+{"id": 17849, "term": "Centor criteria", "def": "Score for streptococcal pharyngitis: fever, tonsillar exudates, tender anterior cervical nodes and absent cough.", "syn": [], "abbr": ["CENTOR"]}
+{"id": 17850, "skip": "obvious"}
+{"id": 17851, "term": "Global Initiative for Asthma", "def": "The organization publishing stepwise guidelines for asthma management.", "syn": [], "abbr": ["GINA"]}
+{"id": 17852, "skip": "ambiguous"}
+{"id": 17853, "term": "Nucleic acid test", "def": "Detects viral genetic material, such as HIV RNA, used to confirm infection or detect early infection.", "syn": [], "abbr": ["NAT"]}
+{"id": 17854, "skip": "ambiguous"}
+{"id": 17855, "skip": "ambiguous"}
+{"id": 17856, "term": "Serum-ascites albumin gradient", "def": "Serum albumin minus ascitic albumin; 1.1 or more indicates portal hypertension.", "syn": [], "abbr": ["SAAG"]}
+{"id": 17857, "skip": "ambiguous"}
+{"id": 17858, "term": "Bilateral salpingo-oophorectomy", "def": "Surgical removal of both ovaries and fallopian tubes.", "syn": [], "abbr": ["BSO"]}
+{"id": 17859, "term": "Intrauterine growth restriction", "def": "Fetal weight below the 10th percentile for gestational age.", "syn": [], "abbr": ["IUGR"]}
+{"id": 17860, "term": "Nonsteroidal anti-inflammatory drugs", "def": "Drugs that inhibit cyclooxygenase, reducing prostaglandins.", "syn": ["NSAIDS"], "abbr": []}
+{"id": 17861, "term": "Cervical intraepithelial neoplasia grade 2", "def": "Moderate dysplasia of the cervical squamous epithelium caused by HPV.", "syn": ["CIN 2"], "abbr": ["CIN2"]}
+{"id": 17862, "term": "Combined oral contraceptives", "def": "Pills with estrogen and progestin that suppress ovulation.", "syn": [], "abbr": ["COCs"]}
+{"id": 17863, "skip": "ambiguous"}
+{"id": 17864, "term": "Women's Health Initiative", "def": "Large trial of hormone replacement therapy.", "syn": [], "abbr": ["WHI"]}
+{"id": 17865, "term": "Cryptogenic organizing pneumonia", "def": "Inflammation with granulation tissue plugs in alveoli, formerly bronchiolitis obliterans organizing pneumonia.", "syn": [], "abbr": ["BOOP"]}
+{"id": 17866, "skip": "ambiguous"}
+{"id": 17867, "term": "Large for gestational age", "def": "Birth weight above the 90th percentile for gestational age.", "syn": [], "abbr": ["LGA"]}
+{"id": 17868, "term": "Atrial premature beats", "def": "Early atrial depolarizations producing extra heartbeats.", "syn": [], "abbr": ["APBs"]}
+{"id": 17869, "skip": "ambiguous"}

@@ -1,0 +1,59 @@
+/* Hover Glossary. Picks up Onigiri's tokens when present, plain fallbacks otherwise. */
+:root {
+  --hg-accent: var(--ba-accent, var(--accent-color, #2f7ed8));
+  --hg-bg: var(--ba-paper, #ffffff);
+  --hg-ink: var(--ba-ink, #1d1d1f);
+  --hg-dim: var(--ba-ink-dim, #6b6b70);
+  --hg-line: var(--ba-line, rgba(0, 0, 0, 0.12));
+}
+.nightMode, .night_mode, .night-mode {
+  --hg-bg: var(--ba-paper, #26262a);
+  --hg-ink: var(--ba-ink, #ececf0);
+  --hg-dim: var(--ba-ink-dim, #a0a0a8);
+  --hg-line: var(--ba-line, rgba(255, 255, 255, 0.14));
+}
+
+.hg-term {
+  border-bottom: 1.5px dotted color-mix(in srgb, var(--hg-accent) 70%, transparent);
+  cursor: help;
+  text-decoration: none;
+}
+.hg-term:hover {
+  background: color-mix(in srgb, var(--hg-accent) 12%, transparent);
+  border-radius: 3px;
+}
+/* Onigiri inline edit: never show marks while editing. */
+body.ba-editing .hg-term { border-bottom: 0; background: none; cursor: text; }
+
+#hg-tip {
+  display: none;
+  position: fixed;
+  z-index: 2147483000;
+  max-width: min(360px, calc(100vw - 16px));
+  padding: 10px 12px 8px;
+  background: var(--hg-bg);
+  color: var(--hg-ink);
+  border: 1px solid var(--hg-line);
+  border-radius: 10px;
+  box-shadow: 0 8px 28px rgba(0, 0, 0, 0.18);
+  font-family: var(--ba-sans, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif);
+  font-size: 14px;
+  line-height: 1.45;
+  text-align: left;
+  opacity: 0;
+  transform: translateY(2px);
+  transition: opacity 0.12s ease, transform 0.12s ease;
+}
+#hg-tip.hg-open { opacity: 1; transform: none; }
+#hg-tip .hg-title { font-weight: 650; margin-bottom: 3px; color: var(--hg-accent); }
+#hg-tip .hg-def { color: var(--hg-ink); }
+#hg-tip .hg-foot {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-top: 6px;
+  font-size: 11.5px;
+  color: var(--hg-dim);
+}
+#hg-tip .hg-edit { cursor: pointer; opacity: 0.7; }
+#hg-tip .hg-edit:hover { opacity: 1; text-decoration: underline; }

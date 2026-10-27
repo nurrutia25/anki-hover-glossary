@@ -1,0 +1,250 @@
+{"id": 15000, "skip": "obvious"}
+{"id": 15001, "skip": "obvious"}
+{"id": 15002, "skip": "obvious"}
+{"id": 15003, "skip": "not-medical"}
+{"id": 15004, "term": "Opsonization", "def": "Coating of a microbe or cell with antibodies or complement (opsonins) so phagocytes can recognize and engulf it. Opsonized platelets or red cells are destroyed in the spleen.", "syn": ["opsonized"], "abbr": []}
+{"id": 15005, "term": "Alpha-2-antiplasmin", "def": "A liver-made inhibitor of plasmin that stops fibrinolysis. Its deficiency causes bleeding from excess clot breakdown.", "syn": ["antiplasmin", "\u03b12-antiplasmin"], "abbr": []}
+{"id": 15006, "skip": "obvious"}
+{"id": 15007, "skip": "obvious"}
+{"id": 15008, "term": "2,4-Dinitrophenol", "def": "An uncoupling agent that carries protons across the inner mitochondrial membrane, dissipating the gradient so heat is made instead of ATP. Causes hyperthermia.", "syn": ["dinitrophenol"], "abbr": []}
+{"id": 15009, "term": "Glucanotransferase", "def": "Activity of the glycogen debranching enzyme that moves three glucose units from a branch to the end of another chain. Deficiency causes Cori disease.", "syn": ["4-alpha-glucanotransferase"], "abbr": []}
+{"id": 15010, "skip": "obvious"}
+{"id": 15011, "skip": "obvious"}
+{"id": 15012, "term": "Limit dextrin", "def": "The branched glycogen remnant left after phosphorylase has trimmed chains to four glucose units from a branch. It accumulates in Cori disease from debranching enzyme deficiency.", "syn": ["limit dextrins", "dextrin"], "abbr": []}
+{"id": 15013, "skip": "obvious"}
+{"id": 15014, "skip": "obvious"}
+{"id": 15015, "skip": "fragment"}
+{"id": 15016, "skip": "obvious"}
+{"id": 15017, "skip": "obvious"}
+{"id": 15018, "skip": "obvious"}
+{"id": 15019, "skip": "obvious"}
+{"id": 15020, "term": "Atheroembolic", "def": "Caused by cholesterol crystal emboli breaking off an atherosclerotic plaque, occluding small vessels downstream. Seen after catheterization and in the kidneys, skin (blue toes) and eyes.", "syn": [], "abbr": []}
+{"id": 15021, "skip": "obvious"}
+{"id": 15022, "skip": "obvious"}
+{"id": 15023, "skip": "obvious"}
+{"id": 15024, "term": "Adenotonsillar", "def": "Relating to the adenoids and tonsils. Adenotonsillar hypertrophy is the leading cause of obstructive sleep apnea in children.", "syn": [], "abbr": []}
+{"id": 15025, "skip": "obvious"}
+{"id": 15026, "skip": "obvious"}
+{"id": 15027, "skip": "not-medical"}
+{"id": 15028, "skip": "obvious"}
+{"id": 15029, "term": "Methylxanthine", "def": "A class of drugs including theophylline and caffeine that inhibit phosphodiesterase and block adenosine receptors, relaxing airway smooth muscle.", "syn": ["methylxanthines"], "abbr": []}
+{"id": 15030, "skip": "obvious"}
+{"id": 15031, "skip": "obvious"}
+{"id": 15032, "term": "Benralizumab", "def": "A monoclonal antibody against the IL-5 receptor alpha used for severe eosinophilic asthma.", "syn": [], "abbr": []}
+{"id": 15033, "term": "Mepolizumab", "def": "A monoclonal antibody against IL-5 used for severe eosinophilic asthma and eosinophilic granulomatosis with polyangiitis.", "syn": [], "abbr": []}
+{"id": 15034, "term": "Reslizumab", "def": "An IL-5 neutralizing monoclonal antibody for severe eosinophilic asthma, given intravenously.", "syn": [], "abbr": []}
+{"id": 15035, "term": "Proteasomal degradation", "def": "Destruction of ubiquitin-tagged or misfolded proteins by the proteasome. In the common CFTR delta-F508 mutation, misfolded CFTR is degraded before reaching the cell surface.", "syn": ["proteasomal"], "abbr": []}
+{"id": 15036, "skip": "obvious"}
+{"id": 15037, "skip": "obvious"}
+{"id": 15038, "skip": "not-medical"}
+{"id": 15039, "term": "Inspissated", "def": "Thickened and dried out, as in inspissated mucus in cystic fibrosis or inspissated meconium causing meconium ileus.", "syn": [], "abbr": []}
+{"id": 15040, "skip": "obvious"}
+{"id": 15041, "term": "Interlobar arteries", "def": "Kidney arteries running between the renal pyramids, branches of segmental arteries that lead to the arcuate arteries.", "syn": ["interlobar"], "abbr": []}
+{"id": 15042, "term": "Transcellular fluid", "def": "A small body fluid compartment of fluid secreted by epithelial cells, such as cerebrospinal, synovial, pleural and intraocular fluids.", "syn": ["transcellular"], "abbr": []}
+{"id": 15043, "skip": "obvious"}
+{"id": 15044, "skip": "obvious"}
+{"id": 15045, "skip": "obvious"}
+{"id": 15046, "skip": "obvious"}
+{"id": 15047, "skip": "obvious"}
+{"id": 15048, "skip": "obvious"}
+{"id": 15049, "skip": "obvious"}
+{"id": 15050, "skip": "obvious"}
+{"id": 15051, "skip": "obvious"}
+{"id": 15052, "term": "Glomerulotubular balance", "def": "The proximal tubule's tendency to reabsorb a fixed fraction of the filtered load, so reabsorption rises as GFR rises.", "syn": ["glomerulotubular"], "abbr": []}
+{"id": 15053, "skip": "obvious"}
+{"id": 15054, "skip": "not-medical"}
+{"id": 15055, "skip": "obvious"}
+{"id": 15056, "skip": "obvious"}
+{"id": 15057, "skip": "obvious"}
+{"id": 15058, "term": "Glycolic acid", "def": "A toxic metabolite of ethylene glycol made by alcohol dehydrogenase, causing anion gap metabolic acidosis. Further metabolized to oxalate.", "syn": ["glycolic"], "abbr": []}
+{"id": 15059, "skip": "not-medical"}
+{"id": 15060, "term": "Obstructive uropathy", "def": "Structural or functional blockage to urine flow, such as from stones, posterior urethral valves or prostate enlargement, causing hydronephrosis and kidney injury.", "syn": ["uropathy"], "abbr": []}
+{"id": 15061, "term": "Polycystin", "def": "The protein encoded by PKD1 and PKD2, which forms calcium-permeable channels in renal cilia. Mutations cause autosomal dominant polycystic kidney disease.", "syn": ["polycystins", "polycystin-1"], "abbr": []}
+{"id": 15062, "skip": "obvious"}
+{"id": 15063, "skip": "not-medical"}
+{"id": 15064, "skip": "obvious"}
+{"id": 15065, "skip": "not-medical"}
+{"id": 15066, "term": "Hyalinosis", "def": "Deposition of homogeneous, glassy pink protein material in tissue, such as in the glomerular capillaries and arterioles of focal segmental glomerulosclerosis.", "syn": [], "abbr": []}
+{"id": 15067, "skip": "obvious"}
+{"id": 15068, "skip": "not-medical"}
+{"id": 15069, "skip": "obvious"}
+{"id": 15070, "skip": "obvious"}
+{"id": 15071, "skip": "obvious"}
+{"id": 15072, "skip": "obvious"}
+{"id": 15073, "skip": "obvious"}
+{"id": 15074, "skip": "obvious"}
+{"id": 15075, "term": "Ureterovesical junction", "def": "The point where the ureter enters the bladder, one of three narrow sites where kidney stones lodge.", "syn": ["ureterovesical"], "abbr": []}
+{"id": 15076, "skip": "obvious"}
+{"id": 15077, "skip": "obvious"}
+{"id": 15078, "term": "Hemihyperplasia", "def": "Overgrowth of one side of the body or part of it, as in Beckwith-Wiedemann syndrome. Raises risk of Wilms tumor.", "syn": [], "abbr": []}
+{"id": 15079, "skip": "obvious"}
+{"id": 15080, "skip": "not-medical"}
+{"id": 15081, "term": "5-Oxoproline", "def": "Also pyroglutamic acid, an organic acid that accumulates in chronic acetaminophen use and causes high anion gap metabolic acidosis.", "syn": ["oxoproline"], "abbr": []}
+{"id": 15082, "term": "Hyperalimentation", "def": "Intravenous feeding (total parenteral nutrition) that provides calories and nutrients; can cause hyperchloremic acidosis if chloride-rich solutions are used.", "syn": [], "abbr": []}
+{"id": 15083, "skip": "obvious"}
+{"id": 15084, "skip": "obvious"}
+{"id": 15085, "skip": "obvious"}
+{"id": 15086, "skip": "obvious"}
+{"id": 15087, "skip": "obvious"}
+{"id": 15088, "skip": "obvious"}
+{"id": 15089, "skip": "obvious"}
+{"id": 15090, "skip": "obvious"}
+{"id": 15091, "skip": "obvious"}
+{"id": 15092, "skip": "not-medical"}
+{"id": 15093, "skip": "not-medical"}
+{"id": 15094, "skip": "not-medical"}
+{"id": 15095, "skip": "not-medical"}
+{"id": 15096, "skip": "obvious"}
+{"id": 15097, "skip": "obvious"}
+{"id": 15098, "skip": "obvious"}
+{"id": 15099, "skip": "obvious"}
+{"id": 15100, "skip": "not-medical"}
+{"id": 15101, "skip": "not-medical"}
+{"id": 15102, "skip": "not-medical"}
+{"id": 15103, "term": "Ceramide trihexoside", "def": "Also globotriaosylceramide, the glycolipid that accumulates in Fabry disease because alpha-galactosidase A is deficient.", "syn": ["trihexoside"], "abbr": []}
+{"id": 15104, "term": "Hurler syndrome", "def": "A mucopolysaccharidosis from alpha-L-iduronidase deficiency, causing coarse facies, corneal clouding, hepatosplenomegaly and intellectual disability.", "syn": ["hurlers", "hurler's"], "abbr": []}
+{"id": 15105, "skip": "obvious"}
+{"id": 15106, "skip": "obvious"}
+{"id": 15107, "term": "Phenylketones", "def": "Phenylalanine breakdown products, including phenylpyruvate and phenyllactate, that spill into urine in phenylketonuria, giving a musty odor.", "syn": ["phenylketone"], "abbr": []}
+{"id": 15108, "term": "Phenyllactate", "def": "A phenylalanine byproduct that builds up and is excreted in urine in phenylketonuria.", "syn": [], "abbr": []}
+{"id": 15109, "term": "Phenylpyruvate", "def": "The keto acid formed from phenylalanine by transamination when phenylalanine hydroxylase is deficient, as in phenylketonuria.", "syn": [], "abbr": []}
+{"id": 15110, "term": "Maleylacetoacetate", "def": "An intermediate in tyrosine breakdown formed from homogentisic acid by homogentisate oxidase. The enzyme is deficient in alkaptonuria.", "syn": [], "abbr": []}
+{"id": 15111, "term": "S-adenosylhomocysteine", "def": "The product left after S-adenosylmethionine donates a methyl group; it is hydrolyzed to homocysteine.", "syn": ["adenosylhomocysteine"], "abbr": ["SAH"]}
+{"id": 15112, "term": "Methyltransferase", "def": "An enzyme that transfers a methyl group, usually from S-adenosylmethionine. PNMT converts norepinephrine to epinephrine, and DNA methyltransferases silence genes.", "syn": ["methyltransferases"], "abbr": []}
+{"id": 15113, "skip": "obvious"}
+{"id": 15114, "skip": "obvious"}
+{"id": 15115, "skip": "fragment"}
+{"id": 15116, "term": "Deoxyadenosine", "def": "A DNA building block nucleoside. In adenosine deaminase deficiency it accumulates as dATP, which is toxic to lymphocytes and causes SCID.", "syn": [], "abbr": []}
+{"id": 15117, "skip": "obvious"}
+{"id": 15118, "skip": "obvious"}
+{"id": 15119, "skip": "obvious"}
+{"id": 15120, "skip": "not-medical"}
+{"id": 15121, "skip": "obvious"}
+{"id": 15122, "skip": "obvious"}
+{"id": 15123, "skip": "not-medical"}
+{"id": 15124, "term": "Deoxyadenosylcobalamin", "def": "The active form of vitamin B12 that is a cofactor for methylmalonyl-CoA mutase. Deficiency raises methylmalonic acid.", "syn": ["adenosylcobalamin"], "abbr": []}
+{"id": 15125, "skip": "not-medical"}
+{"id": 15126, "term": "Perifollicular", "def": "Around hair follicles. Perifollicular hemorrhages and corkscrew hairs are characteristic of scurvy.", "syn": [], "abbr": []}
+{"id": 15127, "skip": "obvious"}
+{"id": 15128, "skip": "fragment"}
+{"id": 15129, "skip": "obvious"}
+{"id": 15130, "term": "Hydroxymethylbilane", "def": "The linear tetrapyrrole made from porphobilinogen by porphobilinogen deaminase, deficient in acute intermittent porphyria.", "syn": [], "abbr": []}
+{"id": 15131, "term": "Coproporphyrinogen", "def": "A heme synthesis intermediate; coproporphyrinogen III is formed from uroporphyrinogen III and converted to protoporphyrinogen IX by coproporphyrinogen oxidase.", "syn": ["coproporphyrinogen iii"], "abbr": []}
+{"id": 15132, "skip": "obvious"}
+{"id": 15133, "skip": "not-medical"}
+{"id": 15134, "skip": "not-medical"}
+{"id": 15135, "skip": "not-medical"}
+{"id": 15136, "skip": "obvious"}
+{"id": 15137, "skip": "obvious"}
+{"id": 15138, "skip": "obvious"}
+{"id": 15139, "term": "Tizanidine", "def": "An alpha-2 agonist muscle relaxant used for spasticity, reducing motor neuron excitation. Causes sedation, hypotension and hepatotoxicity.", "syn": [], "abbr": []}
+{"id": 15140, "skip": "obvious"}
+{"id": 15141, "skip": "obvious"}
+{"id": 15142, "skip": "fragment"}
+{"id": 15143, "skip": "obvious"}
+{"id": 15144, "skip": "not-medical"}
+{"id": 15145, "skip": "fragment"}
+{"id": 15146, "skip": "obvious"}
+{"id": 15147, "skip": "not-medical"}
+{"id": 15148, "skip": "obvious"}
+{"id": 15149, "skip": "not-medical"}
+{"id": 15150, "skip": "obvious"}
+{"id": 15151, "skip": "obvious"}
+{"id": 15152, "term": "Metabisulfite screen", "def": "A sickle cell test in which sodium metabisulfite, a reducing agent, deoxygenates red cells so HbS-containing cells sickle. Cannot separate trait from disease.", "syn": ["metabisulfite"], "abbr": []}
+{"id": 15153, "skip": "obvious"}
+{"id": 15154, "skip": "obvious"}
+{"id": 15155, "term": "Prothrombotic", "def": "Promoting blood clot formation, such as in paroxysmal nocturnal hemoglobinuria or antiphospholipid syndrome.", "syn": [], "abbr": []}
+{"id": 15156, "skip": "obvious"}
+{"id": 15157, "skip": "not-medical"}
+{"id": 15158, "skip": "obvious"}
+{"id": 15159, "skip": "obvious"}
+{"id": 15160, "skip": "obvious"}
+{"id": 15161, "skip": "obvious"}
+{"id": 15162, "skip": "obvious"}
+{"id": 15163, "skip": "not-medical"}
+{"id": 15164, "skip": "not-medical"}
+{"id": 15165, "skip": "not-medical"}
+{"id": 15166, "term": "Hypocellular", "def": "Having fewer cells than normal, as in the marrow of aplastic anemia where fat replaces blood-forming cells.", "syn": [], "abbr": []}
+{"id": 15167, "skip": "obvious"}
+{"id": 15168, "skip": "obvious"}
+{"id": 15169, "skip": "obvious"}
+{"id": 15170, "skip": "obvious"}
+{"id": 15171, "term": "Basophilia", "def": "Increased basophils in the blood. Uncommon; can signal myeloproliferative neoplasms such as chronic myeloid leukemia.", "syn": [], "abbr": []}
+{"id": 15172, "skip": "obvious"}
+{"id": 15173, "skip": "obvious"}
+{"id": 15174, "skip": "obvious"}
+{"id": 15175, "skip": "obvious"}
+{"id": 15176, "skip": "obvious"}
+{"id": 15177, "skip": "obvious"}
+{"id": 15178, "skip": "obvious"}
+{"id": 15179, "skip": "obvious"}
+{"id": 15180, "skip": "obvious"}
+{"id": 15181, "term": "Intrafusal fibers", "def": "Specialized muscle fibers inside muscle spindles that sense stretch. They are innervated by gamma motor neurons.", "syn": ["intrafusal"], "abbr": []}
+{"id": 15182, "term": "Extrafusal fibers", "def": "Ordinary contractile skeletal muscle fibers outside spindles, innervated by alpha motor neurons.", "syn": ["extrafusal"], "abbr": []}
+{"id": 15183, "skip": "obvious"}
+{"id": 15184, "skip": "not-medical"}
+{"id": 15185, "skip": "obvious"}
+{"id": 15186, "term": "Zolgensma", "def": "Onasemnogene abeparvovec, a gene therapy delivering a working SMN1 gene by AAV9 vector for spinal muscular atrophy.", "syn": [], "abbr": []}
+{"id": 15187, "skip": "obvious"}
+{"id": 15188, "skip": "obvious"}
+{"id": 15189, "skip": "obvious"}
+{"id": 15190, "skip": "fragment"}
+{"id": 15191, "skip": "obvious"}
+{"id": 15192, "skip": "obvious"}
+{"id": 15193, "skip": "obvious"}
+{"id": 15194, "term": "Leukoerythroblastic", "def": "Describes a blood smear with immature white cells and nucleated red cells, suggesting bone marrow infiltration or fibrosis.", "syn": [], "abbr": []}
+{"id": 15195, "term": "Monocytosis", "def": "Elevated monocyte count in the blood, seen in chronic infections (TB, endocarditis), inflammation and chronic myelomonocytic leukemia.", "syn": [], "abbr": []}
+{"id": 15196, "skip": "not-medical"}
+{"id": 15197, "skip": "obvious"}
+{"id": 15198, "skip": "obvious"}
+{"id": 15199, "skip": "obvious"}
+{"id": 15200, "skip": "not-medical"}
+{"id": 15201, "term": "Intorsion", "def": "Inward rotation of the top of the eye toward the nose, a function of the superior oblique and superior rectus muscles. Trochlear nerve palsy impairs it.", "syn": [], "abbr": []}
+{"id": 15202, "skip": "obvious"}
+{"id": 15203, "skip": "obvious"}
+{"id": 15204, "skip": "obvious"}
+{"id": 15205, "skip": "obvious"}
+{"id": 15206, "skip": "obvious"}
+{"id": 15207, "skip": "obvious"}
+{"id": 15208, "skip": "fragment"}
+{"id": 15209, "skip": "fragment"}
+{"id": 15210, "term": "Cerebriform", "def": "Describes nuclei that appear brain-like, with deep folds. Seen in Sezary cells of cutaneous T-cell lymphoma.", "syn": [], "abbr": []}
+{"id": 15211, "skip": "obvious"}
+{"id": 15212, "skip": "obvious"}
+{"id": 15213, "skip": "obvious"}
+{"id": 15214, "skip": "not-medical"}
+{"id": 15215, "skip": "obvious"}
+{"id": 15216, "skip": "fragment"}
+{"id": 15217, "skip": "obvious"}
+{"id": 15218, "skip": "obvious"}
+{"id": 15219, "term": "Labyrinthine", "def": "Relating to the labyrinth, the inner ear's vestibular and cochlear structures. Labyrinthitis causes vertigo and hearing loss.", "syn": [], "abbr": []}
+{"id": 15220, "skip": "not-medical"}
+{"id": 15221, "term": "Reticulospinal tract", "def": "A descending tract from the brainstem reticular formation that helps control posture and locomotion by modulating spinal motor neurons.", "syn": ["reticulospinal"], "abbr": []}
+{"id": 15222, "skip": "obvious"}
+{"id": 15223, "skip": "not-medical"}
+{"id": 15224, "term": "Dysdiadochokinesia", "def": "Inability to perform rapid alternating movements, such as pronation and supination of the hand, a sign of cerebellar disease.", "syn": [], "abbr": []}
+{"id": 15225, "term": "Zonular fibers", "def": "The suspensory ligaments that connect the ciliary body to the lens. They tighten to flatten the lens for distance vision.", "syn": ["zonular", "zonule"], "abbr": []}
+{"id": 15226, "skip": "obvious"}
+{"id": 15227, "term": "Episcleral", "def": "Relating to the episclera, the thin vascular tissue over the sclera. Episcleral veins receive aqueous humor outflow, and episcleritis causes mild redness.", "syn": [], "abbr": []}
+{"id": 15228, "skip": "obvious"}
+{"id": 15229, "skip": "obvious"}
+{"id": 15230, "term": "Aquagenic pruritus", "def": "Intense itching triggered by contact with water, with no rash, classically in polycythemia vera.", "syn": ["aquagenic"], "abbr": []}
+{"id": 15231, "skip": "not-medical"}
+{"id": 15232, "term": "Paracortical", "def": "Relating to the paracortex of a lymph node, the T cell zone between follicles and the medulla. Enlarges in viral infections and with phenytoin.", "syn": [], "abbr": []}
+{"id": 15233, "term": "Tingible body macrophages", "def": "Macrophages in germinal centers that contain debris of apoptotic B cells. Their presence supports a reactive rather than neoplastic follicle.", "syn": ["tingible"], "abbr": []}
+{"id": 15234, "term": "Monoclonality", "def": "Derivation of all cells in a population from a single clone, a feature of cancer, in contrast to the polyclonal pattern of reactive proliferation.", "syn": [], "abbr": []}
+{"id": 15235, "term": "Noncleaved", "def": "Describes lymphoid cells whose nuclei lack indentations. Noncleaved cells (centroblasts) are counted to grade follicular lymphoma.", "syn": [], "abbr": []}
+{"id": 15236, "skip": "not-medical"}
+{"id": 15237, "skip": "obvious"}
+{"id": 15238, "term": "MALToma", "def": "Extranodal marginal zone lymphoma of mucosa-associated lymphoid tissue, linked to chronic inflammation such as H. pylori gastritis and Sjogren syndrome.", "syn": [], "abbr": []}
+{"id": 15239, "skip": "obvious"}
+{"id": 15240, "skip": "obvious"}
+{"id": 15241, "skip": "obvious"}
+{"id": 15242, "skip": "obvious"}
+{"id": 15243, "skip": "fragment"}
+{"id": 15244, "skip": "obvious"}
+{"id": 15245, "skip": "obvious"}
+{"id": 15246, "skip": "obvious"}
+{"id": 15247, "skip": "obvious"}
+{"id": 15248, "term": "Hemineglect", "def": "Unawareness of one side of space, typically the left, after a right parietal lobe lesion such as a middle cerebral artery stroke.", "syn": [], "abbr": []}
+{"id": 15249, "skip": "fragment"}

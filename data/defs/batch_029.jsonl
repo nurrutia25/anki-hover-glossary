@@ -1,0 +1,250 @@
+{"id": 7250, "term": "Dexlansoprazole", "def": "A proton pump inhibitor in a dual delayed-release capsule that blocks the gastric H+/K+ ATPase, reducing acid for GERD and erosive esophagitis.", "syn": [], "abbr": []}
+{"id": 7251, "term": "Pantoprazole", "def": "A proton pump inhibitor that irreversibly blocks the parietal cell H+/K+ ATPase, used for GERD and peptic ulcers. Long-term use risks hypomagnesemia, fractures and C. difficile.", "syn": [], "abbr": []}
+{"id": 7252, "term": "Magnesium oxide", "def": "A poorly absorbed magnesium salt used as an antacid and osmotic laxative. Excess magnesium can cause diarrhea and, in kidney disease, hypermagnesemia.", "syn": ["magnesia"], "abbr": []}
+{"id": 7253, "term": "Methylcellulose", "def": "A bulk-forming fiber laxative that absorbs water in the gut to soften and enlarge stool.", "syn": [], "abbr": []}
+{"id": 7254, "term": "Bisacodyl", "def": "A stimulant laxative that increases colonic motility and secretion by acting on the enteric nerves of the bowel wall.", "syn": [], "abbr": []}
+{"id": 7255, "term": "Cathartic", "def": "A substance that speeds bowel evacuation, such as stimulant, osmotic or bulk laxatives.", "syn": ["cathartics"], "abbr": []}
+{"id": 7256, "term": "Telbivudine", "def": "A nucleoside analog antiviral that inhibits hepatitis B DNA polymerase. Associated with myopathy and peripheral neuropathy.", "syn": [], "abbr": []}
+{"id": 7257, "term": "Abortifacient", "def": "A drug or agent that induces termination of pregnancy, such as misoprostol or mifepristone.", "syn": ["abortifacients", "abortifacient agents"], "abbr": []}
+{"id": 7258, "term": "Guanine nucleotide exchange factors", "def": "Proteins that activate G proteins by prompting release of GDP so GTP can bind, switching the G protein on.", "syn": [], "abbr": []}
+{"id": 7259, "term": "Protein kinase G", "def": "A cGMP-dependent kinase activated by nitric oxide signaling that phosphorylates targets to relax vascular smooth muscle.", "syn": ["cgmp-dependent protein kinase"], "abbr": ["PKG"]}
+{"id": 7260, "term": "Soluble guanylyl cyclase", "def": "A cytosolic enzyme activated by nitric oxide that converts GTP to cGMP, causing smooth muscle relaxation.", "syn": ["soluble guanylate cyclase"], "abbr": []}
+{"id": 7261, "term": "Atrial natriuretic peptide receptor", "def": "Membrane guanylyl cyclase receptor that raises cGMP when bound by ANP, promoting sodium excretion and vasodilation.", "syn": ["receptors anp"], "abbr": []}
+{"id": 7262, "term": "Calmodulin-dependent protein kinase", "def": "A kinase activated when calcium-bound calmodulin binds it, phosphorylating proteins in signaling, memory and muscle.", "syn": ["calcium-calmodulin-dependent protein kinase"], "abbr": ["CaMK"]}
+{"id": 7263, "term": "Nerve growth factor", "def": "A neurotrophin that supports survival and growth of sympathetic and sensory neurons via the TrkA receptor.", "syn": [], "abbr": ["NGF"]}
+{"id": 7264, "term": "Steroid hormone receptors", "def": "Intracellular receptors that bind steroid hormones, then enter the nucleus and act as transcription factors.", "syn": ["receptors steroid"], "abbr": []}
+{"id": 7265, "term": "Posterior pituitary", "def": "Neural extension of the hypothalamus that stores and releases oxytocin and ADH from axons of hypothalamic neurons.", "syn": ["neurohypophysis"], "abbr": []}
+{"id": 7266, "term": "Beta-lipotropin", "def": "A fragment of POMC that gives rise to beta-endorphin; co-secreted with ACTH.", "syn": ["lipotropin"], "abbr": []}
+{"id": 7267, "term": "Growth hormone-releasing hormone", "def": "A hypothalamic hormone that stimulates somatotrophs of the anterior pituitary to release growth hormone.", "syn": [], "abbr": ["GHRH"]}
+{"id": 7268, "term": "Growth hormone-secreting pituitary adenoma", "def": "A benign pituitary tumor that makes excess growth hormone, causing gigantism in children and acromegaly in adults.", "syn": [], "abbr": []}
+{"id": 7269, "skip": "wrong-sense"}
+{"id": 7270, "term": "Diiodotyrosine", "def": "Thyroglobulin intermediate with two iodines on tyrosine; two combine to form T4.", "syn": [], "abbr": ["DIT"]}
+{"id": 7271, "term": "Monoiodotyrosine", "def": "Thyroglobulin intermediate with one iodine; combines with DIT to form T3.", "syn": [], "abbr": ["MIT"]}
+{"id": 7272, "term": "Thyrotropin-releasing hormone receptor", "def": "Gq-coupled receptor on pituitary thyrotrophs and lactotrophs that responds to TRH by releasing TSH and prolactin.", "syn": ["trh receptors"], "abbr": []}
+{"id": 7273, "skip": "obvious"}
+{"id": 7274, "term": "Deoxycorticosterone", "def": "Mineralocorticoid precursor of corticosterone and aldosterone. Excess in 11-beta or 17-alpha-hydroxylase deficiency causes hypertension.", "syn": ["desoxycorticosterone"], "abbr": ["DOC"]}
+{"id": 7275, "term": "ACTH receptor", "def": "Melanocortin 2 receptor on adrenocortical cells that binds ACTH to stimulate cortisol synthesis.", "syn": ["acth receptors"], "abbr": []}
+{"id": 7276, "term": "Striae distensae", "def": "Linear skin scars from dermal stretching and tearing, seen in pregnancy, rapid weight gain and Cushing syndrome.", "syn": ["striae"], "abbr": []}
+{"id": 7277, "term": "Corticosteroid-binding globulin", "def": "Plasma protein that binds cortisol, raised by estrogen; also called transcortin.", "syn": ["transcortin"], "abbr": ["CBG"]}
+{"id": 7278, "skip": "obvious"}
+{"id": 7279, "skip": "obvious"}
+{"id": 7280, "term": "Pancreatic polypeptide", "def": "Hormone from PP cells of the islets that inhibits pancreatic secretion and gallbladder contraction.", "syn": [], "abbr": []}
+{"id": 7281, "term": "ATP-sensitive potassium channels", "def": "Channels in pancreatic beta cells that close when ATP rises, depolarizing the cell and triggering insulin release. Sulfonylureas close them.", "syn": ["katp channels"], "abbr": ["K-ATP"]}
+{"id": 7282, "term": "Visceral fat", "def": "Fat stored within the abdominal cavity around organs, strongly linked to insulin resistance and cardiovascular disease.", "syn": [], "abbr": []}
+{"id": 7283, "term": "Etidronate", "def": "A first-generation bisphosphonate that inhibits osteoclast bone resorption, used for Paget disease.", "syn": [], "abbr": []}
+{"id": 7284, "term": "Vitamin D receptor", "def": "Nuclear receptor bound by calcitriol, regulating genes for calcium absorption.", "syn": ["vitamin d receptors"], "abbr": ["VDR"]}
+{"id": 7285, "term": "24,25-Dihydroxyvitamin D3", "def": "Inactive vitamin D metabolite made by 24-hydroxylase to inactivate calcitriol.", "syn": ["24 25-dihydroxycholecalciferol"], "abbr": []}
+{"id": 7286, "term": "Calbindin", "def": "Calcium-binding protein in intestinal epithelium and kidney, induced by vitamin D, that carries calcium across cells.", "syn": ["calbindins"], "abbr": []}
+{"id": 7287, "skip": "not-medical"}
+{"id": 7288, "term": "Oxyphil cells", "def": "Large eosinophilic mitochondria-rich cells in the parathyroid gland. Hurthle cells in thyroid are similar.", "syn": ["hurthle cells"], "abbr": []}
+{"id": 7289, "term": "Nephrocalcinosis", "def": "Calcium deposits within kidney parenchyma, seen in hypercalcemia, hyperparathyroidism and renal tubular acidosis.", "syn": [], "abbr": []}
+{"id": 7290, "term": "Pancreatic alpha cells", "def": "Islet cells that secrete glucagon to raise blood glucose; located at the islet periphery.", "syn": ["glucagon-secreting cells"], "abbr": []}
+{"id": 7291, "skip": "not-medical"}
+{"id": 7292, "skip": "obvious"}
+{"id": 7293, "term": "Endocannabinoids", "def": "Lipid signaling molecules made by the body, such as anandamide, that bind cannabinoid receptors.", "syn": ["endocannabinoid"], "abbr": []}
+{"id": 7294, "term": "Macrophage colony-stimulating factor", "def": "Cytokine that drives monocyte differentiation to macrophages and osteoclast formation.", "syn": [], "abbr": []}
+{"id": 7295, "skip": "obvious"}
+{"id": 7296, "skip": "obvious"}
+{"id": 7297, "term": "NPH insulin", "def": "Intermediate-acting insulin complexed with protamine for delayed absorption, with peak at 4-12 hours.", "syn": ["insulin isophane"], "abbr": []}
+{"id": 7298, "term": "Insulin detemir", "def": "Long-acting insulin analog that binds albumin to prolong action.", "syn": [], "abbr": []}
+{"id": 7299, "term": "Tolazamide", "def": "A first-generation sulfonylurea that stimulates insulin release by closing K-ATP channels.", "syn": [], "abbr": []}
+{"id": 7300, "term": "GLP-1 receptor", "def": "G protein-coupled receptor on beta cells activated by GLP-1 agonists to increase insulin secretion.", "syn": ["glp-1 receptors"], "abbr": []}
+{"id": 7301, "term": "Nasopharyngitis", "def": "Inflammation of the nose and pharynx; the common cold.", "syn": [], "abbr": []}
+{"id": 7302, "term": "Biguanides", "def": "Drug class including metformin, which decreases hepatic glucose output via AMPK and improves insulin sensitivity.", "syn": ["biguanide"], "abbr": []}
+{"id": 7303, "term": "Glycerophosphate", "def": "Glycerol-3-phosphate with a phosphate, used in the glycerol phosphate shuttle in mitochondria.", "syn": ["glycerophosphates"], "abbr": []}
+{"id": 7304, "term": "Pioglitazone", "def": "A thiazolidinedione that activates PPAR-gamma to improve insulin sensitivity. Causes fluid retention and bladder cancer risk.", "syn": [], "abbr": []}
+{"id": 7305, "term": "Rosiglitazone", "def": "A thiazolidinedione PPAR-gamma agonist for type 2 diabetes; causes fluid retention and raised cardiac risk.", "syn": [], "abbr": []}
+{"id": 7306, "term": "PPAR gamma", "def": "A nuclear receptor in adipose tissue that regulates fat cell differentiation and insulin sensitivity.", "syn": ["peroxisome proliferator activated receptor gamma", "pparg"], "abbr": []}
+{"id": 7307, "skip": "obvious"}
+{"id": 7308, "skip": "wrong-sense"}
+{"id": 7309, "term": "Gonadal hormones", "def": "Sex steroids from testes and ovaries: testosterone, estrogen, progesterone.", "syn": ["hormone gonadal"], "abbr": []}
+{"id": 7310, "term": "Calcium citrate", "def": "A calcium supplement absorbed without acid.", "syn": [], "abbr": []}
+{"id": 7311, "term": "Oviduct", "def": "The fallopian tube that carries eggs from ovary to uterus; the site of fertilization.", "syn": ["oviducts"], "abbr": []}
+{"id": 7312, "term": "Prolactin receptor", "def": "Cytokine receptor that signals through JAK2/STAT5 to stimulate lactation.", "syn": ["prolactin receptors"], "abbr": []}
+{"id": 7313, "term": "SRY protein", "def": "Testis-determining factor on the Y chromosome that triggers male gonadal development.", "syn": ["testis-determining factor"], "abbr": []}
+{"id": 7314, "term": "SRY gene", "def": "Sex-determining region on the Y chromosome initiating testis development. Its absence leads to female phenotype.", "syn": ["sry gene"], "abbr": []}
+{"id": 7315, "term": "Uterine duplication anomalies", "def": "Congenital uterus duplication from incomplete fusion of M\u00fcllerian ducts, such as didelphys or bicornuate.", "syn": ["double uterus"], "abbr": []}
+{"id": 7316, "term": "Round ligament of the uterus", "def": "Ligament from uterine fundus through the inguinal canal to the labia majus; remnant of gubernaculum.", "syn": [], "abbr": []}
+{"id": 7317, "skip": "not-medical"}
+{"id": 7318, "term": "Keratin 3", "def": "Cornea-specific keratin.", "syn": [], "abbr": []}
+{"id": 7319, "skip": "not-medical"}
+{"id": 7320, "term": "Myogenin", "def": "Transcription factor for skeletal muscle differentiation; a marker of rhabdomyosarcoma.", "syn": [], "abbr": []}
+{"id": 7321, "term": "DNA sequencing", "def": "Determining the nucleotide order of DNA, for example by Sanger or next-generation methods.", "syn": ["sequence analysis dna"], "abbr": []}
+{"id": 7322, "term": "Pluripotent stem cells", "def": "Cells that can become any cell type of the three germ layers but not placenta.", "syn": ["pluripotent stem cell"], "abbr": []}
+{"id": 7323, "skip": "not-medical"}
+{"id": 7324, "term": "Serous cystadenocarcinoma", "def": "The most common malignant ovarian epithelial tumor, with psammoma bodies; BRCA1/2 related.", "syn": [], "abbr": []}
+{"id": 7325, "term": "Endometrioid carcinoma", "def": "Endometrial or ovarian cancer resembling endometrial glands, associated with unopposed estrogen.", "syn": [], "abbr": []}
+{"id": 7326, "term": "Non-gestational choriocarcinoma", "def": "Germ cell tumor of the ovary or testis with trophoblastic cells, producing hCG.", "syn": ["non-gestational choriocarcinomas"], "abbr": []}
+{"id": 7327, "term": "Meigs syndrome", "def": "Ovarian fibroma with ascites and pleural effusion that resolve after tumor removal.", "syn": [], "abbr": []}
+{"id": 7328, "term": "Placentation", "def": "Formation of the placenta and its attachment to the uterus.", "syn": [], "abbr": []}
+{"id": 7329, "skip": "obvious"}
+{"id": 7330, "term": "Thrombotic microangiopathy", "def": "Disorders with small vessel clots, schistocytes, thrombocytopenia and organ damage, including TTP and HUS.", "syn": ["thrombotic microangiopathies"], "abbr": ["TMA"]}
+{"id": 7331, "term": "Erythroplasia", "def": "Red, velvety mucosal patch that is often precancerous, such as erythroplasia of Queyrat on the penis.", "syn": [], "abbr": []}
+{"id": 7332, "term": "Mumps virus", "def": "An enveloped RNA paramyxovirus causing parotitis, orchitis and meningitis.", "syn": [], "abbr": []}
+{"id": 7333, "term": "Hematocele", "def": "Blood collection in a body cavity, such as the tunica vaginalis surrounding the testis.", "syn": [], "abbr": []}
+{"id": 7334, "term": "Rete testis", "def": "Network of tubules in the testis that carry sperm from seminiferous tubules to efferent ducts.", "syn": [], "abbr": []}
+{"id": 7335, "term": "Prostatic intraepithelial neoplasia", "def": "Precancerous change of prostatic glands with atypical cells but intact basal layer.", "syn": [], "abbr": ["PIN"]}
+{"id": 7336, "skip": "not-medical"}
+{"id": 7337, "term": "Total mastectomy", "def": "Surgical removal of the whole breast without axillary dissection.", "syn": ["simple mastectomy"], "abbr": []}
+{"id": 7338, "term": "Radioactive tracer", "def": "A radiolabeled compound used in imaging such as PET and nuclear scans.", "syn": ["radioactive tracers"], "abbr": []}
+{"id": 7339, "term": "Single umbilical artery", "def": "Umbilical cord with only one artery, linked to congenital anomalies.", "syn": [], "abbr": []}
+{"id": 7340, "skip": "not-medical"}
+{"id": 7341, "term": "Estrogen replacement therapy", "def": "Giving estrogen to relieve menopausal symptoms; needs progestin if the uterus is present.", "syn": ["estrogen replacement"], "abbr": []}
+{"id": 7342, "term": "XYY karyotype", "def": "47,XYY syndrome: tall males, often normal fertility, with possible learning problems and behavior issues; due to paternal nondisjunction.", "syn": ["xyy syndrome"], "abbr": []}
+{"id": 7343, "term": "Ovotesticular disorder of sex development", "def": "Presence of both ovarian and testicular tissue in an individual.", "syn": ["true hermaphroditism"], "abbr": []}
+{"id": 7344, "term": "Alendronate", "def": "An oral bisphosphonate that inhibits osteoclasts, treating osteoporosis. Causes esophagitis; take upright with water.", "syn": [], "abbr": []}
+{"id": 7345, "term": "RANK ligand", "def": "TNF family protein on osteoblasts that binds RANK on osteoclast precursors, driving bone resorption; denosumab blocks it.", "syn": ["rankl"], "abbr": ["RANKL"]}
+{"id": 7346, "term": "RANK", "def": "Receptor on osteoclast precursors activated by RANK ligand, promoting osteoclast formation.", "syn": ["receptor activator of nuclear factor kappab"], "abbr": ["RANK"]}
+{"id": 7347, "term": "Lipoxygenase", "def": "Enzyme converting arachidonic acid to leukotrienes; zileuton inhibits it.", "syn": ["lipoxygenases"], "abbr": []}
+{"id": 7348, "term": "Phosphatidylglycerol", "def": "Phospholipid in mature fetal lung surfactant; its presence indicates lung maturity.", "syn": ["phosphatidylglycerols"], "abbr": []}
+{"id": 7349, "term": "Male hypogonadism", "def": "Deficient testosterone or sperm production from testicular or pituitary failure; formerly eunuchism.", "syn": [], "abbr": []}
+{"id": 7350, "skip": "obvious"}
+{"id": 7351, "skip": "wrong-sense"}
+{"id": 7352, "skip": "obvious"}
+{"id": 7353, "skip": "wrong-sense"}
+{"id": 7354, "term": "N-formylmethionine", "def": "The initiating amino acid in bacterial and mitochondrial protein synthesis.", "syn": ["n-formylmethionine"], "abbr": ["fMet"]}
+{"id": 7355, "term": "Origin of replication", "def": "DNA sequence where replication starts, AT-rich; bacteria have one, eukaryotes many.", "syn": ["replication origin"], "abbr": []}
+{"id": 7356, "term": "Ribonuclease", "def": "Enzyme that degrades RNA.", "syn": ["ribonucleases", "rnase"], "abbr": ["RNase"]}
+{"id": 7357, "term": "Flap endonuclease 1", "def": "Enzyme that removes RNA primer flaps in lagging strand synthesis.", "syn": ["flap endonucleases", "fen-1"], "abbr": ["FEN1"]}
+{"id": 7358, "term": "Ribonuclease H", "def": "Enzyme that degrades RNA in RNA-DNA hybrids, removing primers and acting in retroviral replication.", "syn": ["rnase h"], "abbr": []}
+{"id": 7359, "term": "Adult stem cells", "def": "Undifferentiated cells in tissues that renew and replace cells, e.g., hematopoietic stem cells.", "syn": ["adult stem cell"], "abbr": []}
+{"id": 7360, "term": "Progeria", "def": "Rapid premature aging from LMNA mutation producing abnormal lamin A (progerin).", "syn": [], "abbr": []}
+{"id": 7361, "term": "Missense mutation", "def": "Single nucleotide substitution changing an amino acid, such as sickle cell Glu6Val.", "syn": ["missense mutations"], "abbr": []}
+{"id": 7362, "term": "Catabolite activator protein", "def": "Bacterial protein binding cAMP to activate lac operon transcription when glucose is low.", "syn": ["cyclic amp receptor protein"], "abbr": ["CAP"]}
+{"id": 7363, "term": "DNA ligase", "def": "Enzyme sealing nicks between DNA fragments (Okazaki) by forming a phosphodiester bond; uses ATP or NAD+.", "syn": ["dna ligase iii"], "abbr": []}
+{"id": 7364, "skip": "wrong-sense"}
+{"id": 7365, "skip": "wrong-sense"}
+{"id": 7366, "term": "TATA-binding protein", "def": "Transcription factor subunit (TFIID) that binds the TATA box to start RNA polymerase II transcription.", "syn": ["tata binding protein"], "abbr": ["TBP"]}
+{"id": 7367, "term": "Leucine zipper", "def": "DNA-binding motif of two alpha helices with leucine residues that dimerize.", "syn": ["leucine zippers"], "abbr": []}
+{"id": 7368, "term": "5S ribosomal RNA", "def": "Small rRNA of the large ribosomal subunit, transcribed by RNA polymerase III.", "syn": ["5s rrna"], "abbr": []}
+{"id": 7369, "term": "RNA polymerase III", "def": "Enzyme that transcribes tRNA, 5S rRNA and some small RNAs.", "syn": ["rna polymerase iii"], "abbr": []}
+{"id": 7370, "term": "Taurocholic acid", "def": "Bile salt conjugated with taurine; emulsifies fat in digestion.", "syn": ["taurocholate", "sodium taurocholate"], "abbr": []}
+{"id": 7371, "term": "Amanitin", "def": "Death cap mushroom toxin that inhibits RNA polymerase II, causing liver failure.", "syn": ["amanitins"], "abbr": []}
+{"id": 7372, "term": "Nuclear RNA", "def": "RNA in the nucleus, such as hnRNA and snRNA.", "syn": ["rna nuclear"], "abbr": []}
+{"id": 7373, "skip": "obvious"}
+{"id": 7374, "term": "Small noncoding RNA", "def": "Short RNA that regulates gene expression without coding for protein, e.g., miRNA, siRNA.", "syn": ["small untranslated rna"], "abbr": []}
+{"id": 7375, "term": "Pseudouridine", "def": "Modified uridine in tRNA and rRNA that stabilizes RNA structure.", "syn": [], "abbr": []}
+{"id": 7376, "term": "Initiator tRNA", "def": "Methionine-carrying tRNA that begins translation at AUG start codon.", "syn": ["rna transfer met"], "abbr": []}
+{"id": 7377, "term": "Internal ribosome entry site", "def": "RNA element that recruits ribosomes to start translation without a 5' cap, used by viruses.", "syn": ["internal ribosome entry sites"], "abbr": ["IRES"]}
+{"id": 7378, "term": "Initiation factors", "def": "Proteins that help assemble the ribosome at the start codon to begin translation.", "syn": ["peptide initiation factors"], "abbr": []}
+{"id": 7379, "term": "Eukaryotic initiation factors", "def": "Proteins (eIFs) that help assemble the 40S ribosome and initiator tRNA on mRNA.", "syn": [], "abbr": ["eIFs"]}
+{"id": 7380, "term": "Small GTPases", "def": "Monomeric GTP-binding proteins like Ras and Rho that act as molecular switches.", "syn": ["monomeric gtp-binding proteins"], "abbr": []}
+{"id": 7381, "skip": "obvious"}
+{"id": 7382, "term": "Heat shock proteins", "def": "Chaperones induced by stress that assist protein folding and prevent aggregation.", "syn": ["heat-shock proteins"], "abbr": ["HSPs"]}
+{"id": 7383, "term": "Nissl bodies", "def": "Rough endoplasmic reticulum clusters in neuronal cell bodies and dendrites, producing proteins. They disperse with axon injury (chromatolysis).", "syn": ["nissl substance"], "abbr": []}
+{"id": 7384, "skip": "obvious"}
+{"id": 7385, "term": "Smooth endoplasmic reticulum", "def": "ER without ribosomes that synthesizes steroids and lipids and detoxifies drugs.", "syn": ["smooth er"], "abbr": []}
+{"id": 7386, "term": "Ubiquitin", "def": "Small protein that tags other proteins for degradation by the proteasome.", "syn": ["ubiquitins"], "abbr": []}
+{"id": 7387, "term": "Lamins", "def": "Intermediate filament proteins forming the nuclear lamina that supports the nuclear envelope.", "syn": ["lamin"], "abbr": []}
+{"id": 7388, "term": "Centrioles", "def": "Paired cylinders of microtubules in the centrosome that organize the mitotic spindle.", "syn": ["centriole"], "abbr": []}
+{"id": 7389, "term": "Axonemal dynein", "def": "Motor protein in cilia and flagella causing bending; defects cause primary ciliary dyskinesia (Kartagener).", "syn": ["axonemal dyneins"], "abbr": []}
+{"id": 7390, "term": "Situs inversus", "def": "Mirror-image arrangement of internal organs, often in Kartagener syndrome.", "syn": [], "abbr": []}
+{"id": 7391, "term": "Relapsing polychondritis", "def": "Autoimmune inflammation of cartilage causing ear and nose collapse.", "syn": [], "abbr": []}
+{"id": 7392, "term": "Vascular Ehlers-Danlos syndrome", "def": "Type IV collagen (COL3A1) defect causing fragile blood vessels and organs prone to rupture.", "syn": ["ehlers-danlos syndrome type iv"], "abbr": []}
+{"id": 7393, "term": "Reticulin", "def": "Type III collagen fibers forming delicate supportive meshwork in liver, spleen and bone marrow.", "syn": ["reticulin fibers"], "abbr": []}
+{"id": 7394, "skip": "obvious"}
+{"id": 7395, "skip": "obvious"}
+{"id": 7396, "term": "Dentinogenesis", "def": "Formation of dentin by odontoblasts.", "syn": [], "abbr": []}
+{"id": 7397, "term": "Dentinogenesis imperfecta", "def": "Inherited defect of dentin causing opalescent teeth, linked to osteogenesis imperfecta.", "syn": [], "abbr": []}
+{"id": 7398, "term": "Microfibrils", "def": "Fibrillin-containing fibers that provide a scaffold for elastin, defective in Marfan syndrome.", "syn": ["microfibril"], "abbr": []}
+{"id": 7399, "term": "Desmosine", "def": "Cross-link amino acid in elastin formed from lysine residues.", "syn": [], "abbr": []}
+{"id": 7400, "skip": "wrong-sense"}
+{"id": 7401, "term": "Oligonucleotide probes", "def": "Short labeled DNA strands that hybridize to complementary sequences.", "syn": ["oligonucleotide probe"], "abbr": []}
+{"id": 7402, "term": "DNA-binding proteins", "def": "Proteins that bind DNA to regulate transcription, replication and repair.", "syn": ["dna-binding protein"], "abbr": []}
+{"id": 7403, "term": "Southwestern blot", "def": "Technique detecting DNA-binding proteins by probing a protein blot with labeled DNA.", "syn": [], "abbr": []}
+{"id": 7404, "term": "Taq polymerase", "def": "Heat-stable DNA polymerase from Thermus aquaticus used in PCR.", "syn": ["taq dna polymerase"], "abbr": []}
+{"id": 7405, "term": "Fluorescent dye", "def": "Compound that absorbs light and emits it at a longer wavelength, used to label cells and DNA.", "syn": ["fluorescent dyes"], "abbr": []}
+{"id": 7406, "skip": "not-medical"}
+{"id": 7407, "term": "Genetic linkage", "def": "Tendency of nearby loci on a chromosome to be inherited together; measured by LOD score.", "syn": [], "abbr": []}
+{"id": 7408, "term": "Transcriptome", "def": "The complete set of RNA transcripts in a cell at a given time.", "syn": [], "abbr": []}
+{"id": 7409, "term": "Genetic markers", "def": "Identifiable DNA variants used to track inheritance or disease genes.", "syn": ["dna markers"], "abbr": []}
+{"id": 7410, "term": "DNA microarray", "def": "Chip with DNA probes used to measure gene expression or detect variants.", "syn": ["microarrays dna"], "abbr": []}
+{"id": 7411, "term": "Single nucleotide polymorphism", "def": "Common single-base variation in the genome between individuals.", "syn": ["single nucleotide polymorphisms", "snps"], "abbr": ["SNP"]}
+{"id": 7412, "skip": "obvious"}
+{"id": 7413, "term": "Immunosorbent", "def": "Solid-phase material with antibodies or antigens used in ELISA.", "syn": [], "abbr": []}
+{"id": 7414, "term": "Cytogenetic analysis", "def": "Study of chromosomes, e.g., karyotyping or FISH.", "syn": [], "abbr": []}
+{"id": 7415, "term": "Tetrasomy", "def": "Four copies of one chromosome instead of two.", "syn": [], "abbr": []}
+{"id": 7416, "term": "Gene knockdown", "def": "Reduction of gene expression without eliminating it, e.g., with siRNA.", "syn": ["knock down gene"], "abbr": []}
+{"id": 7417, "term": "RNA interference", "def": "Gene silencing in which small double-stranded RNA directs degradation of complementary mRNA.", "syn": [], "abbr": ["RNAi"]}
+{"id": 7418, "term": "RNA-induced silencing complex", "def": "Protein complex using siRNA or miRNA to cleave or block target mRNA.", "syn": [], "abbr": ["RISC"]}
+{"id": 7419, "term": "Pedigree", "def": "Family tree showing inheritance of a trait.", "syn": [], "abbr": []}
+{"id": 7420, "term": "X-linked hypophosphatemic rickets", "def": "X-linked dominant phosphate wasting from PHEX mutation, causing rickets; vitamin D resistant.", "syn": ["vitamin d-resistant rickets x-linked"], "abbr": []}
+{"id": 7421, "term": "Mitochondrial inheritance", "def": "Maternal transmission of mitochondrial DNA mutations to all children, with heteroplasmy.", "syn": [], "abbr": []}
+{"id": 7422, "term": "MELAS syndrome", "def": "Mitochondrial encephalopathy, lactic acidosis and stroke-like episodes, from maternally inherited mtDNA mutation.", "syn": ["melas"], "abbr": ["MELAS"]}
+{"id": 7423, "term": "Chromosome duplication", "def": "Extra copy of a chromosome segment.", "syn": ["chromosomal duplication"], "abbr": []}
+{"id": 7424, "term": "Allele frequency", "def": "Proportion of a given allele in a population; basis for Hardy-Weinberg equilibrium.", "syn": ["gene frequency"], "abbr": []}
+{"id": 7425, "term": "Natural selection", "def": "Process where heritable traits improving survival become more common.", "syn": [], "abbr": []}
+{"id": 7426, "term": "Essential genes", "def": "Genes required for survival of cell or organism.", "syn": ["essential gene"], "abbr": []}
+{"id": 7427, "skip": "not-medical"}
+{"id": 7428, "skip": "not-medical"}
+{"id": 7429, "term": "Arachnodactyly", "def": "Long, thin spider-like fingers, characteristic of Marfan syndrome.", "syn": [], "abbr": []}
+{"id": 7430, "term": "Ectopia lentis", "def": "Displacement of the eye lens, upward in Marfan and downward in homocystinuria.", "syn": [], "abbr": []}
+{"id": 7431, "skip": "not-medical"}
+{"id": 7432, "term": "Pinocytosis", "def": "Cell uptake of extracellular fluid in small vesicles.", "syn": [], "abbr": []}
+{"id": 7433, "term": "Bundle of Kent", "def": "Accessory atrioventricular pathway in Wolff-Parkinson-White syndrome causing preexcitation.", "syn": [], "abbr": []}
+{"id": 7434, "term": "Phlebitis", "def": "Vein inflammation, often with thrombosis, causing a tender red cord.", "syn": [], "abbr": []}
+{"id": 7435, "skip": "wrong-sense"}
+{"id": 7436, "term": "Channelopathies", "def": "Diseases caused by ion channel mutations, such as long QT syndrome, cystic fibrosis.", "syn": ["channelopathy"], "abbr": []}
+{"id": 7437, "skip": "not-medical"}
+{"id": 7438, "term": "Aschoff bodies", "def": "Granulomas with Anitschkow cells in rheumatic heart disease.", "syn": ["rheumatic nodule"], "abbr": []}
+{"id": 7439, "term": "Sinus of Valsalva", "def": "Aortic root dilation behind aortic valve cusps, where the coronary arteries originate.", "syn": ["aortic sinus"], "abbr": []}
+{"id": 7440, "term": "Atrial remodeling", "def": "Structural and electrical changes in the atrium that promote atrial fibrillation.", "syn": [], "abbr": []}
+{"id": 7441, "term": "Pacemaker", "def": "Implanted device delivering electrical pulses to pace the heart.", "syn": ["artificial cardiac pacemaker"], "abbr": []}
+{"id": 7442, "skip": "wrong-sense"}
+{"id": 7443, "term": "Adenosine receptor", "def": "G protein-coupled receptor binding adenosine, slowing AV node conduction and dilating vessels.", "syn": ["adenosine receptors"], "abbr": []}
+{"id": 7444, "term": "Adenosine receptor antagonists", "def": "Drugs like caffeine and theophylline that block adenosine receptors.", "syn": ["adenosine receptor antagonist"], "abbr": []}
+{"id": 7445, "term": "Paradoxical embolism", "def": "Venous clot crossing right-to-left through a patent foramen ovale to cause arterial stroke.", "syn": [], "abbr": []}
+{"id": 7446, "term": "Hepatic circulation", "def": "Dual blood supply to liver from portal vein (75%) and hepatic artery (25%).", "syn": ["liver circulation"], "abbr": []}
+{"id": 7447, "term": "Cerebral vasospasm", "def": "Narrowing of brain arteries days after subarachnoid hemorrhage causing ischemia; treated with nimodipine.", "syn": ["vasospasm intracranial"], "abbr": []}
+{"id": 7448, "term": "Fish oil", "def": "Source of omega-3 fatty acids EPA and DHA that lowers triglycerides.", "syn": [], "abbr": []}
+{"id": 7449, "term": "Omega-3 fatty acids", "def": "Polyunsaturated fats (EPA, DHA, ALA) that lower triglycerides and reduce inflammation.", "syn": ["omega 3 fatty acids"], "abbr": []}
+{"id": 7450, "term": "Inspiratory capacity", "def": "Maximal air inhaled after normal expiration: tidal volume plus inspiratory reserve volume.", "syn": [], "abbr": []}
+{"id": 7451, "term": "Plethysmography", "def": "Measurement of volume changes; body plethysmography measures total lung capacity.", "syn": [], "abbr": []}
+{"id": 7452, "term": "Forced expiratory volume", "def": "Volume exhaled in a set time during forced expiration, usually FEV1 in one second; reduced in obstructive disease.", "syn": [], "abbr": ["FEV1"]}
+{"id": 7453, "term": "Dipalmitoylphosphatidylcholine", "def": "Main surfactant phospholipid, reducing alveolar surface tension.", "syn": [], "abbr": ["DPPC"]}
+{"id": 7454, "term": "Vapor pressure", "def": "Pressure of a gas in equilibrium with its liquid; relevant to water vapor in alveolar air (47 mmHg).", "syn": [], "abbr": []}
+{"id": 7455, "term": "Methemoglobin reductase", "def": "Enzyme (cytochrome b5 reductase) converting methemoglobin back to hemoglobin.", "syn": ["cytochrome b5 reductase"], "abbr": []}
+{"id": 7456, "term": "Hemoglobin E", "def": "Variant beta-globin common in Southeast Asia; causes mild anemia.", "syn": [], "abbr": ["HbE"]}
+{"id": 7457, "term": "Hemoglobin subunits", "def": "Globin chains (alpha, beta, gamma, delta) that combine in tetramers.", "syn": ["hemoglobin subunit"], "abbr": []}
+{"id": 7458, "skip": "not-medical"}
+{"id": 7459, "skip": "not-medical"}
+{"id": 7460, "term": "Band 3 protein", "def": "Red cell anion exchanger swapping chloride for bicarbonate; defects in spherocytosis.", "syn": ["anion exchanger 1"], "abbr": []}
+{"id": 7461, "term": "Ventilation-perfusion ratio", "def": "Ratio of alveolar airflow to blood flow; normally about 0.8.", "syn": [], "abbr": ["V/Q"]}
+{"id": 7462, "term": "Cytochrome a3", "def": "Heme in complex IV that transfers electrons to oxygen; inhibited by cyanide.", "syn": [], "abbr": []}
+{"id": 7463, "term": "Viral pneumonia", "def": "Lung infection by virus causing interstitial inflammation.", "syn": [], "abbr": []}
+{"id": 7464, "term": "Fever of unknown origin", "def": "Fever over 38.3 C for more than 3 weeks without a diagnosis after workup.", "syn": [], "abbr": ["FUO"]}
+{"id": 7465, "skip": "not-medical"}
+{"id": 7466, "term": "Homozygote", "def": "Individual with two identical alleles at a locus.", "syn": ["homozygotes"], "abbr": []}
+{"id": 7467, "term": "Status asthmaticus", "def": "Severe asthma attack unresponsive to standard bronchodilators.", "syn": [], "abbr": []}
+{"id": 7468, "term": "Antifibrotic agents", "def": "Drugs such as pirfenidone and nintedanib that slow scarring in pulmonary fibrosis.", "syn": ["anti-fibrotic agents"], "abbr": []}
+{"id": 7469, "skip": "not-medical"}
+{"id": 7470, "skip": "not-medical"}
+{"id": 7471, "skip": "not-medical"}
+{"id": 7472, "skip": "wrong-sense"}
+{"id": 7473, "skip": "not-medical"}
+{"id": 7474, "skip": "not-medical"}
+{"id": 7475, "term": "Lymphatic stomata", "def": "Small openings in peritoneal mesothelium that drain fluid into lymphatics.", "syn": ["peritoneal stomata"], "abbr": []}
+{"id": 7476, "term": "Axillary vein", "def": "Vein of the armpit, continuing from basilic vein, becoming subclavian at first rib.", "syn": [], "abbr": []}
+{"id": 7477, "term": "Hemopneumothorax", "def": "Blood and air in pleural space, often from chest trauma.", "syn": [], "abbr": []}
+{"id": 7478, "skip": "wrong-sense"}
+{"id": 7479, "term": "Cyclooxygenase-1", "def": "Constitutive enzyme making prostaglandins that protect gastric mucosa and platelets; inhibited by aspirin.", "syn": ["cox-1"], "abbr": ["COX-1"]}
+{"id": 7480, "term": "Factor XIII deficiency", "def": "Rare bleeding disorder with delayed bleeding and poor wound healing; normal PT and aPTT.", "syn": [], "abbr": []}
+{"id": 7481, "term": "Factor XIIIa", "def": "Activated transglutaminase that cross-links fibrin to stabilize clots.", "syn": [], "abbr": []}
+{"id": 7482, "term": "Partial thromboplastin time", "def": "Test of intrinsic and common coagulation pathways; prolonged by heparin or hemophilia.", "syn": ["activated partial thromboplastin time"], "abbr": ["aPTT"]}
+{"id": 7483, "term": "International normalized ratio", "def": "Standardized prothrombin time ratio used to monitor warfarin.", "syn": [], "abbr": ["INR"]}
+{"id": 7484, "term": "Factor XIIa", "def": "Activated Hageman factor that starts the intrinsic pathway.", "syn": [], "abbr": []}
+{"id": 7485, "term": "Factor XIa", "def": "Activated factor XI that activates factor IX.", "syn": [], "abbr": []}
+{"id": 7486, "term": "Factor VIIa", "def": "Activated factor VII that complexes with tissue factor to start the extrinsic pathway.", "syn": [], "abbr": []}
+{"id": 7487, "term": "Glycoprotein Ib", "def": "Platelet receptor binding von Willebrand factor for adhesion; deficient in Bernard-Soulier syndrome.", "syn": ["gpib", "gpib-ix complex"], "abbr": []}
+{"id": 7488, "term": "Urokinase", "def": "Enzyme activating plasminogen to plasmin to dissolve clots.", "syn": ["urokinase-type plasminogen activator"], "abbr": ["uPA"]}
+{"id": 7489, "term": "Factor IXa", "def": "Activated factor IX that with VIIIa activates factor X.", "syn": [], "abbr": []}
+{"id": 7490, "term": "Phosphoglycerate kinase", "def": "Glycolytic enzyme making ATP by transferring phosphate from 1,3-bisphosphoglycerate to ADP.", "syn": [], "abbr": []}
+{"id": 7491, "term": "Phosphoglycerate mutase", "def": "Glycolytic enzyme moving phosphate from 3- to 2-position.", "syn": [], "abbr": []}
+{"id": 7492, "term": "Butyrate", "def": "Four-carbon short chain fatty acid made by colonic bacteria and a fuel for colonocytes.", "syn": ["butyrates"], "abbr": []}
+{"id": 7493, "term": "Propionate", "def": "Three-carbon short-chain fatty acid producing propionyl-CoA, converted to succinyl-CoA.", "syn": ["propionates"], "abbr": []}
+{"id": 7494, "term": "Sucrase", "def": "Brush border enzyme splitting sucrose into glucose and fructose.", "syn": [], "abbr": []}
+{"id": 7495, "term": "Glyceraldehyde", "def": "Three-carbon aldose sugar; intermediate in fructose metabolism.", "syn": [], "abbr": []}
+{"id": 7496, "skip": "obvious"}
+{"id": 7497, "term": "Citrate synthase", "def": "TCA enzyme combining acetyl-CoA and oxaloacetate to citrate.", "syn": [], "abbr": []}
+{"id": 7498, "term": "Fumarase", "def": "TCA enzyme converting fumarate to malate; defects in hereditary leiomyomatosis.", "syn": ["fumarate hydratase"], "abbr": []}
+{"id": 7499, "term": "Malate dehydrogenase", "def": "Enzyme converting malate to oxaloacetate producing NADH in TCA cycle and malate shuttle.", "syn": [], "abbr": []}

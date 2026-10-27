@@ -1,0 +1,250 @@
+{"id": 6500, "term": "Angiokeratoma", "def": "Small dark red to purple wart-like papules of dilated superficial capillaries with overlying thickened skin. Multiple lesions in a bathing-trunk distribution are classic for Fabry disease.", "syn": ["angiokeratomas"], "abbr": []}
+{"id": 6501, "term": "Galactosylceramidase", "def": "Lysosomal enzyme that degrades galactocerebroside and psychosine. Deficiency causes Krabbe disease.", "syn": ["galactocerebrosidase"], "abbr": []}
+{"id": 6502, "term": "Psychosine", "def": "Toxic lipid (galactosylsphingosine) that accumulates when galactocerebrosidase is deficient. Damages oligodendrocytes in Krabbe disease, causing demyelination.", "syn": [], "abbr": []}
+{"id": 6503, "term": "Arylsulfatase A", "def": "Lysosomal enzyme that removes sulfate from sulfatides (cerebroside sulfate). Deficiency causes metachromatic leukodystrophy.", "syn": ["cerebroside sulfatase"], "abbr": []}
+{"id": 6504, "term": "Alpha-L-iduronidase", "def": "Lysosomal enzyme that degrades heparan and dermatan sulfate. Deficiency causes Hurler syndrome.", "syn": ["iduronidase"], "abbr": []}
+{"id": 6505, "skip": "obvious"}
+{"id": 6506, "term": "Hyperargininemia", "def": "Urea cycle disorder from arginase deficiency, causing progressive spastic paraplegia and high arginine, but usually milder hyperammonemia than other urea cycle defects.", "syn": ["arginase deficiency"], "abbr": []}
+{"id": 6507, "term": "Arginase", "def": "Final urea cycle enzyme, hydrolyzing arginine to ornithine and urea in the liver. Deficiency causes hyperargininemia.", "syn": [], "abbr": []}
+{"id": 6508, "term": "N-acetylglutamate synthase", "def": "Mitochondrial enzyme making N-acetylglutamate, the activator of carbamoyl phosphate synthetase I. Deficiency causes hyperammonemia.", "syn": ["NAGS"], "abbr": []}
+{"id": 6509, "term": "Urea cycle disorders", "def": "Inherited deficiencies of urea cycle enzymes, causing hyperammonemia with vomiting, lethargy and encephalopathy. Ornithine transcarbamylase deficiency is the most common.", "syn": ["urea cycle disorder"], "abbr": []}
+{"id": 6510, "skip": "obvious"}
+{"id": 6511, "term": "Maternal phenylketonuria", "def": "Birth defects when a mother with untreated phenylketonuria has high phenylalanine in pregnancy. Causes microcephaly, intellectual disability, and heart defects in the fetus.", "syn": ["maternal PKU"], "abbr": []}
+{"id": 6512, "term": "Homogentisate oxidase", "def": "Enzyme in tyrosine breakdown that cleaves homogentisic acid. Deficiency causes alkaptonuria with dark urine and ochronosis.", "syn": ["homogentisate 1,2-dioxygenase", "homogentisate dioxygenase"], "abbr": []}
+{"id": 6513, "term": "Dioxygenase", "def": "Enzyme that incorporates both atoms of molecular oxygen into a substrate. Examples include homogentisate oxidase and lipoxygenase.", "syn": ["dioxygenases"], "abbr": []}
+{"id": 6514, "term": "S-adenosylhomocysteine", "def": "Product formed when S-adenosylmethionine donates its methyl group. Hydrolyzed to homocysteine and adenosine.", "syn": ["SAH"], "abbr": []}
+{"id": 6515, "term": "Tyrosine hydroxylase", "def": "Rate-limiting enzyme of catecholamine synthesis, converting tyrosine to L-DOPA. Requires tetrahydrobiopterin.", "syn": ["tyrosine 3-monooxygenase"], "abbr": []}
+{"id": 6516, "term": "Dihydroorotate dehydrogenase", "def": "Mitochondrial enzyme in de novo pyrimidine synthesis that converts dihydroorotate to orotate. Inhibited by leflunomide.", "syn": ["DHODH"], "abbr": []}
+{"id": 6517, "term": "Uridine diphosphate", "def": "Nucleotide carrying sugars in glycosylation and glycogen synthesis (UDP-glucose). Also precursor for pyrimidine nucleotides.", "syn": ["UDP"], "abbr": []}
+{"id": 6518, "term": "PRPP synthetase", "def": "Enzyme that makes phosphoribosyl pyrophosphate from ribose-5-phosphate and ATP for purine and pyrimidine synthesis. Overactivity causes gout.", "syn": ["phosphoribosyl pyrophosphate synthetase", "ribose-phosphate pyrophosphokinase", "PRPP synthase"], "abbr": []}
+{"id": 6519, "term": "IMP dehydrogenase", "def": "Enzyme converting IMP to XMP in guanine nucleotide synthesis. Inhibited by mycophenolate and ribavirin.", "syn": ["inosine monophosphate dehydrogenase"], "abbr": ["IMPDH"]}
+{"id": 6520, "term": "Guanine deaminase", "def": "Enzyme converting guanine to xanthine in purine degradation, which is oxidized to uric acid.", "syn": [], "abbr": []}
+{"id": 6521, "skip": "not-medical"}
+{"id": 6522, "term": "Transketolase", "def": "Thiamine-dependent enzyme of the pentose phosphate pathway transferring two-carbon units. Used to assess thiamine status.", "syn": [], "abbr": []}
+{"id": 6523, "term": "Amino acid transporters", "def": "Membrane proteins that carry amino acids across cell membranes. Defects cause Hartnup disease and cystinuria.", "syn": ["amino acid transport systems"], "abbr": []}
+{"id": 6524, "term": "Schilling test", "def": "Test of vitamin B12 absorption using radiolabeled B12, with and without intrinsic factor, to distinguish pernicious anemia from other causes. Rarely used now.", "syn": [], "abbr": []}
+{"id": 6525, "term": "Capillary fragility", "def": "Tendency of small vessels to rupture with minor stress, shown as petechiae in the tourniquet test. Seen in scurvy and platelet disorders.", "syn": [], "abbr": []}
+{"id": 6526, "term": "Tocopherol", "def": "Vitamin E, a fat-soluble antioxidant protecting cell membranes from lipid peroxidation. Deficiency causes hemolytic anemia and neuropathy.", "syn": ["tocopherols"], "abbr": []}
+{"id": 6527, "term": "Vitamin K deficiency bleeding", "def": "Newborn bleeding from low vitamin K, as breast milk has little and the gut is sterile. Prevented by an intramuscular vitamin K injection at birth.", "syn": ["hemorrhagic disease of the newborn"], "abbr": []}
+{"id": 6528, "term": "Dysgeusia", "def": "Distorted or unpleasant taste. Caused by zinc deficiency, drugs such as metronidazole and ACE inhibitors, and some infections.", "syn": [], "abbr": []}
+{"id": 6529, "term": "Acrodermatitis", "def": "Skin inflammation of the hands and feet and around orifices. Acrodermatitis enteropathica is a zinc deficiency disease.", "syn": [], "abbr": []}
+{"id": 6530, "term": "Protein-energy malnutrition", "def": "Insufficient dietary calories and protein. Marasmus is wasting from overall deficiency, while kwashiorkor shows edema, ascites and fatty liver.", "syn": ["marasmus"], "abbr": []}
+{"id": 6531, "term": "Lipogenesis", "def": "Synthesis of fatty acids and triglycerides, mainly in liver, from acetyl-CoA. Stimulated by insulin.", "syn": ["de novo lipogenesis"], "abbr": []}
+{"id": 6532, "term": "Oligopeptides", "def": "Short chains of a few amino acids, such as dipeptides and tripeptides, absorbed in the gut by PepT1.", "syn": ["oligopeptide"], "abbr": []}
+{"id": 6533, "skip": "not-medical"}
+{"id": 6534, "term": "Aminolevulinic acid dehydratase", "def": "Heme synthesis enzyme joining two ALA molecules to form porphobilinogen. Inhibited by lead.", "syn": ["porphobilinogen synthase", "ALA dehydratase"], "abbr": ["ALAD"]}
+{"id": 6535, "term": "Dehydratase", "def": "Enzyme that removes water from a substrate, forming a double bond. Examples include ALA dehydratase and enolase.", "syn": ["hydro-lyase"], "abbr": []}
+{"id": 6536, "term": "Urobilin", "def": "Yellow pigment from urobilinogen oxidation that gives urine its color.", "syn": [], "abbr": []}
+{"id": 6537, "skip": "obvious"}
+{"id": 6538, "skip": "not-medical"}
+{"id": 6539, "skip": "not-medical"}
+{"id": 6540, "term": "Sympatholytic", "def": "Drug that reduces sympathetic nervous activity, such as clonidine, alpha-methyldopa, or beta and alpha blockers.", "syn": ["sympatholytics"], "abbr": []}
+{"id": 6541, "term": "Ritodrine", "def": "Beta-2 agonist once used to delay preterm labor by relaxing uterine muscle. Largely abandoned because of maternal cardiac side effects.", "syn": [], "abbr": []}
+{"id": 6542, "term": "Norepinephrine transporter", "def": "Presynaptic protein reuptaking norepinephrine from the synapse. Blocked by cocaine, amphetamines and tricyclic antidepressants.", "syn": ["NET"], "abbr": []}
+{"id": 6543, "term": "Nucleus accumbens", "def": "Part of the ventral striatum, a central part of the brain's reward pathway. Receives dopamine from the ventral tegmental area and is involved in addiction.", "syn": [], "abbr": []}
+{"id": 6544, "term": "Vesicular monoamine transporter", "def": "Protein packing dopamine, norepinephrine and serotonin into synaptic vesicles. Reserpine and tetrabenazine inhibit it.", "syn": ["vesicular monoamine transporter 2"], "abbr": ["VMAT", "VMAT2"]}
+{"id": 6545, "term": "Pindolol", "def": "Nonselective beta blocker with intrinsic sympathomimetic activity (partial agonist). Causes less bradycardia.", "syn": [], "abbr": []}
+{"id": 6546, "term": "Cardiac auscultation", "def": "Listening to the heart sounds and murmurs with a stethoscope.", "syn": ["heart auscultation"], "abbr": []}
+{"id": 6547, "term": "Plummer-Vinson syndrome", "def": "Iron deficiency anemia with dysphagia from esophageal webs and glossitis. Increases risk of squamous cell carcinoma of the esophagus.", "syn": ["Paterson-Kelly syndrome"], "abbr": []}
+{"id": 6548, "term": "Hemoglobin A", "def": "Normal adult hemoglobin, two alpha and two beta chains. Makes up about 97 percent of adult hemoglobin.", "syn": ["HbA"], "abbr": []}
+{"id": 6549, "term": "Pre-mRNA", "def": "Initial RNA transcript from DNA, before introns are removed, a 5' cap added and a poly-A tail attached.", "syn": ["precursor mRNA"], "abbr": []}
+{"id": 6550, "term": "Chelation therapy", "def": "Treatment with agents that bind metals and promote their excretion. Used for lead, iron, copper, and arsenic poisoning.", "syn": [], "abbr": []}
+{"id": 6551, "term": "Hypochromic anemia", "def": "Anemia in which red cells have decreased hemoglobin and look pale. Seen in iron deficiency, thalassemia and sideroblastic anemia.", "syn": [], "abbr": []}
+{"id": 6552, "term": "Osmotic fragility", "def": "Tendency of red cells to lyse in hypotonic solution. Increased in hereditary spherocytosis.", "syn": [], "abbr": []}
+{"id": 6553, "term": "CD59", "def": "Cell surface protein attached by a GPI anchor that blocks assembly of the membrane attack complex. Deficiency causes complement-mediated hemolysis in PNH.", "syn": ["membrane inhibitor of reactive lysis", "MIRL"], "abbr": []}
+{"id": 6554, "term": "Glycosylphosphatidylinositol", "def": "Lipid anchor attaching some proteins to the outer cell membrane. Defective synthesis causes PNH.", "syn": ["GPI anchor", "glycosylphosphatidylinositol anchor"], "abbr": ["GPI"]}
+{"id": 6555, "term": "Complement C5", "def": "Complement protein cleaved to C5a, a chemotactic anaphylatoxin, and C5b, which starts the membrane attack complex. Targeted by eculizumab.", "syn": ["C5 complement"], "abbr": []}
+{"id": 6556, "term": "Homologous recombination repair", "def": "Error-free repair of DNA double-strand breaks using the sister chromatid as a template. BRCA1 and BRCA2 are key.", "syn": ["homologous recombination", "recombination repair"], "abbr": []}
+{"id": 6557, "skip": "wrong-sense"}
+{"id": 6558, "term": "Nedocromil", "def": "Mast cell stabilizer inhaled or used in eye drops that blocks degranulation. Used for allergic conjunctivitis.", "syn": [], "abbr": []}
+{"id": 6559, "term": "Notochord", "def": "Midline embryonic mesodermal rod that induces the neural plate. Its remnant forms the nucleus pulposus of intervertebral discs.", "syn": [], "abbr": []}
+{"id": 6560, "term": "Epithalamus", "def": "Small posterior part of the diencephalon containing the pineal gland and habenula.", "syn": [], "abbr": []}
+{"id": 6561, "skip": "obvious"}
+{"id": 6562, "term": "Carisoprodol", "def": "Centrally acting muscle relaxant metabolized to meprobamate, with abuse potential. Used for acute musculoskeletal pain.", "syn": ["Soma"], "abbr": []}
+{"id": 6563, "term": "Wallerian degeneration", "def": "Degeneration of the axon distal to an injury, with myelin breakdown and macrophage clearance. Allows regeneration in peripheral nerves.", "syn": [], "abbr": []}
+{"id": 6564, "term": "Retrograde degeneration", "def": "Degenerative changes in the proximal axon and cell body after an injury. Includes chromatolysis, cell swelling and nucleus displacement.", "syn": ["axonal reaction"], "abbr": []}
+{"id": 6565, "term": "Superior sagittal sinus", "def": "Dural venous sinus along the top of the falx cerebri, draining CSF through arachnoid granulations. Thrombosis causes raised pressure and venous infarcts.", "syn": [], "abbr": []}
+{"id": 6566, "term": "Transverse sinuses", "def": "Paired dural venous sinuses running along the occipital bone that drain into sigmoid sinuses.", "syn": ["transverse sinus"], "abbr": []}
+{"id": 6567, "term": "Interneurons", "def": "Neurons that connect other neurons within the CNS, usually inhibitory in local circuits.", "syn": ["interneuron"], "abbr": []}
+{"id": 6568, "skip": "obvious"}
+{"id": 6569, "term": "Chiari malformation", "def": "Downward displacement of cerebellar tonsils through the foramen magnum. Type II includes myelomeningocele, hydrocephalus and brainstem herniation.", "syn": ["Arnold-Chiari malformation"], "abbr": []}
+{"id": 6570, "term": "Fc receptors", "def": "Cell surface receptors that bind the Fc portion of antibodies, mediating phagocytosis and cytotoxicity.", "syn": ["Fc receptor"], "abbr": []}
+{"id": 6571, "skip": "obvious"}
+{"id": 6572, "term": "Pterygopalatine fossa", "def": "Deep space behind the maxilla containing the maxillary nerve, pterygopalatine ganglion and maxillary artery. Communicates with the orbit and nasal cavity.", "syn": [], "abbr": []}
+{"id": 6573, "term": "Sublingual gland", "def": "Smallest major salivary gland beneath the tongue, supplied by the facial nerve through the submandibular ganglion.", "syn": ["sublingual glands"], "abbr": []}
+{"id": 6574, "term": "Tartrate-resistant acid phosphatase", "def": "Enzyme marker of osteoclasts, hairy cells and some macrophages. Positive staining diagnoses hairy cell leukemia.", "syn": ["TRAP"], "abbr": []}
+{"id": 6575, "term": "Erythroderma", "def": "Widespread redness and scaling of more than 90 percent of the skin. Causes include eczema, psoriasis, drugs and lymphoma.", "syn": ["exfoliative dermatitis"], "abbr": []}
+{"id": 6576, "term": "Sympathectomy", "def": "Surgical interruption of sympathetic nerve supply. Used for hyperhidrosis and vasospastic conditions.", "syn": [], "abbr": []}
+{"id": 6577, "term": "Ramsay Hunt syndrome", "def": "Varicella-zoster reactivation in the geniculate ganglion, causing ear vesicles, facial paralysis and hearing loss.", "syn": ["herpes zoster oticus"], "abbr": []}
+{"id": 6578, "skip": "obvious"}
+{"id": 6579, "term": "Auditory ossicles", "def": "Three tiny middle ear bones (malleus, incus, stapes) that transmit sound from the tympanic membrane to the oval window.", "syn": ["ear ossicles"], "abbr": []}
+{"id": 6580, "term": "Incus", "def": "Middle ear bone between the malleus and stapes. Called the anvil.", "syn": [], "abbr": []}
+{"id": 6581, "term": "Tectorial membrane", "def": "Gel-like structure overlying hair cells in the organ of Corti. Stereocilia bend against it when the basilar membrane vibrates.", "syn": [], "abbr": []}
+{"id": 6582, "term": "Bone conduction", "def": "Transmission of sound through skull vibrations to the cochlea, bypassing the middle ear. Basis of the Weber and Rinne tests.", "syn": [], "abbr": []}
+{"id": 6583, "skip": "not-medical"}
+{"id": 6584, "term": "Spiral ganglion", "def": "Cochlear ganglion containing bipolar neurons whose axons form the cochlear nerve.", "syn": [], "abbr": []}
+{"id": 6585, "term": "Otolithic membrane", "def": "Gelatinous layer with calcium carbonate crystals (otoliths) over hair cells in the utricle and saccule, sensing linear acceleration and head tilt.", "syn": ["otolith", "otoliths"], "abbr": []}
+{"id": 6586, "term": "Vestibulo-ocular reflex", "def": "Reflex moving the eyes opposite head movement to keep gaze steady, via vestibular nuclei and cranial nerves III, IV and VI.", "syn": ["VOR"], "abbr": []}
+{"id": 6587, "term": "Caloric test", "def": "Vestibular test irrigating the ear canal with warm or cold water to induce nystagmus. Absent response suggests brainstem death or vestibular damage.", "syn": ["caloric tests"], "abbr": []}
+{"id": 6588, "term": "Weber syndrome", "def": "Midbrain infarct affecting the oculomotor nerve and cerebral peduncle, causing ipsilateral oculomotor palsy and contralateral hemiparesis.", "syn": [], "abbr": []}
+{"id": 6589, "term": "Pretectal area", "def": "Midbrain region near the superior colliculus that mediates the pupillary light reflex.", "syn": ["pretectal region"], "abbr": []}
+{"id": 6590, "term": "Cerebellar Golgi cells", "def": "Inhibitory interneurons in the cerebellar granular layer that regulate granule cells.", "syn": ["Golgi cells"], "abbr": []}
+{"id": 6591, "term": "Lateral vestibular nucleus", "def": "Brainstem nucleus giving rise to the lateral vestibulospinal tract, which facilitates extensor tone for posture and balance.", "syn": ["Deiters nucleus"], "abbr": []}
+{"id": 6592, "term": "Dopaminergic neurons", "def": "Neurons that release dopamine. Loss in the substantia nigra causes Parkinson disease.", "syn": ["dopaminergic neuron"], "abbr": []}
+{"id": 6593, "term": "Cholinergic neurons", "def": "Neurons that release acetylcholine. Loss in the nucleus basalis of Meynert is seen in Alzheimer disease.", "syn": ["cholinergic neuron"], "abbr": []}
+{"id": 6594, "term": "Retinal ganglion cells", "def": "Output neurons of the retina whose axons form the optic nerve.", "syn": ["retinal ganglion cell"], "abbr": []}
+{"id": 6595, "term": "Canal of Schlemm", "def": "Circular channel at the corneoscleral junction draining aqueous humor into the venous system. Blockage raises intraocular pressure.", "syn": ["Schlemm's canal", "scleral venous sinus"], "abbr": []}
+{"id": 6596, "term": "Ciliary ganglion", "def": "Parasympathetic ganglion in the orbit relaying fibers from the Edinger-Westphal nucleus to the pupillary sphincter and ciliary muscle.", "syn": [], "abbr": []}
+{"id": 6597, "term": "Adie pupil", "def": "Dilated pupil that reacts poorly to light but slowly to accommodation, from damage to the ciliary ganglion. Seen with absent knee reflexes in Holmes-Adie syndrome.", "syn": ["tonic pupil", "Adie's pupil", "Holmes-Adie pupil"], "abbr": []}
+{"id": 6598, "skip": "not-medical"}
+{"id": 6599, "skip": "obvious"}
+{"id": 6600, "term": "Blast crisis", "def": "Terminal phase of chronic myeloid leukemia, with transformation into acute leukemia and over 20 percent blasts.", "syn": [], "abbr": []}
+{"id": 6601, "term": "Erythromelalgia", "def": "Episodic burning pain, redness and warmth of the extremities, relieved by cooling. Associated with myeloproliferative neoplasms and SCN9A mutations.", "syn": [], "abbr": []}
+{"id": 6602, "term": "Organic anion transporters", "def": "Renal proximal tubule proteins that secrete organic acids and drugs such as penicillin. Probenecid inhibits them.", "syn": ["OAT", "OATs"], "abbr": []}
+{"id": 6603, "term": "Severe dengue", "def": "Dengue with plasma leakage, hemorrhage or organ impairment, causing shock and thrombocytopenia.", "syn": ["dengue hemorrhagic fever", "dengue shock syndrome"], "abbr": []}
+{"id": 6604, "skip": "obvious"}
+{"id": 6605, "term": "Dacarbazine", "def": "Alkylating chemotherapy agent used for melanoma and Hodgkin lymphoma (ABVD).", "syn": [], "abbr": []}
+{"id": 6606, "term": "Bence Jones protein", "def": "Free monoclonal immunoglobulin light chains in urine, seen in multiple myeloma. Not detected by urine dipstick.", "syn": ["Bence-Jones protein"], "abbr": []}
+{"id": 6607, "skip": "obvious"}
+{"id": 6608, "term": "Thalamic nuclei", "def": "Groups of gray matter in the thalamus with specific roles; VPL and VPM relay sensation, LGN vision, MGN hearing.", "syn": [], "abbr": []}
+{"id": 6609, "term": "Thalamic pain syndrome", "def": "Central pain with sensory loss after a thalamic stroke, causing burning pain on the opposite side.", "syn": ["Dejerine-Roussy syndrome", "thalamic syndrome"], "abbr": []}
+{"id": 6610, "skip": "obvious"}
+{"id": 6611, "term": "Gerstmann syndrome", "def": "Agraphia, acalculia, finger agnosia and left-right disorientation, from a dominant parietal lesion (angular gyrus).", "syn": [], "abbr": []}
+{"id": 6612, "term": "Hemispatial neglect", "def": "Inattention to one side of space, usually the left, after a right parietal lobe lesion.", "syn": [], "abbr": []}
+{"id": 6613, "term": "Kluver-Bucy syndrome", "def": "Bilateral amygdala lesion causing hyperorality, hypersexuality, placidity and visual agnosia.", "syn": [], "abbr": []}
+{"id": 6614, "term": "Anterior thalamic nuclei", "def": "Thalamic nuclei in the Papez circuit linking mammillary bodies and cingulate gyrus; involved in memory.", "syn": ["anterior thalamus"], "abbr": []}
+{"id": 6615, "term": "Enterovirus infections", "def": "Infections by picornaviruses such as poliovirus, coxsackievirus and echovirus, spread fecal-orally.", "syn": [], "abbr": []}
+{"id": 6616, "term": "HLA-DRB1", "def": "MHC class II gene. Certain alleles are linked to rheumatoid arthritis (DR4) and other autoimmune disease.", "syn": [], "abbr": []}
+{"id": 6617, "term": "Presenilins", "def": "Components of gamma-secretase, which cleaves amyloid precursor protein. Mutations cause early-onset familial Alzheimer disease.", "syn": ["presenilin"], "abbr": []}
+{"id": 6618, "term": "Hoarding", "def": "Persistent difficulty discarding possessions regardless of value, causing cluttered living areas. Classified as a distinct psychiatric disorder.", "syn": ["hoarding disorder"], "abbr": []}
+{"id": 6619, "term": "Compulsive behavior", "def": "Repetitive acts performed to reduce anxiety from obsessions, as in OCD.", "syn": ["compulsive behaviors", "compulsions"], "abbr": []}
+{"id": 6620, "term": "MPTP", "def": "Neurotoxin that selectively damages substantia nigra dopaminergic neurons, causing parkinsonism. Discovered in contaminated synthetic heroin.", "syn": ["1-methyl-4-phenyl-1,2,3,6-tetrahydropyridine"], "abbr": []}
+{"id": 6621, "term": "Fatal familial insomnia", "def": "Prion disease with thalamic degeneration, causing progressive untreatable insomnia, autonomic dysfunction and dementia. Autosomal dominant PRNP mutation.", "syn": ["FFI"], "abbr": []}
+{"id": 6622, "term": "Primitive neuroectodermal tumor", "def": "Group of aggressive small round blue cell tumors of neural origin; medulloblastoma is the prototype.", "syn": ["PNET", "PNETs", "primitive neuroectodermal tumors"], "abbr": []}
+{"id": 6623, "term": "Neuroectodermal tumors", "def": "Tumors from neural tube or neural crest-derived cells, such as neuroblastoma, medulloblastoma and Ewing sarcoma.", "syn": ["neuroectodermal tumor"], "abbr": []}
+{"id": 6624, "term": "Cholecystokinin receptor", "def": "G-protein-coupled receptor binding CCK, mediating gallbladder contraction and pancreatic secretion.", "syn": ["CCK receptor"], "abbr": []}
+{"id": 6625, "term": "Incretins", "def": "Gut hormones (GLP-1 and GIP) released after eating that enhance glucose-dependent insulin secretion.", "syn": ["incretin"], "abbr": []}
+{"id": 6626, "term": "Enteroendocrine cells", "def": "Hormone-secreting cells scattered in the gut epithelium, producing gastrin, CCK, secretin, GLP-1 and others.", "syn": ["enteroendocrine cell"], "abbr": []}
+{"id": 6627, "term": "L cells", "def": "Enteroendocrine cells in the distal small bowel and colon that secrete GLP-1 and peptide YY.", "syn": ["intestinal L cells"], "abbr": []}
+{"id": 6628, "term": "Interstitial cells of Cajal", "def": "Pacemaker cells of the gut that generate slow waves driving peristalsis.", "syn": [], "abbr": []}
+{"id": 6629, "term": "Upper esophageal sphincter", "def": "Muscular valve at the esophagus start, formed by the cricopharyngeus (inferior pharyngeal constrictor). Zenker diverticulum arises above it.", "syn": [], "abbr": []}
+{"id": 6630, "skip": "obvious"}
+{"id": 6631, "term": "Monoglycerides", "def": "Glycerol with one fatty acid, the product of triglyceride digestion by pancreatic lipase, absorbed with fatty acids into enterocytes.", "syn": ["monoglyceride"], "abbr": []}
+{"id": 6632, "term": "HLA-B51", "def": "MHC class I allele strongly associated with Behcet disease.", "syn": [], "abbr": []}
+{"id": 6633, "term": "Oral leukoplakia", "def": "White patch in the mouth that cannot be scraped off. Precancerous, associated with tobacco; hairy leukoplakia is EBV-related.", "syn": [], "abbr": []}
+{"id": 6634, "term": "Halitosis", "def": "Persistent bad breath, caused by oral bacteria, dental disease, or less often Zenker diverticulum and gastrointestinal disease.", "syn": [], "abbr": []}
+{"id": 6635, "term": "Elimination diet", "def": "Removing suspected foods and reintroducing them one at a time to identify triggers, used in eosinophilic esophagitis.", "syn": [], "abbr": []}
+{"id": 6636, "term": "Tissue transglutaminase", "def": "Enzyme that deamidates gliadin; the autoantigen of celiac disease. Anti-tTG IgA is the screening test.", "syn": ["tTG"], "abbr": []}
+{"id": 6637, "term": "Gluten-free diet", "def": "Diet excluding wheat, barley and rye; the treatment for celiac disease.", "syn": [], "abbr": []}
+{"id": 6638, "term": "Intraepithelial lymphocytes", "def": "T cells within the gut epithelium, increased in celiac disease.", "syn": ["intraepithelial lymphocyte"], "abbr": ["IELs"]}
+{"id": 6639, "term": "Apolipoprotein B", "def": "Structural protein for lipoproteins: B-100 in VLDL, IDL and LDL; B-48 in chylomicrons.", "syn": ["apoB", "apo B"], "abbr": []}
+{"id": 6640, "skip": "obvious"}
+{"id": 6641, "term": "Tachykinins", "def": "Neuropeptides including substance P, neurokinin A and B, that mediate pain and vomiting. Aprepitant blocks NK1 receptors.", "syn": ["tachykinin"], "abbr": []}
+{"id": 6642, "term": "Nociceptive pain", "def": "Pain from stimulation of pain receptors by tissue injury, such as somatic or visceral pain, as distinct from neuropathic pain.", "syn": ["somatic pain"], "abbr": []}
+{"id": 6643, "skip": "not-medical"}
+{"id": 6644, "term": "Sacroiliitis", "def": "Inflammation of the sacroiliac joints, causing low back and buttock pain. Characteristic of ankylosing spondylitis.", "syn": [], "abbr": []}
+{"id": 6645, "term": "Scleritis", "def": "Painful inflammation of the sclera often tied to rheumatoid arthritis; deeper and more severe than episcleritis.", "syn": ["episcleritis"], "abbr": []}
+{"id": 6646, "term": "Neutralizing antibodies", "def": "Antibodies that block pathogens or toxins from binding host cells, preventing infection.", "syn": ["neutralizing antibody"], "abbr": []}
+{"id": 6647, "term": "Villous adenoma", "def": "Colon polyp with finger-like projections and highest malignant potential. Can cause watery diarrhea with hypokalemia.", "syn": ["villous adenomas"], "abbr": []}
+{"id": 6648, "skip": "not-medical"}
+{"id": 6649, "skip": "not-medical"}
+{"id": 6650, "skip": "obvious"}
+{"id": 6651, "skip": "not-medical"}
+{"id": 6652, "term": "Pancreaticoduodenectomy", "def": "Whipple procedure removing the pancreatic head, duodenum, gallbladder and bile duct, for pancreatic head cancer.", "syn": ["Whipple procedure"], "abbr": []}
+{"id": 6653, "term": "Juvenile myoclonic epilepsy", "def": "Adolescent-onset generalized epilepsy with morning myoclonic jerks, tonic-clonic and absence seizures. Treated with valproate.", "syn": ["JME"], "abbr": []}
+{"id": 6654, "term": "Sleep stages", "def": "Divisions of sleep: N1, N2, N3 (slow-wave) and REM, each with EEG patterns. N2 has sleep spindles and K complexes.", "syn": ["N2 sleep"], "abbr": []}
+{"id": 6655, "term": "Hamartin", "def": "Protein encoded by TSC1, a tumor suppressor forming a complex with tuberin to inhibit mTOR. Mutation causes tuberous sclerosis.", "syn": [], "abbr": []}
+{"id": 6656, "term": "Tuberin", "def": "Protein encoded by TSC2, a tumor suppressor that inhibits mTOR. Mutation causes tuberous sclerosis.", "syn": [], "abbr": []}
+{"id": 6657, "term": "Cafe-au-lait spots", "def": "Flat, uniformly tan-brown skin patches. Six or more over 1.5 cm suggests neurofibromatosis type 1; also McCune-Albright syndrome.", "syn": ["cafe au lait spots", "café-au-lait spots"], "abbr": []}
+{"id": 6658, "term": "Mast cell stabilizers", "def": "Drugs like cromolyn and nedocromil that prevent mast cell degranulation, used in allergic and asthma prophylaxis.", "syn": [], "abbr": []}
+{"id": 6659, "term": "Astigmatism", "def": "Refractive error from uneven curvature of the cornea or lens, causing blurred vision at all distances.", "syn": [], "abbr": []}
+{"id": 6660, "skip": "obvious"}
+{"id": 6661, "skip": "obvious"}
+{"id": 6662, "term": "Ranibizumab", "def": "Monoclonal antibody fragment blocking VEGF, injected into the eye for wet macular degeneration and diabetic macular edema.", "syn": [], "abbr": []}
+{"id": 6663, "term": "Vestibular apparatus", "def": "Inner ear structures sensing balance: utricle, saccule and semicircular canals.", "syn": [], "abbr": []}
+{"id": 6664, "term": "Countertransference", "def": "Therapist's emotional reaction to a patient, based on the therapist's own past experiences.", "syn": [], "abbr": []}
+{"id": 6665, "term": "Rationalization", "def": "Defense mechanism justifying unacceptable behavior with plausible but false explanations.", "syn": [], "abbr": []}
+{"id": 6666, "term": "Reactive attachment disorder", "def": "Child disorder of disturbed relatedness from severe neglect, with emotionally withdrawn behavior toward caregivers.", "syn": [], "abbr": []}
+{"id": 6667, "skip": "obvious"}
+{"id": 6668, "term": "HIV-associated neurocognitive disorder", "def": "Cognitive, motor and behavioral decline from HIV infection of the CNS. Previously called AIDS dementia complex.", "syn": ["AIDS dementia complex", "HIV encephalopathy"], "abbr": ["HAND"]}
+{"id": 6669, "skip": "not-medical"}
+{"id": 6670, "term": "Temporal lobe epilepsy", "def": "Focal epilepsy with auras (deja vu, odd smells), automatisms and impaired awareness. Often from hippocampal sclerosis.", "syn": ["TLE"], "abbr": []}
+{"id": 6671, "term": "Procedural sedation", "def": "Use of sedatives to reduce anxiety and awareness during a procedure while maintaining airway reflexes.", "syn": ["conscious sedation"], "abbr": []}
+{"id": 6672, "term": "Parasomnias", "def": "Abnormal behaviors during sleep, such as sleepwalking, night terrors and REM sleep behavior disorder.", "syn": ["parasomnia"], "abbr": []}
+{"id": 6673, "term": "Glucuronide", "def": "Water-soluble conjugate of a drug or bilirubin with glucuronic acid, formed by UDP-glucuronosyltransferase in phase II metabolism.", "syn": ["glucuronides"], "abbr": []}
+{"id": 6674, "term": "MT2 receptor", "def": "Melatonin receptor in the suprachiasmatic nucleus that helps regulate sleep timing. Ramelteon acts here.", "syn": ["MT2 receptors"], "abbr": []}
+{"id": 6675, "term": "Psychomotor retardation", "def": "Slowing of thought and movement, common in depression.", "syn": ["psychomotor impairment"], "abbr": []}
+{"id": 6676, "skip": "obvious"}
+{"id": 6677, "term": "Methoxyflurane", "def": "Volatile anesthetic whose metabolism releases fluoride, risking nephrotoxicity.", "syn": [], "abbr": []}
+{"id": 6678, "term": "Isoflurane", "def": "Volatile inhaled anesthetic; can cause respiratory depression and coronary steal.", "syn": [], "abbr": []}
+{"id": 6679, "term": "Procaine", "def": "Short-acting ester local anesthetic. Metabolized by plasma esterases, forming PABA.", "syn": [], "abbr": []}
+{"id": 6680, "skip": "obvious"}
+{"id": 6681, "term": "Exposure therapy", "def": "Behavioral therapy gradually confronting feared stimuli to extinguish anxiety response.", "syn": ["implosive therapy", "flooding"], "abbr": []}
+{"id": 6682, "term": "Body dysmorphic disorder", "def": "Preoccupation with a perceived flaw in appearance that is slight or invisible to others, causing repetitive behaviors and distress.", "syn": ["BDD"], "abbr": []}
+{"id": 6683, "term": "Sick role", "def": "Socially recognized exemptions and obligations of ill persons, such as being excused from duties while seeking help.", "syn": [], "abbr": []}
+{"id": 6684, "term": "Munchausen syndrome by proxy", "def": "Caregiver fabricates or induces illness in a dependent, usually a child, to gain attention. Now called factitious disorder imposed on another.", "syn": ["factitious disorder imposed on another"], "abbr": []}
+{"id": 6685, "skip": "obvious"}
+{"id": 6686, "term": "Cyproheptadine", "def": "First-generation antihistamine with antiserotonin activity. Used for serotonin syndrome and appetite stimulation.", "syn": [], "abbr": []}
+{"id": 6687, "term": "Desipramine", "def": "Tricyclic antidepressant, a secondary amine with mainly norepinephrine reuptake inhibition and fewer anticholinergic effects.", "syn": [], "abbr": []}
+{"id": 6688, "term": "St John's wort", "def": "Herbal antidepressant that induces CYP450 and P-glycoprotein, lowering levels of many drugs; can cause serotonin syndrome.", "syn": ["Hypericum"], "abbr": []}
+{"id": 6689, "skip": "obvious"}
+{"id": 6690, "term": "Paranoid personality disorder", "def": "Cluster A disorder of pervasive distrust and suspiciousness of others' motives, without psychosis.", "syn": ["paranoid personality"], "abbr": []}
+{"id": 6691, "skip": "obvious"}
+{"id": 6692, "term": "Histrionic personality disorder", "def": "Cluster B disorder of excessive emotionality, attention-seeking, and inappropriate seductiveness.", "syn": [], "abbr": []}
+{"id": 6693, "term": "Narcissistic personality disorder", "def": "Cluster B disorder of grandiosity, need for admiration and lack of empathy, with fragile self-esteem.", "syn": [], "abbr": []}
+{"id": 6694, "term": "Superego", "def": "Freudian part of the psyche that holds moral standards and conscience.", "syn": [], "abbr": []}
+{"id": 6695, "term": "Lisdexamfetamine", "def": "Prodrug of dextroamphetamine used for ADHD and binge eating disorder.", "syn": [], "abbr": []}
+{"id": 6696, "term": "Sodium oxybate", "def": "Gamma-hydroxybutyrate used for cataplexy and sleepiness in narcolepsy. CNS depressant.", "syn": ["GHB"], "abbr": []}
+{"id": 6697, "term": "Trifluoperazine", "def": "High-potency typical antipsychotic that blocks D2 receptors. Risk of extrapyramidal symptoms.", "syn": [], "abbr": []}
+{"id": 6698, "term": "Paliperidone", "def": "Atypical antipsychotic, active metabolite of risperidone, given as long-acting injection (palmitate).", "syn": ["paliperidone palmitate"], "abbr": []}
+{"id": 6699, "term": "5-HT2A receptor", "def": "Serotonin receptor mediating platelet aggregation, smooth muscle contraction and hallucinations. Blocked by atypical antipsychotics.", "syn": ["5-HT2A receptors"], "abbr": []}
+{"id": 6700, "term": "Treatment-resistant schizophrenia", "def": "Schizophrenia not responding to at least two antipsychotic trials. Clozapine is the treatment of choice.", "syn": ["refractory schizophrenia"], "abbr": []}
+{"id": 6701, "skip": "obvious"}
+{"id": 6702, "term": "Piloerection", "def": "Hair standing up from contraction of arrector pili muscles under sympathetic control, seen in cold, fear and opioid withdrawal.", "syn": [], "abbr": []}
+{"id": 6703, "skip": "obvious"}
+{"id": 6704, "term": "Galantamine", "def": "Reversible acetylcholinesterase inhibitor for mild to moderate Alzheimer disease.", "syn": [], "abbr": []}
+{"id": 6705, "term": "Mivacurium", "def": "Short-acting nondepolarizing neuromuscular blocker metabolized by plasma cholinesterase.", "syn": [], "abbr": []}
+{"id": 6706, "term": "Atracurium", "def": "Nondepolarizing neuromuscular blocker cleared by Hofmann elimination, so safe in renal or hepatic failure. Can release histamine.", "syn": [], "abbr": []}
+{"id": 6707, "term": "Tubocurarine", "def": "Prototype nondepolarizing neuromuscular blocker; competitive antagonist at nicotinic receptors. Can cause hypotension.", "syn": [], "abbr": []}
+{"id": 6708, "term": "Pharmacokinetics", "def": "What the body does to a drug: absorption, distribution, metabolism and excretion.", "syn": [], "abbr": []}
+{"id": 6709, "skip": "obvious"}
+{"id": 6710, "term": "Neonatal hyperbilirubinemia", "def": "Elevated bilirubin in newborns, mostly physiologic jaundice. Very high levels risk kernicterus.", "syn": [], "abbr": []}
+{"id": 6711, "skip": "not-medical"}
+{"id": 6712, "term": "Aldehyde dehydrogenase", "def": "Enzyme that converts acetaldehyde to acetate in alcohol metabolism. Inhibited by disulfiram; deficiency causes flushing.", "syn": ["ALDH"], "abbr": []}
+{"id": 6713, "term": "Transferrin receptor", "def": "Cell surface receptor that takes up iron-bound transferrin. Upregulated in iron deficiency.", "syn": ["transferrin receptors"], "abbr": []}
+{"id": 6714, "term": "Slit lamp examination", "def": "Eye exam using a bright slit of light and microscope to view the front of the eye. Used to detect Kayser-Fleischer rings.", "syn": ["slit lamp microscopy"], "abbr": []}
+{"id": 6715, "term": "Trientine", "def": "Copper chelator used for Wilson disease, especially in penicillamine intolerance.", "syn": [], "abbr": []}
+{"id": 6716, "term": "Gram-negative aerobic bacteria", "def": "Bacteria with thin walls and an outer membrane that need oxygen, such as Pseudomonas and Neisseria.", "syn": [], "abbr": []}
+{"id": 6717, "term": "PECAM-1", "def": "Adhesion molecule (CD31) on endothelium and leukocytes, mediating transmigration of leukocytes through vessel walls.", "syn": ["CD31"], "abbr": []}
+{"id": 6718, "term": "Oblique abdominal muscles", "def": "External and internal obliques form the lateral abdominal wall, forming the inguinal canal borders.", "syn": ["external oblique muscle", "internal oblique muscle"], "abbr": []}
+{"id": 6719, "term": "Internal hernia", "def": "Protrusion of bowel through an abnormal opening within the abdomen, such as after gastric bypass. Can cause obstruction.", "syn": [], "abbr": []}
+{"id": 6720, "term": "Secretory component", "def": "Part of the polymeric immunoglobulin receptor that remains attached to IgA after transport, protecting it from digestion.", "syn": [], "abbr": []}
+{"id": 6721, "term": "L-selectin", "def": "Adhesion molecule on leukocytes that mediates rolling on endothelium and lymphocyte homing to lymph nodes.", "syn": ["L-selectins"], "abbr": []}
+{"id": 6722, "term": "Clonal deletion", "def": "Elimination of self-reactive lymphocytes by apoptosis, key to central tolerance.", "syn": [], "abbr": []}
+{"id": 6723, "term": "Major histocompatibility complex", "def": "Gene cluster encoding MHC proteins that present antigens to T cells. Located on chromosome 6.", "syn": ["major histocompatibility complexes"], "abbr": ["MHC"]}
+{"id": 6724, "term": "Histocompatibility", "def": "Compatibility of tissues between donor and recipient, determined by HLA antigens.", "syn": [], "abbr": []}
+{"id": 6725, "term": "HLA-C", "def": "Class I MHC molecule presenting antigens to CD8 T cells; ligand for natural killer cell KIR receptors.", "syn": ["HLA-C antigens"], "abbr": []}
+{"id": 6726, "skip": "not-medical"}
+{"id": 6727, "term": "AIRE protein", "def": "Autoimmune regulator, a transcription factor in thymic epithelium that expresses self antigens for negative selection. Mutation causes APS type 1.", "syn": ["AIRE"], "abbr": []}
+{"id": 6728, "term": "Autoimmune polyendocrine syndrome", "def": "Immune destruction of multiple endocrine glands. Type 1 (AIRE mutation) causes candidiasis, hypoparathyroidism and adrenal failure; type 2 (Schmidt) causes Addison disease with thyroid disease.", "syn": ["APS type 1", "autoimmune polyendocrine syndrome type 2", "Schmidt syndrome"], "abbr": []}
+{"id": 6729, "term": "Ubiquitin", "def": "Small protein tagged onto other proteins to target them for proteasome degradation.", "syn": [], "abbr": []}
+{"id": 6730, "skip": "obvious"}
+{"id": 6731, "term": "T-independent antigens", "def": "Antigens such as polysaccharides that activate B cells without T cell help, giving IgM and weak memory.", "syn": ["thymus-independent antigens"], "abbr": []}
+{"id": 6732, "term": "Papain", "def": "Protease that cleaves IgG above the hinge into two Fab fragments and one Fc fragment.", "syn": [], "abbr": []}
+{"id": 6733, "term": "Transcytosis", "def": "Transport of macromolecules across a cell via vesicles from one side to the other, such as IgA through epithelium.", "syn": [], "abbr": []}
+{"id": 6734, "term": "Colostrum", "def": "First breast milk after birth, rich in secretory IgA and protective factors.", "syn": [], "abbr": []}
+{"id": 6735, "term": "Polymeric immunoglobulin receptor", "def": "Epithelial receptor transporting dimeric IgA and pentameric IgM across cells into secretions.", "syn": ["polymeric Ig receptor", "pIgR"], "abbr": []}
+{"id": 6736, "term": "IgE receptor", "def": "Fc-epsilon receptor on mast cells and basophils; IgE cross-linking triggers degranulation.", "syn": ["Fc-epsilon receptor", "FcεRI"], "abbr": []}
+{"id": 6737, "term": "Patch test", "def": "Skin test applying allergens under patches for 48 hours to diagnose type IV contact dermatitis.", "syn": ["patch tests"], "abbr": []}
+{"id": 6738, "term": "Beclin-1", "def": "Protein required to start autophagosome formation. Loss increases cancer risk.", "syn": ["Beclin 1"], "abbr": []}
+{"id": 6739, "term": "Necroptosis", "def": "Programmed necrotic cell death regulated by RIPK1, RIPK3 and MLKL, triggered by TNF when caspases are inhibited.", "syn": [], "abbr": []}
+{"id": 6740, "term": "Nocardiosis", "def": "Infection by Nocardia, a partially acid-fast branching filamentous bacterium. Causes pulmonary disease, brain abscesses and cutaneous infection.", "syn": ["nocardia infection", "pulmonary nocardiosis"], "abbr": []}
+{"id": 6741, "term": "Death receptors", "def": "Cell surface receptors, such as Fas and TNF receptor, that activate caspases to induce apoptosis.", "syn": ["death receptor"], "abbr": []}
+{"id": 6742, "term": "Thrombolytic therapy", "def": "Drugs such as alteplase that activate plasminogen to dissolve clots, used in stroke, MI and PE.", "syn": [], "abbr": []}
+{"id": 6743, "term": "Therapeutic hypothermia", "def": "Controlled cooling after cardiac arrest or neonatal hypoxic-ischemic injury to reduce brain damage.", "syn": ["induced hypothermia"], "abbr": []}
+{"id": 6744, "term": "Pyrin", "def": "Inflammasome regulating protein encoded by MEFV. Mutation causes familial Mediterranean fever.", "syn": [], "abbr": []}
+{"id": 6745, "term": "NOD-like receptors", "def": "Intracellular innate immune sensors that detect pathogens and form inflammasomes.", "syn": ["NLRs"], "abbr": ["NLR"]}
+{"id": 6746, "term": "Flagellin", "def": "Protein of bacterial flagella recognized by TLR5.", "syn": [], "abbr": []}
+{"id": 6747, "term": "Anaphylatoxins", "def": "Complement fragments C3a, C4a and C5a that trigger mast cell degranulation and vascular permeability.", "syn": ["anaphylatoxin"], "abbr": []}
+{"id": 6748, "term": "Selectins", "def": "Adhesion molecules (E-, P- and L-selectin) mediating leukocyte rolling on endothelium.", "syn": ["selectin"], "abbr": []}
+{"id": 6749, "term": "E-selectin", "def": "Endothelial adhesion molecule induced by cytokines that mediates neutrophil rolling.", "syn": ["E-selectins"], "abbr": []}

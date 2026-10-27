@@ -1,0 +1,250 @@
+{"id": 250, "skip": "obvious"}
+{"id": 251, "skip": "obvious"}
+{"id": 252, "skip": "obvious"}
+{"id": 253, "skip": "obvious"}
+{"id": 254, "skip": "obvious"}
+{"id": 255, "skip": "obvious"}
+{"id": 256, "skip": "obvious"}
+{"id": 257, "term": "Staphylococcus", "def": "A genus of gram-positive cocci that grow in grape-like clusters and are catalase positive. S. aureus is coagulase positive; S. epidermidis and S. saprophyticus are coagulase negative.", "syn": [], "abbr": []}
+{"id": 258, "skip": "wrong-sense"}
+{"id": 259, "skip": "obvious"}
+{"id": 260, "skip": "obvious"}
+{"id": 261, "skip": "obvious"}
+{"id": 262, "skip": "obvious"}
+{"id": 263, "term": "Bilirubin", "def": "Yellow pigment made from the breakdown of heme in old red blood cells. It is carried to the liver bound to albumin, conjugated, and excreted in bile. Excess causes jaundice.", "syn": [], "abbr": []}
+{"id": 264, "term": "Hypertrophy", "def": "An increase in the size of cells, and therefore of the organ, without an increase in cell number. Seen in cardiac and skeletal muscle under increased workload.", "syn": ["hypertrophies"], "abbr": []}
+{"id": 265, "skip": "obvious"}
+{"id": 266, "term": "Incidence", "def": "The number of new cases of a disease that develop in a population at risk during a specified time period, as opposed to prevalence, which counts all existing cases.", "syn": ["incidence rate"], "abbr": []}
+{"id": 267, "term": "Osmolarity", "def": "The concentration of osmotically active solute particles per liter of solution. It determines the osmotic pull of water across membranes and is the main stimulus for antidiuretic hormone release.", "syn": [], "abbr": []}
+{"id": 268, "term": "Vancomycin", "def": "A glycopeptide antibiotic that blocks cell wall synthesis by binding D-Ala-D-Ala termini of peptidoglycan precursors. Used for MRSA and, orally, C. difficile; can cause red man syndrome, nephrotoxicity and ototoxicity.", "syn": [], "abbr": []}
+{"id": 269, "skip": "wrong-sense"}
+{"id": 270, "skip": "obvious"}
+{"id": 271, "term": "Perfusion", "def": "The delivery of blood through the capillary beds of a tissue or organ. Inadequate perfusion causes ischemia, and a mismatch between ventilation and perfusion limits gas exchange in the lung.", "syn": [], "abbr": []}
+{"id": 272, "skip": "obvious"}
+{"id": 273, "term": "Vasodilation", "def": "Widening of blood vessels caused by relaxation of vascular smooth muscle, lowering resistance and blood pressure. Mediated by nitric oxide, prostaglandins, and drugs such as nitrates.", "syn": ["vasodilatation"], "abbr": []}
+{"id": 274, "term": "Hemolytic anemia", "def": "Anemia caused by premature destruction of red blood cells, with raised reticulocytes, indirect bilirubin and LDH and low haptoglobin. May be intravascular or extravascular, inherited or acquired.", "syn": ["anemia hemolytic"], "abbr": []}
+{"id": 275, "skip": "obvious"}
+{"id": 276, "term": "Embolism", "def": "Obstruction of a vessel by a mass carried in the blood from elsewhere, such as a thrombus, fat, air, amniotic fluid or tumor. A pulmonary embolus usually arises from a deep leg vein clot.", "syn": ["embolus", "embolisms"], "abbr": []}
+{"id": 277, "skip": "wrong-sense"}
+{"id": 278, "term": "Chlamydia", "def": "A genus of obligate intracellular bacteria that cannot make their own ATP. C. trachomatis causes urethritis, cervicitis, trachoma and lymphogranuloma venereum; C. pneumoniae causes atypical pneumonia.", "syn": [], "abbr": []}
+{"id": 279, "skip": "obvious"}
+{"id": 280, "skip": "obvious"}
+{"id": 281, "skip": "obvious"}
+{"id": 282, "skip": "not-medical"}
+{"id": 283, "skip": "obvious"}
+{"id": 284, "term": "Serotonin", "def": "A monoamine neurotransmitter made from tryptophan, also called 5-hydroxytryptamine. It regulates mood, sleep and gut motility; most of the body's supply is in enteroendocrine cells of the gut.", "syn": [], "abbr": ["5-HT"]}
+{"id": 285, "skip": "obvious"}
+{"id": 286, "skip": "obvious"}
+{"id": 287, "skip": "obvious"}
+{"id": 288, "skip": "obvious"}
+{"id": 289, "skip": "obvious"}
+{"id": 290, "term": "Bradycardia", "def": "A resting heart rate below 60 beats per minute. Causes include well-trained fitness, increased vagal tone, hypothyroidism, beta blockers and heart block.", "syn": [], "abbr": []}
+{"id": 291, "skip": "obvious"}
+{"id": 292, "skip": "obvious"}
+{"id": 293, "term": "Uric acid", "def": "The end product of purine breakdown in humans. Excess causes gout through monosodium urate crystal deposition in joints, and uric acid kidney stones.", "syn": ["urate"], "abbr": []}
+{"id": 294, "skip": "obvious"}
+{"id": 295, "skip": "obvious"}
+{"id": 296, "term": "Neisseria", "def": "A genus of gram-negative diplococci that are oxidase positive. N. gonorrhoeae and N. meningitidis are the pathogens; the two are distinguished by maltose fermentation and a capsule.", "syn": [], "abbr": []}
+{"id": 297, "skip": "obvious"}
+{"id": 298, "skip": "wrong-sense"}
+{"id": 299, "skip": "obvious"}
+{"id": 300, "term": "Sickle cell disease", "def": "Inherited anemia from a point mutation in the beta-globin gene (Glu6Val, HbS) that makes hemoglobin polymerize when deoxygenated, sickling red cells. Causes vaso-occlusive pain crises, hemolysis and autosplenectomy.", "syn": ["sickle cell anemia"], "abbr": []}
+{"id": 301, "skip": "obvious"}
+{"id": 302, "term": "Ataxia", "def": "Loss of coordinated voluntary movement, causing an unsteady gait or clumsy limbs. Cerebellar lesions produce it, as can loss of position sense (sensory ataxia).", "syn": [], "abbr": []}
+{"id": 303, "skip": "obvious"}
+{"id": 304, "skip": "wrong-sense"}
+{"id": 305, "skip": "obvious"}
+{"id": 306, "term": "Adrenocorticotropic hormone", "def": "A peptide hormone from the anterior pituitary, cleaved from POMC, that stimulates the adrenal cortex to make cortisol. Released in response to CRH and suppressed by cortisol feedback.", "syn": [], "abbr": []}
+{"id": 307, "term": "Alkalosis", "def": "A process that raises blood pH above 7.45, either from loss of acid or gain of bicarbonate (metabolic) or from hyperventilation lowering CO2 (respiratory).", "syn": [], "abbr": []}
+{"id": 308, "skip": "obvious"}
+{"id": 309, "term": "Leukocytosis", "def": "An abnormally high white blood cell count in the blood, usually above 11,000 per microliter. Common in infection, inflammation and leukemia.", "syn": [], "abbr": []}
+{"id": 310, "term": "Glomerulonephritis", "def": "Inflammation of the kidney's glomeruli, often immune-mediated, causing hematuria, proteinuria, hypertension and reduced filtration. Includes poststreptococcal, IgA, membranoproliferative and rapidly progressive forms.", "syn": ["glomerulonephritides"], "abbr": []}
+{"id": 311, "skip": "obvious"}
+{"id": 312, "term": "Cephalosporins", "def": "A class of beta-lactam antibiotics that inhibit bacterial cell wall synthesis. Coverage broadens from first to fifth generations; none cover enterococci, Listeria, or atypical organisms.", "syn": ["cephalosporin"], "abbr": []}
+{"id": 313, "term": "Complement system", "def": "A cascade of plasma proteins that enhance immunity by opsonization, inflammation and lysis of microbes via the membrane attack complex. Activated by classical, alternative and lectin pathways.", "syn": ["complement proteins", "complement protein"], "abbr": []}
+{"id": 314, "term": "Hematuria", "def": "Blood in the urine, either visible or detected on microscopy. Glomerular causes give dysmorphic red cells and casts; others include stones, infection and urinary tract cancers.", "syn": [], "abbr": []}
+{"id": 315, "skip": "obvious"}
+{"id": 316, "skip": "obvious"}
+{"id": 317, "term": "Cytokines", "def": "Small secreted signaling proteins that regulate immune and inflammatory responses, such as interleukins, interferons and tumor necrosis factor. They act on nearby or distant cells through specific receptors.", "syn": ["cytokine"], "abbr": []}
+{"id": 318, "skip": "wrong-sense"}
+{"id": 319, "term": "Protease", "def": "An enzyme that breaks peptide bonds to cleave proteins. Bacterial IgA proteases, for example, help organisms evade mucosal immunity.", "syn": ["proteases", "proteolytic enzymes"], "abbr": []}
+{"id": 320, "term": "Hypokalemia", "def": "Serum potassium below about 3.5 mEq/L. Causes include diuretics, vomiting and hyperaldosteronism; it can cause muscle weakness, U waves on ECG and arrhythmias.", "syn": [], "abbr": []}
+{"id": 321, "skip": "obvious"}
+{"id": 322, "term": "Vitamin B12", "def": "A cobalt-containing vitamin needed for methylmalonyl-CoA mutase and homocysteine methyltransferase. Absorbed in the terminal ileum with intrinsic factor; deficiency causes megaloblastic anemia and neuropathy.", "syn": ["cobalamin", "vitamin b12"], "abbr": []}
+{"id": 323, "skip": "obvious"}
+{"id": 324, "term": "Chronic obstructive pulmonary disease", "def": "Progressive lung disease with airflow limitation that is not fully reversible, comprising chronic bronchitis and emphysema. Mainly caused by smoking.", "syn": ["chronic obstructive pulmonary disease"], "abbr": ["COPD"]}
+{"id": 325, "skip": "wrong-sense"}
+{"id": 326, "skip": "wrong-sense"}
+{"id": 327, "skip": "obvious"}
+{"id": 328, "skip": "obvious"}
+{"id": 329, "term": "Pleural effusion", "def": "Abnormal fluid accumulation in the pleural space. Transudates come from heart failure or cirrhosis; exudates from infection, cancer or inflammation, distinguished by Light criteria.", "syn": ["pleural effusions"], "abbr": []}
+{"id": 330, "term": "Gout", "def": "Inflammatory arthritis caused by monosodium urate crystals depositing in joints, classically the big toe (podagra). Needle-shaped, negatively birefringent crystals are seen in joint fluid.", "syn": [], "abbr": []}
+{"id": 331, "term": "Purpura", "def": "Purple-red skin discoloration from bleeding into the skin that does not blanch with pressure. Petechiae are tiny pinpoint lesions; larger ones are called ecchymoses.", "syn": [], "abbr": []}
+{"id": 332, "term": "Pseudomonas", "def": "A genus of gram-negative, oxidase-positive rods; P. aeruginosa produces a blue-green pigment, causes hospital-acquired infections, burn and cystic fibrosis lung infections, and ecthyma gangrenosum.", "syn": [], "abbr": []}
+{"id": 333, "term": "Syndrome of inappropriate antidiuretic hormone secretion", "def": "Excess ADH release causes water retention, euvolemic hyponatremia, concentrated urine and low serum osmolality. Common causes are small cell lung cancer, CNS disease and certain drugs.", "syn": ["syndrome of inappropriate adh"], "abbr": ["SIADH"]}
+{"id": 334, "skip": "obvious"}
+{"id": 335, "skip": "obvious"}
+{"id": 336, "term": "Cardiac output", "def": "The volume of blood the heart pumps per minute, equal to stroke volume times heart rate (about 5 L/min at rest). It is also the rate of oxygen consumption divided by arteriovenous oxygen difference.", "syn": [], "abbr": []}
+{"id": 337, "skip": "not-medical"}
+{"id": 338, "skip": "obvious"}
+{"id": 339, "term": "Creatinine", "def": "A breakdown product of muscle creatine that is filtered by the glomerulus and not reabsorbed, so serum levels and clearance estimate GFR. Rises with kidney injury.", "syn": [], "abbr": []}
+{"id": 340, "term": "Gonadotropin-releasing hormone", "def": "A hypothalamic decapeptide released in pulses that stimulates the anterior pituitary to secrete LH and FSH. Continuous (non-pulsatile) dosing suppresses gonadotropins instead.", "syn": [], "abbr": []}
+{"id": 341, "skip": "obvious"}
+{"id": 342, "skip": "obvious"}
+{"id": 343, "skip": "obvious"}
+{"id": 344, "skip": "obvious"}
+{"id": 345, "skip": "obvious"}
+{"id": 346, "term": "Ganglia", "def": "Clusters of neuron cell bodies located outside the central nervous system, such as dorsal root and autonomic ganglia. The central equivalent is called a nucleus.", "syn": ["ganglion"], "abbr": []}
+{"id": 347, "term": "Osteoporosis", "def": "Reduced bone mass with normal mineralization, making bones fragile and prone to fractures of the vertebrae, hip and wrist. Common in postmenopausal women and with glucocorticoid use.", "syn": ["senile osteoporosis"], "abbr": []}
+{"id": 348, "skip": "obvious"}
+{"id": 349, "term": "Diabetes insipidus", "def": "Inability to concentrate urine, producing large volumes of dilute urine and thirst. Central form lacks ADH; nephrogenic form is ADH resistance (lithium, hypercalcemia).", "syn": [], "abbr": []}
+{"id": 350, "skip": "wrong-sense"}
+{"id": 351, "term": "Hydroxylase", "def": "An enzyme that adds a hydroxyl (-OH) group to a substrate, often using oxygen. Examples include steroid 21-hydroxylase, and prolyl hydroxylase in collagen synthesis, which requires vitamin C.", "syn": ["hydroxylases"], "abbr": []}
+{"id": 352, "skip": "wrong-sense"}
+{"id": 353, "term": "Amenorrhea", "def": "Absence of menstrual periods, either never starting by age 15 (primary) or stopping for months in a woman who had been cycling (secondary). Pregnancy is the commonest cause.", "syn": [], "abbr": []}
+{"id": 354, "term": "Selective serotonin reuptake inhibitors", "def": "Antidepressants that block the presynaptic serotonin transporter, increasing synaptic serotonin. First-line for depression and anxiety; risks include serotonin syndrome, sexual dysfunction and hyponatremia.", "syn": ["serotonin reuptake inhibitor"], "abbr": ["SSRIs"]}
+{"id": 355, "skip": "wrong-sense"}
+{"id": 356, "term": "Pruritus", "def": "The unpleasant skin sensation that provokes scratching. Causes include dry skin, allergy, cholestasis, uremia and lymphoma.", "syn": [], "abbr": []}
+{"id": 357, "term": "Prostaglandins", "def": "Lipid mediators made from arachidonic acid by cyclooxygenase. They cause vasodilation, pain sensitization, fever and uterine contraction, and protect the gastric mucosa.", "syn": ["prostaglandin", "prostanoids"], "abbr": []}
+{"id": 358, "skip": "obvious"}
+{"id": 359, "skip": "wrong-sense"}
+{"id": 360, "term": "Fistula", "def": "An abnormal tunnel connecting two epithelial-lined surfaces or hollow organs, or an organ to the skin. Examples are enterocutaneous and rectovaginal fistulas, often seen in Crohn disease.", "syn": ["fistulas"], "abbr": []}
+{"id": 361, "skip": "obvious"}
+{"id": 362, "skip": "obvious"}
+{"id": 363, "term": "Duodenum", "def": "The first segment of the small intestine, receiving gastric chyme, bile and pancreatic juice at the ampulla of Vater. Mostly retroperitoneal; the usual site of peptic ulcers.", "syn": [], "abbr": []}
+{"id": 364, "skip": "obvious"}
+{"id": 365, "skip": "obvious"}
+{"id": 366, "term": "Hypovolemia", "def": "Reduced circulating blood volume from bleeding, vomiting, diarrhea or third spacing, causing low blood pressure, tachycardia and decreased organ perfusion.", "syn": ["hypovolemic"], "abbr": []}
+{"id": 367, "term": "Urea", "def": "The main nitrogen waste product, made in the liver by the urea cycle from ammonia and excreted by the kidney. Blood urea nitrogen (BUN) is a marker of kidney function.", "syn": [], "abbr": []}
+{"id": 368, "skip": "obvious"}
+{"id": 369, "term": "Folate", "def": "Vitamin B9, needed as tetrahydrofolate for purine and thymidine synthesis. Deficiency causes megaloblastic anemia; early-pregnancy deficiency raises neural tube defect risk.", "syn": ["folic acid", "vitamin b9"], "abbr": []}
+{"id": 370, "skip": "obvious"}
+{"id": 371, "term": "Ceftriaxone", "def": "A third-generation cephalosporin used for meningitis, gonorrhea, and community-acquired pneumonia. Excreted partly in bile and can cause biliary sludging; avoid in neonates.", "syn": [], "abbr": []}
+{"id": 372, "skip": "obvious"}
+{"id": 373, "skip": "obvious"}
+{"id": 374, "skip": "obvious"}
+{"id": 375, "skip": "obvious"}
+{"id": 376, "term": "Angiotensin-converting enzyme inhibitors", "def": "Drugs such as lisinopril that block conversion of angiotensin I to II, lowering blood pressure and protecting the heart and kidney. Cause dry cough, hyperkalemia and angioedema; contraindicated in pregnancy.", "syn": ["ace inhibitor", "ace inhibitors"], "abbr": ["ACE inhibitors"]}
+{"id": 377, "skip": "obvious"}
+{"id": 378, "skip": "obvious"}
+{"id": 379, "skip": "obvious"}
+{"id": 380, "term": "Hyperparathyroidism", "def": "Excess parathyroid hormone secretion. Primary causes hypercalcemia (stones, bones, groans); secondary is compensatory, usually from kidney failure or vitamin D deficiency.", "syn": [], "abbr": []}
+{"id": 381, "skip": "obvious"}
+{"id": 382, "term": "Cholinergic", "def": "Relating to acetylcholine or drugs that mimic or enhance its action, such as muscarinic agonists and cholinesterase inhibitors.", "syn": ["cholinomimetics"], "abbr": []}
+{"id": 383, "skip": "obvious"}
+{"id": 384, "term": "Apoptosis", "def": "Programmed, energy-dependent cell death that shrinks the cell and fragments the nucleus without causing inflammation. Driven by caspases, via the intrinsic (BCL-2 family) or extrinsic (death receptor) pathway.", "syn": [], "abbr": []}
+{"id": 385, "term": "Glycogen", "def": "The branched storage polymer of glucose in liver and skeletal muscle. Liver glycogen maintains blood glucose in fasting; muscle glycogen fuels contraction.", "syn": [], "abbr": []}
+{"id": 386, "skip": "obvious"}
+{"id": 387, "term": "Ureter", "def": "The muscular tube carrying urine from each renal pelvis to the bladder. Passes under the uterine artery or ductus deferens, a site where stones commonly lodge.", "syn": ["ureters"], "abbr": []}
+{"id": 388, "skip": "obvious"}
+{"id": 389, "term": "Hepatocytes", "def": "The main parenchymal cells of the liver that make plasma proteins and bile, store glycogen and metabolize drugs and toxins.", "syn": ["hepatocyte"], "abbr": []}
+{"id": 390, "term": "Pulmonary hypertension", "def": "Elevated mean pulmonary artery pressure (above 20 mmHg), causing right ventricular strain and eventually cor pulmonale. Causes include left heart disease, lung disease and chronic thromboembolism.", "syn": [], "abbr": []}
+{"id": 391, "skip": "obvious"}
+{"id": 392, "term": "Atherosclerosis", "def": "Hardening of arteries by intimal plaques of cholesterol, lipid-laden macrophages and fibrous cap. Underlies coronary artery disease, stroke and peripheral vascular disease.", "syn": [], "abbr": []}
+{"id": 393, "skip": "obvious"}
+{"id": 394, "skip": "obvious"}
+{"id": 395, "term": "Granuloma", "def": "A collection of activated epithelioid macrophages, often with multinucleated giant cells, formed in chronic inflammation. Caseating granulomas suggest tuberculosis; non-caseating suggest sarcoidosis or Crohn disease.", "syn": ["granulomas"], "abbr": []}
+{"id": 396, "skip": "obvious"}
+{"id": 397, "skip": "obvious"}
+{"id": 398, "term": "Motor neurons", "def": "Neurons that carry signals to muscle. Upper motor neurons are cortical; lower (alpha) motor neurons in the spinal cord or brainstem directly innervate skeletal muscle fibers.", "syn": ["motor neuron", "alpha motor neurons"], "abbr": []}
+{"id": 399, "skip": "obvious"}
+{"id": 400, "term": "Hypocalcemia", "def": "Low serum calcium (below about 8.5 mg/dL), causing perioral tingling, tetany, Chvostek and Trousseau signs and a prolonged QT interval.", "syn": [], "abbr": []}
+{"id": 401, "skip": "obvious"}
+{"id": 402, "skip": "obvious"}
+{"id": 403, "skip": "obvious"}
+{"id": 404, "term": "Heparin", "def": "A fast-acting anticoagulant that activates antithrombin III, inhibiting thrombin and factor Xa. Monitored with aPTT; can cause heparin-induced thrombocytopenia; reversed by protamine.", "syn": ["unfractionated heparin"], "abbr": []}
+{"id": 405, "skip": "wrong-sense"}
+{"id": 406, "term": "Prolactin", "def": "Anterior pituitary hormone that stimulates milk production. Dopamine from the hypothalamus inhibits it; elevated in prolactinomas, causing galactorrhea and amenorrhea.", "syn": [], "abbr": []}
+{"id": 407, "skip": "obvious"}
+{"id": 408, "skip": "obvious"}
+{"id": 409, "term": "Polycythemia", "def": "An abnormally high red blood cell mass or hematocrit, raising blood viscosity. Can be primary (polycythemia vera) or secondary to hypoxia or erythropoietin excess.", "syn": [], "abbr": []}
+{"id": 410, "term": "Vasculitis", "def": "Inflammation of blood vessel walls, which narrows or damages vessels and causes ischemia. Classified by vessel size (large, medium, small), as in giant cell arteritis or polyangiitis.", "syn": ["vasculitides"], "abbr": []}
+{"id": 411, "term": "Leukocytes", "def": "White blood cells (neutrophils, lymphocytes, monocytes, eosinophils, basophils) that defend against infection and mediate inflammation.", "syn": ["leukocyte"], "abbr": []}
+{"id": 412, "term": "Warfarin", "def": "An oral anticoagulant that inhibits vitamin K epoxide reductase, reducing factors II, VII, IX, X and proteins C and S. Monitored with INR; teratogenic; reversed by vitamin K or plasma.", "syn": ["coumadin"], "abbr": []}
+{"id": 413, "term": "Statins", "def": "Drugs that inhibit HMG-CoA reductase, lowering LDL cholesterol and reducing cardiovascular events. Side effects include myopathy and raised liver enzymes.", "syn": ["statin"], "abbr": []}
+{"id": 414, "skip": "obvious"}
+{"id": 415, "skip": "obvious"}
+{"id": 416, "skip": "obvious"}
+{"id": 417, "skip": "obvious"}
+{"id": 418, "skip": "obvious"}
+{"id": 419, "skip": "wrong-sense"}
+{"id": 420, "skip": "wrong-sense"}
+{"id": 421, "skip": "obvious"}
+{"id": 422, "term": "Axons", "def": "Long neuron processes that conduct action potentials away from the cell body to synaptic terminals. Myelination speeds conduction.", "syn": ["axon"], "abbr": []}
+{"id": 423, "term": "Growth hormone", "def": "Anterior pituitary hormone that promotes growth through IGF-1 from the liver and has anti-insulin metabolic effects. Excess causes gigantism or acromegaly; deficiency causes short stature.", "syn": ["somatotropin"], "abbr": []}
+{"id": 424, "skip": "obvious"}
+{"id": 425, "skip": "obvious"}
+{"id": 426, "term": "Cushing syndrome", "def": "Syndrome of prolonged cortisol excess causing central obesity, moon facies, purple striae, hypertension and hyperglycemia. Causes include exogenous steroids, pituitary adenoma (Cushing disease), adrenal tumors and ectopic ACTH.", "syn": ["cushing's syndrome"], "abbr": []}
+{"id": 427, "term": "Cystic fibrosis", "def": "Autosomal recessive disease from CFTR chloride channel mutations (usually deltaF508), producing thick secretions, recurrent lung infections, pancreatic insufficiency and elevated sweat chloride.", "syn": [], "abbr": []}
+{"id": 428, "term": "Giant cells", "def": "Large multinucleated cells formed by fusion of macrophages, as in granulomas, or of tumor cells. Types include Langhans and foreign-body giant cells.", "syn": ["giant cell", "multinucleated giant cells"], "abbr": []}
+{"id": 429, "skip": "obvious"}
+{"id": 430, "term": "Dissection", "def": "A tear in the wall of an artery, especially the aorta, that lets blood enter the wall and separate its layers. Causes sudden tearing chest pain, associated with hypertension and Marfan syndrome.", "syn": ["dissections"], "abbr": []}
+{"id": 431, "skip": "obvious"}
+{"id": 432, "skip": "obvious"}
+{"id": 433, "term": "Mycobacterium", "def": "A genus of acid-fast, slow-growing bacilli with mycolic acid-rich walls. Includes M. tuberculosis, M. leprae and M. avium complex.", "syn": ["mycobacteria"], "abbr": []}
+{"id": 434, "skip": "obvious"}
+{"id": 435, "skip": "obvious"}
+{"id": 436, "skip": "obvious"}
+{"id": 437, "skip": "obvious"}
+{"id": 438, "term": "Hyperkalemia", "def": "Serum potassium above about 5 mEq/L, causing peaked T waves, widened QRS and potentially fatal arrhythmias. Causes include kidney failure, acidosis, and ACE inhibitors.", "syn": [], "abbr": []}
+{"id": 439, "skip": "obvious"}
+{"id": 440, "skip": "obvious"}
+{"id": 441, "skip": "obvious"}
+{"id": 442, "term": "Myocardial infarction", "def": "Death of heart muscle from prolonged ischemia, usually due to coronary plaque rupture with thrombosis. Diagnosed by symptoms, ECG changes and elevated troponin.", "syn": ["myocardial infarctions"], "abbr": ["MI"]}
+{"id": 443, "skip": "obvious"}
+{"id": 444, "skip": "obvious"}
+{"id": 445, "skip": "obvious"}
+{"id": 446, "skip": "obvious"}
+{"id": 447, "skip": "obvious"}
+{"id": 448, "term": "Surfactant", "def": "A detergent-like substance that lowers surface tension. Lung surfactant (mostly dipalmitoylphosphatidylcholine) from type II pneumocytes prevents alveolar collapse; deficiency causes neonatal respiratory distress syndrome.", "syn": [], "abbr": []}
+{"id": 449, "term": "Multiple sclerosis", "def": "Immune-mediated demyelinating disease of the CNS causing relapsing neurologic deficits, such as optic neuritis, internuclear ophthalmoplegia and weakness. MRI shows periventricular plaques; CSF has oligoclonal bands.", "syn": [], "abbr": []}
+{"id": 450, "skip": "obvious"}
+{"id": 451, "term": "Pulmonary edema", "def": "Fluid accumulation in the lung's interstitium and alveoli, impairing gas exchange. Cardiogenic (high hydrostatic pressure) or noncardiogenic (increased permeability, as in ARDS).", "syn": [], "abbr": []}
+{"id": 452, "term": "Pneumothorax", "def": "Air in the pleural space causing partial or complete lung collapse. Tension pneumothorax shifts the mediastinum away from the affected side and is a medical emergency.", "syn": [], "abbr": []}
+{"id": 453, "term": "Cerebellum", "def": "Part of the hindbrain behind the brainstem that coordinates movement, balance and posture. Lesions cause ipsilateral ataxia, intention tremor and dysmetria.", "syn": [], "abbr": []}
+{"id": 454, "skip": "obvious"}
+{"id": 455, "term": "Mineralocorticoids", "def": "Steroid hormones, mainly aldosterone from the adrenal zona glomerulosa, that raise sodium and water reabsorption and potassium excretion in the distal nephron.", "syn": ["mineralocorticoid"], "abbr": []}
+{"id": 456, "term": "Atrial fibrillation", "def": "Irregularly irregular heart rhythm from chaotic atrial electrical activity with no P waves. Raises stroke risk through left atrial thrombi, so anticoagulation is often needed.", "syn": ["persistent atrial fibrillation"], "abbr": ["AFib"]}
+{"id": 457, "skip": "obvious"}
+{"id": 458, "skip": "obvious"}
+{"id": 459, "skip": "obvious"}
+{"id": 460, "skip": "obvious"}
+{"id": 461, "term": "Fluoroquinolones", "def": "Antibiotics that inhibit bacterial DNA gyrase and topoisomerase IV (e.g., ciprofloxacin, levofloxacin). Adverse effects include tendon rupture, QT prolongation and cartilage damage in children.", "syn": ["fluoroquinolone"], "abbr": []}
+{"id": 462, "term": "Encephalopathy", "def": "Diffuse brain dysfunction with altered mental status, from causes such as liver failure (hepatic), uremia, infection or toxins. Often reversible once the underlying cause is treated.", "syn": [], "abbr": []}
+{"id": 463, "skip": "obvious"}
+{"id": 464, "term": "Diverticulum", "def": "An outpouching of a hollow organ's wall, such as sigmoid colon diverticula or Meckel diverticulum. Inflammation of them is diverticulitis.", "syn": ["diverticula"], "abbr": []}
+{"id": 465, "term": "Pericarditis", "def": "Inflammation of the pericardium causing pleuritic chest pain relieved by leaning forward, a friction rub, and diffuse ST elevation with PR depression.", "syn": [], "abbr": []}
+{"id": 466, "term": "Hydrocephalus", "def": "Excess cerebrospinal fluid in the ventricles from impaired flow or absorption (communicating) or obstruction (noncommunicating, e.g., aqueductal stenosis), raising intracranial pressure and enlarging the ventricles.", "syn": [], "abbr": []}
+{"id": 467, "term": "Melanoma", "def": "A malignant tumor of melanocytes, most often in the skin, with the highest metastatic risk of skin cancers. Depth of invasion (Breslow thickness) is the best prognostic factor; S-100 is positive.", "syn": ["malignant melanoma", "melanomas"], "abbr": []}
+{"id": 468, "term": "Messenger RNA", "def": "RNA copied from a gene during transcription that carries the code to ribosomes for translation into protein.", "syn": ["mrnas"], "abbr": ["mRNA", "mRNAs"]}
+{"id": 469, "term": "Myocytes", "def": "Muscle cells. Cardiac and skeletal myocytes contain actin and myosin arranged in sarcomeres that contract with calcium.", "syn": ["myocyte"], "abbr": []}
+{"id": 470, "skip": "obvious"}
+{"id": 471, "term": "Conjunctivitis", "def": "Inflammation of the conjunctiva, the membrane covering the white of the eye and inner eyelid. Causes include adenovirus, bacteria, allergy and neonatal gonococcal or chlamydial infection.", "syn": [], "abbr": []}
+{"id": 472, "skip": "obvious"}
+{"id": 473, "skip": "obvious"}
+{"id": 474, "term": "Tyrosine", "def": "An aromatic amino acid synthesized from phenylalanine. It is the precursor of catecholamines, thyroid hormones, melanin and dopamine.", "syn": [], "abbr": []}
+{"id": 475, "skip": "obvious"}
+{"id": 476, "skip": "not-medical"}
+{"id": 477, "term": "Albumin", "def": "The most abundant plasma protein, made in the liver, which maintains oncotic pressure and binds drugs, bilirubin, calcium and hormones. Low in cirrhosis and nephrotic syndrome.", "syn": ["albumins"], "abbr": []}
+{"id": 478, "term": "Dysphagia", "def": "Difficulty swallowing. Oropharyngeal types stem from neuromuscular problems; esophageal types from obstruction (cancer, stricture) or motility disorders (achalasia).", "syn": [], "abbr": []}
+{"id": 479, "skip": "obvious"}
+{"id": 480, "term": "Thalassemia", "def": "Inherited decreased synthesis of alpha- or beta-globin chains, causing microcytic hemolytic anemia. Beta thalassemia major presents with severe anemia, extramedullary hematopoiesis and target cells.", "syn": ["thalassemias"], "abbr": []}
+{"id": 481, "skip": "obvious"}
+{"id": 482, "skip": "obvious"}
+{"id": 483, "term": "RNA polymerase", "def": "Enzyme that synthesizes RNA from a DNA template. Eukaryotes have RNA pol I (rRNA), II (mRNA) and III (tRNA); II is inhibited by alpha-amanitin.", "syn": ["rna polymerases"], "abbr": []}
+{"id": 484, "term": "Basal ganglia", "def": "Deep gray matter nuclei (caudate, putamen, globus pallidus, subthalamic nucleus, substantia nigra) controlling movement. Disease causes Parkinson and Huntington disease.", "syn": [], "abbr": []}
+{"id": 485, "term": "Norepinephrine", "def": "Catecholamine neurotransmitter of sympathetic postganglionic neurons and the locus ceruleus, also released from the adrenal medulla. Acts on alpha and beta-1 receptors, raising blood pressure.", "syn": ["noradrenaline"], "abbr": []}
+{"id": 486, "skip": "obvious"}
+{"id": 487, "term": "Vascular resistance", "def": "The opposition to blood flow in vessels, mainly set by arteriolar radius (inversely proportional to the fourth power of the radius). It is mean pressure drop divided by flow.", "syn": [], "abbr": []}
+{"id": 488, "term": "Hyponatremia", "def": "Low serum sodium (below 135 mEq/L). Causes include SIADH, heart failure, cirrhosis and diuretics; severe cases cause cerebral edema, seizures and confusion.", "syn": [], "abbr": []}
+{"id": 489, "term": "Chronic kidney disease", "def": "Kidney damage or reduced GFR persisting more than 3 months, most often from diabetes and hypertension. Causes anemia, hyperphosphatemia, and secondary hyperparathyroidism.", "syn": ["chronic renal insufficiency"], "abbr": ["CKD"]}
+{"id": 490, "term": "Germ cells", "def": "Cells that give rise to gametes (sperm and eggs). Their tumors, such as seminoma and teratoma, are named germ cell tumors.", "syn": ["germ cell"], "abbr": []}
+{"id": 491, "term": "Endothelial cells", "def": "The flat cells lining blood and lymphatic vessels, regulating vascular tone, clotting and leukocyte entry. Damage is the first step in atherosclerosis.", "syn": ["endothelial cell"], "abbr": []}
+{"id": 492, "term": "Erythrocytes", "def": "Anucleate, biconcave red blood cells carrying hemoglobin for oxygen transport. They live about 120 days and are removed by the spleen.", "syn": ["erythrocyte"], "abbr": []}
+{"id": 493, "term": "Arthralgia", "def": "Joint pain without necessarily visible inflammation or swelling, as in lupus, viral infections and IgA vasculitis.", "syn": ["arthralgias"], "abbr": []}
+{"id": 494, "term": "Candida", "def": "A yeast genus; C. albicans forms pseudohyphae and germ tubes and causes thrush, vulvovaginitis, esophagitis and invasive bloodstream infection in the immunocompromised.", "syn": [], "abbr": []}
+{"id": 495, "skip": "obvious"}
+{"id": 496, "term": "Staphylococcus aureus", "def": "Gram-positive coagulase-positive cocci in clusters that cause skin infections, abscesses, toxic shock, food poisoning and endocarditis. Protein A binds IgG Fc; MRSA is methicillin resistant.", "syn": ["s. aureus"], "abbr": []}
+{"id": 497, "term": "Pharyngitis", "def": "Inflammation of the pharynx causing sore throat. Usually viral; group A streptococcus is the main bacterial cause and can lead to rheumatic fever.", "syn": [], "abbr": []}
+{"id": 498, "term": "Clindamycin", "def": "A lincosamide antibiotic that blocks the 50S ribosomal subunit, effective against anaerobes and gram-positive cocci. Can cause pseudomembranous colitis from C. difficile overgrowth.", "syn": [], "abbr": []}
+{"id": 499, "term": "Doxycycline", "def": "A tetracycline antibiotic that blocks the 30S ribosomal subunit. Used for rickettsial, chlamydial and tick-borne infections; avoid in pregnancy and children because it stains teeth, and separate from dairy and antacids.", "syn": [], "abbr": []}

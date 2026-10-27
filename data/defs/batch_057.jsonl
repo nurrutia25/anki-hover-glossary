@@ -1,0 +1,250 @@
+{"id": 14250, "term": "Pustule", "def": "A small raised skin lesion filled with pus. Seen in acne, folliculitis and pustular psoriasis.", "syn": [], "abbr": []}
+{"id": 14251, "skip": "obvious"}
+{"id": 14252, "skip": "obvious"}
+{"id": 14253, "skip": "obvious"}
+{"id": 14254, "skip": "obvious"}
+{"id": 14255, "skip": "fragment"}
+{"id": 14256, "term": "Subepidermal", "def": "Located beneath the epidermis, at the dermoepidermal junction. Subepidermal blisters occur in bullous pemphigoid, in contrast to intraepidermal blisters in pemphigus.", "syn": [], "abbr": []}
+{"id": 14257, "skip": "obvious"}
+{"id": 14258, "skip": "not-medical"}
+{"id": 14259, "skip": "not-medical"}
+{"id": 14260, "skip": "not-medical"}
+{"id": 14261, "skip": "not-medical"}
+{"id": 14262, "term": "Photoaging", "def": "Skin changes from chronic ultraviolet exposure, including wrinkles, leathery texture and pigment change, from damage to dermal collagen and elastin.", "syn": [], "abbr": []}
+{"id": 14263, "skip": "obvious"}
+{"id": 14264, "term": "Drug-eluting", "def": "Describes a device, usually a coronary stent, coated with a drug that is slowly released to prevent restenosis.", "syn": ["Eluting"], "abbr": []}
+{"id": 14265, "skip": "obvious"}
+{"id": 14266, "skip": "obvious"}
+{"id": 14267, "skip": "obvious"}
+{"id": 14268, "skip": "obvious"}
+{"id": 14269, "skip": "not-medical"}
+{"id": 14270, "term": "Stapedial", "def": "Relating to the stapes, the smallest middle ear bone, or its muscle and artery.", "syn": [], "abbr": []}
+{"id": 14271, "skip": "fragment"}
+{"id": 14272, "skip": "obvious"}
+{"id": 14273, "skip": "not-medical"}
+{"id": 14274, "skip": "obvious"}
+{"id": 14275, "skip": "obvious"}
+{"id": 14276, "skip": "obvious"}
+{"id": 14277, "skip": "obvious"}
+{"id": 14278, "skip": "obvious"}
+{"id": 14279, "skip": "obvious"}
+{"id": 14280, "skip": "obvious"}
+{"id": 14281, "term": "Etonogestrel", "def": "A progestin released by the subdermal contraceptive implant (Nexplanon), which suppresses ovulation for up to three years.", "syn": [], "abbr": []}
+{"id": 14282, "skip": "obvious"}
+{"id": 14283, "term": "Sargramostim", "def": "A recombinant GM-CSF used to speed bone marrow recovery of white blood cells after chemotherapy or transplant.", "syn": [], "abbr": []}
+{"id": 14284, "term": "Leukoreduced", "def": "Describes blood products from which most white cells have been filtered, lowering febrile reactions, HLA alloimmunization and CMV transmission.", "syn": [], "abbr": []}
+{"id": 14285, "skip": "obvious"}
+{"id": 14286, "term": "Triphalangeal", "def": "Having three phalanges, as in a thumb with an extra bone. Associated with Diamond-Blackfan anemia and Holt-Oram syndrome.", "syn": [], "abbr": []}
+{"id": 14287, "skip": "obvious"}
+{"id": 14288, "skip": "obvious"}
+{"id": 14289, "skip": "obvious"}
+{"id": 14290, "term": "Acetylators", "def": "People who metabolize drugs such as isoniazid, hydralazine and procainamide by N-acetyltransferase. Slow acetylators have higher toxicity risk, including drug-induced lupus.", "syn": ["Acetylator"], "abbr": []}
+{"id": 14291, "skip": "obvious"}
+{"id": 14292, "skip": "not-medical"}
+{"id": 14293, "skip": "not-medical"}
+{"id": 14294, "skip": "obvious"}
+{"id": 14295, "skip": "obvious"}
+{"id": 14296, "skip": "obvious"}
+{"id": 14297, "skip": "not-medical"}
+{"id": 14298, "term": "Succussion splash", "def": "Sloshing sound heard over the abdomen on shaking the patient, indicating fluid and air in a dilated stomach as in gastric outlet obstruction.", "syn": ["Succussion"], "abbr": []}
+{"id": 14299, "skip": "fragment"}
+{"id": 14300, "skip": "obvious"}
+{"id": 14301, "skip": "obvious"}
+{"id": 14302, "skip": "obvious"}
+{"id": 14303, "skip": "obvious"}
+{"id": 14304, "skip": "obvious"}
+{"id": 14305, "skip": "not-medical"}
+{"id": 14306, "skip": "obvious"}
+{"id": 14307, "skip": "not-medical"}
+{"id": 14308, "skip": "obvious"}
+{"id": 14309, "skip": "obvious"}
+{"id": 14310, "term": "Carfilzomib", "def": "An irreversible proteasome inhibitor used to treat relapsed multiple myeloma.", "syn": [], "abbr": []}
+{"id": 14311, "skip": "obvious"}
+{"id": 14312, "skip": "obvious"}
+{"id": 14313, "skip": "obvious"}
+{"id": 14314, "skip": "obvious"}
+{"id": 14315, "skip": "obvious"}
+{"id": 14316, "skip": "obvious"}
+{"id": 14317, "skip": "obvious"}
+{"id": 14318, "skip": "obvious"}
+{"id": 14319, "term": "Confounders", "def": "Variables related to both an exposure and an outcome that can create a false association between them.", "syn": ["Confounder", "Confounding variables"], "abbr": []}
+{"id": 14320, "skip": "obvious"}
+{"id": 14321, "skip": "obvious"}
+{"id": 14322, "skip": "obvious"}
+{"id": 14323, "skip": "obvious"}
+{"id": 14324, "skip": "obvious"}
+{"id": 14325, "skip": "obvious"}
+{"id": 14326, "skip": "obvious"}
+{"id": 14327, "term": "Palmar-plantar erythrodysesthesia", "def": "Painful redness, swelling and peeling of the palms and soles caused by chemotherapy such as capecitabine and fluorouracil.", "syn": ["Erythrodysesthesia", "Hand-foot syndrome"], "abbr": []}
+{"id": 14328, "term": "Pegylation", "def": "Attachment of polyethylene glycol to a drug to extend its half-life, reduce clearance and lower immunogenicity.", "syn": [], "abbr": []}
+{"id": 14329, "term": "Involution", "def": "Shrinking or return of an organ or structure to a smaller state, such as uterus after delivery or thymus with age.", "syn": [], "abbr": []}
+{"id": 14330, "skip": "not-medical"}
+{"id": 14331, "term": "Pronator teres", "def": "Forearm muscle that pronates the forearm, innervated by the median nerve. Median nerve can be compressed between its two heads.", "syn": ["Pronator"], "abbr": []}
+{"id": 14332, "term": "Nirsevimab", "def": "A long-acting monoclonal antibody against respiratory syncytial virus F protein, given to infants for RSV prevention.", "syn": [], "abbr": []}
+{"id": 14333, "skip": "not-medical"}
+{"id": 14334, "term": "Supinator", "def": "Forearm muscle that supinates the forearm, innervated by the deep branch of the radial nerve, which may be compressed in radial tunnel syndrome.", "syn": [], "abbr": []}
+{"id": 14335, "skip": "obvious"}
+{"id": 14336, "term": "Interosseous", "def": "Located between bones, such as the interosseous membrane of the forearm or interosseous muscles of the hand.", "syn": [], "abbr": []}
+{"id": 14337, "skip": "obvious"}
+{"id": 14338, "skip": "not-medical"}
+{"id": 14339, "skip": "obvious"}
+{"id": 14340, "skip": "obvious"}
+{"id": 14341, "term": "Opponens pollicis", "def": "Thenar muscle that moves the thumb across the palm to meet the fingers, innervated by the median nerve.", "syn": ["Opponens"], "abbr": []}
+{"id": 14342, "term": "Iliohypogastric nerve", "def": "A branch of L1 that supplies sensation over the suprapubic region and motor to lower abdominal wall muscles. May be injured in surgery near the groin.", "syn": [], "abbr": []}
+{"id": 14343, "term": "Lithotomy position", "def": "Patient lying on the back with hips and knees flexed and legs supported, used for pelvic and perineal procedures and childbirth.", "syn": [], "abbr": []}
+{"id": 14344, "term": "Pectineus", "def": "A thigh muscle that adducts and flexes the hip, innervated by the femoral nerve and sometimes the obturator nerve.", "syn": [], "abbr": []}
+{"id": 14345, "skip": "obvious"}
+{"id": 14346, "skip": "obvious"}
+{"id": 14347, "skip": "fragment"}
+{"id": 14348, "skip": "fragment"}
+{"id": 14349, "term": "Euvolemia", "def": "Normal volume of body fluid, in contrast to hypovolemia or hypervolemia.", "syn": [], "abbr": []}
+{"id": 14350, "skip": "obvious"}
+{"id": 14351, "term": "Uricosurics", "def": "Drugs such as probenecid that raise urinary uric acid excretion by blocking its renal reabsorption, used for gout.", "syn": ["Uricosuric"], "abbr": []}
+{"id": 14352, "term": "Costochondritis", "def": "Inflammation of the rib cartilages where they attach to the sternum, causing chest wall pain that is reproduced by palpation.", "syn": [], "abbr": []}
+{"id": 14353, "term": "Tisagenlecleucel", "def": "A CAR-T cell therapy targeting CD19, used for B-cell acute lymphoblastic leukemia. Can cause cytokine release syndrome.", "syn": [], "abbr": []}
+{"id": 14354, "term": "Canakinumab", "def": "A monoclonal antibody against interleukin-1 beta, used for periodic fever syndromes and Still disease.", "syn": [], "abbr": []}
+{"id": 14355, "term": "Hepatojugular reflux", "def": "Rise in jugular venous pressure on pressing over the liver, indicating right heart failure.", "syn": [], "abbr": []}
+{"id": 14356, "skip": "obvious"}
+{"id": 14357, "term": "Cisternae", "def": "Flattened membranous sacs of the endoplasmic reticulum and Golgi apparatus.", "syn": ["Cisterna"], "abbr": []}
+{"id": 14358, "skip": "obvious"}
+{"id": 14359, "skip": "obvious"}
+{"id": 14360, "skip": "obvious"}
+{"id": 14361, "skip": "obvious"}
+{"id": 14362, "term": "Perivalvular", "def": "Around a heart valve. Perivalvular abscess is a complication of endocarditis causing conduction block.", "syn": [], "abbr": []}
+{"id": 14363, "skip": "obvious"}
+{"id": 14364, "term": "Vasopressor", "def": "A drug such as norepinephrine or vasopressin that constricts blood vessels to raise blood pressure in shock.", "syn": ["Vasopressors"], "abbr": []}
+{"id": 14365, "skip": "obvious"}
+{"id": 14366, "skip": "obvious"}
+{"id": 14367, "skip": "obvious"}
+{"id": 14368, "skip": "obvious"}
+{"id": 14369, "skip": "obvious"}
+{"id": 14370, "skip": "obvious"}
+{"id": 14371, "skip": "obvious"}
+{"id": 14372, "skip": "not-medical"}
+{"id": 14373, "skip": "fragment"}
+{"id": 14374, "skip": "obvious"}
+{"id": 14375, "skip": "not-medical"}
+{"id": 14376, "skip": "not-medical"}
+{"id": 14377, "skip": "obvious"}
+{"id": 14378, "skip": "obvious"}
+{"id": 14379, "term": "Rhinocerebral", "def": "Involving the nose, sinuses and brain, as in mucormycosis in diabetic ketoacidosis.", "syn": [], "abbr": []}
+{"id": 14380, "skip": "not-medical"}
+{"id": 14381, "skip": "not-medical"}
+{"id": 14382, "skip": "obvious"}
+{"id": 14383, "skip": "obvious"}
+{"id": 14384, "term": "Endospore", "def": "A dormant, highly resistant structure made by Bacillus and Clostridium species, which survives heat, drying and disinfectants.", "syn": ["Endospores"], "abbr": []}
+{"id": 14385, "skip": "not-medical"}
+{"id": 14386, "skip": "not-medical"}
+{"id": 14387, "skip": "obvious"}
+{"id": 14388, "skip": "obvious"}
+{"id": 14389, "term": "Coccobacilli", "def": "Bacteria with shape between cocci and rods, such as Haemophilus, Brucella and Acinetobacter.", "syn": ["Coccobacillus"], "abbr": []}
+{"id": 14390, "skip": "obvious"}
+{"id": 14391, "term": "Potomania", "def": "Excessive water intake with low solute intake, as in beer drinkers, causing hyponatremia.", "syn": ["Beer potomania"], "abbr": []}
+{"id": 14392, "term": "Fomites", "def": "Inanimate objects, such as towels or doorknobs, that can carry infectious agents between people.", "syn": ["Fomite"], "abbr": []}
+{"id": 14393, "skip": "obvious"}
+{"id": 14394, "skip": "obvious"}
+{"id": 14395, "skip": "fragment"}
+{"id": 14396, "skip": "fragment"}
+{"id": 14397, "term": "Coreceptors", "def": "Cell surface molecules that help a main receptor bind a ligand. CD4 and CD8 are T cell coreceptors; CCR5 and CXCR4 are HIV coreceptors.", "syn": ["Coreceptor"], "abbr": []}
+{"id": 14398, "skip": "obvious"}
+{"id": 14399, "skip": "obvious"}
+{"id": 14400, "skip": "obvious"}
+{"id": 14401, "skip": "obvious"}
+{"id": 14402, "skip": "obvious"}
+{"id": 14403, "skip": "obvious"}
+{"id": 14404, "skip": "obvious"}
+{"id": 14405, "skip": "obvious"}
+{"id": 14406, "skip": "not-medical"}
+{"id": 14407, "skip": "fragment"}
+{"id": 14408, "skip": "not-medical"}
+{"id": 14409, "skip": "not-medical"}
+{"id": 14410, "skip": "obvious"}
+{"id": 14411, "skip": "obvious"}
+{"id": 14412, "skip": "obvious"}
+{"id": 14413, "skip": "obvious"}
+{"id": 14414, "skip": "obvious"}
+{"id": 14415, "skip": "obvious"}
+{"id": 14416, "skip": "obvious"}
+{"id": 14417, "term": "Intraepidermal", "def": "Within the epidermis, such as the blisters of pemphigus vulgaris.", "syn": [], "abbr": []}
+{"id": 14418, "skip": "not-medical"}
+{"id": 14419, "term": "Intraarticular", "def": "Within a joint, such as intraarticular injection of steroids.", "syn": ["Intra-articular"], "abbr": []}
+{"id": 14420, "skip": "not-medical"}
+{"id": 14421, "skip": "obvious"}
+{"id": 14422, "skip": "obvious"}
+{"id": 14423, "skip": "obvious"}
+{"id": 14424, "skip": "not-medical"}
+{"id": 14425, "skip": "obvious"}
+{"id": 14426, "skip": "obvious"}
+{"id": 14427, "skip": "obvious"}
+{"id": 14428, "skip": "obvious"}
+{"id": 14429, "term": "Eschars", "def": "Dark, dry scabs of dead tissue, seen in anthrax, rickettsial infections and severe burns.", "syn": ["Eschar"], "abbr": []}
+{"id": 14430, "term": "Cereulide", "def": "A heat-stable toxin from Bacillus cereus that causes rapid-onset vomiting after eating reheated rice.", "syn": [], "abbr": []}
+{"id": 14431, "skip": "obvious"}
+{"id": 14432, "term": "Depolymerization", "def": "Breakdown of a polymer into its subunits, such as microtubules disassembling into tubulin.", "syn": [], "abbr": []}
+{"id": 14433, "skip": "not-medical"}
+{"id": 14434, "skip": "obvious"}
+{"id": 14435, "skip": "obvious"}
+{"id": 14436, "skip": "not-medical"}
+{"id": 14437, "skip": "obvious"}
+{"id": 14438, "term": "Purpuric", "def": "Relating to purpura, purple skin discoloration from bleeding that does not blanch.", "syn": ["Purpura"], "abbr": []}
+{"id": 14439, "term": "Complementation", "def": "Restoration of function when two different mutants combine and each supplies what the other lacks, as in viral coinfection.", "syn": [], "abbr": []}
+{"id": 14440, "skip": "obvious"}
+{"id": 14441, "skip": "fragment"}
+{"id": 14442, "skip": "obvious"}
+{"id": 14443, "skip": "not-medical"}
+{"id": 14444, "skip": "obvious"}
+{"id": 14445, "skip": "obvious"}
+{"id": 14446, "skip": "obvious"}
+{"id": 14447, "skip": "obvious"}
+{"id": 14448, "skip": "fragment"}
+{"id": 14449, "term": "Religation", "def": "Rejoining of cut DNA strands, performed by topoisomerase after relieving supercoiling.", "syn": [], "abbr": []}
+{"id": 14450, "skip": "obvious"}
+{"id": 14451, "skip": "obvious"}
+{"id": 14452, "term": "Miltefosine", "def": "An oral drug for leishmaniasis and some free-living amebic infections.", "syn": [], "abbr": []}
+{"id": 14453, "term": "Amastigote", "def": "The nonflagellated intracellular form of Leishmania or Trypanosoma cruzi inside host cells.", "syn": ["Amastigotes"], "abbr": []}
+{"id": 14454, "skip": "fragment"}
+{"id": 14455, "term": "Quinoline", "def": "Describes antimalarial drugs such as chloroquine and mefloquine built on a quinoline ring.", "syn": ["Quinolines"], "abbr": []}
+{"id": 14456, "skip": "fragment"}
+{"id": 14457, "term": "Autoinfection", "def": "Reinfection of the host by its own parasite without leaving the body, as in Strongyloides.", "syn": [], "abbr": []}
+{"id": 14458, "skip": "obvious"}
+{"id": 14459, "term": "Hooklets", "def": "Small hooks on the scolex of tapeworms such as Taenia solium that anchor to the intestinal wall.", "syn": [], "abbr": []}
+{"id": 14460, "skip": "fragment"}
+{"id": 14461, "skip": "obvious"}
+{"id": 14462, "skip": "fragment"}
+{"id": 14463, "skip": "obvious"}
+{"id": 14464, "skip": "obvious"}
+{"id": 14465, "skip": "obvious"}
+{"id": 14466, "skip": "obvious"}
+{"id": 14467, "term": "Obstipation", "def": "Severe constipation with inability to pass stool or gas, suggesting bowel obstruction.", "syn": [], "abbr": []}
+{"id": 14468, "skip": "obvious"}
+{"id": 14469, "skip": "obvious"}
+{"id": 14470, "term": "Esophagogram", "def": "An x-ray study of the esophagus after barium swallow.", "syn": [], "abbr": []}
+{"id": 14471, "term": "Strangulated", "def": "Describes a hernia or bowel segment whose blood supply is cut off, risking gangrene.", "syn": [], "abbr": []}
+{"id": 14472, "term": "Atretic", "def": "Describes a structure that is closed or absent, as in esophageal or biliary atresia.", "syn": ["Atresia"], "abbr": []}
+{"id": 14473, "skip": "obvious"}
+{"id": 14474, "skip": "obvious"}
+{"id": 14475, "skip": "obvious"}
+{"id": 14476, "term": "Allogenic", "def": "From a genetically different individual of the same species, as in bone marrow donated by another person.", "syn": ["Allogeneic"], "abbr": []}
+{"id": 14477, "term": "Seropositive", "def": "Having detectable specific antibodies in the blood, indicating exposure or infection.", "syn": [], "abbr": []}
+{"id": 14478, "skip": "not-medical"}
+{"id": 14479, "skip": "obvious"}
+{"id": 14480, "skip": "not-medical"}
+{"id": 14481, "skip": "not-medical"}
+{"id": 14482, "skip": "not-medical"}
+{"id": 14483, "skip": "not-medical"}
+{"id": 14484, "skip": "not-medical"}
+{"id": 14485, "skip": "obvious"}
+{"id": 14486, "skip": "obvious"}
+{"id": 14487, "skip": "obvious"}
+{"id": 14488, "skip": "obvious"}
+{"id": 14489, "term": "Matonaviridae", "def": "The virus family containing rubella virus.", "syn": [], "abbr": []}
+{"id": 14490, "term": "Matonavirus", "def": "The virus genus containing rubella virus, a togavirus-like RNA virus.", "syn": [], "abbr": []}
+{"id": 14491, "skip": "obvious"}
+{"id": 14492, "skip": "obvious"}
+{"id": 14493, "skip": "obvious"}
+{"id": 14494, "skip": "obvious"}
+{"id": 14495, "skip": "obvious"}
+{"id": 14496, "skip": "obvious"}
+{"id": 14497, "term": "Ambisense", "def": "Describing an RNA genome with both positive and negative sense regions, as in arenaviruses.", "syn": [], "abbr": []}
+{"id": 14498, "skip": "not-medical"}
+{"id": 14499, "skip": "not-medical"}

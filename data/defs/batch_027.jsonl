@@ -1,0 +1,250 @@
+{"id": 6750, "term": "Lymphocyte function-associated antigen 1", "def": "An integrin on leukocytes that binds ICAM-1 on endothelium, enabling firm adhesion before the cell squeezes out of the vessel. Absent in leukocyte adhesion deficiency type 1.", "syn": ["LFA-1"], "abbr": ["LFA-1"]}
+{"id": 6751, "skip": "obvious"}
+{"id": 6752, "term": "Diapedesis", "def": "The squeezing of a leukocyte through the gap between endothelial cells to leave the bloodstream and enter tissue during inflammation. It follows rolling and tight adhesion.", "syn": ["transendothelial migration"], "abbr": []}
+{"id": 6753, "term": "Rhodamine", "def": "A red-orange fluorescent dye used in staining and microscopy. Auramine-rhodamine stain highlights acid-fast bacteria such as mycobacteria.", "syn": [], "abbr": []}
+{"id": 6754, "term": "Reactive oxygen species", "def": "Highly reactive oxygen-derived molecules such as superoxide, hydrogen peroxide and hydroxyl radical. Phagocytes use them to kill microbes; excess damages DNA, lipids and proteins.", "syn": [], "abbr": ["ROS"]}
+{"id": 6755, "term": "Interleukin-15", "def": "A cytokine that supports the survival and activation of natural killer cells and memory CD8 T cells.", "syn": ["IL-15"], "abbr": ["IL-15"]}
+{"id": 6756, "term": "Bruton tyrosine kinase", "def": "A B-cell signaling enzyme needed for pre-B cell maturation. Mutated in X-linked agammaglobulinemia; inhibited by ibrutinib in B-cell cancers.", "syn": ["Bruton's tyrosine kinase", "agammaglobulinemia tyrosine kinase"], "abbr": ["BTK"]}
+{"id": 6757, "skip": "not-medical"}
+{"id": 6758, "term": "X-linked inheritance", "def": "Transmission of genes on the X chromosome. In X-linked recessive disease, affected males pass the mutation to all daughters but no sons; there is no male-to-male transmission.", "syn": ["X-linked inheritance"], "abbr": []}
+{"id": 6759, "skip": "not-medical"}
+{"id": 6760, "term": "Keratoconjunctivitis sicca", "def": "Dry eye from reduced tear production, causing gritty, irritated eyes and corneal damage. Classically seen in Sjogren syndrome.", "syn": [], "abbr": []}
+{"id": 6761, "term": "Sjogren syndrome", "def": "An autoimmune destruction of lacrimal and salivary glands causing dry eyes and dry mouth. Associated with anti-SSA (Ro) and anti-SSB (La) antibodies and lymphoma risk.", "syn": ["Sjogren's syndrome", "sicca syndrome"], "abbr": []}
+{"id": 6762, "skip": "obvious"}
+{"id": 6763, "term": "Proteinase 3", "def": "A neutrophil granule serine protease that is the target of c-ANCA in granulomatosis with polyangiitis.", "syn": ["myeloblastin"], "abbr": ["PR3"]}
+{"id": 6764, "term": "Hypergammaglobulinemia", "def": "Elevated levels of serum immunoglobulins, polyclonal in chronic infection and autoimmune disease, or monoclonal in plasma cell disorders.", "syn": [], "abbr": []}
+{"id": 6765, "skip": "obvious"}
+{"id": 6766, "term": "Colles fracture", "def": "A distal radius fracture with dorsal displacement of the wrist, giving a dinner-fork deformity, typically after falling on an outstretched hand.", "syn": ["Colles' fracture"], "abbr": []}
+{"id": 6767, "term": "Salmonella infection", "def": "Infection with Salmonella, ranging from self-limited gastroenteritis from poultry and eggs to systemic typhoid fever.", "syn": ["salmonella infections", "salmonellosis"], "abbr": []}
+{"id": 6768, "term": "Ligamentum teres femoris", "def": "A ligament running from the acetabular fossa to the fovea of the femoral head. It carries a small artery that supplies the head in children.", "syn": ["round ligament of femur", "ligament of the head of the femur"], "abbr": []}
+{"id": 6769, "term": "Exostosis", "def": "A benign bony outgrowth from a bone surface. Multiple hereditary exostoses are linked to EXT1 and EXT2 mutations.", "syn": ["exostoses"], "abbr": []}
+{"id": 6770, "skip": "obvious"}
+{"id": 6771, "skip": "not-medical"}
+{"id": 6772, "term": "Rheumatoid nodule", "def": "A firm subcutaneous nodule over pressure points in rheumatoid arthritis, consisting of central necrosis ringed by palisading histiocytes.", "syn": ["rheumatoid nodules"], "abbr": []}
+{"id": 6773, "term": "Thymic hyperplasia", "def": "Enlargement of the thymus with lymphoid follicles, seen in myasthenia gravis and some autoimmune disorders.", "syn": ["thymus hyperplasia"], "abbr": []}
+{"id": 6774, "term": "Nuclear envelope", "def": "The double membrane surrounding the nucleus, continuous with the endoplasmic reticulum and perforated by nuclear pores. Supported inside by nuclear lamins.", "syn": ["nuclear membrane"], "abbr": []}
+{"id": 6775, "term": "Claudins", "def": "Transmembrane proteins that form tight junctions between epithelial cells, controlling paracellular permeability.", "syn": ["claudin"], "abbr": []}
+{"id": 6776, "term": "Laminin", "def": "A basement membrane glycoprotein that binds cells to the extracellular matrix through integrins.", "syn": [], "abbr": []}
+{"id": 6777, "term": "Parakeratosis", "def": "Retention of nuclei in the stratum corneum. Seen in psoriasis, eczema and actinic keratosis.", "syn": [], "abbr": []}
+{"id": 6778, "skip": "obvious"}
+{"id": 6779, "term": "Acantholysis", "def": "Loss of connections between keratinocytes, causing intraepidermal blisters. The hallmark of pemphigus vulgaris.", "syn": [], "abbr": []}
+{"id": 6780, "skip": "wrong-sense"}
+{"id": 6781, "term": "Propionibacterium acnes", "def": "A gram-positive anaerobic rod that lives in hair follicles and contributes to acne vulgaris. Now called Cutibacterium acnes.", "syn": ["Cutibacterium acnes"], "abbr": []}
+{"id": 6782, "term": "IGF-1 receptor", "def": "A receptor tyrosine kinase that binds insulin-like growth factor 1 and mediates growth hormone's growth-promoting effects.", "syn": ["IGF-1 receptors"], "abbr": []}
+{"id": 6783, "term": "Melanosomes", "def": "Organelles in melanocytes where melanin is made and then transferred to keratinocytes.", "syn": ["melanosome"], "abbr": []}
+{"id": 6784, "skip": "obvious"}
+{"id": 6785, "term": "Lentigo maligna", "def": "Melanoma in situ on chronically sun-damaged skin of older adults, appearing as a slowly enlarging irregular brown patch.", "syn": ["Hutchinson's melanotic freckle"], "abbr": []}
+{"id": 6786, "skip": "obvious"}
+{"id": 6787, "term": "Bartonella quintana", "def": "A gram-negative bacterium spread by body lice causing trench fever and bacillary angiomatosis in immunocompromised patients.", "syn": [], "abbr": []}
+{"id": 6788, "term": "Pyogenic granuloma", "def": "A rapidly growing, friable red capillary proliferation that bleeds easily, seen after trauma and in pregnancy.", "syn": ["lobular capillary hemangioma"], "abbr": []}
+{"id": 6789, "term": "Tenecteplase", "def": "A genetically engineered tissue plasminogen activator that converts plasminogen to plasmin. A thrombolytic for myocardial infarction and stroke.", "syn": [], "abbr": []}
+{"id": 6790, "term": "Ketorolac", "def": "A potent NSAID given by injection or orally for short-term pain relief. It carries risks of kidney injury, ulcers and bleeding.", "syn": [], "abbr": []}
+{"id": 6791, "skip": "obvious"}
+{"id": 6792, "skip": "obvious"}
+{"id": 6793, "term": "Porins", "def": "Channel proteins in the outer membrane of gram-negative bacteria and mitochondria that allow passage of small molecules.", "syn": ["porin"], "abbr": []}
+{"id": 6794, "term": "Amniotic band syndrome", "def": "Fibrous amniotic strands entangling a fetus, causing limb constriction rings, amputations and craniofacial defects.", "syn": ["amniotic bands", "amniotic band"], "abbr": []}
+{"id": 6795, "skip": "not-medical"}
+{"id": 6796, "skip": "obvious"}
+{"id": 6797, "term": "Treacher Collins syndrome", "def": "Mandibulofacial dysostosis from first pharyngeal arch neural crest defects, causing underdeveloped cheekbones and jaw, downslanting eyes and ear anomalies.", "syn": [], "abbr": []}
+{"id": 6798, "term": "Vancomycin-intermediate Staphylococcus aureus", "def": "Staphylococcus aureus with thickened cell walls that reduce vancomycin susceptibility. VRSA acquires vanA from enterococci.", "syn": ["VISA", "VRSA", "vancomycin-intermediate S aureus"], "abbr": ["VISA", "VRSA"]}
+{"id": 6799, "term": "Analysis of variance", "def": "A statistical test comparing means across three or more groups by comparing between-group and within-group variance.", "syn": [], "abbr": ["ANOVA"]}
+{"id": 6800, "skip": "obvious"}
+{"id": 6801, "term": "Buserelin", "def": "A GnRH agonist that after initial stimulation suppresses LH and FSH release.", "syn": [], "abbr": []}
+{"id": 6802, "term": "Triptorelin", "def": "A GnRH agonist that, given continuously, suppresses gonadotropins. Used for prostate cancer and precocious puberty.", "syn": [], "abbr": []}
+{"id": 6803, "term": "GnRH receptor", "def": "A G-protein-coupled receptor on pituitary gonadotrophs binding gonadotropin-releasing hormone, triggering LH and FSH release.", "syn": ["GnRH receptors", "LHRH receptor"], "abbr": []}
+{"id": 6804, "skip": "obvious"}
+{"id": 6805, "term": "Anastrozole", "def": "A nonsteroidal aromatase inhibitor that blocks estrogen synthesis. Used for hormone receptor-positive breast cancer in postmenopausal women; risk of osteoporosis.", "syn": [], "abbr": []}
+{"id": 6806, "term": "Megestrol", "def": "A synthetic progestin used for endometrial cancer and to stimulate appetite in cachexia.", "syn": [], "abbr": []}
+{"id": 6807, "skip": "obvious"}
+{"id": 6808, "skip": "obvious"}
+{"id": 6809, "term": "Thrombopoietin receptor", "def": "The c-Mpl receptor on megakaryocytes and platelets that binds thrombopoietin to drive platelet production. Targeted by romiplostim and eltrombopag.", "syn": ["c-Mpl"], "abbr": []}
+{"id": 6810, "term": "Daclizumab", "def": "A monoclonal antibody against the IL-2 receptor alpha chain (CD25), used to prevent transplant rejection.", "syn": [], "abbr": []}
+{"id": 6811, "term": "Interleukin-3", "def": "A cytokine from T cells that supports early hematopoietic progenitors and growth of multiple blood cell lines.", "syn": ["IL-3"], "abbr": ["IL-3"]}
+{"id": 6812, "term": "Interferon-gamma", "def": "A cytokine from Th1 and NK cells that activates macrophages and promotes MHC expression and Th1 differentiation.", "syn": ["type II interferon", "type ii interferons"], "abbr": ["IFN-gamma"]}
+{"id": 6813, "term": "Acanthocytes", "def": "Red cells with irregular spiky projections, seen in abetalipoproteinemia, liver disease and McLeod syndrome.", "syn": ["acanthocyte"], "abbr": []}
+{"id": 6814, "term": "Hereditary elliptocytosis", "def": "Inherited red cell membrane defect (spectrin or protein 4.1) giving oval cells and mild hemolysis.", "syn": [], "abbr": []}
+{"id": 6815, "skip": "obvious"}
+{"id": 6816, "skip": "obvious"}
+{"id": 6817, "skip": "obvious"}
+{"id": 6818, "skip": "obvious"}
+{"id": 6819, "skip": "obvious"}
+{"id": 6820, "term": "Urinary diversion", "def": "Surgical rerouting of urine after cystectomy, such as an ileal conduit that drains ureters to a stoma on the abdomen.", "syn": ["ileal conduit"], "abbr": []}
+{"id": 6821, "term": "Panobinostat", "def": "A histone deacetylase inhibitor used for relapsed multiple myeloma.", "syn": [], "abbr": []}
+{"id": 6822, "term": "Vorinostat", "def": "A histone deacetylase inhibitor used for cutaneous T-cell lymphoma.", "syn": [], "abbr": []}
+{"id": 6823, "term": "Histone deacetylase", "def": "An enzyme that removes acetyl groups from histones, tightening chromatin and silencing genes.", "syn": ["histone deacetylases"], "abbr": ["HDAC"]}
+{"id": 6824, "term": "Symport", "def": "Membrane transport of two substances in the same direction by one carrier, such as the sodium-glucose cotransporter.", "syn": ["symporter"], "abbr": []}
+{"id": 6825, "term": "Osteoprotegerin", "def": "A decoy receptor for RANKL secreted by osteoblasts that blocks osteoclast formation and bone resorption.", "syn": [], "abbr": ["OPG"]}
+{"id": 6826, "term": "Platypnea-orthodeoxia syndrome", "def": "Shortness of breath and low oxygen on sitting or standing that improve when lying flat, from right-to-left shunting such as through a patent foramen ovale.", "syn": ["orthodeoxia"], "abbr": []}
+{"id": 6827, "term": "Dimethoate", "def": "An organophosphate insecticide that inhibits acetylcholinesterase, causing cholinergic poisoning.", "syn": [], "abbr": []}
+{"id": 6828, "term": "Brompheniramine", "def": "A first-generation H1 antihistamine used in cold and allergy remedies, causing sedation.", "syn": [], "abbr": []}
+{"id": 6829, "term": "IL-4 receptor", "def": "The receptor for IL-4 and IL-13 that drives Th2 differentiation and IgE class switching.", "syn": ["interleukin-4 receptor"], "abbr": []}
+{"id": 6830, "skip": "obvious"}
+{"id": 6831, "term": "Talc", "def": "Hydrated magnesium silicate. Used for pleurodesis and associated with granulomas in IV drug users.", "syn": [], "abbr": []}
+{"id": 6832, "skip": "obvious"}
+{"id": 6833, "term": "Double-strand DNA breaks", "def": "Breaks through both DNA strands, repaired by homologous recombination or nonhomologous end joining. Caused by ionizing radiation; defective in ataxia-telangiectasia.", "syn": ["double-stranded DNA breaks"], "abbr": []}
+{"id": 6834, "term": "Mitogens", "def": "Substances that stimulate cells to divide, such as growth factors and lectins.", "syn": ["mitogen"], "abbr": []}
+{"id": 6835, "term": "Ras proteins", "def": "Small GTP-binding proteins that relay growth signals from receptor tyrosine kinases to the MAP kinase pathway. Mutations lock them on in many cancers.", "syn": ["ras protein", "RAS protein", "Ras"], "abbr": []}
+{"id": 6836, "term": "PDGFB", "def": "The B chain of platelet-derived growth factor, encoded by c-sis. Stimulates fibroblast and smooth muscle growth.", "syn": ["c-sis"], "abbr": []}
+{"id": 6837, "term": "c-Kit", "def": "A receptor tyrosine kinase for stem cell factor on mast cells and hematopoietic cells. Activating mutations cause GIST and mastocytosis.", "syn": ["KIT", "stem cell factor receptor", "c-kit receptor", "CD117"], "abbr": []}
+{"id": 6838, "term": "Stem cell factor", "def": "The ligand of c-Kit, supporting survival and growth of hematopoietic progenitors, mast cells and melanocytes.", "syn": [], "abbr": ["SCF"]}
+{"id": 6839, "term": "E2F transcription factors", "def": "Factors that activate genes for S-phase entry. Held inactive by hypophosphorylated Rb protein until cyclin-CDK phosphorylation releases them.", "syn": ["E2F transcription factor", "E2F"], "abbr": []}
+{"id": 6840, "term": "Lateral epicondylitis", "def": "Overuse tendinopathy of the wrist extensors at the lateral epicondyle, causing outer elbow pain.", "syn": ["tennis elbow"], "abbr": []}
+{"id": 6841, "skip": "obvious"}
+{"id": 6842, "skip": "obvious"}
+{"id": 6843, "skip": "obvious"}
+{"id": 6844, "skip": "obvious"}
+{"id": 6845, "skip": "obvious"}
+{"id": 6846, "term": "Glenoid cavity", "def": "The shallow socket of the scapula that articulates with the humeral head to form the shoulder joint.", "syn": ["glenoid fossa"], "abbr": []}
+{"id": 6847, "skip": "obvious"}
+{"id": 6848, "skip": "obvious"}
+{"id": 6849, "term": "Fascia lata", "def": "The deep fascia enveloping the thigh muscles. Its lateral thickening forms the iliotibial tract.", "syn": [], "abbr": []}
+{"id": 6850, "term": "Longitudinal ligaments", "def": "Ligaments running along the front (anterior) and back (posterior) of the vertebral bodies. The anterior limits hyperextension; the posterior limits hyperflexion.", "syn": ["anterior longitudinal ligament", "posterior longitudinal ligament", "longitudinal ligament"], "abbr": ["ALL", "PLL"]}
+{"id": 6851, "term": "Allantoin", "def": "A uric acid breakdown product in most mammals, used in skin-soothing products.", "syn": [], "abbr": []}
+{"id": 6852, "term": "Capecitabine", "def": "An oral prodrug converted to 5-fluorouracil, a thymidylate synthase inhibitor. Used for colorectal and breast cancer; causes hand-foot syndrome.", "syn": ["Xeloda"], "abbr": []}
+{"id": 6853, "term": "Ascending aortic aneurysm", "def": "Dilation of the ascending aorta, linked to cystic medial degeneration, Marfan syndrome and tertiary syphilis.", "syn": ["ascending aortic aneurysms"], "abbr": []}
+{"id": 6854, "skip": "obvious"}
+{"id": 6855, "term": "Myosin light chain kinase", "def": "An enzyme activated by calcium-calmodulin that phosphorylates myosin light chains to trigger smooth muscle contraction.", "syn": ["myosin-light-chain kinase"], "abbr": ["MLCK"]}
+{"id": 6856, "term": "Calmodulin", "def": "A calcium-binding protein that activates enzymes such as myosin light chain kinase and CaM kinases.", "syn": [], "abbr": []}
+{"id": 6857, "skip": "obvious"}
+{"id": 6858, "term": "Supravalvular aortic stenosis", "def": "Narrowing of the aorta just above the aortic valve, associated with Williams syndrome and elastin gene deletion.", "syn": [], "abbr": []}
+{"id": 6859, "term": "Hypertensive encephalopathy", "def": "Brain swelling from severe hypertension causing headache, confusion, seizures and vision loss; reversible with blood pressure control.", "syn": [], "abbr": []}
+{"id": 6860, "term": "Nitroimidazoles", "def": "Antimicrobials, such as metronidazole and tinidazole, that generate free radicals damaging DNA of anaerobes and protozoa.", "syn": ["nitroimidazole"], "abbr": []}
+{"id": 6861, "term": "Tinidazole", "def": "A nitroimidazole antimicrobial, similar to metronidazole, used for giardiasis, trichomoniasis, amebiasis and bacterial vaginosis.", "syn": [], "abbr": []}
+{"id": 6862, "term": "Spiramycin", "def": "A macrolide antibiotic used to treat toxoplasmosis in pregnancy to reduce fetal transmission.", "syn": [], "abbr": []}
+{"id": 6863, "skip": "not-medical"}
+{"id": 6864, "term": "Cryptococcosis", "def": "Infection with Cryptococcus neoformans from inhaled pigeon-dropping yeast, causing meningitis in AIDS. India ink shows encapsulated yeast.", "syn": ["cryptococcus infection"], "abbr": []}
+{"id": 6865, "term": "Proteus vulgaris", "def": "A motile, urease-positive gram-negative rod that swarms on agar and causes urinary tract infections.", "syn": [], "abbr": []}
+{"id": 6866, "skip": "not-medical"}
+{"id": 6867, "term": "Fungemia", "def": "Fungal organisms in the bloodstream, most often Candida in catheterized or immunosuppressed patients.", "syn": [], "abbr": []}
+{"id": 6868, "skip": "obvious"}
+{"id": 6869, "skip": "obvious"}
+{"id": 6870, "skip": "obvious"}
+{"id": 6871, "term": "Latex agglutination test", "def": "A test in which latex beads coated with antibody or antigen clump when the target is present. Used for rheumatoid factor and Cryptococcus antigen.", "syn": ["latex fixation test"], "abbr": []}
+{"id": 6872, "term": "N-acetylglucosamine", "def": "A sugar component of bacterial peptidoglycan, chitin and glycoproteins.", "syn": ["GlcNAc"], "abbr": []}
+{"id": 6873, "term": "Sex pilus", "def": "A bacterial appendage used in conjugation to transfer DNA between cells, encoded by the F plasmid.", "syn": ["sex pili", "F pilus"], "abbr": []}
+{"id": 6874, "skip": "wrong-sense"}
+{"id": 6875, "skip": "wrong-sense"}
+{"id": 6876, "term": "MHC class II molecules", "def": "Cell surface proteins on antigen-presenting cells that present extracellular peptide to CD4 helper T cells. Encoded by HLA-DP, DQ and DR.", "syn": ["MHC II molecules", "MHC class II molecule"], "abbr": []}
+{"id": 6877, "term": "Streptococcus bovis", "def": "A group D strep now called S. gallolyticus. Causes endocarditis and is associated with colon cancer.", "syn": [], "abbr": []}
+{"id": 6878, "term": "Iodophors", "def": "Antiseptics in which iodine is bound to a carrier such as povidone, used to disinfect skin.", "syn": ["iodophor", "povidone-iodine"], "abbr": []}
+{"id": 6879, "term": "Abdominal obesity", "def": "Excess fat around the waist and visceral organs, a feature of metabolic syndrome.", "syn": ["central obesity"], "abbr": []}
+{"id": 6880, "skip": "obvious"}
+{"id": 6881, "term": "env gene", "def": "The retroviral gene encoding the envelope glycoproteins; in HIV it codes gp120 and gp41.", "syn": ["env"], "abbr": []}
+{"id": 6882, "skip": "obvious"}
+{"id": 6883, "term": "Herpes labialis", "def": "Cold sores: recurrent HSV-1 vesicles on the lip, reactivated from the trigeminal ganglion.", "syn": [], "abbr": []}
+{"id": 6884, "skip": "obvious"}
+{"id": 6885, "skip": "obvious"}
+{"id": 6886, "term": "Poxviruses", "def": "Large enveloped double-stranded DNA viruses that replicate in the cytoplasm. Include variola, vaccinia, molluscum contagiosum and monkeypox.", "syn": ["Poxviridae"], "abbr": []}
+{"id": 6887, "term": "Enterobacteriaceae", "def": "Gram-negative facultative anaerobic rods that ferment glucose and are oxidase negative. Include E. coli, Klebsiella, Salmonella, Shigella and Proteus.", "syn": [], "abbr": []}
+{"id": 6888, "term": "Streptococcus mutans", "def": "A viridans streptococcus that produces dextran from sucrose and causes dental caries.", "syn": [], "abbr": []}
+{"id": 6889, "term": "Drug-induced liver injury", "def": "Hepatic damage from medications or toxins, such as acetaminophen overdose, with patterns of hepatocellular, cholestatic or mixed injury.", "syn": [], "abbr": ["DILI"]}
+{"id": 6890, "term": "Cefaclor", "def": "A second-generation oral cephalosporin used for otitis media and respiratory infections.", "syn": [], "abbr": []}
+{"id": 6891, "term": "Cefixime", "def": "A third-generation oral cephalosporin used for uncomplicated gonorrhea and urinary infections.", "syn": [], "abbr": []}
+{"id": 6892, "skip": "obvious"}
+{"id": 6893, "term": "Neoadjuvant therapy", "def": "Chemotherapy, radiation or other treatment given before surgery to shrink a tumor.", "syn": ["neoadjuvant chemotherapy"], "abbr": []}
+{"id": 6894, "skip": "obvious"}
+{"id": 6895, "term": "Ludwig angina", "def": "Rapidly spreading bilateral cellulitis of the floor of the mouth, usually from a dental infection, which can obstruct the airway.", "syn": ["Ludwig's angina"], "abbr": []}
+{"id": 6896, "term": "Immune reconstitution", "def": "Recovery of immune function after cause of suppression is treated, such as after antiretroviral therapy in HIV.", "syn": [], "abbr": []}
+{"id": 6897, "term": "Immune reconstitution inflammatory syndrome", "def": "Paradoxical worsening of an infection as the recovering immune system reacts to pathogens after starting antiretroviral therapy in HIV.", "syn": [], "abbr": ["IRIS"]}
+{"id": 6898, "skip": "obvious"}
+{"id": 6899, "term": "Chikungunya", "def": "A mosquito-borne alphavirus infection causing fever and severe, often prolonged, joint pain.", "syn": ["chikungunya fever"], "abbr": []}
+{"id": 6900, "term": "Emtricitabine-tenofovir", "def": "A combination of two nucleoside reverse transcriptase inhibitors used for HIV treatment and as pre-exposure prophylaxis.", "syn": ["Truvada"], "abbr": []}
+{"id": 6901, "skip": "obvious"}
+{"id": 6902, "skip": "not-medical"}
+{"id": 6903, "term": "Female athlete triad", "def": "Low energy availability, menstrual dysfunction and low bone density in female athletes.", "syn": [], "abbr": []}
+{"id": 6904, "term": "Doripenem", "def": "A carbapenem antibiotic with broad gram-negative and anaerobic coverage.", "syn": [], "abbr": []}
+{"id": 6905, "skip": "obvious"}
+{"id": 6906, "skip": "obvious"}
+{"id": 6907, "skip": "obvious"}
+{"id": 6908, "skip": "obvious"}
+{"id": 6909, "skip": "obvious"}
+{"id": 6910, "term": "Herpes simplex keratitis", "def": "HSV infection of the cornea producing a branching dendritic ulcer, treated with topical antivirals.", "syn": ["herpetic keratitis"], "abbr": []}
+{"id": 6911, "skip": "obvious"}
+{"id": 6912, "skip": "obvious"}
+{"id": 6913, "term": "Sympathetic ophthalmia", "def": "Bilateral granulomatous uveitis after penetrating trauma to one eye, as exposed uveal antigens trigger autoimmunity.", "syn": [], "abbr": []}
+{"id": 6914, "term": "Speech discrimination", "def": "The ability to recognize and repeat spoken words, tested in audiometry.", "syn": [], "abbr": []}
+{"id": 6915, "skip": "obvious"}
+{"id": 6916, "term": "Lincosamides", "def": "Antibiotics such as clindamycin that bind the 50S ribosome. Cover anaerobes; risk of Clostridioides difficile colitis.", "syn": ["lincosamide"], "abbr": []}
+{"id": 6917, "term": "Recurrent pregnancy loss", "def": "Two or more consecutive spontaneous miscarriages, with causes including antiphospholipid syndrome and chromosomal abnormalities.", "syn": ["recurrent miscarriage", "recurrent abortions"], "abbr": []}
+{"id": 6918, "term": "Amikacin", "def": "An aminoglycoside antibiotic active against resistant gram-negative bacteria and mycobacteria. Toxic to ears and kidneys.", "syn": [], "abbr": []}
+{"id": 6919, "skip": "obvious"}
+{"id": 6920, "skip": "not-medical"}
+{"id": 6921, "term": "Enzyme immunoassay", "def": "An antibody-based test using an enzyme-linked label to detect antigen or antibody by color change, as in ELISA.", "syn": ["enzyme-linked immunosorbent assay"], "abbr": ["ELISA"]}
+{"id": 6922, "skip": "obvious"}
+{"id": 6923, "term": "Listeria meningitis", "def": "Meningitis from Listeria monocytogenes in neonates, older adults and immunocompromised patients; treated with ampicillin.", "syn": ["Listeria monocytogenes meningitis", "meningitis listeria"], "abbr": []}
+{"id": 6924, "term": "Klebsiella infection", "def": "Infection with Klebsiella pneumoniae causing pneumonia, urinary infection and liver abscess, notably in alcoholics and diabetics.", "syn": ["klebsiella infections"], "abbr": []}
+{"id": 6925, "skip": "obvious"}
+{"id": 6926, "skip": "not-medical"}
+{"id": 6927, "skip": "not-medical"}
+{"id": 6928, "term": "Herpes zoster ophthalmicus", "def": "Shingles of the ophthalmic division of the trigeminal nerve. Nasociliary involvement (Hutchinson sign) predicts eye disease.", "syn": [], "abbr": ["HZO"]}
+{"id": 6929, "term": "Viral entry", "def": "Attachment of a virus to host receptors and penetration into the cell, as in HIV binding CD4 and CCR5.", "syn": ["virus internalization"], "abbr": []}
+{"id": 6930, "skip": "obvious"}
+{"id": 6931, "term": "HIV-2", "def": "A less pathogenic relative of HIV found mainly in West Africa, naturally resistant to non-nucleoside reverse transcriptase inhibitors.", "syn": [], "abbr": []}
+{"id": 6932, "term": "Hepatitis E virus", "def": "An RNA virus spread by the fecal-oral route that causes acute hepatitis. Carries high mortality in pregnancy.", "syn": [], "abbr": ["HEV"]}
+{"id": 6933, "term": "Dengue virus", "def": "A mosquito-borne flavivirus causing breakbone fever with fever, retro-orbital pain and thrombocytopenia.", "syn": [], "abbr": []}
+{"id": 6934, "term": "Saquinavir", "def": "An HIV protease inhibitor that blocks cleavage of viral polyproteins.", "syn": [], "abbr": []}
+{"id": 6935, "term": "Nevirapine", "def": "A non-nucleoside reverse transcriptase inhibitor for HIV that binds reverse transcriptase directly. Risk of rash and hepatotoxicity.", "syn": [], "abbr": []}
+{"id": 6936, "term": "Pteridines", "def": "Heterocyclic compounds forming the core of folic acid and tetrahydrobiopterin.", "syn": ["pteridine"], "abbr": []}
+{"id": 6937, "term": "Ofloxacin", "def": "A fluoroquinolone antibiotic inhibiting DNA gyrase.", "syn": [], "abbr": []}
+{"id": 6938, "term": "Gemifloxacin", "def": "A respiratory fluoroquinolone that inhibits DNA gyrase and topoisomerase IV.", "syn": [], "abbr": []}
+{"id": 6939, "skip": "obvious"}
+{"id": 6940, "term": "Echolalia", "def": "Automatic repetition of words just heard, seen in autism, schizophrenia and Tourette syndrome.", "syn": [], "abbr": []}
+{"id": 6941, "skip": "obvious"}
+{"id": 6942, "term": "Catalepsy", "def": "Rigid posture held for a long time, with waxy flexibility, seen in catatonia.", "syn": ["waxy flexibility"], "abbr": []}
+{"id": 6943, "term": "Modafinil", "def": "A wakefulness-promoting drug for narcolepsy that acts by inhibiting dopamine reuptake.", "syn": [], "abbr": []}
+{"id": 6944, "term": "Pentostatin", "def": "An adenosine deaminase inhibitor used for hairy cell leukemia.", "syn": [], "abbr": []}
+{"id": 6945, "term": "Nitrogen mustards", "def": "Alkylating agents, like mechlorethamine and cyclophosphamide, that crosslink DNA.", "syn": ["mechlorethamine"], "abbr": []}
+{"id": 6946, "skip": "not-medical"}
+{"id": 6947, "term": "Isopropyl alcohol", "def": "A common antiseptic and solvent. Ingestion causes ketosis without acidosis and CNS depression.", "syn": ["isopropanol"], "abbr": []}
+{"id": 6948, "skip": "obvious"}
+{"id": 6949, "term": "Oxaliplatin", "def": "A platinum chemotherapy that forms DNA crosslinks, used in colorectal cancer. Causes cold-triggered neuropathy.", "syn": [], "abbr": []}
+{"id": 6950, "term": "Topoisomerase I inhibitors", "def": "Chemotherapy drugs such as irinotecan and topotecan that trap topoisomerase I on DNA, causing strand breaks.", "syn": ["topoisomerase I inhibitor"], "abbr": []}
+{"id": 6951, "term": "Vascular endothelial growth factor receptor", "def": "A receptor tyrosine kinase on endothelial cells that drives angiogenesis. Blocked by drugs such as sorafenib.", "syn": ["VEGF receptor", "VEGFR"], "abbr": ["VEGFR"]}
+{"id": 6952, "term": "Pneumocystis pneumonia", "def": "Fungal lung infection caused by Pneumocystis jirovecii in AIDS, with diffuse ground-glass opacities.", "syn": ["Pneumocystis jirovecii infection", "pneumocystis infection"], "abbr": []}
+{"id": 6953, "term": "Squalene epoxidase", "def": "An enzyme in cholesterol and ergosterol synthesis, inhibited by terbinafine.", "syn": ["squalene monooxygenase"], "abbr": []}
+{"id": 6954, "skip": "obvious"}
+{"id": 6955, "term": "Tsetse fly", "def": "The insect vector of African trypanosomiasis (sleeping sickness).", "syn": ["tsetse flies"], "abbr": []}
+{"id": 6956, "term": "Melarsoprol", "def": "An arsenic-containing drug for late-stage African sleeping sickness with CNS involvement.", "syn": [], "abbr": []}
+{"id": 6957, "term": "Eflornithine", "def": "An ornithine decarboxylase inhibitor used for African sleeping sickness and for facial hirsutism.", "syn": [], "abbr": []}
+{"id": 6958, "term": "Suramin", "def": "An antiparasitic used for early-stage African trypanosomiasis.", "syn": [], "abbr": []}
+{"id": 6959, "term": "Leishmania braziliensis", "def": "A protozoan causing mucocutaneous leishmaniasis in South America.", "syn": [], "abbr": []}
+{"id": 6960, "term": "Sandfly", "def": "The insect vector of Leishmania.", "syn": ["sandflies"], "abbr": []}
+{"id": 6961, "term": "Antimony", "def": "A heavy metal in pentavalent form for leishmaniasis.", "syn": [], "abbr": []}
+{"id": 6962, "term": "Sodium stibogluconate", "def": "A pentavalent antimony drug used for leishmaniasis.", "syn": ["stibogluconate sodium"], "abbr": []}
+{"id": 6963, "skip": "obvious"}
+{"id": 6964, "skip": "obvious"}
+{"id": 6965, "term": "Proguanil", "def": "An antimalarial that inhibits dihydrofolate reductase, combined with atovaquone.", "syn": [], "abbr": []}
+{"id": 6966, "skip": "obvious"}
+{"id": 6967, "skip": "obvious"}
+{"id": 6968, "skip": "not-medical"}
+{"id": 6969, "term": "Platyhelminths", "def": "Flatworms, including flukes and tapeworms.", "syn": ["flatworms", "platyhelminthes"], "abbr": []}
+{"id": 6970, "term": "Hydrogen sulfide", "def": "A toxic gas that inhibits cytochrome oxidase, like cyanide.", "syn": [], "abbr": []}
+{"id": 6971, "skip": "not-medical"}
+{"id": 6972, "skip": "obvious"}
+{"id": 6973, "term": "Uropathogenic E. coli", "def": "E. coli strains with P fimbriae causing most urinary tract infections.", "syn": ["uropathogenic Escherichia coli"], "abbr": ["UPEC"]}
+{"id": 6974, "term": "Vibrio parahaemolyticus", "def": "A marine gram-negative bacterium causing watery diarrhea after raw seafood.", "syn": [], "abbr": []}
+{"id": 6975, "skip": "obvious"}
+{"id": 6976, "term": "Magnetic resonance cholangiopancreatography", "def": "MRI imaging of the bile and pancreatic ducts without contrast injection.", "syn": [], "abbr": ["MRCP"]}
+{"id": 6977, "term": "Postcholecystectomy syndrome", "def": "Persistent abdominal pain or dyspepsia after gallbladder removal.", "syn": [], "abbr": []}
+{"id": 6978, "term": "Oxycodone", "def": "A semisynthetic opioid agonist for moderate to severe pain.", "syn": [], "abbr": []}
+{"id": 6979, "skip": "obvious"}
+{"id": 6980, "term": "Muramic acid", "def": "A sugar acid in bacterial peptidoglycan.", "syn": ["N-acetylmuramic acid"], "abbr": []}
+{"id": 6981, "skip": "obvious"}
+{"id": 6982, "term": "Enterobacter aerogenes", "def": "A gram-negative rod now called Klebsiella aerogenes, causing hospital-acquired infections.", "syn": ["Klebsiella aerogenes"], "abbr": []}
+{"id": 6983, "term": "Mebendazole", "def": "An anthelmintic that blocks microtubule polymerization in worms, used for pinworm and roundworm.", "syn": [], "abbr": []}
+{"id": 6984, "term": "Apolipoprotein E2", "def": "The apoE variant with poor receptor binding, linked to familial dysbetalipoproteinemia.", "syn": ["apo E2"], "abbr": []}
+{"id": 6985, "skip": "not-medical"}
+{"id": 6986, "term": "Anakinra", "def": "An IL-1 receptor antagonist used for rheumatoid arthritis and autoinflammatory diseases.", "syn": [], "abbr": []}
+{"id": 6987, "skip": "obvious"}
+{"id": 6988, "term": "Anterior inferior tibiofibular ligament", "def": "A ligament binding the front of the distal tibia and fibula in the ankle syndesmosis; injured in high ankle sprains.", "syn": [], "abbr": []}
+{"id": 6989, "skip": "obvious"}
+{"id": 6990, "term": "Mixed lymphocyte reaction", "def": "A test in which lymphocytes from two people are cultured together; proliferation shows HLA mismatch.", "syn": ["mixed lymphocyte culture"], "abbr": ["MLR"]}
+{"id": 6991, "term": "Silver staining", "def": "Histologic stains that deposit silver on organisms or fibers, such as for Legionella, Pneumocystis and reticulin.", "syn": [], "abbr": []}
+{"id": 6992, "skip": "not-medical"}
+{"id": 6993, "skip": "obvious"}
+{"id": 6994, "skip": "obvious"}
+{"id": 6995, "term": "Sabin vaccine", "def": "The oral live attenuated poliovirus vaccine, giving gut mucosal immunity but with rare vaccine-derived paralysis.", "syn": ["oral polio vaccine"], "abbr": []}
+{"id": 6996, "term": "Pyromania", "def": "Impulse control disorder of deliberate fire-setting for tension relief.", "syn": [], "abbr": []}
+{"id": 6997, "term": "Norovirus infection", "def": "Gastroenteritis from norovirus, a calicivirus, causing vomiting and diarrhea outbreaks.", "syn": ["norovirus"], "abbr": []}
+{"id": 6998, "skip": "obvious"}
+{"id": 6999, "term": "Cell adhesion molecules", "def": "Cell surface proteins mediating adhesion, including integrins, selectins, cadherins and immunoglobulin superfamily members.", "syn": ["adhesion molecules"], "abbr": ["CAMs"]}

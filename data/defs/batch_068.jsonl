@@ -1,0 +1,250 @@
+{"id": 17000, "skip": "ambiguous"}
+{"id": 17001, "skip": "not-medical"}
+{"id": 17002, "term": "HLA-DR4", "def": "An MHC class II allele associated with rheumatoid arthritis and type 1 diabetes.", "syn": [], "abbr": ["DR4"]}
+{"id": 17003, "term": "Common variable immunodeficiency", "def": "Antibody deficiency with low IgG and IgA and recurrent sinopulmonary infections, usually presenting in adulthood from defective B-cell differentiation. Raises risk of autoimmunity and lymphoma.", "syn": [], "abbr": ["CVID"]}
+{"id": 17004, "term": "Fresh frozen plasma", "def": "Plasma separated from donated blood and frozen soon after collection. Contains all clotting factors; used to correct coagulopathy such as warfarin reversal or DIC.", "syn": [], "abbr": ["FFP"]}
+{"id": 17005, "term": "Ankle-brachial index", "def": "Ratio of ankle to arm systolic blood pressure. Values below 0.9 indicate peripheral artery disease.", "syn": [], "abbr": ["ABI"]}
+{"id": 17006, "term": "Dextrose 5% in water", "def": "IV fluid containing 5% dextrose in water. It supplies free water once the glucose is metabolized and so lowers serum sodium.", "syn": [], "abbr": ["D5W"]}
+{"id": 17007, "skip": "ambiguous"}
+{"id": 17008, "term": "Advisory Committee on Immunization Practices", "def": "The CDC advisory group that sets US vaccine recommendations.", "syn": [], "abbr": ["ACIP"]}
+{"id": 17009, "skip": "ambiguous"}
+{"id": 17010, "skip": "ambiguous"}
+{"id": 17011, "skip": "ambiguous"}
+{"id": 17012, "term": "SNARE proteins", "def": "Membrane proteins that mediate fusion of vesicles with target membranes, as in neurotransmitter release. Cleaved by botulinum and tetanus toxins.", "syn": [], "abbr": ["SNARE"]}
+{"id": 17013, "term": "Guanosine diphosphate", "def": "Nucleotide that G proteins bind in their inactive state; exchange for GTP activates them.", "syn": [], "abbr": ["GDP"]}
+{"id": 17014, "skip": "ambiguous"}
+{"id": 17015, "term": "Angiotensin II", "def": "Peptide hormone from ACE action on angiotensin I. Constricts arterioles, stimulates aldosterone and ADH release and raises blood pressure.", "syn": [], "abbr": ["ATII"]}
+{"id": 17016, "skip": "ambiguous"}
+{"id": 17017, "term": "Diethylstilbestrol", "def": "Synthetic estrogen given in pregnancy in the past. Exposed daughters develop clear cell adenocarcinoma of the vagina and structural uterine anomalies.", "syn": [], "abbr": ["DES"]}
+{"id": 17018, "term": "Lymphogranuloma venereum", "def": "Sexually transmitted infection by Chlamydia trachomatis serotypes L1-L3, causing painless ulcer then tender inguinal lymphadenopathy (buboes).", "syn": [], "abbr": ["LGV"]}
+{"id": 17019, "term": "Lobular carcinoma in situ", "def": "Proliferation of atypical cells in breast lobules that doesn't invade. A marker of increased risk of invasive cancer in either breast; E-cadherin is lost.", "syn": [], "abbr": ["LCIS"]}
+{"id": 17020, "term": "Ventricular tachycardia", "def": "Fast heart rhythm (3 or more beats above 100/min) arising in the ventricles, with wide QRS complexes. Can degenerate to ventricular fibrillation.", "syn": [], "abbr": ["VT"]}
+{"id": 17021, "term": "Left ventricular ejection fraction", "def": "Percentage of the end-diastolic volume of the left ventricle ejected with each beat. Normal is about 55 to 70%.", "syn": [], "abbr": ["LVEF"]}
+{"id": 17022, "skip": "ambiguous"}
+{"id": 17023, "skip": "ambiguous"}
+{"id": 17024, "term": "Alveolar partial pressure of oxygen", "def": "Oxygen pressure in the alveolar gas, calculated by the alveolar gas equation. Used to find the A-a gradient.", "syn": [], "abbr": ["PAO2"]}
+{"id": 17025, "skip": "ambiguous"}
+{"id": 17026, "skip": "ambiguous"}
+{"id": 17027, "term": "Allergic bronchopulmonary aspergillosis", "def": "Hypersensitivity reaction to Aspergillus in the airways of patients with asthma or cystic fibrosis. Causes wheezing, mucus plugging and central bronchiectasis with high IgE.", "syn": [], "abbr": ["ABPA"]}
+{"id": 17028, "skip": "ambiguous"}
+{"id": 17029, "term": "KRAS", "def": "A proto-oncogene encoding a small GTPase in the RAS pathway. Activating mutations occur in colorectal, pancreatic and lung cancers and predict lack of response to EGFR antibodies.", "syn": [], "abbr": ["KRAS"]}
+{"id": 17030, "term": "Microangiopathic hemolytic anemia", "def": "Anemia from red cells shredded by passing through small vessels with fibrin strands or clots. Smear shows schistocytes; seen in TTP, HUS and DIC.", "syn": [], "abbr": ["MAHA"]}
+{"id": 17031, "skip": "ambiguous"}
+{"id": 17032, "skip": "ambiguous"}
+{"id": 17033, "term": "Medium-chain acyl-CoA dehydrogenase deficiency", "def": "Defect in fatty acid oxidation causing hypoketotic hypoglycemia, vomiting and lethargy during fasting.", "syn": [], "abbr": ["MCAD"]}
+{"id": 17034, "term": "Inosine monophosphate", "def": "Purine nucleotide that is the branch point to AMP and GMP in de novo purine synthesis.", "syn": [], "abbr": ["IMP"]}
+{"id": 17035, "skip": "ambiguous"}
+{"id": 17036, "term": "Total iron-binding capacity", "def": "Measure of transferrin capacity to bind iron. High in iron deficiency and low in anemia of chronic disease.", "syn": [], "abbr": ["TIBC"]}
+{"id": 17037, "term": "Paramedian pontine reticular formation", "def": "Brainstem gaze center for horizontal eye movements toward the same side. Lesions cause ipsilateral gaze palsy.", "syn": [], "abbr": ["PPRF"]}
+{"id": 17038, "skip": "ambiguous"}
+{"id": 17039, "skip": "ambiguous"}
+{"id": 17040, "skip": "not-medical"}
+{"id": 17041, "term": "Methicillin-sensitive Staphylococcus aureus", "def": "Staph aureus strain susceptible to methicillin-type penicillins like nafcillin and oxacillin.", "syn": [], "abbr": ["MSSA"]}
+{"id": 17042, "term": "Neuroleptic malignant syndrome", "def": "Life-threatening reaction to antipsychotics with fever, muscle rigidity, altered mental status and autonomic instability. Treat with dantrolene.", "syn": [], "abbr": ["NMS"]}
+{"id": 17043, "skip": "ambiguous"}
+{"id": 17044, "skip": "ambiguous"}
+{"id": 17045, "skip": "ambiguous"}
+{"id": 17046, "term": "T-cell receptor", "def": "Antigen-recognition complex on T cells, binding peptide presented on MHC molecules.", "syn": [], "abbr": ["TCR"]}
+{"id": 17047, "term": "CD40 ligand", "def": "T-cell surface protein binding CD40 on B cells to enable isotype switching. Absent in hyper-IgM syndrome.", "syn": [], "abbr": ["CD40L"]}
+{"id": 17048, "term": "Monosodium urate", "def": "Crystal that deposits in joints in gout. Appears needle-shaped and negatively birefringent.", "syn": [], "abbr": ["MSU"]}
+{"id": 17049, "skip": "ambiguous"}
+{"id": 17050, "term": "Central venous pressure", "def": "Pressure in the vena cava near the right atrium, reflecting volume status and right heart function.", "syn": [], "abbr": ["CVP"]}
+{"id": 17051, "skip": "ambiguous"}
+{"id": 17052, "term": "Patellofemoral pain syndrome", "def": "Anterior knee pain from the patella tracking poorly over the femur, common in young athletes and runners.", "syn": [], "abbr": ["PFPS"]}
+{"id": 17053, "skip": "ambiguous"}
+{"id": 17054, "term": "Diiodotyrosine", "def": "Thyroid hormone precursor made by iodination of monoiodotyrosine; two DIT molecules form T4.", "syn": [], "abbr": ["DIT"]}
+{"id": 17055, "term": "Autoimmune regulator", "def": "Transcription factor in the thymus that displays self-antigens for negative selection. Mutation causes APECED.", "syn": [], "abbr": ["AIRE"]}
+{"id": 17056, "skip": "not-medical"}
+{"id": 17057, "skip": "ambiguous"}
+{"id": 17058, "term": "HER2", "def": "Receptor tyrosine kinase overexpressed in some breast and gastric cancers. Targeted by trastuzumab.", "syn": [], "abbr": ["HER2"]}
+{"id": 17059, "term": "BRCA2", "def": "Tumor suppressor gene for DNA repair; mutations raise risk of breast, ovarian, prostate and pancreatic cancers.", "syn": [], "abbr": ["BRCA2"]}
+{"id": 17060, "skip": "ambiguous"}
+{"id": 17061, "term": "Fetal heart rate", "def": "Heart rate of the fetus, normally 110 to 160 beats per minute.", "syn": [], "abbr": ["FHR"]}
+{"id": 17062, "term": "Glial fibrillary acidic protein", "def": "Intermediate filament marker of astrocytes, used to identify glial tumors.", "syn": [], "abbr": ["GFAP"]}
+{"id": 17063, "skip": "ambiguous"}
+{"id": 17064, "term": "End-diastolic volume", "def": "Volume of blood in a ventricle at the end of filling; a measure of preload.", "syn": [], "abbr": ["EDV"]}
+{"id": 17065, "term": "Fibroblast growth factor", "def": "Family of growth factors for cell proliferation and angiogenesis. FGFR3 mutations cause achondroplasia.", "syn": [], "abbr": ["FGF"]}
+{"id": 17066, "skip": "ambiguous"}
+{"id": 17067, "term": "Tetralogy of Fallot", "def": "Cyanotic congenital heart defect with VSD, pulmonary stenosis, overriding aorta and right ventricular hypertrophy.", "syn": [], "abbr": ["TOF"]}
+{"id": 17068, "term": "Intermediate-density lipoprotein", "def": "Lipoprotein remnant formed as VLDL loses triglycerides; converted to LDL.", "syn": [], "abbr": ["IDLs"]}
+{"id": 17069, "skip": "ambiguous"}
+{"id": 17070, "term": "Peripheral oxygen saturation", "def": "Percentage of hemoglobin saturated with oxygen, measured by pulse oximetry.", "syn": [], "abbr": ["SpO2"]}
+{"id": 17071, "skip": "ambiguous"}
+{"id": 17072, "skip": "not-medical"}
+{"id": 17073, "term": "ADAMTS13", "def": "Protease that cleaves von Willebrand factor multimers. Deficiency causes thrombotic thrombocytopenic purpura.", "syn": [], "abbr": ["ADAMTS13"]}
+{"id": 17074, "term": "Acute promyelocytic leukemia", "def": "AML subtype with t(15;17) PML-RARA, Auer rods and DIC; treated with all-trans retinoic acid.", "syn": [], "abbr": ["APL"]}
+{"id": 17075, "term": "Flavin adenine dinucleotide, reduced", "def": "Electron carrier produced in the citric acid cycle and beta-oxidation that donates electrons to complex II.", "syn": [], "abbr": ["FADH2"]}
+{"id": 17076, "term": "Sodium bicarbonate", "def": "Alkalinizing agent used to treat metabolic acidosis or tricyclic overdose.", "syn": [], "abbr": ["NaHCO3"]}
+{"id": 17077, "term": "End-stage renal disease", "def": "Kidney failure requiring dialysis or transplant.", "syn": [], "abbr": ["ESRD"]}
+{"id": 17078, "skip": "ambiguous"}
+{"id": 17079, "skip": "ambiguous"}
+{"id": 17080, "term": "Monoamine oxidase inhibitors", "def": "Antidepressants that block monoamine oxidase. Risk hypertensive crisis with tyramine and serotonin syndrome.", "syn": [], "abbr": ["MAOIs"]}
+{"id": 17081, "skip": "ambiguous"}
+{"id": 17082, "skip": "not-medical"}
+{"id": 17083, "term": "CD19", "def": "B-cell surface marker in all stages of B-cell development.", "syn": [], "abbr": ["CD19"]}
+{"id": 17084, "term": "Internuclear ophthalmoplegia", "def": "Impaired adduction of one eye on lateral gaze from a medial longitudinal fasciculus lesion; classic in multiple sclerosis.", "syn": [], "abbr": ["INO"]}
+{"id": 17085, "skip": "ambiguous"}
+{"id": 17086, "skip": "ambiguous"}
+{"id": 17087, "term": "Antigen-presenting cells", "def": "Cells such as dendritic cells, macrophages and B cells that display antigen on MHC to T cells.", "syn": [], "abbr": ["APCs"]}
+{"id": 17088, "skip": "ambiguous"}
+{"id": 17089, "skip": "ambiguous"}
+{"id": 17090, "skip": "ambiguous"}
+{"id": 17091, "term": "Coronavirus disease", "def": "Illness caused by SARS-CoV-2.", "syn": [], "abbr": ["COVID"]}
+{"id": 17092, "term": "Neurofibromatosis type 2", "def": "Disorder from NF2 gene mutation causing bilateral vestibular schwannomas and meningiomas.", "syn": [], "abbr": ["NF2"]}
+{"id": 17093, "term": "Disruptive mood dysregulation disorder", "def": "Childhood disorder with severe recurrent temper outbursts and persistent irritability.", "syn": [], "abbr": ["DMDD"]}
+{"id": 17094, "term": "Rapid plasma reagin", "def": "Nontreponemal screening test for syphilis that detects antibodies against cardiolipin.", "syn": [], "abbr": ["RPR"]}
+{"id": 17095, "term": "Penicillin-binding proteins", "def": "Bacterial enzymes for cell wall synthesis that beta-lactams bind. Altered in MRSA.", "syn": [], "abbr": ["PBPs"]}
+{"id": 17096, "term": "3,4-methylenedioxymethamphetamine", "def": "Amphetamine derivative (ecstasy) that releases serotonin; causes hyperthermia and hyponatremia.", "syn": [], "abbr": ["MDMA"]}
+{"id": 17097, "skip": "ambiguous"}
+{"id": 17098, "skip": "not-medical"}
+{"id": 17099, "skip": "ambiguous"}
+{"id": 17100, "term": "Nonalcoholic fatty liver disease", "def": "Fat accumulation in the liver unrelated to alcohol, linked to obesity and insulin resistance.", "syn": [], "abbr": ["NAFLD"]}
+{"id": 17101, "term": "Dual-energy x-ray absorptiometry", "def": "Imaging technique that measures bone mineral density to diagnose osteoporosis.", "syn": [], "abbr": ["DEXA"]}
+{"id": 17102, "skip": "ambiguous"}
+{"id": 17103, "term": "CXCR4", "def": "Chemokine receptor; HIV uses it for entry into T cells.", "syn": [], "abbr": ["CXCR4"]}
+{"id": 17104, "term": "Open reduction and internal fixation", "def": "Surgery to realign a fracture and fix it with plates or screws.", "syn": [], "abbr": ["ORIF"]}
+{"id": 17105, "skip": "ambiguous"}
+{"id": 17106, "skip": "ambiguous"}
+{"id": 17107, "skip": "ambiguous"}
+{"id": 17108, "skip": "ambiguous"}
+{"id": 17109, "skip": "ambiguous"}
+{"id": 17110, "skip": "ambiguous"}
+{"id": 17111, "term": "Non-nucleoside reverse transcriptase inhibitors", "def": "HIV drugs binding reverse transcriptase directly, e.g., efavirenz.", "syn": [], "abbr": ["NNRTI"]}
+{"id": 17112, "term": "Radioactive iodine uptake", "def": "Test measuring thyroid uptake of radioiodine; high in Graves and low in thyroiditis.", "syn": [], "abbr": ["RAIU"]}
+{"id": 17113, "term": "Juvenile idiopathic arthritis", "def": "Chronic arthritis beginning before age 16 without another cause.", "syn": [], "abbr": ["JIA"]}
+{"id": 17114, "term": "Rho(D) immune globulin", "def": "Anti-D antibody given to Rh-negative mothers to prevent sensitization to fetal Rh-positive cells.", "syn": [], "abbr": ["RhoGAM"]}
+{"id": 17115, "term": "Severe acute respiratory syndrome", "def": "Coronavirus respiratory illness first seen in 2002.", "syn": [], "abbr": ["SARS"]}
+{"id": 17116, "term": "Dehydroepiandrosterone sulfate", "def": "Adrenal androgen; high levels suggest adrenal source of androgen excess.", "syn": [], "abbr": ["DHEAS"]}
+{"id": 17117, "term": "Polymorphonuclear neutrophils", "def": "Neutrophils with multilobed nuclei, first responders in acute inflammation.", "syn": [], "abbr": ["PMNs"]}
+{"id": 17118, "term": "Abnormal uterine bleeding", "def": "Menstrual bleeding outside normal frequency, duration or volume.", "syn": [], "abbr": ["AUB"]}
+{"id": 17119, "skip": "not-medical"}
+{"id": 17120, "skip": "ambiguous"}
+{"id": 17121, "skip": "ambiguous"}
+{"id": 17122, "skip": "ambiguous"}
+{"id": 17123, "skip": "ambiguous"}
+{"id": 17124, "term": "Glucose-dependent insulinotropic peptide", "def": "Gut hormone from K cells that boosts insulin release after meals.", "syn": [], "abbr": ["GIP"]}
+{"id": 17125, "term": "Glycosaminoglycans", "def": "Long, unbranched polysaccharides of repeating disaccharides; components of proteoglycans.", "syn": [], "abbr": ["GAGs"]}
+{"id": 17126, "skip": "ambiguous"}
+{"id": 17127, "skip": "ambiguous"}
+{"id": 17128, "skip": "ambiguous"}
+{"id": 17129, "term": "Selective estrogen receptor modulators", "def": "Drugs with tissue-specific estrogen agonist or antagonist action, such as tamoxifen and raloxifene.", "syn": [], "abbr": ["SERMs"]}
+{"id": 17130, "skip": "ambiguous"}
+{"id": 17131, "term": "BRCA genes", "def": "BRCA1 and BRCA2 DNA-repair tumor suppressors; mutation raises breast and ovarian cancer risk.", "syn": [], "abbr": ["BRCA"]}
+{"id": 17132, "term": "Epidermal growth factor", "def": "Growth factor that stimulates epithelial cell proliferation via its receptor EGFR.", "syn": [], "abbr": ["EGF"]}
+{"id": 17133, "skip": "ambiguous"}
+{"id": 17134, "skip": "ambiguous"}
+{"id": 17135, "term": "Hox genes", "def": "Homeobox genes that specify body segment identity along the head-to-tail axis.", "syn": [], "abbr": ["HOX"]}
+{"id": 17136, "skip": "not-medical"}
+{"id": 17137, "skip": "ambiguous"}
+{"id": 17138, "term": "Right bundle branch block", "def": "Delayed conduction in the right bundle, with rSR' (rabbit ears) in V1 and wide QRS.", "syn": [], "abbr": ["RBBB"]}
+{"id": 17139, "term": "Proteinase 3", "def": "Neutrophil serine protease; the target of c-ANCA in granulomatosis with polyangiitis.", "syn": [], "abbr": ["PR3"]}
+{"id": 17140, "skip": "ambiguous"}
+{"id": 17141, "skip": "ambiguous"}
+{"id": 17142, "term": "Supraventricular tachycardia", "def": "Fast regular rhythm arising above the ventricles, with a narrow QRS.", "syn": [], "abbr": ["SVT"]}
+{"id": 17143, "skip": "not-medical"}
+{"id": 17144, "term": "CHA2DS2-VASc score", "def": "Risk score for stroke in atrial fibrillation, used to decide anticoagulation.", "syn": [], "abbr": ["CHA2DS2"]}
+{"id": 17145, "term": "Infective endocarditis", "def": "Infection of the heart valves or endocardium, causing fever, murmur and vegetations.", "syn": [], "abbr": ["IE"]}
+{"id": 17146, "term": "Rapid ventricular response", "def": "Atrial fibrillation or flutter with fast conduction to the ventricles, with heart rate above 100.", "syn": [], "abbr": ["RVR"]}
+{"id": 17147, "skip": "ambiguous"}
+{"id": 17148, "term": "Hypertrophic cardiomyopathy", "def": "Inherited thickening of the left ventricle, usually from sarcomere gene mutations, causing diastolic dysfunction and sudden cardiac death in young athletes.", "syn": [], "abbr": ["HCM"]}
+{"id": 17149, "term": "Heart failure with reduced ejection fraction", "def": "Systolic heart failure with ejection fraction of 40% or below.", "syn": [], "abbr": ["HFrEF"]}
+{"id": 17150, "term": "Patent foramen ovale", "def": "Persistent opening between the atria that can allow paradoxical embolism.", "syn": [], "abbr": ["PFO"]}
+{"id": 17151, "term": "Tetrahydrobiopterin", "def": "Cofactor for phenylalanine hydroxylase and for tyrosine and tryptophan hydroxylase; deficiency can cause phenylketonuria-like disease.", "syn": [], "abbr": ["BH4"]}
+{"id": 17152, "term": "Angiotensin II receptor blockers", "def": "Drugs such as losartan that block the AT1 receptor; no cough, unlike ACE inhibitors.", "syn": [], "abbr": ["ARB"]}
+{"id": 17153, "term": "Lecithin-cholesterol acyltransferase", "def": "Enzyme on HDL that esterifies cholesterol; deficiency causes corneal clouding.", "syn": [], "abbr": ["LCAT"]}
+{"id": 17154, "term": "Triacylglycerols", "def": "Fats made of three fatty acids on a glycerol backbone; the main storage lipid.", "syn": [], "abbr": ["TAGs"]}
+{"id": 17155, "skip": "ambiguous"}
+{"id": 17156, "term": "Idiopathic pulmonary fibrosis", "def": "Progressive scarring of the lung of unknown cause, with a usual interstitial pneumonia pattern.", "syn": [], "abbr": ["IPF"]}
+{"id": 17157, "skip": "ambiguous"}
+{"id": 17158, "term": "Protein kinase A", "def": "cAMP-dependent kinase that phosphorylates target proteins.", "syn": [], "abbr": ["PKA"]}
+{"id": 17159, "term": "Deep vein thrombosis", "def": "Clot in a deep vein, usually of the leg; risk of pulmonary embolism.", "syn": [], "abbr": ["DVTs"]}
+{"id": 17160, "skip": "not-medical"}
+{"id": 17161, "skip": "not-medical"}
+{"id": 17162, "skip": "ambiguous"}
+{"id": 17163, "skip": "ambiguous"}
+{"id": 17164, "skip": "ambiguous"}
+{"id": 17165, "term": "Autosomal recessive polycystic kidney disease", "def": "Childhood disease with large cystic kidneys and congenital hepatic fibrosis.", "syn": [], "abbr": ["ARPKD"]}
+{"id": 17166, "term": "Autosomal dominant tubulointerstitial kidney disease", "def": "Inherited kidney fibrosis with slowly progressive renal failure and bland urine sediment.", "syn": [], "abbr": ["ADTKD"]}
+{"id": 17167, "term": "WAGR syndrome", "def": "Wilms tumor, aniridia, genitourinary anomalies and intellectual disability from deletion of 11p13.", "syn": [], "abbr": ["WAGR"]}
+{"id": 17168, "term": "WT1", "def": "Tumor suppressor gene on 11p13 associated with Wilms tumor.", "syn": [], "abbr": ["WT1"]}
+{"id": 17169, "skip": "ambiguous"}
+{"id": 17170, "term": "Catechol-O-methyltransferase", "def": "Enzyme that degrades catecholamines and levodopa. Inhibited by entacapone.", "syn": [], "abbr": ["COMT"]}
+{"id": 17171, "term": "HFE gene", "def": "Gene mutated in hereditary hemochromatosis (C282Y), causing iron overload.", "syn": [], "abbr": ["HFE"]}
+{"id": 17172, "skip": "ambiguous"}
+{"id": 17173, "term": "Vesicular monoamine transporter", "def": "Transporter loading monoamines into synaptic vesicles; blocked by reserpine and tetrabenazine.", "syn": [], "abbr": ["VMAT"]}
+{"id": 17174, "term": "Red cell distribution width", "def": "Measure of variation in red blood cell size; raised in iron deficiency.", "syn": [], "abbr": ["RDW"]}
+{"id": 17175, "skip": "ambiguous"}
+{"id": 17176, "skip": "not-medical"}
+{"id": 17177, "skip": "ambiguous"}
+{"id": 17178, "term": "Adult T-cell leukemia/lymphoma", "def": "Aggressive malignancy of T cells from HTLV-1 infection, with hypercalcemia.", "syn": [], "abbr": ["ATLL"]}
+{"id": 17179, "term": "Human T-lymphotropic virus", "def": "Retrovirus that causes adult T-cell leukemia and tropical spastic paraparesis.", "syn": [], "abbr": ["HTLV"]}
+{"id": 17180, "skip": "ambiguous"}
+{"id": 17181, "term": "CREST syndrome", "def": "Limited systemic sclerosis with Calcinosis, Raynaud, Esophageal dysmotility, Sclerodactyly and Telangiectasias; anticentromere antibodies.", "syn": [], "abbr": ["CREST"]}
+{"id": 17182, "skip": "ambiguous"}
+{"id": 17183, "skip": "ambiguous"}
+{"id": 17184, "skip": "ambiguous"}
+{"id": 17185, "term": "Left upper quadrant", "def": "Region of the abdomen containing stomach, spleen and left kidney.", "syn": [], "abbr": ["LUQ"]}
+{"id": 17186, "skip": "ambiguous"}
+{"id": 17187, "skip": "ambiguous"}
+{"id": 17188, "skip": "ambiguous"}
+{"id": 17189, "term": "Acute intermittent porphyria", "def": "Porphobilinogen deaminase deficiency causing abdominal pain, neuropsychiatric symptoms and dark urine.", "syn": [], "abbr": ["AIP"]}
+{"id": 17190, "term": "Mixed venous oxygen saturation", "def": "Oxygen saturation of blood in the pulmonary artery, showing oxygen extraction.", "syn": [], "abbr": ["SvO2"]}
+{"id": 17191, "skip": "ambiguous"}
+{"id": 17192, "term": "High-resolution computed tomography", "def": "Thin-slice chest CT showing detailed lung parenchyma, used in interstitial lung disease.", "syn": [], "abbr": ["HRCT"]}
+{"id": 17193, "skip": "ambiguous"}
+{"id": 17194, "skip": "ambiguous"}
+{"id": 17195, "skip": "ambiguous"}
+{"id": 17196, "term": "New York Heart Association classification", "def": "Functional classes I-IV of heart failure based on symptoms with activity.", "syn": [], "abbr": ["NYHA"]}
+{"id": 17197, "term": "Radioactive iodine", "def": "Iodine-131 given to ablate thyroid tissue in hyperthyroidism or thyroid cancer.", "syn": [], "abbr": ["RAI"]}
+{"id": 17198, "term": "23-valent pneumococcal polysaccharide vaccine", "def": "Pneumococcal vaccine covering 23 serotypes, for adults and high-risk patients.", "syn": [], "abbr": ["PPSV23"]}
+{"id": 17199, "term": "15-valent pneumococcal conjugate vaccine", "def": "Conjugate vaccine covering 15 pneumococcal serotypes.", "syn": [], "abbr": ["PCV15"]}
+{"id": 17200, "term": "Interferon-gamma release assay", "def": "Blood test for latent tuberculosis detecting T-cell interferon-gamma release.", "syn": [], "abbr": ["IGRA"]}
+{"id": 17201, "term": "Rocky Mountain spotted fever", "def": "Tick-borne Rickettsia rickettsii infection with fever, headache and a rash starting on wrists and ankles.", "syn": [], "abbr": ["RMSF"]}
+{"id": 17202, "skip": "not-medical"}
+{"id": 17203, "term": "Kidneys, ureters, bladder x-ray", "def": "Plain abdominal radiograph used to look for stones and obstruction.", "syn": [], "abbr": ["KUB"]}
+{"id": 17204, "term": "Pediatric Emergency Care Applied Research Network", "def": "Group that created head trauma decision rules for children.", "syn": [], "abbr": ["PECARN"]}
+{"id": 17205, "term": "Hand, foot and mouth disease", "def": "Coxsackievirus illness with oral ulcers and vesicles on the hands and feet.", "syn": [], "abbr": ["HFMD"]}
+{"id": 17206, "term": "Middle East respiratory syndrome", "def": "Severe respiratory illness caused by a coronavirus spread from camels.", "syn": [], "abbr": ["MERS"]}
+{"id": 17207, "skip": "ambiguous"}
+{"id": 17208, "term": "Varicella zoster immune globulin", "def": "Antibody preparation given after exposure to chickenpox to high-risk patients.", "syn": [], "abbr": ["VZIG"]}
+{"id": 17209, "term": "Intrauterine pressure catheter", "def": "Catheter that measures uterine contraction strength during labor.", "syn": [], "abbr": ["IUPC"]}
+{"id": 17210, "term": "Nonalcoholic steatohepatitis", "def": "Fatty liver with inflammation and hepatocyte injury, which can lead to cirrhosis.", "syn": [], "abbr": ["NASH"]}
+{"id": 17211, "skip": "ambiguous"}
+{"id": 17212, "skip": "ambiguous"}
+{"id": 17213, "term": "Vesicoureteral reflux", "def": "Backward flow of urine from the bladder into the ureters, predisposing to pyelonephritis.", "syn": [], "abbr": ["VUR"]}
+{"id": 17214, "skip": "ambiguous"}
+{"id": 17215, "term": "Stevens-Johnson syndrome", "def": "Severe mucocutaneous drug reaction with skin detachment under 10% body surface and mucosal erosions.", "syn": [], "abbr": ["SJS"]}
+{"id": 17216, "skip": "ambiguous"}
+{"id": 17217, "term": "Growth hormone-releasing hormone", "def": "Hypothalamic hormone stimulating GH release from the pituitary.", "syn": [], "abbr": ["GHRH"]}
+{"id": 17218, "skip": "ambiguous"}
+{"id": 17219, "term": "Familial hypocalciuric hypercalcemia", "def": "Calcium-sensing receptor inactivating mutation causing mild hypercalcemia with low urinary calcium.", "syn": [], "abbr": ["FHH"]}
+{"id": 17220, "skip": "ambiguous"}
+{"id": 17221, "term": "Desmopressin", "def": "Synthetic ADH analog used for central diabetes insipidus and bleeding disorders.", "syn": [], "abbr": ["DDAVP"]}
+{"id": 17222, "term": "Immunoglobulin G4", "def": "IgG subclass raised in IgG4-related disease, which causes fibrosing inflammation of organs.", "syn": [], "abbr": ["IgG4"]}
+{"id": 17223, "skip": "ambiguous"}
+{"id": 17224, "skip": "ambiguous"}
+{"id": 17225, "term": "Sex hormone-binding globulin", "def": "Liver protein binding testosterone and estradiol in blood.", "syn": [], "abbr": ["SHBG"]}
+{"id": 17226, "skip": "ambiguous"}
+{"id": 17227, "skip": "ambiguous"}
+{"id": 17228, "skip": "ambiguous"}
+{"id": 17229, "skip": "ambiguous"}
+{"id": 17230, "term": "CDK4", "def": "Cyclin-dependent kinase 4 driving the G1 to S transition; mutations are associated with familial melanoma.", "syn": [], "abbr": ["CDK4"]}
+{"id": 17231, "skip": "not-medical"}
+{"id": 17232, "skip": "not-medical"}
+{"id": 17233, "term": "Twin-twin transfusion syndrome", "def": "Unequal blood flow between monochorionic twins through placental vascular connections.", "syn": [], "abbr": ["TTTS"]}
+{"id": 17234, "skip": "ambiguous"}
+{"id": 17235, "skip": "ambiguous"}
+{"id": 17236, "term": "Non-homologous end joining", "def": "DNA repair joining broken double-strand ends without a template; defective in ataxia-telangiectasia and similar.", "syn": [], "abbr": ["NHEJ"]}
+{"id": 17237, "skip": "ambiguous"}
+{"id": 17238, "skip": "ambiguous"}
+{"id": 17239, "term": "Wolff-Parkinson-White syndrome", "def": "Accessory pathway causing pre-excitation with a delta wave and risk of tachyarrhythmias.", "syn": [], "abbr": ["WPW"]}
+{"id": 17240, "skip": "ambiguous"}
+{"id": 17241, "term": "Left ventricular end-diastolic pressure", "def": "Pressure in the left ventricle at end of filling, reflecting preload.", "syn": [], "abbr": ["LVEDP"]}
+{"id": 17242, "term": "Ventricular septal defects", "def": "Holes in the septum between the ventricles; the most common congenital heart defect.", "syn": [], "abbr": ["VSDs"]}
+{"id": 17243, "term": "Left ventricular hypertrophy", "def": "Thickening of the left ventricular wall from pressure overload such as hypertension.", "syn": [], "abbr": ["LVH"]}
+{"id": 17244, "skip": "ambiguous"}
+{"id": 17245, "skip": "ambiguous"}
+{"id": 17246, "term": "Hydrochlorothiazide", "def": "Thiazide diuretic blocking NCC in the distal tubule; causes hypokalemia and hypercalcemia.", "syn": [], "abbr": ["HCTZ"]}
+{"id": 17247, "term": "PCSK9", "def": "Protein that promotes LDL receptor degradation; inhibitors lower LDL cholesterol.", "syn": [], "abbr": ["PCSK9"]}
+{"id": 17248, "skip": "not-medical"}
+{"id": 17249, "skip": "ambiguous"}

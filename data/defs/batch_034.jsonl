@@ -1,0 +1,250 @@
+{"id": 8500, "skip": "obvious"}
+{"id": 8501, "term": "Knee-chest position", "def": "A posture kneeling with the chest lowered to the surface and hips raised. Used for rectal or pelvic examination and sometimes to reposition the fetus or relieve cord compression.", "syn": [], "abbr": []}
+{"id": 8502, "skip": "obvious"}
+{"id": 8503, "skip": "wrong-sense"}
+{"id": 8504, "term": "Radionuclide ventriculography", "def": "A nuclear imaging test using radiolabeled red blood cells to measure the heart's ejection fraction and wall motion. Also called a MUGA scan.", "syn": [], "abbr": ["MUGA"]}
+{"id": 8505, "skip": "not-medical"}
+{"id": 8506, "term": "Cerebral infarction", "def": "Death of brain tissue from loss of blood supply, i.e. an ischemic stroke. Causes neuronal coagulative then liquefactive necrosis over days.", "syn": [], "abbr": []}
+{"id": 8507, "term": "Bacterial translocation", "def": "Passage of gut bacteria across the intestinal wall into lymph nodes or the bloodstream. Can cause spontaneous bacterial peritonitis and sepsis, particularly in cirrhosis.", "syn": [], "abbr": []}
+{"id": 8508, "skip": "not-medical"}
+{"id": 8509, "term": "Cecostomy", "def": "A surgical opening between the cecum and the abdominal wall for decompression or administering enemas.", "syn": [], "abbr": []}
+{"id": 8510, "term": "High cardiac output", "def": "A state in which the heart pumps more blood than normal, often with low vascular resistance. Causes include anemia, hyperthyroidism, AV fistula, beriberi and sepsis.", "syn": ["high-output state"], "abbr": []}
+{"id": 8511, "term": "Jejunostomy", "def": "A surgical opening into the jejunum through the abdominal wall, used for feeding tubes when the stomach must be bypassed.", "syn": [], "abbr": []}
+{"id": 8512, "term": "Gastrostomy", "def": "A surgical or endoscopic opening into the stomach through the abdominal wall, used for long-term feeding (PEG tube).", "syn": [], "abbr": []}
+{"id": 8513, "skip": "not-medical"}
+{"id": 8514, "term": "Sympathetic ganglia", "def": "Clusters of nerve cell bodies that relay sympathetic signals from preganglionic to postganglionic neurons. Include the paravertebral chain and prevertebral ganglia (celiac, mesenteric).", "syn": [], "abbr": []}
+{"id": 8515, "term": "Modified radical mastectomy", "def": "Breast cancer surgery removing the whole breast and axillary lymph nodes while preserving the pectoralis major muscle.", "syn": [], "abbr": []}
+{"id": 8516, "skip": "obvious"}
+{"id": 8517, "skip": "obvious"}
+{"id": 8518, "skip": "obvious"}
+{"id": 8519, "term": "Velopharyngeal insufficiency", "def": "Failure of the soft palate to close off the nasopharynx during speech, causing hypernasal speech and nasal regurgitation. Seen with cleft palate and 22q11 deletion.", "syn": [], "abbr": []}
+{"id": 8520, "skip": "obvious"}
+{"id": 8521, "term": "Yellow fever vaccine", "def": "A live attenuated vaccine against yellow fever virus. Contraindicated in immunocompromised people and in those with severe egg allergy.", "syn": [], "abbr": []}
+{"id": 8522, "skip": "obvious"}
+{"id": 8523, "term": "Brief resolved unexplained event", "def": "A sudden, brief episode in an infant under 1 year with color change, breathing change or altered tone that resolves, with no explanation after evaluation. Replaced the term apparent life-threatening event.", "syn": [], "abbr": ["BRUE"]}
+{"id": 8524, "skip": "obvious"}
+{"id": 8525, "term": "Cerebral contusion", "def": "A bruise of brain tissue from trauma, with blood leaking from small vessels. Often occurs at the frontal and temporal poles from impact against bony ridges.", "syn": ["brain contusion"], "abbr": []}
+{"id": 8526, "term": "Contrecoup injury", "def": "Brain injury on the side opposite the site of impact, caused by the brain rebounding within the skull after sudden deceleration.", "syn": ["contrecoup injuries"], "abbr": []}
+{"id": 8527, "skip": "obvious"}
+{"id": 8528, "skip": "obvious"}
+{"id": 8529, "skip": "wrong-sense"}
+{"id": 8530, "skip": "obvious"}
+{"id": 8531, "skip": "not-medical"}
+{"id": 8532, "skip": "obvious"}
+{"id": 8533, "term": "Subvalvular aortic stenosis", "def": "Narrowing of the left ventricular outflow tract below the aortic valve, from a fibrous ridge or hypertrophied septum. Causes a systolic ejection murmur and exertional symptoms.", "syn": [], "abbr": []}
+{"id": 8534, "skip": "obvious"}
+{"id": 8535, "term": "Middle lobe syndrome", "def": "Recurrent collapse or infection of the right middle lobe of the lung, caused by compression or obstruction of its bronchus by lymph nodes or tumor.", "syn": [], "abbr": []}
+{"id": 8536, "skip": "wrong-sense"}
+{"id": 8537, "skip": "obvious"}
+{"id": 8538, "skip": "not-medical"}
+{"id": 8539, "term": "Avoidant restrictive food intake disorder", "def": "An eating disorder with limited food intake because of sensory aversion, fear of consequences or low interest, causing weight loss or deficiency, without body image distress.", "syn": [], "abbr": ["ARFID"]}
+{"id": 8540, "skip": "obvious"}
+{"id": 8541, "skip": "obvious"}
+{"id": 8542, "term": "Inverse agonist", "def": "A drug that binds a receptor and reduces its activity below baseline, producing an effect opposite to an agonist, unlike a neutral antagonist.", "syn": [], "abbr": []}
+{"id": 8543, "skip": "wrong-sense"}
+{"id": 8544, "term": "Sleep arousal disorders", "def": "NREM parasomnias with incomplete waking from deep sleep, including sleepwalking, sleep terrors and confusional arousals. Common in children, with no memory of the event.", "syn": [], "abbr": []}
+{"id": 8545, "skip": "obvious"}
+{"id": 8546, "skip": "obvious"}
+{"id": 8547, "skip": "obvious"}
+{"id": 8548, "skip": "obvious"}
+{"id": 8549, "term": "Psychodynamic psychotherapy", "def": "Talk therapy that explores unconscious conflicts and past relationships to resolve current emotional problems.", "syn": [], "abbr": []}
+{"id": 8550, "skip": "obvious"}
+{"id": 8551, "term": "Interpersonal psychotherapy", "def": "A time-limited therapy for depression that focuses on relationship problems, grief, role transitions and interpersonal conflict.", "syn": [], "abbr": []}
+{"id": 8552, "term": "Involuntary commitment", "def": "Legally ordered psychiatric hospitalization of a person who is dangerous to self or others, or gravely disabled, despite refusal.", "syn": [], "abbr": []}
+{"id": 8553, "term": "Duty to warn", "def": "The obligation of a clinician to warn a third party who is in serious danger from a patient, established by the Tarasoff case. An exception to confidentiality.", "syn": [], "abbr": []}
+{"id": 8554, "term": "Cheyne-Stokes respiration", "def": "Periodic breathing in which breaths progressively deepen and then fade, with pauses of apnea between cycles. Seen in heart failure, stroke and at high altitude.", "syn": [], "abbr": []}
+{"id": 8555, "term": "Negativism", "def": "Resistance to instructions or doing the opposite of what is asked, without reason. A feature of catatonia.", "syn": [], "abbr": []}
+{"id": 8556, "skip": "obvious"}
+{"id": 8557, "skip": "not-medical"}
+{"id": 8558, "skip": "obvious"}
+{"id": 8559, "term": "Protein aggregates", "def": "Clumps of misfolded protein that accumulate in cells or tissue, such as amyloid, tau tangles and Lewy bodies in neurodegenerative disease.", "syn": [], "abbr": []}
+{"id": 8560, "term": "Sexual sadism", "def": "A paraphilia of sexual arousal from inflicting physical or psychological suffering on another person.", "syn": ["sadism"], "abbr": []}
+{"id": 8561, "term": "Sexual masochism", "def": "A paraphilia of sexual arousal from being humiliated, beaten or made to suffer.", "syn": ["masochism"], "abbr": []}
+{"id": 8562, "term": "Sulindac", "def": "An NSAID prodrug that inhibits cyclooxygenase. Has less renal prostaglandin effect, and is used in familial adenomatous polyposis.", "syn": [], "abbr": []}
+{"id": 8563, "term": "Somatostatin receptor", "def": "A G protein-coupled receptor (Gi) for somatostatin that inhibits hormone secretion. Targeted by octreotide; overexpressed in neuroendocrine tumors.", "syn": [], "abbr": []}
+{"id": 8564, "skip": "obvious"}
+{"id": 8565, "term": "Meningococcal meningitis", "def": "Bacterial meningitis caused by Neisseria meningitidis, with fever, neck stiffness and a petechial rash, spreading in crowded settings such as dormitories. Prophylaxis for contacts uses rifampin, ceftriaxone or ciprofloxacin.", "syn": [], "abbr": []}
+{"id": 8566, "skip": "not-medical"}
+{"id": 8567, "term": "Nateglinide", "def": "A short-acting insulin secretagogue that closes pancreatic beta cell potassium channels, taken before meals for type 2 diabetes. Can cause hypoglycemia.", "syn": [], "abbr": []}
+{"id": 8568, "skip": "ambiguous"}
+{"id": 8569, "skip": "obvious"}
+{"id": 8570, "skip": "obvious"}
+{"id": 8571, "term": "Vaginal birth after cesarean", "def": "Planned vaginal delivery in a woman with a prior cesarean section. Main risk is uterine rupture.", "syn": [], "abbr": ["VBAC"]}
+{"id": 8572, "term": "Piebaldism", "def": "An autosomal dominant disorder with a white forelock and patches of skin lacking melanocytes, due to KIT gene mutations.", "syn": [], "abbr": []}
+{"id": 8573, "term": "Pityriasis rubra pilaris", "def": "A rare skin disease with orange-red scaly plaques, follicular keratotic papules and islands of unaffected skin, often with palmoplantar keratoderma.", "syn": [], "abbr": []}
+{"id": 8574, "term": "Vocal cord dysfunction", "def": "Paradoxical closing of the vocal folds on inhalation, causing wheeze and stridor that mimics asthma.", "syn": ["paradoxical vocal fold motion"], "abbr": []}
+{"id": 8575, "skip": "obvious"}
+{"id": 8576, "term": "Granuloma annulare", "def": "A benign, self-limited skin condition of ring-shaped, flesh-colored papules, often on the hands and feet. Histology shows palisading granulomas around mucin; associated with diabetes.", "syn": [], "abbr": []}
+{"id": 8577, "skip": "obvious"}
+{"id": 8578, "term": "Hypocapnia", "def": "Low arterial carbon dioxide. Caused by hyperventilation; leads to respiratory alkalosis, cerebral vasoconstriction and perioral tingling.", "syn": [], "abbr": []}
+{"id": 8579, "term": "Cough-variant asthma", "def": "An asthma form whose only symptom is chronic dry cough, with no wheeze. Diagnosed by bronchial challenge or response to bronchodilators.", "syn": [], "abbr": []}
+{"id": 8580, "skip": "obvious"}
+{"id": 8581, "term": "Salpingostomy", "def": "Surgical opening of the fallopian tube, used to remove an ectopic pregnancy while preserving the tube.", "syn": [], "abbr": []}
+{"id": 8582, "term": "Salpingectomy", "def": "Surgical removal of a fallopian tube, used for tubal ectopic pregnancy or sterilization.", "syn": [], "abbr": []}
+{"id": 8583, "term": "Cordocentesis", "def": "Sampling of fetal blood from the umbilical cord vein under ultrasound guidance. Used to diagnose fetal anemia and chromosomal or infectious conditions.", "syn": ["percutaneous umbilical blood sampling"], "abbr": ["PUBS"]}
+{"id": 8584, "skip": "obvious"}
+{"id": 8585, "skip": "obvious"}
+{"id": 8586, "term": "Intrathecal injection", "def": "Delivery of a drug into the subarachnoid space around the spinal cord, putting it directly into cerebrospinal fluid.", "syn": [], "abbr": []}
+{"id": 8587, "skip": "obvious"}
+{"id": 8588, "term": "Cervical insufficiency", "def": "Painless cervical dilation in the second trimester without contractions, leading to pregnancy loss or preterm birth. Treated with cerclage.", "syn": ["incompetent cervix"], "abbr": []}
+{"id": 8589, "term": "Fluorescent treponemal antibody absorption test", "def": "A confirmatory treponemal serologic test for syphilis that detects antibodies to Treponema pallidum by immunofluorescence.", "syn": [], "abbr": ["FTA-ABS"]}
+{"id": 8590, "skip": "obvious"}
+{"id": 8591, "term": "Epidural analgesia", "def": "Pain relief by injecting local anesthetic or opioid into the epidural space. Used in labor; complications include hypotension and post-dural puncture headache.", "syn": [], "abbr": []}
+{"id": 8592, "term": "Ephedrine", "def": "A sympathomimetic that releases norepinephrine and directly stimulates adrenergic receptors. Used to treat hypotension during anesthesia.", "syn": [], "abbr": []}
+{"id": 8593, "skip": "wrong-sense"}
+{"id": 8594, "skip": "not-medical"}
+{"id": 8595, "skip": "obvious"}
+{"id": 8596, "skip": "obvious"}
+{"id": 8597, "skip": "wrong-sense"}
+{"id": 8598, "skip": "obvious"}
+{"id": 8599, "term": "Salpingitis", "def": "Inflammation of the fallopian tubes, usually from ascending infection (chlamydia, gonorrhea). Part of pelvic inflammatory disease and a cause of infertility and ectopic pregnancy.", "syn": [], "abbr": []}
+{"id": 8600, "term": "Oophoritis", "def": "Inflammation of the ovary, usually from spread of pelvic inflammatory disease. Autoimmune oophoritis causes premature ovarian failure.", "syn": [], "abbr": []}
+{"id": 8601, "term": "Cryoablation", "def": "Destruction of abnormal tissue by freezing it with a probe, used for tumors, arrhythmias and skin lesions.", "syn": [], "abbr": []}
+{"id": 8602, "skip": "not-medical"}
+{"id": 8603, "term": "Vulvectomy", "def": "Surgical removal of part or all of the vulva, used for vulvar cancer.", "syn": [], "abbr": []}
+{"id": 8604, "skip": "obvious"}
+{"id": 8605, "term": "FSH receptor", "def": "A G protein-coupled receptor on ovarian granulosa cells and testicular Sertoli cells that binds follicle-stimulating hormone and activates cAMP signaling.", "syn": [], "abbr": []}
+{"id": 8606, "term": "Myoma", "def": "A benign smooth muscle tumor, most often a uterine fibroid (leiomyoma).", "syn": ["myomas"], "abbr": []}
+{"id": 8607, "skip": "obvious"}
+{"id": 8608, "skip": "not-medical"}
+{"id": 8609, "skip": "ambiguous"}
+{"id": 8610, "term": "Medication overuse headache", "def": "A chronic daily headache from frequent use of analgesics, triptans or opioids, which then cause rebound pain as they wear off. Treated by withdrawal of the overused drug.", "syn": ["analgesic rebound headaches"], "abbr": []}
+{"id": 8611, "term": "Thrombotic stroke", "def": "An ischemic stroke caused by a clot forming in a brain artery, usually on an atherosclerotic plaque. Contrasts with embolic stroke from a clot traveling from elsewhere.", "syn": [], "abbr": []}
+{"id": 8612, "term": "Thymectomy", "def": "Surgical removal of the thymus, used to treat thymoma and myasthenia gravis.", "syn": [], "abbr": []}
+{"id": 8613, "skip": "not-medical"}
+{"id": 8614, "term": "Shy-Drager syndrome", "def": "An older name for multiple system atrophy with prominent autonomic failure, causing orthostatic hypotension, urinary problems and parkinsonism. Alpha-synuclein glial cytoplasmic inclusions are characteristic.", "syn": [], "abbr": []}
+{"id": 8615, "term": "Cortical dysplasia", "def": "A malformation of cortical development with disorganized layering of the cerebral cortex neurons. A common cause of drug-resistant epilepsy in children.", "syn": [], "abbr": []}
+{"id": 8616, "term": "Ventromedial hypothalamic nucleus", "def": "The satiety center of the hypothalamus. Lesions cause hyperphagia and obesity; stimulation suppresses hunger.", "syn": [], "abbr": []}
+{"id": 8617, "term": "Ectopic atrial tachycardia", "def": "A fast heart rhythm arising from a single focus in the atria outside the sinus node, with abnormal P-wave morphology. Seen with digoxin toxicity.", "syn": ["tachycardia ectopic atrial", "atrial tachycardia ectopic"], "abbr": []}
+{"id": 8618, "skip": "obvious"}
+{"id": 8619, "skip": "obvious"}
+{"id": 8620, "skip": "obvious"}
+{"id": 8621, "skip": "wrong-sense"}
+{"id": 8622, "term": "Masked hypertension", "def": "Normal blood pressure in the clinic but elevated readings at home or on ambulatory monitoring. Carries increased cardiovascular risk.", "syn": [], "abbr": []}
+{"id": 8623, "term": "Lovastatin", "def": "A statin that inhibits HMG-CoA reductase to lower cholesterol, derived from the fungus Aspergillus. Side effects include myopathy and hepatotoxicity.", "syn": [], "abbr": []}
+{"id": 8624, "skip": "obvious"}
+{"id": 8625, "skip": "obvious"}
+{"id": 8626, "skip": "obvious"}
+{"id": 8627, "term": "Transient global amnesia", "def": "A sudden episode of anterograde amnesia lasting up to 24 hours with preserved personal identity and repetitive questioning, typically in middle-aged or older adults. Resolves completely.", "syn": [], "abbr": []}
+{"id": 8628, "skip": "obvious"}
+{"id": 8629, "term": "Fluoroscopy", "def": "Real-time x-ray imaging that shows moving structures, used to guide procedures and for barium studies.", "syn": [], "abbr": []}
+{"id": 8630, "term": "Pelvic girdle pain", "def": "Pain in the pelvic joints and surrounding ligaments, particularly the sacroiliac joints and pubic symphysis, common in pregnancy.", "syn": [], "abbr": []}
+{"id": 8631, "term": "Chronic inflammatory demyelinating polyradiculoneuropathy", "def": "An autoimmune demyelinating neuropathy evolving over more than 8 weeks, causing symmetric weakness and sensory loss. Like Guillain-Barre but chronic, with albuminocytologic dissociation; responds to steroids and immunoglobulin.", "syn": [], "abbr": ["CIDP"]}
+{"id": 8632, "term": "Polyradiculoneuropathy", "def": "Disease affecting multiple nerve roots and peripheral nerves together, as in Guillain-Barre syndrome.", "syn": [], "abbr": []}
+{"id": 8633, "term": "Psychogenic nonepileptic seizures", "def": "Seizure-like episodes caused by psychological distress rather than abnormal brain electrical activity. EEG is normal during events; prolactin is not elevated.", "syn": [], "abbr": ["PNES"]}
+{"id": 8634, "term": "Chromosome 3", "def": "Human chromosome carrying the VHL tumor suppressor gene at 3p25; its loss causes von Hippel-Lindau disease and clear cell renal carcinoma.", "syn": [], "abbr": []}
+{"id": 8635, "term": "Lateral rectus palsy", "def": "Weakness of the lateral rectus muscle from abducens (cranial nerve VI) injury, preventing outward eye movement and causing horizontal double vision with the eye turned inward.", "syn": [], "abbr": []}
+{"id": 8636, "term": "Tilt-table test", "def": "A test of syncope in which the patient is tilted upright while heart rate and blood pressure are monitored, to provoke neurally mediated (vasovagal) fainting.", "syn": ["tilt table test"], "abbr": []}
+{"id": 8637, "term": "Anterior cranial fossa", "def": "The shallow depression in the front of the skull floor, holding the frontal lobes and the cribriform plate. Fractures can cause CSF rhinorrhea and raccoon eyes.", "syn": [], "abbr": []}
+{"id": 8638, "term": "Myotonia congenita", "def": "An inherited disorder of muscle chloride channel (CLCN1), causing delayed muscle relaxation after contraction that improves with repeated use. Autosomal dominant (Thomsen) or recessive (Becker).", "syn": [], "abbr": []}
+{"id": 8639, "term": "Hyperkalemic periodic paralysis", "def": "An autosomal dominant sodium channel disorder with episodes of muscle weakness triggered by rest after exercise or potassium intake, with high serum potassium.", "syn": [], "abbr": []}
+{"id": 8640, "skip": "obvious"}
+{"id": 8641, "skip": "obvious"}
+{"id": 8642, "term": "Complex regional pain syndrome", "def": "Severe, disproportionate limb pain after injury, with swelling, skin color and temperature changes and allodynia. Previously called reflex sympathetic dystrophy.", "syn": ["CRPS type I", "reflex sympathetic dystrophy"], "abbr": ["CRPS"]}
+{"id": 8643, "skip": "obvious"}
+{"id": 8644, "skip": "obvious"}
+{"id": 8645, "skip": "fragment"}
+{"id": 8646, "term": "Beta-lactamase inhibitors", "def": "Drugs such as clavulanic acid, sulbactam and tazobactam that block bacterial beta-lactamases, protecting penicillins from destruction.", "syn": [], "abbr": []}
+{"id": 8647, "term": "Beta-lactamase", "def": "A bacterial enzyme that hydrolyzes the beta-lactam ring of penicillins and cephalosporins, causing resistance.", "syn": ["beta lactamase"], "abbr": []}
+{"id": 8648, "term": "Hypertrophic osteoarthropathy", "def": "Clubbing of the fingers with painful periosteal new bone formation along long bones, often secondary to lung cancer or chronic lung disease.", "syn": ["hypertrophic osteoarthropathy secondary"], "abbr": []}
+{"id": 8649, "skip": "obvious"}
+{"id": 8650, "skip": "obvious"}
+{"id": 8651, "skip": "obvious"}
+{"id": 8652, "skip": "obvious"}
+{"id": 8653, "term": "IgG deficiency", "def": "Low serum IgG, or deficiency of IgG subclasses, causing recurrent sinopulmonary infections with encapsulated bacteria.", "syn": ["deficiency igg"], "abbr": []}
+{"id": 8654, "term": "Bezoar", "def": "A mass of undigested material, such as hair (trichobezoar) or plant fibers, trapped in the stomach or intestine, causing obstruction or ulceration.", "syn": [], "abbr": []}
+{"id": 8655, "term": "Observer bias", "def": "Systematic error when an observer's expectations influence how outcomes are recorded or measured.", "syn": [], "abbr": []}
+{"id": 8656, "skip": "wrong-sense"}
+{"id": 8657, "term": "Congenital rubella syndrome", "def": "Fetal infection with rubella virus causing the triad of cataracts, deafness and cardiac defects (patent ductus arteriosus), plus blueberry muffin rash.", "syn": [], "abbr": []}
+{"id": 8658, "term": "ABCD1 protein", "def": "The peroxisomal transporter of very long chain fatty acids, mutated in X-linked adrenoleukodystrophy, leading to accumulation of these fatty acids.", "syn": ["adrenoleukodystrophy protein"], "abbr": []}
+{"id": 8659, "term": "Patient-controlled analgesia", "def": "A pump that lets a patient self-administer small, preset doses of pain medication, such as an opioid, by pressing a button.", "syn": [], "abbr": []}
+{"id": 8660, "skip": "obvious"}
+{"id": 8661, "skip": "obvious"}
+{"id": 8662, "skip": "obvious"}
+{"id": 8663, "term": "Viscosupplementation", "def": "Injection of hyaluronic acid into a joint, usually the knee, to improve lubrication in osteoarthritis.", "syn": [], "abbr": []}
+{"id": 8664, "term": "Childhood-onset fluency disorder", "def": "A speech disorder with repetitions, prolongations and blocking of sounds that disrupt flow, i.e. stuttering. Starts in early childhood.", "syn": [], "abbr": []}
+{"id": 8665, "skip": "obvious"}
+{"id": 8666, "skip": "not-medical"}
+{"id": 8667, "term": "Chlamydial pneumonia", "def": "Pneumonia in infants caused by Chlamydia trachomatis acquired at birth, with staccato cough, tachypnea, eosinophilia and no fever. Treated with macrolides.", "syn": [], "abbr": []}
+{"id": 8668, "skip": "not-medical"}
+{"id": 8669, "skip": "obvious"}
+{"id": 8670, "term": "Gastric volvulus", "def": "Twisting of the stomach on itself, causing obstruction. Classic Borchardt triad: severe epigastric pain, retching without vomiting and inability to pass a nasogastric tube.", "syn": [], "abbr": []}
+{"id": 8671, "term": "Penicillin G benzathine", "def": "A long-acting depot form of penicillin G injected intramuscularly, used for syphilis and rheumatic fever prophylaxis.", "syn": [], "abbr": []}
+{"id": 8672, "skip": "obvious"}
+{"id": 8673, "term": "Mammary Paget disease", "def": "Eczematous, scaly nipple change caused by malignant cells (Paget cells) spreading from an underlying ductal carcinoma in situ.", "syn": [], "abbr": []}
+{"id": 8674, "skip": "obvious"}
+{"id": 8675, "skip": "obvious"}
+{"id": 8676, "skip": "obvious"}
+{"id": 8677, "term": "Phantom limb", "def": "Perception of sensation or pain in a limb that has been amputated, caused by cortical reorganization and nerve changes.", "syn": ["phantom limb pain"], "abbr": []}
+{"id": 8678, "skip": "obvious"}
+{"id": 8679, "skip": "wrong-sense"}
+{"id": 8680, "term": "Hydropneumothorax", "def": "Both air and fluid in the pleural space, producing an air-fluid level on chest x-ray.", "syn": [], "abbr": []}
+{"id": 8681, "term": "Epidermoid cyst", "def": "A benign skin cyst lined by stratified squamous epithelium that fills with keratin, forming a firm nodule with a central punctum.", "syn": [], "abbr": []}
+{"id": 8682, "skip": "obvious"}
+{"id": 8683, "term": "Cholecystostomy", "def": "Placement of a drainage tube into the gallbladder through the skin, used when cholecystectomy is too risky.", "syn": [], "abbr": []}
+{"id": 8684, "skip": "obvious"}
+{"id": 8685, "skip": "obvious"}
+{"id": 8686, "skip": "obvious"}
+{"id": 8687, "skip": "wrong-sense"}
+{"id": 8688, "skip": "obvious"}
+{"id": 8689, "term": "Pericardial cyst", "def": "A benign, fluid-filled cyst usually at the right cardiophrenic angle, found incidentally on chest imaging.", "syn": ["pericardial cysts"], "abbr": []}
+{"id": 8690, "term": "Total knee arthroplasty", "def": "Surgical replacement of the knee joint surfaces with prosthetic components, used for end-stage osteoarthritis.", "syn": ["knee arthroplasty"], "abbr": ["TKA"]}
+{"id": 8691, "term": "Arthroplasty", "def": "Surgical reconstruction or replacement of a joint.", "syn": [], "abbr": []}
+{"id": 8692, "term": "Urethral stricture", "def": "Narrowing of the urethra by scar, causing a weak stream and retention. Caused by trauma, infection (gonorrhea) or instrumentation.", "syn": [], "abbr": []}
+{"id": 8693, "term": "Ligand-gated ion channels", "def": "Membrane channels that open when a neurotransmitter binds, allowing ions to flow and producing rapid synaptic responses. Examples are nicotinic acetylcholine, GABA-A and NMDA receptors.", "syn": [], "abbr": []}
+{"id": 8694, "term": "Clean intermittent catheterization", "def": "Periodic self-insertion of a catheter to empty the bladder, used for neurogenic bladder and retention.", "syn": [], "abbr": ["CIC"]}
+{"id": 8695, "skip": "not-medical"}
+{"id": 8696, "term": "Botulinum antitoxin", "def": "Equine antibody preparation that neutralizes circulating botulinum toxin. Used early in suspected botulism; does not reverse paralysis already present.", "syn": [], "abbr": []}
+{"id": 8697, "skip": "obvious"}
+{"id": 8698, "term": "Toluene", "def": "An aromatic solvent in glues and paint thinner, abused by inhalation. Causes renal tubular acidosis, hypokalemia and neurotoxicity; urine hippuric acid is raised.", "syn": [], "abbr": []}
+{"id": 8699, "skip": "not-medical"}
+{"id": 8700, "skip": "not-medical"}
+{"id": 8701, "term": "Aortography", "def": "Imaging of the aorta using contrast injected through a catheter, to evaluate aneurysm, dissection or branch vessels.", "syn": [], "abbr": []}
+{"id": 8702, "skip": "wrong-sense"}
+{"id": 8703, "term": "Paraphimosis", "def": "An uncircumcised foreskin retracted behind the glans that cannot be returned, constricting and swelling the glans. A urologic emergency.", "syn": [], "abbr": []}
+{"id": 8704, "term": "Delayed ejaculation", "def": "Persistent difficulty or inability to ejaculate despite adequate stimulation. Can be caused by SSRIs or neurologic disease.", "syn": [], "abbr": []}
+{"id": 8705, "term": "Mucociliary clearance", "def": "The removal of mucus and trapped particles from the airways by beating cilia. Impaired in cystic fibrosis, smoking and primary ciliary dyskinesia.", "syn": [], "abbr": []}
+{"id": 8706, "skip": "obvious"}
+{"id": 8707, "skip": "not-medical"}
+{"id": 8708, "skip": "obvious"}
+{"id": 8709, "skip": "obvious"}
+{"id": 8710, "skip": "obvious"}
+{"id": 8711, "skip": "obvious"}
+{"id": 8712, "term": "Post-dural puncture headache", "def": "A positional headache, worse upright and relieved lying down, following lumbar puncture or epidural from leakage of cerebrospinal fluid.", "syn": ["post-lumbar puncture headaches"], "abbr": ["PDPH"]}
+{"id": 8713, "term": "Epidural blood patch", "def": "Injection of the patient's own blood into the epidural space to seal a dural leak, treating post-dural puncture headache.", "syn": [], "abbr": []}
+{"id": 8714, "skip": "obvious"}
+{"id": 8715, "term": "Methazolamide", "def": "A carbonic anhydrase inhibitor like acetazolamide, used to lower eye pressure in glaucoma.", "syn": [], "abbr": []}
+{"id": 8716, "skip": "not-medical"}
+{"id": 8717, "term": "Mirizzi syndrome", "def": "Obstruction of the common hepatic duct by a gallstone impacted in the cystic duct or neck of the gallbladder, causing jaundice.", "syn": [], "abbr": []}
+{"id": 8718, "skip": "obvious"}
+{"id": 8719, "term": "Calprotectin", "def": "A neutrophil protein; its level in stool is a marker of intestinal inflammation, used to separate inflammatory bowel disease from irritable bowel syndrome.", "syn": [], "abbr": []}
+{"id": 8720, "term": "FODMAP diet", "def": "A diet limiting fermentable carbohydrates (oligosaccharides, disaccharides, monosaccharides and polyols) that can cause gas and diarrhea, used for irritable bowel syndrome.", "syn": ["low FODMAP diet"], "abbr": ["FODMAP"]}
+{"id": 8721, "term": "Sugar alcohols", "def": "Sweeteners such as sorbitol and xylitol that are poorly absorbed in the gut and can cause osmotic diarrhea.", "syn": [], "abbr": []}
+{"id": 8722, "skip": "obvious"}
+{"id": 8723, "skip": "obvious"}
+{"id": 8724, "skip": "not-medical"}
+{"id": 8725, "term": "Ulnar collateral ligament", "def": "The ligament on the inner side of the elbow that stabilizes against valgus stress. Injured in overhead throwers such as baseball pitchers.", "syn": [], "abbr": []}
+{"id": 8726, "term": "Tommy John surgery", "def": "Reconstruction of the elbow's ulnar collateral ligament using a tendon graft, common in baseball pitchers.", "syn": [], "abbr": []}
+{"id": 8727, "term": "Rumination syndrome", "def": "Effortless regurgitation of recently eaten food, which is re-chewed and swallowed or spit out, without nausea.", "syn": [], "abbr": []}
+{"id": 8728, "term": "Endothelin B receptor", "def": "A receptor for endothelin that mediates vasodilation through nitric oxide in endothelium and clearance of endothelin. Also involved in enteric neuron migration (Hirschsprung disease).", "syn": ["endothelin b receptors"], "abbr": []}
+{"id": 8729, "skip": "not-medical"}
+{"id": 8730, "skip": "obvious"}
+{"id": 8731, "skip": "wrong-sense"}
+{"id": 8732, "term": "Short interspersed nuclear element", "def": "A short repeated DNA sequence of a few hundred base pairs spread through the genome, such as Alu elements. Spread by retrotransposition.", "syn": [], "abbr": ["SINE"]}
+{"id": 8733, "term": "Femoroacetabular impingement", "def": "Abnormal contact between the femoral head or neck and acetabulum, causing hip and groin pain with flexion and rotation.", "syn": [], "abbr": []}
+{"id": 8734, "skip": "obvious"}
+{"id": 8735, "skip": "wrong-sense"}
+{"id": 8736, "skip": "obvious"}
+{"id": 8737, "skip": "obvious"}
+{"id": 8738, "skip": "obvious"}
+{"id": 8739, "term": "Mycotic aneurysm", "def": "An aneurysm caused by infection of the arterial wall, from septic emboli (as in endocarditis) or bacteremia.", "syn": [], "abbr": []}
+{"id": 8740, "term": "Thoracic aortic dissection", "def": "A tear in the intima of the thoracic aorta allowing blood to split the vessel wall layers, causing tearing chest pain radiating to the back. Type A involves the ascending aorta and needs surgery.", "syn": [], "abbr": []}
+{"id": 8741, "skip": "obvious"}
+{"id": 8742, "skip": "not-medical"}
+{"id": 8743, "term": "Uterine prolapse", "def": "Descent of the uterus into or through the vagina due to weak pelvic floor support, after childbirth or aging.", "syn": [], "abbr": []}
+{"id": 8744, "skip": "obvious"}
+{"id": 8745, "term": "Tocodynamometry", "def": "External monitoring of uterine contractions by a strain gauge on the maternal abdomen, usually with fetal heart rate tracing.", "syn": [], "abbr": []}
+{"id": 8746, "term": "Radiation pneumonitis", "def": "Lung inflammation 1 to 3 months after chest radiation, with cough, dyspnea and infiltrates conforming to the radiation field.", "syn": [], "abbr": []}
+{"id": 8747, "skip": "wrong-sense"}
+{"id": 8748, "skip": "ambiguous"}
+{"id": 8749, "skip": "ambiguous"}

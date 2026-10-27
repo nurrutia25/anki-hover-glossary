@@ -1,0 +1,250 @@
+{"id": 8250, "skip": "obvious"}
+{"id": 8251, "term": "Mongolian spot", "def": "A flat blue-gray birthmark over the lower back or buttocks, common in darker-skinned infants. It results from dermal melanocytes and usually fades in childhood; it can be mistaken for bruising.", "syn": ["mongolian spots"], "abbr": []}
+{"id": 8252, "term": "Circular RNA", "def": "A closed-loop RNA without free ends, formed by back-splicing, which makes it resistant to exonucleases. Some circular RNAs sponge microRNAs.", "syn": ["circrna"], "abbr": []}
+{"id": 8253, "term": "Lassa virus", "def": "A rodent-borne arenavirus endemic to West Africa that causes hemorrhagic fever. It spreads via Mastomys rat excreta and is treated with ribavirin; sensorineural deafness is a common sequela.", "syn": [], "abbr": []}
+{"id": 8254, "skip": "not-medical"}
+{"id": 8255, "term": "Microvasculature", "def": "The smallest blood vessels, comprising arterioles, capillaries and venules, where exchange occurs. Diabetes damages it, causing retinopathy, nephropathy and neuropathy.", "syn": ["microvessels", "microvascular"], "abbr": []}
+{"id": 8256, "term": "Hypothalamic neoplasms", "def": "Tumors of the hypothalamus, such as gliomas and germ cell tumors, causing endocrine dysfunction and visual or appetite changes.", "syn": ["tumors hypothalamic"], "abbr": []}
+{"id": 8257, "term": "Birth injury", "def": "Trauma to the newborn during delivery, such as clavicle fracture, brachial plexus palsy, cephalohematoma or caput succedaneum.", "syn": ["birth injuries"], "abbr": []}
+{"id": 8258, "term": "Satellite viruses", "def": "Viruses that need a helper virus to replicate. Hepatitis D virus is the key example, requiring hepatitis B surface antigen.", "syn": [], "abbr": []}
+{"id": 8259, "term": "Parvoviridae", "def": "A family of small, single-stranded DNA viruses, including parvovirus B19, which causes erythema infectiosum and aplastic crisis.", "syn": ["parvovirus"], "abbr": []}
+{"id": 8260, "term": "Adenovirus vaccine", "def": "A live oral vaccine of adenovirus types 4 and 7 given to military recruits to prevent respiratory illness.", "syn": [], "abbr": []}
+{"id": 8261, "term": "Choroidal detachment", "def": "Separation of the choroid from the sclera by fluid or blood, often after eye surgery or with low eye pressure.", "syn": ["choroidal effusions", "choroidal detachments"], "abbr": []}
+{"id": 8262, "term": "Exotropia", "def": "Outward deviation of an eye, a form of divergent strabismus. It occurs in oculomotor palsy and intermittent childhood exotropia.", "syn": [], "abbr": []}
+{"id": 8263, "skip": "obvious"}
+{"id": 8264, "term": "Esotropia", "def": "Inward turning of an eye, a form of convergent strabismus. It occurs in abducens palsy and childhood accommodative esotropia.", "syn": [], "abbr": []}
+{"id": 8265, "term": "N95 respirator", "def": "A fitted mask filtering 95% of airborne particles above 0.3 micrometers. It is used for airborne precautions such as tuberculosis and measles.", "syn": ["n95 respirators", "n95"], "abbr": []}
+{"id": 8266, "term": "Drug hypersensitivity", "def": "An immune-mediated adverse reaction to a medication, ranging from rash to anaphylaxis or Stevens-Johnson syndrome.", "syn": [], "abbr": []}
+{"id": 8267, "term": "Non-melanoma skin cancer", "def": "Skin cancers other than melanoma, mainly basal cell and squamous cell carcinoma, linked to UV exposure.", "syn": ["non-melanoma skin neoplasms"], "abbr": []}
+{"id": 8268, "skip": "obvious"}
+{"id": 8269, "term": "Periodic limb movement disorder", "def": "Repetitive involuntary leg jerks during sleep, causing disrupted sleep. It is associated with iron deficiency, kidney failure and pregnancy.", "syn": ["nocturnal myoclonus"], "abbr": []}
+{"id": 8270, "term": "S100 protein", "def": "A calcium-binding protein marker in neural crest-derived cells. It stains melanoma, Schwann cell tumors and Langerhans cell histiocytosis.", "syn": ["s-100 protein", "s100 proteins"], "abbr": []}
+{"id": 8271, "term": "Occipital bone", "def": "The skull bone at the back and base, with the foramen magnum through which the spinal cord passes.", "syn": ["occipital bones"], "abbr": []}
+{"id": 8272, "term": "Bezafibrate", "def": "A fibrate that activates PPAR-alpha to lower triglycerides.", "syn": [], "abbr": []}
+{"id": 8273, "term": "Peroxins", "def": "Proteins needed to import proteins into peroxisomes. Mutations cause Zellweger syndrome.", "syn": [], "abbr": []}
+{"id": 8274, "term": "Pulmonary regurgitation", "def": "Backflow of blood from the pulmonary artery into the right ventricle in diastole, producing a diastolic decrescendo murmur (Graham Steell).", "syn": ["pulmonary valve insufficiency", "regurgitation pulmonary"], "abbr": []}
+{"id": 8275, "term": "Postpericardiotomy syndrome", "def": "Pericarditis with fever and pleuritic chest pain weeks after cardiac surgery, from an autoimmune reaction.", "syn": [], "abbr": []}
+{"id": 8276, "skip": "not-medical"}
+{"id": 8277, "term": "Measles vaccine", "def": "A live attenuated vaccine against measles, usually given as MMR.", "syn": [], "abbr": []}
+{"id": 8278, "term": "Hepatitis A vaccine", "def": "An inactivated vaccine against hepatitis A virus, given to children and travelers.", "syn": ["hepatitis a vaccines"], "abbr": []}
+{"id": 8279, "term": "Fibrosarcoma", "def": "A malignant tumor of fibroblasts, with spindle cells in a herringbone pattern.", "syn": ["fibrosarcomas"], "abbr": []}
+{"id": 8280, "term": "Mucosal immunity", "def": "Immune protection at mucosal surfaces, driven by secretory IgA and MALT.", "syn": [], "abbr": []}
+{"id": 8281, "skip": "not-medical"}
+{"id": 8282, "skip": "not-medical"}
+{"id": 8283, "skip": "not-medical"}
+{"id": 8284, "term": "Aryl hydrocarbon receptor", "def": "A ligand-activated transcription factor that responds to dioxins and induces CYP1A1. It also regulates immune cells.", "syn": ["ahr"], "abbr": []}
+{"id": 8285, "term": "Polyvinyl chloride", "def": "A plastic (PVC) whose vinyl chloride monomer exposure is linked to hepatic angiosarcoma.", "syn": ["pvc"], "abbr": []}
+{"id": 8286, "skip": "not-medical"}
+{"id": 8287, "skip": "not-medical"}
+{"id": 8288, "skip": "not-medical"}
+{"id": 8289, "skip": "not-medical"}
+{"id": 8290, "term": "RAF kinase", "def": "A serine/threonine kinase in the MAPK pathway downstream of RAS. BRAF V600E mutations occur in melanoma, and vemurafenib targets them.", "syn": ["raf kinases", "braf"], "abbr": []}
+{"id": 8291, "term": "PDGF receptor", "def": "A receptor tyrosine kinase for platelet-derived growth factor, promoting growth of fibroblasts and smooth muscle. It is mutated in GIST and inhibited by imatinib.", "syn": ["pdgf receptors", "platelet-derived growth factor receptor"], "abbr": ["PDGFR"]}
+{"id": 8292, "term": "Anaplastic lymphoma kinase", "def": "A receptor tyrosine kinase whose fusions (EML4-ALK) drive some lung cancers and anaplastic large cell lymphoma. Crizotinib inhibits it.", "syn": [], "abbr": ["ALK"]}
+{"id": 8293, "term": "Anaplastic large-cell lymphoma", "def": "A T-cell lymphoma with large pleomorphic cells expressing CD30, often with ALK translocation t(2;5).", "syn": ["anaplastic large cell lymphoma"], "abbr": ["ALCL"]}
+{"id": 8294, "term": "p14ARF", "def": "A tumor suppressor protein from the CDKN2A locus that inhibits MDM2, stabilizing p53.", "syn": [], "abbr": []}
+{"id": 8295, "term": "CDKN2A", "def": "The gene encoding p16 and p14ARF, tumor suppressors. Its inactivation occurs in melanoma and pancreatic cancer.", "syn": ["cdkn2a gene", "p16 gene"], "abbr": []}
+{"id": 8296, "term": "DCC gene", "def": "A tumor suppressor gene on chromosome 18q, deleted in colorectal cancer, encoding a netrin receptor.", "syn": ["dcc"], "abbr": []}
+{"id": 8297, "term": "HER2/neu", "def": "A receptor tyrosine kinase of the ErbB family, amplified in some breast and gastric cancers. Trastuzumab targets it.", "syn": ["neu receptor", "her2", "erbb2"], "abbr": ["HER2"]}
+{"id": 8298, "term": "Cowden syndrome", "def": "An autosomal dominant PTEN hamartoma syndrome with many hamartomas, macrocephaly and increased risk of breast, thyroid and endometrial cancers.", "syn": [], "abbr": []}
+{"id": 8299, "term": "Hu antigens", "def": "Neuronal RNA-binding proteins targeted in paraneoplastic encephalomyelitis and sensory neuropathy, usually with small cell lung cancer (anti-Hu).", "syn": ["hu antigen"], "abbr": []}
+{"id": 8300, "term": "Retinoblastoma protein", "def": "A tumor suppressor that blocks the G1-S transition by binding E2F. Its loss causes retinoblastoma and osteosarcoma.", "syn": ["rb protein"], "abbr": ["Rb"]}
+{"id": 8301, "term": "NF2 gene", "def": "The tumor suppressor gene encoding merlin on chromosome 22. Mutations cause neurofibromatosis type 2 with bilateral vestibular schwannomas.", "syn": ["nf2"], "abbr": []}
+{"id": 8302, "term": "Adrenocortical carcinoma", "def": "A rare aggressive cancer of the adrenal cortex, often secreting cortisol or androgens. It is associated with Li-Fraumeni syndrome.", "syn": [], "abbr": []}
+{"id": 8303, "term": "Isoenzymes", "def": "Different forms of an enzyme catalyzing the same reaction but with distinct structure, such as creatine kinase isoforms.", "syn": ["isoenzyme", "isozyme", "isozymes"], "abbr": []}
+{"id": 8304, "term": "Mesothelin", "def": "A cell surface protein expressed on mesothelial cells, overexpressed in mesothelioma and pancreatic cancer.", "syn": [], "abbr": []}
+{"id": 8305, "term": "Tumor burden", "def": "The total amount of tumor in the body, assessed by size, number of lesions or serum markers.", "syn": ["tumor load"], "abbr": []}
+{"id": 8306, "term": "Sclerosant", "def": "An agent injected into a vessel to cause inflammation and scarring that closes it, used for varicose veins and esophageal varices.", "syn": ["sclerosing solutions"], "abbr": []}
+{"id": 8307, "skip": "not-medical"}
+{"id": 8308, "skip": "not-medical"}
+{"id": 8309, "term": "Neurotransmitter receptors", "def": "Receptors that bind neurotransmitters, divided into ligand-gated ion channels and G-protein-coupled receptors.", "syn": [], "abbr": []}
+{"id": 8310, "term": "Hyperoxaluria", "def": "Excess urinary oxalate, causing calcium oxalate kidney stones. Primary forms are genetic, while enteric forms follow fat malabsorption.", "syn": ["oxaluria"], "abbr": []}
+{"id": 8311, "term": "Interleukin-1 receptor", "def": "The receptor for IL-1 signaling inflammation and fever. Anakinra blocks it.", "syn": ["il-1 receptor"], "abbr": ["IL-1R"]}
+{"id": 8312, "term": "Transurethral resection of the prostate", "def": "Surgery removing prostate tissue through the urethra to treat BPH. Hyponatremia from absorbed irrigation fluid (TURP syndrome) is a risk.", "syn": [], "abbr": ["TURP"]}
+{"id": 8313, "term": "Retrograde ejaculation", "def": "Semen flowing backward into the bladder because of failure of bladder neck closure. It is caused by alpha-blockers, diabetes or prostate surgery.", "syn": [], "abbr": []}
+{"id": 8314, "term": "Commotio cordis", "def": "Ventricular fibrillation from a blunt chest blow during the vulnerable phase of the T wave, as with a baseball.", "syn": [], "abbr": []}
+{"id": 8315, "term": "T follicular helper cells", "def": "CD4 T cells in germinal centers that help B cells class switch and mature, via CD40L and IL-21.", "syn": ["follicular helper t cells"], "abbr": ["Tfh"]}
+{"id": 8316, "term": "Tracheotomy", "def": "Surgical opening in the trachea to create an airway.", "syn": [], "abbr": []}
+{"id": 8317, "term": "Placental hormones", "def": "Hormones made by the placenta, including hCG, progesterone, estrogens and human placental lactogen.", "syn": [], "abbr": []}
+{"id": 8318, "term": "Lentivirus", "def": "A retrovirus genus with long incubation, including HIV. Lentiviral vectors are used in gene therapy.", "syn": [], "abbr": []}
+{"id": 8319, "term": "Transfection", "def": "Introducing foreign nucleic acid into eukaryotic cells in a lab.", "syn": [], "abbr": []}
+{"id": 8320, "term": "Gene editing", "def": "Targeted modification of DNA, for example with CRISPR-Cas9, zinc fingers or TALENs.", "syn": ["genome editing"], "abbr": []}
+{"id": 8321, "term": "Electroporation", "def": "Use of electric pulses to create temporary pores in cell membranes so DNA can enter.", "syn": [], "abbr": []}
+{"id": 8322, "term": "CRISPR guide RNA", "def": "RNA that directs Cas9 to its target DNA. crRNA recognizes the target and tracrRNA helps assemble the complex.", "syn": ["crrna", "tracrrna"], "abbr": []}
+{"id": 8323, "skip": "obvious"}
+{"id": 8324, "skip": "obvious"}
+{"id": 8325, "skip": "not-medical"}
+{"id": 8326, "skip": "obvious"}
+{"id": 8327, "skip": "obvious"}
+{"id": 8328, "term": "Benzoate", "def": "A salt of benzoic acid. Sodium benzoate is used in urea cycle disorders to bind glycine and excrete nitrogen.", "syn": ["benzoates", "sodium benzoate"], "abbr": []}
+{"id": 8329, "term": "Interleukin-22", "def": "A cytokine from Th17 and ILC3 cells that promotes epithelial barrier defense and antimicrobial peptides.", "syn": ["il-22"], "abbr": ["IL-22"]}
+{"id": 8330, "term": "NKT cells", "def": "T cells expressing NK markers that recognize lipid antigens on CD1d.", "syn": ["natural killer t-cells", "nkt cells"], "abbr": []}
+{"id": 8331, "term": "Interleukin-21", "def": "A cytokine from Tfh cells that promotes B cell differentiation and plasma cell formation.", "syn": ["il-21"], "abbr": ["IL-21"]}
+{"id": 8332, "term": "Acellular vaccine", "def": "A vaccine of purified antigens rather than whole cells, such as the acellular pertussis vaccine.", "syn": ["acellular vaccines"], "abbr": []}
+{"id": 8333, "skip": "obvious"}
+{"id": 8334, "skip": "not-medical"}
+{"id": 8335, "term": "HFE protein", "def": "A protein regulating iron absorption through hepcidin. C282Y mutations cause hereditary hemochromatosis.", "syn": ["hfe"], "abbr": []}
+{"id": 8336, "term": "Tropicamide", "def": "A short-acting antimuscarinic eye drop that dilates the pupil and paralyzes accommodation for eye exams.", "syn": [], "abbr": []}
+{"id": 8337, "skip": "obvious"}
+{"id": 8338, "skip": "obvious"}
+{"id": 8339, "skip": "obvious"}
+{"id": 8340, "term": "Nebivolol", "def": "A selective beta-1 blocker that also increases nitric oxide-mediated vasodilation.", "syn": [], "abbr": []}
+{"id": 8341, "skip": "obvious"}
+{"id": 8342, "term": "Retroperitoneum", "def": "The space behind the peritoneum containing the kidneys, adrenals, aorta, IVC, pancreas and most of the duodenum.", "syn": ["retroperitoneal space", "retroperitoneal"], "abbr": []}
+{"id": 8343, "skip": "not-medical"}
+{"id": 8344, "term": "Advanced Trauma Life Support", "def": "A structured protocol for initial trauma assessment, following airway, breathing, circulation, disability and exposure.", "syn": ["atls"], "abbr": ["ATLS"]}
+{"id": 8345, "term": "Arterial stiffness", "def": "Reduced vessel compliance that raises systolic and pulse pressure, from aging or atherosclerosis.", "syn": ["vascular stiffness"], "abbr": []}
+{"id": 8346, "term": "Prostacyclin", "def": "Prostaglandin I2, produced by endothelium, which dilates vessels and inhibits platelets. Analogs treat pulmonary hypertension.", "syn": ["prostacyclins", "prostaglandin i2"], "abbr": ["PGI2"]}
+{"id": 8347, "term": "Brachiocephalic trunk", "def": "The first branch of the aortic arch, dividing into the right subclavian and right common carotid arteries.", "syn": ["innominate artery"], "abbr": []}
+{"id": 8348, "term": "Filariasis", "def": "Disease from filarial nematodes such as Wuchereria bancrofti, spread by mosquitoes. It causes lymphatic obstruction and elephantiasis.", "syn": [], "abbr": []}
+{"id": 8349, "term": "Kasai procedure", "def": "Surgical connection of the intestine to the liver hilum to restore bile drainage in biliary atresia.", "syn": ["hepatic portoenterostomy"], "abbr": []}
+{"id": 8350, "skip": "not-medical"}
+{"id": 8351, "skip": "obvious"}
+{"id": 8352, "term": "Costal cartilage", "def": "Hyaline cartilage connecting the ribs to the sternum. Costochondritis involves its inflammation.", "syn": [], "abbr": []}
+{"id": 8353, "term": "Cytoskeletal proteins", "def": "Proteins forming the cell's structural network, including actin, intermediate filaments and microtubules.", "syn": [], "abbr": []}
+{"id": 8354, "skip": "obvious"}
+{"id": 8355, "term": "Myelin proteins", "def": "Structural proteins of myelin such as myelin basic protein, PLP and P0. Mutations or autoantibodies cause demyelinating disease.", "syn": [], "abbr": []}
+{"id": 8356, "term": "Nerve sheath tumor", "def": "A tumor arising from cells surrounding nerves, such as schwannoma or neurofibroma.", "syn": ["nerve sheath tumors"], "abbr": []}
+{"id": 8357, "skip": "obvious"}
+{"id": 8358, "skip": "obvious"}
+{"id": 8359, "term": "Frey syndrome", "def": "Sweating and flushing of the cheek while eating, after parotid surgery or injury, from misdirected parasympathetic regrowth.", "syn": ["gustatory sweating"], "abbr": []}
+{"id": 8360, "skip": "obvious"}
+{"id": 8361, "skip": "obvious"}
+{"id": 8362, "skip": "obvious"}
+{"id": 8363, "term": "Ventricular dysfunction", "def": "Impaired pumping or filling of a ventricle, leading to heart failure.", "syn": [], "abbr": []}
+{"id": 8364, "term": "Brachiocephalic vein", "def": "One of two large veins formed by the jugular and subclavian veins that join into the superior vena cava.", "syn": ["brachiocephalic veins"], "abbr": []}
+{"id": 8365, "term": "SPINK1", "def": "A pancreatic trypsin inhibitor protecting against premature trypsin activation. Mutations cause hereditary pancreatitis.", "syn": ["spink1"], "abbr": []}
+{"id": 8366, "skip": "obvious"}
+{"id": 8367, "skip": "obvious"}
+{"id": 8368, "term": "Viral shedding", "def": "Release of virus particles from an infected host, enabling transmission.", "syn": [], "abbr": []}
+{"id": 8369, "term": "Heterotrimeric G proteins", "def": "Membrane-associated GTP-binding proteins with alpha, beta and gamma subunits that relay signals from GPCRs.", "syn": ["heterotrimeric g protein"], "abbr": []}
+{"id": 8370, "skip": "not-medical"}
+{"id": 8371, "skip": "obvious"}
+{"id": 8372, "term": "Direct immunofluorescence", "def": "A technique using fluorescent-labeled antibodies to detect tissue-bound antigens or immune deposits, such as in pemphigus and lupus.", "syn": ["direct fluorescent antibody"], "abbr": ["DIF"]}
+{"id": 8373, "term": "Anserine", "def": "A dipeptide of beta-alanine and methylhistidine found in muscle.", "syn": [], "abbr": []}
+{"id": 8374, "skip": "obvious"}
+{"id": 8375, "skip": "obvious"}
+{"id": 8376, "term": "Cystostomy", "def": "Surgical creation of an opening in the bladder, as in a suprapubic catheter.", "syn": ["suprapubic cystostomy"], "abbr": []}
+{"id": 8377, "term": "Congenital hyperinsulinism", "def": "Persistent excessive insulin secretion in infants, causing severe hypoglycemia, often from KATP channel mutations.", "syn": ["neonatal hyperinsulinism"], "abbr": []}
+{"id": 8378, "term": "Gonadal dysgenesis", "def": "Failure of the gonads to develop normally, as in Turner syndrome (streak ovaries) or Swyer syndrome.", "syn": [], "abbr": []}
+{"id": 8379, "term": "Lennox-Gastaut syndrome", "def": "A severe childhood epilepsy with multiple seizure types, slow spike-and-wave EEG and intellectual disability.", "syn": ["lennox gastaut syndrome"], "abbr": []}
+{"id": 8380, "term": "Serotonin receptor agonists", "def": "Drugs that activate serotonin receptors, such as triptans (5-HT1B/1D) for migraine.", "syn": ["5-ht agonists", "5-ht agonist"], "abbr": []}
+{"id": 8381, "term": "Maxilla", "def": "The upper jaw bone, forming part of the palate, orbit floor and nasal cavity, and containing the maxillary sinus.", "syn": [], "abbr": []}
+{"id": 8382, "term": "Enophthalmos", "def": "Posterior displacement of the eyeball into the orbit, seen in orbital floor blowout fracture.", "syn": [], "abbr": []}
+{"id": 8383, "skip": "obvious"}
+{"id": 8384, "term": "Uterine didelphys", "def": "A congenital double uterus with two cervices, from failure of Mullerian ducts to fuse.", "syn": ["didelphic uterus"], "abbr": []}
+{"id": 8385, "term": "Fracture-dislocation", "def": "A bone fracture combined with joint dislocation.", "syn": ["dislocation fracture"], "abbr": []}
+{"id": 8386, "skip": "obvious"}
+{"id": 8387, "skip": "obvious"}
+{"id": 8388, "term": "Ricinus communis", "def": "The castor bean plant, whose seeds contain ricin and castor oil.", "syn": ["castor oil plant"], "abbr": []}
+{"id": 8389, "term": "Castor oil", "def": "An oil from castor beans used as a stimulant laxative.", "syn": [], "abbr": []}
+{"id": 8390, "term": "Ricin", "def": "A plant toxin from castor beans that inactivates the 60S ribosome by removing adenine from rRNA, halting protein synthesis.", "syn": [], "abbr": []}
+{"id": 8391, "skip": "fragment"}
+{"id": 8392, "skip": "obvious"}
+{"id": 8393, "term": "Anterior compartment syndrome", "def": "Raised pressure in the anterior leg compartment after tibial injury, causing pain, foot drop and loss of dorsiflexion.", "syn": [], "abbr": []}
+{"id": 8394, "term": "Asparaginase", "def": "An enzyme that depletes asparagine, used in acute lymphoblastic leukemia. Toxicities include pancreatitis and thrombosis.", "syn": [], "abbr": []}
+{"id": 8395, "term": "MERRF syndrome", "def": "A mitochondrial disease of myoclonic epilepsy with ragged red fibers on muscle biopsy, with maternal inheritance.", "syn": ["myoclonic epilepsy with ragged red fibers"], "abbr": ["MERRF"]}
+{"id": 8396, "term": "Montreal Cognitive Assessment", "def": "A brief screening test for mild cognitive impairment.", "syn": ["moca"], "abbr": ["MoCA"]}
+{"id": 8397, "term": "Pseudarthrosis", "def": "A false joint at a fracture site caused by failed bone union (nonunion).", "syn": ["pseudoarthrosis"], "abbr": []}
+{"id": 8398, "term": "Crystallins", "def": "Water-soluble proteins that make up the lens and keep it transparent. Aggregation causes cataracts.", "syn": ["crystallin"], "abbr": []}
+{"id": 8399, "term": "Phosphorylase kinase", "def": "An enzyme activating glycogen phosphorylase through phosphorylation. Deficiency causes a glycogen storage disease.", "syn": [], "abbr": []}
+{"id": 8400, "skip": "obvious"}
+{"id": 8401, "term": "Parahippocampal gyrus", "def": "A cortical region on the medial temporal lobe, adjacent to the hippocampus, involved in memory and scene recognition.", "syn": [], "abbr": []}
+{"id": 8402, "term": "Prosopagnosia", "def": "Inability to recognize faces, from lesions of the fusiform gyrus (inferior temporal lobe).", "syn": [], "abbr": []}
+{"id": 8403, "term": "Progressive muscle relaxation", "def": "A relaxation technique of tensing and relaxing muscle groups in sequence.", "syn": [], "abbr": []}
+{"id": 8404, "term": "Glucose oxidase", "def": "An enzyme that oxidizes glucose to gluconic acid and hydrogen peroxide, used in glucose test strips.", "syn": [], "abbr": []}
+{"id": 8405, "term": "Huntingtin", "def": "The protein encoded by HTT. CAG repeat expansion causes Huntington disease.", "syn": ["huntingtin protein"], "abbr": []}
+{"id": 8406, "term": "Histone acetyltransferase", "def": "An enzyme adding acetyl groups to histones, loosening chromatin and activating transcription.", "syn": ["histone acetyltransferases"], "abbr": ["HAT"]}
+{"id": 8407, "term": "Neurotrophic factors", "def": "Proteins that support neuron survival and growth, such as nerve growth factor and BDNF.", "syn": ["nerve growth factor"], "abbr": []}
+{"id": 8408, "skip": "obvious"}
+{"id": 8409, "term": "Aeromonas hydrophila", "def": "A Gram-negative bacillus in fresh water causing wound infection and diarrhea, notably after leech therapy.", "syn": [], "abbr": []}
+{"id": 8410, "term": "Aeromonas", "def": "A genus of aquatic Gram-negative rods that cause wound infections and gastroenteritis.", "syn": [], "abbr": []}
+{"id": 8411, "skip": "not-medical"}
+{"id": 8412, "term": "Propantheline", "def": "An antimuscarinic drug used to reduce sweating and bladder spasm.", "syn": [], "abbr": []}
+{"id": 8413, "term": "Manubrium", "def": "The upper part of the sternum, joining the clavicles and first ribs and forming the sternal angle with the body.", "syn": [], "abbr": []}
+{"id": 8414, "term": "Intrauterine transfusion", "def": "Transfusion of blood into the fetus via the umbilical vein, used for fetal anemia from Rh alloimmunization.", "syn": ["intrauterine transfusions"], "abbr": []}
+{"id": 8415, "term": "Ovulation induction", "def": "Use of drugs such as clomiphene or gonadotropins to stimulate ovulation in infertility.", "syn": [], "abbr": []}
+{"id": 8416, "skip": "obvious"}
+{"id": 8417, "term": "Sural nerve", "def": "A sensory nerve of the posterolateral leg and foot, used for nerve biopsy.", "syn": [], "abbr": []}
+{"id": 8418, "term": "Split-brain", "def": "Disconnection of the cerebral hemispheres by cutting the corpus callosum, studied for hemisphere specialization.", "syn": ["split-brain procedure"], "abbr": []}
+{"id": 8419, "term": "Steroidogenic acute regulatory protein", "def": "A mitochondrial protein that moves cholesterol into mitochondria, the rate-limiting step of steroid synthesis. Mutations cause lipoid congenital adrenal hyperplasia.", "syn": [], "abbr": ["StAR"]}
+{"id": 8420, "term": "Hallucinogens", "def": "Drugs causing altered perception, such as LSD and psilocybin, acting on 5-HT2A receptors.", "syn": ["hallucinogen"], "abbr": []}
+{"id": 8421, "term": "Floor of the mouth", "def": "The area beneath the tongue, containing sublingual glands and Wharton ducts. Ludwig angina involves its infection.", "syn": ["floor of mouth", "mouth floor"], "abbr": []}
+{"id": 8422, "skip": "not-medical"}
+{"id": 8423, "skip": "obvious"}
+{"id": 8424, "term": "Small ribosomal subunit", "def": "The ribosomal subunit that binds mRNA and the initiator tRNA (30S in prokaryotes, 40S in eukaryotes).", "syn": [], "abbr": []}
+{"id": 8425, "term": "Pneumococcal meningitis", "def": "Meningitis from Streptococcus pneumoniae, the most common adult bacterial cause.", "syn": ["meningitis streptococcus pneumoniae"], "abbr": []}
+{"id": 8426, "skip": "obvious"}
+{"id": 8427, "skip": "obvious"}
+{"id": 8428, "skip": "obvious"}
+{"id": 8429, "term": "Whiplash injury", "def": "Neck soft tissue injury from rapid acceleration-deceleration, as in rear-end collisions.", "syn": ["whiplash injuries"], "abbr": []}
+{"id": 8430, "term": "Pediculosis", "def": "Infestation with lice, causing itching.", "syn": ["lice infestations", "lice infestation"], "abbr": []}
+{"id": 8431, "skip": "obvious"}
+{"id": 8432, "skip": "obvious"}
+{"id": 8433, "term": "Bacterial conjugation", "def": "Transfer of DNA between bacteria via a sex pilus, requiring the F plasmid.", "syn": ["genetic conjugation"], "abbr": []}
+{"id": 8434, "term": "Necrobiosis lipoidica", "def": "A skin disease with shiny yellow-brown plaques on the shins, often in diabetes.", "syn": ["necrobiosis lipoidica diabeticorum"], "abbr": []}
+{"id": 8435, "term": "Necrobiosis", "def": "Gradual death of tissue, as in necrobiosis lipoidica.", "syn": ["necrobiotic"], "abbr": []}
+{"id": 8436, "term": "Salivary calculi", "def": "Stones in salivary ducts, usually the submandibular, causing pain with eating.", "syn": ["sialolithiasis"], "abbr": []}
+{"id": 8437, "skip": "obvious"}
+{"id": 8438, "term": "Hypokalemic periodic paralysis", "def": "Episodes of muscle weakness with low potassium, caused by calcium or sodium channel mutations and triggered by carbohydrate meals or rest after exercise.", "syn": [], "abbr": []}
+{"id": 8439, "skip": "obvious"}
+{"id": 8440, "skip": "obvious"}
+{"id": 8441, "term": "Aryl hydrocarbon hydroxylase", "def": "A cytochrome P450 enzyme activating carcinogens like benzo[a]pyrene, linked to lung cancer risk.", "syn": ["microsomal monooxygenases"], "abbr": []}
+{"id": 8442, "term": "Lipid bilayer", "def": "Two layers of phospholipids forming the cell membrane, with hydrophobic tails facing inward.", "syn": [], "abbr": []}
+{"id": 8443, "term": "Retroverted uterus", "def": "A uterus tilted backward toward the rectum, a common normal variant.", "syn": ["uterine retroversion"], "abbr": []}
+{"id": 8444, "term": "CYP2D6", "def": "A cytochrome P450 enzyme metabolizing codeine, tamoxifen and many antidepressants. Genetic variants change drug effects.", "syn": [], "abbr": []}
+{"id": 8445, "term": "Neurogenesis", "def": "Formation of new neurons, mainly in the hippocampus and olfactory bulb in adults.", "syn": [], "abbr": []}
+{"id": 8446, "term": "Lissencephaly", "def": "A smooth brain without folds from defective neuronal migration, causing seizures and intellectual disability.", "syn": ["agyria"], "abbr": []}
+{"id": 8447, "skip": "not-medical"}
+{"id": 8448, "skip": "obvious"}
+{"id": 8449, "term": "Hangman's fracture", "def": "A fracture of both pedicles of C2 from hyperextension.", "syn": [], "abbr": []}
+{"id": 8450, "skip": "obvious"}
+{"id": 8451, "term": "Fusion gene", "def": "A hybrid gene made by joining two genes, as in BCR-ABL.", "syn": ["gene fusion"], "abbr": []}
+{"id": 8452, "term": "Protein kinase inhibitors", "def": "Drugs that block kinase enzymes involved in cell signaling, such as imatinib.", "syn": ["protein kinase inhibitor", "kinase inhibitors"], "abbr": []}
+{"id": 8453, "term": "Active tuberculosis", "def": "Symptomatic, contagious infection by Mycobacterium tuberculosis with cough, night sweats, weight loss and pulmonary cavitation.", "syn": ["tuberculosis disease"], "abbr": []}
+{"id": 8454, "term": "Advanced Cardiac Life Support", "def": "A protocol for managing cardiac arrest and arrhythmias.", "syn": ["acls"], "abbr": ["ACLS"]}
+{"id": 8455, "term": "p53", "def": "A tumor suppressor protein that causes cell cycle arrest or apoptosis in response to DNA damage. Mutations are the most common in human cancer.", "syn": ["p53 tumor suppressor protein", "tp53"], "abbr": []}
+{"id": 8456, "term": "Proctoscope", "def": "A rigid tube for viewing the rectum and anus.", "syn": [], "abbr": []}
+{"id": 8457, "skip": "obvious"}
+{"id": 8458, "skip": "obvious"}
+{"id": 8459, "skip": "obvious"}
+{"id": 8460, "term": "Protein denaturation", "def": "Loss of a protein's folded structure while the primary sequence is retained, from heat or pH.", "syn": [], "abbr": []}
+{"id": 8461, "term": "Comminuted fracture", "def": "A fracture with the bone broken into several fragments.", "syn": ["comminuted fractures"], "abbr": []}
+{"id": 8462, "skip": "obvious"}
+{"id": 8463, "term": "Anxiolytic", "def": "A drug that reduces anxiety, such as benzodiazepines, buspirone and SSRIs.", "syn": ["anti-anxiety agents"], "abbr": []}
+{"id": 8464, "skip": "obvious"}
+{"id": 8465, "term": "Anastomotic leak", "def": "Leakage from a surgical connection between bowel segments, causing peritonitis and sepsis.", "syn": ["anastomotic leaks"], "abbr": []}
+{"id": 8466, "term": "Arterial line", "def": "A catheter placed in an artery for continuous blood pressure monitoring and blood gas sampling.", "syn": [], "abbr": []}
+{"id": 8467, "skip": "obvious"}
+{"id": 8468, "term": "Ascending aortic dissection", "def": "Tear in the aortic wall of the ascending aorta (Stanford type A) causing tearing chest pain; it needs emergency surgery.", "syn": ["type a aortic dissection"], "abbr": []}
+{"id": 8469, "skip": "obvious"}
+{"id": 8470, "skip": "obvious"}
+{"id": 8471, "skip": "not-medical"}
+{"id": 8472, "term": "Brachytherapy", "def": "Radiation therapy using sealed sources placed in or near the tumor.", "syn": [], "abbr": []}
+{"id": 8473, "term": "Non-muscle invasive bladder cancer", "def": "Urothelial bladder cancer not invading the muscularis propria, treated by TURBT and intravesical BCG.", "syn": ["nmibc", "non-muscle invasive bladder neoplasms"], "abbr": ["NMIBC"]}
+{"id": 8474, "term": "Transurethral resection of bladder tumor", "def": "Endoscopic removal of bladder tumors via the urethra, used for diagnosis and staging.", "syn": ["transurethral resection of bladder"], "abbr": ["TURBT"]}
+{"id": 8475, "skip": "obvious"}
+{"id": 8476, "skip": "obvious"}
+{"id": 8477, "term": "Radiopharmaceuticals", "def": "Radioactive drugs used for imaging or therapy, such as technetium-99m and iodine-131.", "syn": ["radiopharmaceutical"], "abbr": []}
+{"id": 8478, "skip": "not-medical"}
+{"id": 8479, "skip": "not-medical"}
+{"id": 8480, "term": "Laryngeal nerve injury", "def": "Damage to a laryngeal nerve, causing hoarseness or loss of voice, as in thyroid surgery.", "syn": ["laryngeal nerve injuries"], "abbr": []}
+{"id": 8481, "term": "Recurrent laryngeal nerve injury", "def": "Damage to the recurrent laryngeal nerve, causing vocal cord paralysis and hoarseness.", "syn": ["recurrent laryngeal nerve injuries"], "abbr": []}
+{"id": 8482, "term": "Monteggia fracture", "def": "A fracture of the proximal ulna with radial head dislocation.", "syn": ["monteggia's fracture"], "abbr": []}
+{"id": 8483, "term": "Laryngitis", "def": "Inflammation of the larynx causing hoarseness, usually from viral infection.", "syn": [], "abbr": []}
+{"id": 8484, "skip": "obvious"}
+{"id": 8485, "term": "Calcium chloride", "def": "An IV calcium salt used for hyperkalemia cardiac toxicity and calcium channel blocker overdose.", "syn": [], "abbr": []}
+{"id": 8486, "skip": "obvious"}
+{"id": 8487, "skip": "obvious"}
+{"id": 8488, "term": "Depressed skull fracture", "def": "A skull fracture with bone fragments pushed inward, risking brain injury.", "syn": [], "abbr": []}
+{"id": 8489, "term": "Avascular necrosis of the femoral head", "def": "Death of bone in the femoral head from interrupted blood supply, from fracture, steroids or sickle cell disease.", "syn": ["femur head necrosis"], "abbr": ["AVN"]}
+{"id": 8490, "term": "Bankart lesion", "def": "Tear of the anterior-inferior glenoid labrum after anterior shoulder dislocation.", "syn": ["bankart lesions"], "abbr": []}
+{"id": 8491, "term": "Drug fever", "def": "Fever caused by a medication reaction, with no infection.", "syn": [], "abbr": []}
+{"id": 8492, "term": "Heller myotomy", "def": "Surgical cutting of the lower esophageal sphincter muscle to treat achalasia.", "syn": [], "abbr": []}
+{"id": 8493, "skip": "obvious"}
+{"id": 8494, "term": "Intertrigo", "def": "Inflammation of skin folds from friction and moisture, often with candida.", "syn": [], "abbr": []}
+{"id": 8495, "term": "Hemorrhagic pancreatitis", "def": "Severe acute pancreatitis with bleeding into the gland, causing Cullen and Grey Turner signs.", "syn": [], "abbr": []}
+{"id": 8496, "skip": "obvious"}
+{"id": 8497, "term": "Balloon valvuloplasty", "def": "A procedure inflating a balloon in a stenotic valve to open it.", "syn": ["balloon valvotomy"], "abbr": []}
+{"id": 8498, "skip": "obvious"}
+{"id": 8499, "term": "Glycosuria", "def": "Glucose in urine, seen when blood glucose exceeds the renal threshold or in SGLT2 inhibitor use.", "syn": ["glucosuria"], "abbr": []}
